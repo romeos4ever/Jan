@@ -1,16 +1,21 @@
 
 #EXTINF:-1,======MOROCO Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ASSADISSA
 http://emp.jan-beryan.giize.com/4072.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-2MMAROC
 http://emp.jan-beryan.giize.com/4118.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ARRIADIA
 http://emp.jan-beryan.giize.com/4278.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ARRABIAA
 http://emp.jan-beryan.giize.com/4340.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALMAGHARIBIA2
 http://emp.jan-beryan.giize.com/4412.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALMAGHRIBIA
 http://emp.jan-beryan.giize.com/4234.ts
-
