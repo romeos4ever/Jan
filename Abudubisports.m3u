@@ -1,17 +1,46 @@
+#EXTINF:-1,AD Sports 1HD
+https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 2HD
+https://adtv.ercdn.net/adsport1/adsport2.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 3HD
+https://adtv.ercdn.net/adsport1/adsport3.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 4HD
+https://adtv.ercdn.net/adsport1/adsport4.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 5HD
+https://adtv.ercdn.net/adsport1/adsport5.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 6HD
+https://adtv.ercdn.net/adsport1/adsport6.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
 
-#EXTM3U
-#EXTINF:-1,ADSport1LOW 
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1,ADSport2LOW 
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
-#EXTINF:-1,ADSport1 med
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,ADSport2 med
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,ADSport1HD 
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,ADSport2HD 
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,AD Sports 1SD
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 2SD
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 3SD
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 4SD
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 5SD
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 6SD
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+
+
+
+#EXTINF:-1,AD Sports 1LOW SD
+https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 2LOW SD
+https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 3LOW SD
+https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 4LOW SD
+https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 5LOW SD
+https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTINF:-1,AD Sports 6LOW SD
+https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+
+
 
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04- Abu Dhabi Sports",AD Sports 1HD
