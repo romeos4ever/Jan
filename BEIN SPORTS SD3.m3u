@@ -1,16 +1,32 @@
 #EXTINF:-1,beIN Sports 1
-http://bein2.jan-beryan.giize.com//live//bein1_source//playlist.m3u8
+http://bl.movcast.tv:1935/coolkora/server1_480p/playlist.m3u8?wowzatokenendtime=1504654044322&wowzatokenstarttime=0&wowzatokenhash=eOFq3JM1yQt574opYlrcQQuJSMq5ZlHLZ5rHAXexux0=
+
+
 #EXTINF:-1,beIN Sports 2
-http://bein2.jan-beryan.giize.com//live//bein2_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein2_360p/playlist.m3u8?wowzatokenendtime=1504654087085&wowzatokenstarttime=0&wowzatokenhash=hQ7S3FxhEyGv3svU46zB83Z747gRLkaqGVNP06zU7Wc=
+
+
 #EXTINF:-1,beIN Sports 3
-http://bein2.jan-beryan.giize.com//live//bein3_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein3_360p/playlist.m3u8?wowzatokenendtime=1504654108931&wowzatokenstarttime=0&wowzatokenhash=6IDZTiUcbPBQ73fAPhKlkbCVpFLQMwrg8GEEtO145CQ=
+
+
 #EXTINF:-1,beIN Sports 4
-http://bein2.jan-beryan.giize.com//live//bein4_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein4_360p/playlist.m3u8?wowzatokenendtime=1504654131461&wowzatokenstarttime=0&wowzatokenhash=mtsNO3P2v8KL59jUm5BghiZbW5stnIe_JA5AC02HYhk=
+
+
 #EXTINF:-1,beIN Sports 5
-http://bein2.jan-beryan.giize.com//live//bein5_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein5_360p/playlist.m3u8?wowzatokenendtime=1504654152005&wowzatokenstarttime=0&wowzatokenhash=hs3ZnZksNegHJ7Ap67z1E4kOHS6BfpNltFLOiC-DSDE=
+
+
 #EXTINF:-1,beIN Sports 6
-http://bein2.jan-beryan.giize.com//live//bein6_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein6_360p/playlist.m3u8?wowzatokenendtime=1504654162382&wowzatokenstarttime=0&wowzatokenhash=wBKcf4NzWDDHl37a0BcyoAuCZL0I4NeWp0htAWMm1XU=
+
+
 #EXTINF:-1,Bein Sports 7
-http://bein2.jan-beryan.giize.com//live//bein7_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein7_360p/playlist.m3u8?wowzatokenendtime=1504654168699&wowzatokenstarttime=0&wowzatokenhash=augPjm8eOFE-7fCd-Q96rlSFlQGno0zSNmXcwYSI_q0=
+
+
 #EXTINF:-1,Bein Sports 8
-http://bein2.jan-beryan.giize.com//live//bein8_source//playlist.m3u8
+http://bl.movcast.tv:1935/icoolkora/bein8_360p/playlist.m3u8?wowzatokenendtime=1504654206365&wowzatokenstarttime=0&wowzatokenhash=xQRrw_qiJplyzHBCQGFPYHsYVhFhmhJV7X3g7TlyMzk=
+
+
