@@ -1,36 +1,21 @@
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 1 HD-AR
-http://173.212.206.199:25461/live/control1/control1/144.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 2 HD-AR
-http://173.212.206.199:25461/live/control1/control1/145.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 3 HD-AR
-http://173.212.206.199:25461/live/control1/control1/146.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 4 HD-AR
-http://173.212.206.199:25461/live/control1/control1/147.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 5 HD-AR
-http://173.212.206.199:25461/live/control1/control1/148.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 6 HD-AR
-http://173.212.206.199:25461/live/control1/control1/149.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 7 HD-AR
-http://173.212.206.199:25461/live/control1/control1/150.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 8 HD-AR
-http://173.212.206.199:25461/live/control1/control1/151.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 9 HD-AR
-http://173.212.206.199:25461/live/control1/control1/152.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 10 HD
-http://173.212.206.199:25461/live/control1/control1/153.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 11 HD
-http://173.212.206.199:25461/live/control1/control1/154.ts
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 12 HD
-http://173.212.206.199:25461/live/control1/control1/155.ts
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS HD 1
+http://wowza2.mysoltv.com:1992/Bein_Sports_1_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 2
+http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 3
+http://wowza2.mysoltv.com:1992/Bein_Sports_3_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 4
+http://wowza2.mysoltv.com:1992/Bein_Sports_4_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 5
+http://wowza2.mysoltv.com:1992/Bein_Sports_5_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 6
+http://wowza2.mysoltv.com:1992/Bein_Sports_6_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 7
+http://wowza2.mysoltv.com:1992/Bein_Sports_7_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 8
+http://wowza2.mysoltv.com:1992/Bein_Sports_8_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 9
+http://wowza2.mysoltv.com:1992/Bein_Sports_9_FP_HD/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD 10
+http://wowza2.mysoltv.com:1992/Bein_Sports_10_FP_HD/index.m3u8
