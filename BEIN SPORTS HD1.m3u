@@ -1,39 +1,27 @@
 
 #EXTINF:-1,======BEIN SPORTS HD Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-BEIN1HD
-http://emp.jan-beryan.giize.com/4014.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_1_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN2HD
-http://emp.jan-beryan.giize.com/4537.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN3HD
-http://emp.jan-beryan.giize.com/4033.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_3_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN4HD
-http://emp.jan-beryan.giize.com/4536.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_4_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN5HD
-http://emp.jan-beryan.giize.com/4559.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_5_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN6HD
-http://emp.jan-beryan.giize.com/4000.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN7SD
-http://emp.jan-beryan.giize.com/3998.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_6_FP_HD/index.m3u8
+#EXTINF:-1,AR-BEIN7HD
+http://wowza2.mysoltv.com:1992/Bein_Sports_7_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN8HD
-http://emp.jan-beryan.giize.com/4013.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_8_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN9HD
-http://emp.jan-beryan.giize.com/4032.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_9_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN10HD
-http://emp.jan-beryan.giize.com/3999.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_10_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN11HD
-http://emp.jan-beryan.giize.com/4558.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://wowza2.mysoltv.com:1992/Bein_Sports_11_FP_HD/index.m3u8
 #EXTINF:-1,AR-BEIN12HD
-http://emp.jan-beryan.giize.com/4012.ts
+http://wowza2.mysoltv.com:1992/Bein_Sports_12_FP_HD/index.m3u8
