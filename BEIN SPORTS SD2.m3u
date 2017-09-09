@@ -1,59 +1,49 @@
 
-#EXTINF:-1,======السيرفر متوقف حاليا=======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
 
 
 
 
 
-
-
-#EXTINF:-1,======BEIN SPORTS 460p=======
+#EXTINF:-1,======BEIN SPORTS SD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1
-http://bl.movcast.tv:1935/coolkora/server1_source/playlist.m3u8?wowzatokenendtime=1504653503079&wowzatokenstarttime=0&wowzatokenhash=v389kK1U5mMW5LaAV5IhKslwbK6sFZlvnTq51Ub4ikE=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-1-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport2
-http://bl.movcast.tv:1935/icoolkora/bein2_source/playlist.m3u8?wowzatokenendtime=1504653652539&wowzatokenstarttime=0&wowzatokenhash=9MfaGDyEU-4E1PgIjFXb3K3GyEEn-PsPQlPvrB4hvUo=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-2-sd/index.m3u8
 #EXTINF:-1,bein sport3
-http://bl.movcast.tv:1935/coolkora/server3_source/playlist.m3u8?wowzatokenendtime=1504653724448&wowzatokenstarttime=0&wowzatokenhash=I4br5rfHTmMrN4uG82ayuc4p-YjTUFxloo2fF1oU0mc=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-3-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport4
-http://bl.movcast.tv:1935/icoolkora/bein4_source/playlist.m3u8?wowzatokenendtime=1504653768214&wowzatokenstarttime=0&wowzatokenhash=KsAl1oVdGW5RX9bfyoml0IWHkGWcXobQrrsScvCMP4M=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-4-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport5
-http://bl.movcast.tv:1935/icoolkora/bein5_source/playlist.m3u8?wowzatokenendtime=1504653792099&wowzatokenstarttime=0&wowzatokenhash=517d4-xWTVdQnADAxaz6RPUFpChxLp7v1gKXHoaSjxE=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-5-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport6
-http://bl.movcast.tv:1935/icoolkora/bein6_source/playlist.m3u8?wowzatokenendtime=1504653812937&wowzatokenstarttime=0&wowzatokenhash=J7v2J5kGwGyBjaliM-7Izs2UK67-8oY9S5ddQY8-ocY=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-6-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport7
-http://bl.movcast.tv:1935/icoolkora/bein7_source/playlist.m3u8?wowzatokenendtime=1504653830394&wowzatokenstarttime=0&wowzatokenhash=OCeYvNVkRnjIJZ6BxgOpmdnvA-Lxc5sDqkPbf51g0PA=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-7-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport8
-http://bl.movcast.tv:1935/icoolkora/bein8_source/playlist.m3u8?wowzatokenendtime=1504653856385&wowzatokenstarttime=0&wowzatokenhash=n3w8P49z2StBFEIpTF_F342unyifHWlOFxVzdo6cVN0=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-8-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport9
-http://bl.movcast.tv:1935/icoolkora/bein9_source/playlist.m3u8?wowzatokenendtime=1504653882179&wowzatokenstarttime=0&wowzatokenhash=lBJNDCEI9Zpa9aaAO7hjX_JFX4Lgr9Ka2GROS6UDVDs=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-9-sd/index.m3u8
 
 
 #EXTINF:-1,bein sport10
-http://bl.movcast.tv:1935/icoolkora/bein10_source/playlist.m3u8?wowzatokenendtime=1504653911928&wowzatokenstarttime=0&wowzatokenhash=kj83s-KH5Sxlde48lG4uHunc7w0nefndYF_aKP9y72s=
-
+http://bein.jan-beryan.giize.com/sport-bn-sport-10-sd/index.m3u8
+#EXTINF:-1,bein sport11
+http://bein.jan-beryan.giize.com/sport-bn-sport-11-sd/index.m3u8
+#EXTINF:-1,bein sport12
+http://bein.jan-beryan.giize.com/sport-bn-sport-12-sd/index.m3u8
