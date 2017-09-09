@@ -7,6 +7,12 @@
 
 #EXTINF:-1,======BEIN SPORTS SD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
+
+
+
+#EXTINF:-1,Bein-News
+http://sstvb.vdmscdn.com/LQ-AR-Bein-News/index.m3u8
+
 #EXTINF:-1,bein sport1
 http://bein.jan-beryan.giize.com/sport-bn-sport-1-sd/index.m3u8
 
