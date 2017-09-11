@@ -4,52 +4,66 @@
 
 
 
-#EXTINF:-1,======هذا السيرفر متوقف حاليا=======
+#EXTINF:-1,======هذا السيرفر بدقة عالية و ليست متوسطة=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
 #EXTINF:-1,======BEIN SPORTS SD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
+#EXTINF:-1,AR: beIN HD1 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/393.ts
+#EXTINF:-1,AR: beIN HD1 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/394.ts
+#EXTINF:-1,AR: beIN HD2 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/396.ts
+#EXTINF:-1,AR: beIN HD2 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/397.ts
+#EXTINF:-1,AR: beIN HD3 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/399.ts
+#EXTINF:-1,AR: beIN HD3 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/400.ts
+#EXTINF:-1,AR: beIN HD4 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/402.ts
+#EXTINF:-1,AR: beIN HD4 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/403.ts
+#EXTINF:-1,AR: beIN HD5
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/404.ts
+#EXTINF:-1,AR: beIN HD5 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/405.ts
+#EXTINF:-1,AR: beIN HD6
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/406.ts
+#EXTINF:-1,AR: beIN HD6 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/407.ts
+#EXTINF:-1,AR: beIN HD7 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/408.ts
+#EXTINF:-1,AR: beIN HD8 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/409.ts
+#EXTINF:-1,AR: beIN HD9 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/410.ts
+#EXTINF:-1,AR: beIN HD9 -7h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/411.ts
+#EXTINF:-1,AR: beIN HD10 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/412.ts
+#EXTINF:-1,EN: beIN HD11
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/414.ts
+#EXTINF:-1,EN: beIN HD12
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/415.ts
+#EXTINF:-1,FR: beIN HD13 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/416.ts
+#EXTINF:-1,FR: beIN HD14 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/417.ts
+#EXTINF:-1,FR: beIN HD15 High
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/418.ts
 
-#EXTINF:-1,Bein-News
-http://sstvb.vdmscdn.com/LQ-AR-Bein-News/index.m3u8
-#EXTINF:-1,bein sport1
-http://bein.jan-beryan.giize.com/sport-bn-sport-1-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport2
-http://bein.jan-beryan.giize.com/sport-bn-sport-2-sd/index.m3u8
-#EXTINF:-1,bein sport3
-http://bein.jan-beryan.giize.com/sport-bn-sport-3-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport4
-http://bein.jan-beryan.giize.com/sport-bn-sport-4-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport5
-http://bein.jan-beryan.giize.com/sport-bn-sport-5-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport6
-http://bein.jan-beryan.giize.com/sport-bn-sport-6-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport7
-http://bein.jan-beryan.giize.com/sport-bn-sport-7-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport8
-http://bein.jan-beryan.giize.com/sport-bn-sport-8-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport9
-http://bein.jan-beryan.giize.com/sport-bn-sport-9-sd/index.m3u8
-
-
-#EXTINF:-1,bein sport10
-http://bein.jan-beryan.giize.com/sport-bn-sport-10-sd/index.m3u8
-#EXTINF:-1,bein sport11
-http://bein.jan-beryan.giize.com/sport-bn-sport-11-sd/index.m3u8
-#EXTINF:-1,bein sport12
-http://bein.jan-beryan.giize.com/sport-bn-sport-12-sd/index.m3u8
+#EXTINF:-1,bein hd1 fr
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/367.ts
+#EXTINF:-1,bein hd1 fr -6h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/368.ts
+#EXTINF:-1,bein hd2 fr
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/369.ts
+#EXTINF:-1,bein hd2 fr -6h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/370.ts
+#EXTINF:-1,bein hd3 fr
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/371.ts
+#EXTINF:-1,bein hd3 fr -6h
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/372.ts
