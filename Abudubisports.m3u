@@ -47,3 +47,26 @@ https://adtv.ercdn.net/adsport1/adsport5_360p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1
 https://adtv.ercdn.net/adsport1/adsport6_360p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
 
 
+
+
+
+#EXTINF:-1,======سيرفر احتياطي========
+https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 1HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/666.ts
+#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 2HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/667.ts
+#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 3HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/668.ts
+#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 4HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/669.ts
+#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 5HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/670.ts
+#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 6HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/671.ts
