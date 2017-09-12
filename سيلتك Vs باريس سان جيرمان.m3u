@@ -12,5 +12,15 @@ http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/91.ts
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/396.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,جودة متوسطة
+#EXTINF:-1,جودة عالية3
 http://emp.jan-beryan.giize.com/4011.ts
+
+#EXTINF:-1,جودة متوسطة1
+https://live69.vkuserlive.com/613502/live/2z9-6ppDfIY/playlist.m3u8
+
+
+#EXTINF:-1,جودة ضعيفة 
+http://mx.movcast.tv:1935/icoolkora/b2_240p/playlist.m3u8?wowzatokenendtime=1505326012936&wowzatokenstarttime=0&wowzatokenhash=sRe4mCKyLAmLs_-K2_SwBVcZ579yLET8Jq8pZD4OvKM=
+
+#EXTINF:-1,جودة ضعيفة جدا
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?gcr=sd&itag=0&playlist_duration=30&id=RSI4-7_CWG0.0&requiressl=yes&source=yt_live_broadcast&dover=8&playlist_type=DVR&keepalive=yes&expire=1505256983&ratebypass=yes&ip=102.181.23.150&key=yt6&maudio=1&hfr=1&sparams=ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire&signature=CB8DCE45E17AF8308A1FED16B65035F53B9510EA.1AC3058995F0346A6D51E7874D3407ED1E9C861D&ipbits=0&go=1&manifest_duration=30&ei=txG4WbSGKoS6VcXilLgP&cpn=0kh3XGKtv1SjzjrG&ibw=650000&c=WEB&cver=1.20170911&ptk=youtube_none&pltype=contentugclive
