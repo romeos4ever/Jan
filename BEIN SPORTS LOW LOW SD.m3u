@@ -6,42 +6,49 @@ http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,======BEIN SPORTS 144P Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1 sd
-http://bl.movcast.tv:1935/coolkora/server1_160p/playlist.m3u8?wowzatokenendtime=1504654673099&wowzatokenstarttime=0&wowzatokenhash=lW4KpCIgbaugacd0wQJikM4cQYMxXciGbiNg0Pe3ueU=
+http://mx.movcast.tv:1935/coolkora/server2_240p/playlist.m3u8?wowzatokenendtime=1505235767323&wowzatokenstarttime=0&wowzatokenhash=dyFQjvW4vBZMz-O9VY9nJw7V9MdTAI8fhi5bc-sq-08=
 
 
 
 #EXTINF:-1,bein sport2 sd
-http://bl.movcast.tv:1935/icoolkora/bein2_240p/playlist.m3u8?wowzatokenendtime=1504654678766&wowzatokenstarttime=0&wowzatokenhash=Vsa0sSj7woykpcdWPLshPVLFhLn-L611YZAPiBwclj8=
+http://mx.movcast.tv:1935/coolkora/server2_160p/playlist.m3u8?wowzatokenendtime=1505235783734&wowzatokenstarttime=0&wowzatokenhash=gmkjnFshaK2QlyLEL0DZWXtNvNKYZL2kQJUhHywhLIg=
+
 
 
 
 #EXTINF:-1,bein sport3 sd
-http://bl.movcast.tv:1935/coolkora/server3_160p/playlist.m3u8?wowzatokenendtime=1504654685637&wowzatokenstarttime=0&wowzatokenhash=IRoQiMw26QFCRSflItaj8hic2-BhjgzCV4BixhlB538=
+http://mx.movcast.tv:1935/coolkora/server3_160p/playlist.m3u8?wowzatokenendtime=1505235838016&wowzatokenstarttime=0&wowzatokenhash=eVqQxZcXpjvewXWL7ZYCy0JZ85RolI52Ti5b20B8Wac=
+
 
 
 
 #EXTINF:-1,bein sport4 sd
-http://bl.movcast.tv:1935/coolkora/server5_160p/playlist.m3u8?wowzatokenendtime=1504654695487&wowzatokenstarttime=0&wowzatokenhash=0O-1kyD0AmWy5p3YVbqGFkZBgZsDs5nrQqorPGcUBzA=
+http://mx.movcast.tv:1935/coolkora/server4_160p/playlist.m3u8?wowzatokenendtime=1505235950384&wowzatokenstarttime=0&wowzatokenhash=yca1SZpLZp9_tliL6whihgwanyemU5cjp4hb-BGs2ng=
+
 
 
 
 #EXTINF:-1,bein sport5 sd
-http://bl.movcast.tv:1935/coolkora/server2_160p/playlist.m3u8?wowzatokenendtime=1504654762260&wowzatokenstarttime=0&wowzatokenhash=R6LAdUdKlnMvax02nqLDBXokUbJQ-c3SO9uc2Dc6I6o=
+http://mx.movcast.tv:1935/coolkora/server5_160p/playlist.m3u8?wowzatokenendtime=1505236055604&wowzatokenstarttime=0&wowzatokenhash=btx2TKr0jJyMLnC0C_hd0G8ioqeExxf-BGsYJiLC3UY=
+
 
 
 
 #EXTINF:-1,bein sport6 sd
-http://bl.movcast.tv:1935/icoolkora/bein6_240p/playlist.m3u8?wowzatokenendtime=1504654771848&wowzatokenstarttime=0&wowzatokenhash=f49lMEXAk0aJdM4swikLrXlma_vN_zIyYUK9KknshOo=
+http://mx.movcast.tv:1935/coolkora/server1_160p/playlist.m3u8?wowzatokenendtime=1505236136343&wowzatokenstarttime=0&wowzatokenhash=1fDSH-XXtQCgangUhoEcleA5zgi83051PzhDbtfAWhM=
+
 
 
 
 #EXTINF:-1,bein sport7 sd
-http://bl.movcast.tv:1935/icoolkora/bein7_240p/playlist.m3u8?wowzatokenendtime=1504654779536&wowzatokenstarttime=0&wowzatokenhash=hQMdHVY93djYeG6jciscK6_FB2_F9qbWdre96SN6Jh8=
+http://mx.movcast.tv:1935/icoolkora/b7_240p/playlist.m3u8?wowzatokenendtime=1505236242250&wowzatokenstarttime=0&wowzatokenhash=9Yu1afD8GVEyU2uwIk3bVgQtsSaWMNWr6oiDJEh5GDc=
+
 
 
 
 #EXTINF:-1,bein sport8 sd
-http://bl.movcast.tv:1935/icoolkora/bein7_240p/playlist.m3u8?wowzatokenendtime=1504654779536&wowzatokenstarttime=0&wowzatokenhash=hQMdHVY93djYeG6jciscK6_FB2_F9qbWdre96SN6Jh8=
+http://mx.movcast.tv:1935/icoolkora/b8_240p/playlist.m3u8?wowzatokenendtime=1505236302657&wowzatokenstarttime=0&wowzatokenhash=_ICr5VdosNiyszcspmeybqxC93AoYtslaGQGJiPCN8s=
+
 
 
 
