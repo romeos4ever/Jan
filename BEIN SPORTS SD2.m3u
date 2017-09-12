@@ -4,8 +4,49 @@
 
 
 
-#EXTINF:-1,======هذا السيرفر متوقف حاليا=======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
+
 
 #EXTINF:-1,======BEIN SPORTS SD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
+
+
+#EXTINF:-1,beIN Sports 1
+http://mx.movcast.tv:1935/icoolkora/b1_source/playlist.m3u8?wowzatokenendtime=1505235492006&wowzatokenstarttime=0&wowzatokenhash=luhXQdZlcKkeIJocAsIxYTiCytgZTxm2iuMjU34H6Eg=
+
+
+
+#EXTINF:-1,beIN Sports 2
+http://mx.movcast.tv:1935/coolkora/server2_source/playlist.m3u8?wowzatokenendtime=1505235680968&wowzatokenstarttime=0&wowzatokenhash=0Yqpzm_pRi5xnboRpuIY1vqvNcMSTzr7Svs1CQOQOUs=
+
+
+
+#EXTINF:-1,beIN Sports 3
+http://mx.movcast.tv:1935/icoolkora/b3_source/playlist.m3u8?wowzatokenendtime=1505235926260&wowzatokenstarttime=0&wowzatokenhash=9SfUJmgSRUe1Qm0wqhhxQ5eTeYIY57VPMYbKD46c_7I=
+
+
+
+#EXTINF:-1,beIN Sports 4
+http://mx.movcast.tv:1935/icoolkora/b4_source/playlist.m3u8?wowzatokenendtime=1505236033104&wowzatokenstarttime=0&wowzatokenhash=mj6y5pUSeOgr7MsjJkExkzFACgu1CGGxGnLC0FzLk4g=
+
+
+
+#EXTINF:-1,beIN Sports 5
+http://mx.movcast.tv:1935/icoolkora/b5_source/playlist.m3u8?wowzatokenendtime=1505236117883&wowzatokenstarttime=0&wowzatokenhash=q1bE9E1jmnJwnK9_l-AqYK_zb_wsOkHQD9FyWxz6A10=
+
+
+
+#EXTINF:-1,beIN Sports 6
+http://mx.movcast.tv:1935/coolkora/server1_source/playlist.m3u8?wowzatokenendtime=1505236206930&wowzatokenstarttime=0&wowzatokenhash=8RmbVH7CSBvLnHqsiHguG-0Hqy2cDT-HWr8coWq1zCM=
+
+
+
+#EXTINF:-1,Bein Sports 7
+http://mx.movcast.tv:1935/icoolkora/b7_source/playlist.m3u8?wowzatokenendtime=1505236281912&wowzatokenstarttime=0&wowzatokenhash=37CyM3V08Kxlm7cAwcI27BuEihlxRZe2-60dx8-tdso=
+
+
+
+#EXTINF:-1,Bein Sports 8
+http://mx.movcast.tv:1935/icoolkora/b8_source/playlist.m3u8?wowzatokenendtime=1505236342804&wowzatokenstarttime=0&wowzatokenhash=rbSCEHtWnWtMR0xlcvy_w-qMCWNKd5auXMBy__ngEQE=
+
+
+
