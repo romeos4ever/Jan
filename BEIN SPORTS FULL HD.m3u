@@ -9,50 +9,46 @@
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
 
-
-#EXTINF:-1,Bein-News
-http://sstvb.vdmscdn.com/LQ-AR-Bein-News/index.m3u8
-
-#EXTINF:-1,AR: beIN Sport news
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/391.ts
-
-
-
-
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 12
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/101.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 11
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/100.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 10
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/99.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 9
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/98.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 8
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/97.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 7
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/96.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 6
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/95.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 5
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/94.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 4
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/93.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 3
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/92.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 2
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/91.ts
-#EXTVLCOPT:http-user-agent=rehtp
-#EXTINF:-1,bein 1
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/90.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS News
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/682.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS Global
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/683.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 1HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 2HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/685.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/686.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 4HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/687.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 5HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/688.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 6HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/689.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 7HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/690.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 8HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/691.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 9HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/692.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 10HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/693.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 11HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/694.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 12HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/695.ts
 
