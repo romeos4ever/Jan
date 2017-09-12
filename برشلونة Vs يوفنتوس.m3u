@@ -12,6 +12,8 @@ http://mx.movcast.tv:1935/icoolkora/b1_source/playlist.m3u8?wowzatokenendtime=15
 
 #EXTINF:-1,1جودة متوسطة
 https://live58.vkuserlive.com/637601/live/2wdG6oRDfJg/playlist.m3u8
+
+
 #EXTINF:-1,2جودة متوسطة
 http://mx.movcast.tv:1935/icoolkora/b1_360p/playlist.m3u8?wowzatokenendtime=1505325229869&wowzatokenstarttime=0&wowzatokenhash=tWJwp6aGPaHghwYYxU14DT1x1YrCT5cRMnOjA2mrVMg=
 #EXTINF:-1,3جودة متوسطة
@@ -23,6 +25,10 @@ http://mx.movcast.tv:1935/coolkora/server1_480p/playlist.m3u8?wowzatokenendtime=
 http://mx.movcast.tv:1935/icoolkora/b1_240p/playlist.m3u8?wowzatokenendtime=1505325255019&wowzatokenstarttime=0&wowzatokenhash=CLOkxFjwcVeTt7a9PpP6UE9uYUuHQ4HMpSYG10vPERI=
 #EXTINF:-1,جودة ضعيفة2
 http://mx.movcast.tv:1935/coolkora/server1_240p/playlist.m3u8?wowzatokenendtime=1505325302127&wowzatokenstarttime=0&wowzatokenhash=Da5Osvk6pqauAAxUzLXKFlxNod0UUS1Z4JH0c7AzE44=
+
+#EXTINF:-1,جودة ضعيفة3
+https://hls.goodgame.ru/hls/131551.m3u8
+
 
 #EXTINF:-1,جودة ضعيفة جدا
 http://mx.movcast.tv:1935/coolkora/server1_160p/playlist.m3u8?wowzatokenendtime=1505325337084&wowzatokenstarttime=0&wowzatokenhash=sLbP1qxhqzsFJBd9VqIYya7199ROiCQ77bOgWv0aTLg=
