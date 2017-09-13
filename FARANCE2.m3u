@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/animaux_fr.jpg", FR-ANIMUX
+httphost://$http-raw=http://173.212.206.199:25461/1/2/789.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_cinema.jpg", FR-CANAL CINEMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/791.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_decale.jpg", FR-CANAL DECALE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/792.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_family.jpg", FR-CANAL FAMILY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/794.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv1.png", FR-CANAL PPV 1 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/796.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv2.png", FR-CANAL PPV 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/797.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv3.png", FR-CANAL PPV3 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/799.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv4.png", FR-CANAL PPV4 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/800.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv5.png", FR-CANAL PPV5 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/801.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv6.png", FR-CANAL PPV6 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/802.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv7.png", FR-CANAL PPV7 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/803.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv8.png", FR-CANAL PPV8 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/804.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv9.png", FR-CANAL PPV9 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/805.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv10.png", FR-CANAL PPV10 /
+httphost://$http-raw=http://173.212.206.199:25461/1/2/798.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/chasse_et_peche.jpg", FR-CHASSE E PECHE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/807.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_cine_plus_classic.jpg", FR-CINE CLASSIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/809.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_cine_plus_famiz.jpg", FR-CINE FAMIZ
+httphost://$http-raw=http://173.212.206.199:25461/1/2/810.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cine_polar.jpg", FR-CINE FX
+httphost://$http-raw=http://173.212.206.199:25461/1/2/812.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/discovery_science_global.jpg", FR-DISCOVERY SCIENCE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/814.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/discovery_global_us.jpg", FR-DISCOVERY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/813.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france2.jpg", FR-FRANCE 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/817.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france3.jpg", FR-FRANCE 3
+httphost://$http-raw=http://173.212.206.199:25461/1/2/818.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france5.jpg", FR-FRANCE 5
+httphost://$http-raw=http://173.212.206.199:25461/1/2/819.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nat_geo_us.jpg", FR-NAT GEO CHANNEL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/824.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nat_geo_wild_us.jpg", FR-NAT GEO WILD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/825.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nrj_fr_12.jpg", FR-NRJ12
+httphost://$http-raw=http://173.212.206.199:25461/1/2/827.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/planete_plus_crime_investigation.jpg", FR-PLANETE PLUS CI
+httphost://$http-raw=http://173.212.206.199:25461/1/2/832.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/planete_plus.jpg", FR-PLANETE PLUS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/831.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/w9_fr_hd.jpg", FR-W9 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/862.m3u8$http-refferer=http://173.212.206.199:25461/
+
