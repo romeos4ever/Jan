@@ -1,231 +1,309 @@
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 1HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/653.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 2HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/654.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 3HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/655.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 04HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/656.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 05HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/657.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 06HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/658.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 07HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/659.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 08HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/660.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 09HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/661.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 10HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/662.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 1HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/663.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 2HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/664.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 3HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/665.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,TF1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/646.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,M6
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/647.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/648.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/649.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/650.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/651.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE O
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/652.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ACTION
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/645.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/627.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL CINEMA
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/628.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL DECALE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/631.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL FAMILY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/630.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL SERIES
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/629.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,COMEDIE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/640.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE CLASSIC
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/639.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE CLUB
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/638.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE EMOTION
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/637.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE FAMIZ
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/636.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE FRISSON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/635.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE FX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/634.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE POLAR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/633.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CINE PREMIER
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/632.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,OCS CHOC
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/644.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,OCS CITY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/643.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,OCS GEANT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/642.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,OCS MAX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/641.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,USHUAIA TV
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/619.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,SEASON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/620.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,NATIONAL-GEO
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/621.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/622.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/623.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,DISCOVRY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/624.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CHASSE PECHE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/625.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ANIMAUX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/626.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL SPORT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/616.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,FOOT 24
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/617.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,INFOSPORT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/618.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ITELE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/614.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,LCI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/615.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CARTON NET
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/599.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BOOMERANG
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/600.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,PIWI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/601.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,TELETOON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/602.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,TIJI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/603.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL J
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/604.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,BOING
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/605.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,GULLI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/606.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,MANGAS
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/607.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY XD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/608.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/609.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY CINEMA
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/610.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/611.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/612.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,NICKELODEON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/613.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/589.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/590.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/591.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/592.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/593.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/594.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/595.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/596.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/597.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/598.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-13EMERUE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4837.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-6TER
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4845.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-AB1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4922.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-ACTION
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4858.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-ANIMAUX
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4872.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-BEINSPORT1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4893.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-BEINSPORT2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4921.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-BEINSPORT3
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4907.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-BOING
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4903.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-BOOMERANG
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4887.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANAL8
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4876.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALJ
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4833.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALNEWS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4924.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALPLUS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4874.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALPLUSCINEMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4906.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALPLUSDECALE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4840.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALPLUSFAMILY
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4839.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALPLUSSERIES
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4892.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CANALPLUSSPORT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4920.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CARTOONNETWORK
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4834.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CCTVFRENCH
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4826.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CHERIE25
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4859.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINEFX
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4870.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINELPLUSCLUB
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4917.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINEPLUSCLASSIC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4857.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINEPLUSEMOTION
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4919.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINEPLUSFRISSON
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4838.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINEPLUSPREMIER
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4856.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CINEPOLAR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4918.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-COMEDIEPLUS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4869.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-CSTAR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4844.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-DISCOVERYCHANNEL
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4915.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-DISCOVERYSCIENCE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4865.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-DISNEYCHANNEL
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4886.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-DISNEYCINEMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4854.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-DISNEYJUNIOR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4867.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-DISNEYXD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4868.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-ENTERTAINMENT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4850.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-EQUIDIALIFE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4900.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-EQUIDIALIVE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4923.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-EUROSPORT1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4864.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-EUROSPORT2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4902.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-EXTREMESPORTS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4832.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCE2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4877.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCE24
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4827.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCE3
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4862.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCE4
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4897.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCE5
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4848.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCEINFO
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4899.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-FRANCEO
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4898.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-GAMEONE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4830.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-GOLFCHANNEL
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4908.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-GOLFPLUS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4863.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-GULLI
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4894.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-HD1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4925.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-HISTOIRE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4885.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-INFOSPORT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4851.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-LEQUIPE21
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4901.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-M6
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4926.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-MANGAS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4842.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-MCM
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4880.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-MCMTOP
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4849.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-MEZZO
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4831.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-MEZZOLIVE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4881.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-MTVFRANCE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4882.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NATIONALGEOGRAPHIC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4852.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NATIONALGEOWILD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4866.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NICKELODEON
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4855.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NICKELODEONJUNIOR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4829.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NRJ12
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4909.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NT1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4847.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-NUMERO23
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4860.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-PARAMOUNTCHANNEL
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4843.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-PIWIPLUS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4879.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-PLANETEAE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4836.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-PLANETECI
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4916.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-PLANETEPLUS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4889.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-RFMTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4910.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-RMCDECOUVERTE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4873.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-RTL9
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4896.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-RTSDEUX
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4904.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-RTSUN
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4835.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-SCIENCESETVIE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4841.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-SEASON
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4911.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-SFRSPORT1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4913.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-SFRSPORT2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4912.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-SYFY
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4891.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TCMCINEMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4890.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TELETOONPLUS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4853.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TEVA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4871.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TF1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4875.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TIJI
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4878.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TMC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4861.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TRACESPORT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4884.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-W9
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4846.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TRACEURBAN
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4883.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TREK
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4895.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TV5
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4927.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TV5MONDEEUROPE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4828.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TV5MONDEMAGHREBORIENTHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4825.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-TVBREIZH
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4888.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-USHUAIATV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4914.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,FR-VOYAGE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n8787888875555/4905.ts
