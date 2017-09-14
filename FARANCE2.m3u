@@ -1,60 +1,231 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/animaux_fr.jpg", FR-ANIMUX
-httphost://$http-raw=http://173.212.206.199:25461/1/2/789.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_cinema.jpg", FR-CANAL CINEMA
-httphost://$http-raw=http://173.212.206.199:25461/1/2/791.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_decale.jpg", FR-CANAL DECALE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/792.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_family.jpg", FR-CANAL FAMILY
-httphost://$http-raw=http://173.212.206.199:25461/1/2/794.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv1.png", FR-CANAL PPV 1 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/796.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv2.png", FR-CANAL PPV 2
-httphost://$http-raw=http://173.212.206.199:25461/1/2/797.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv3.png", FR-CANAL PPV3 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/799.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv4.png", FR-CANAL PPV4 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/800.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv5.png", FR-CANAL PPV5 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/801.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv6.png", FR-CANAL PPV6 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/802.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv7.png", FR-CANAL PPV7 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/803.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv8.png", FR-CANAL PPV8 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/804.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv9.png", FR-CANAL PPV9 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/805.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logo.solidiptv.com:25461/images/loogo/canalppv10.png", FR-CANAL PPV10 /
-httphost://$http-raw=http://173.212.206.199:25461/1/2/798.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/chasse_et_peche.jpg", FR-CHASSE E PECHE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/807.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_cine_plus_classic.jpg", FR-CINE CLASSIC
-httphost://$http-raw=http://173.212.206.199:25461/1/2/809.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/canalplus_fr_cine_plus_famiz.jpg", FR-CINE FAMIZ
-httphost://$http-raw=http://173.212.206.199:25461/1/2/810.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cine_polar.jpg", FR-CINE FX
-httphost://$http-raw=http://173.212.206.199:25461/1/2/812.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/discovery_science_global.jpg", FR-DISCOVERY SCIENCE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/814.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/discovery_global_us.jpg", FR-DISCOVERY
-httphost://$http-raw=http://173.212.206.199:25461/1/2/813.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france2.jpg", FR-FRANCE 2
-httphost://$http-raw=http://173.212.206.199:25461/1/2/817.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france3.jpg", FR-FRANCE 3
-httphost://$http-raw=http://173.212.206.199:25461/1/2/818.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france5.jpg", FR-FRANCE 5
-httphost://$http-raw=http://173.212.206.199:25461/1/2/819.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nat_geo_us.jpg", FR-NAT GEO CHANNEL
-httphost://$http-raw=http://173.212.206.199:25461/1/2/824.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nat_geo_wild_us.jpg", FR-NAT GEO WILD
-httphost://$http-raw=http://173.212.206.199:25461/1/2/825.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nrj_fr_12.jpg", FR-NRJ12
-httphost://$http-raw=http://173.212.206.199:25461/1/2/827.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/planete_plus_crime_investigation.jpg", FR-PLANETE PLUS CI
-httphost://$http-raw=http://173.212.206.199:25461/1/2/832.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/planete_plus.jpg", FR-PLANETE PLUS
-httphost://$http-raw=http://173.212.206.199:25461/1/2/831.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/w9_fr_hd.jpg", FR-W9 HD
-httphost://$http-raw=http://173.212.206.199:25461/1/2/862.m3u8$http-refferer=http://173.212.206.199:25461/
-
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/653.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/654.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/655.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 04HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/656.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 05HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/657.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 06HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/658.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 07HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/659.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 08HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/660.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 09HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/661.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 10HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/662.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 1HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/663.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 2HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/664.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 3HD Fr
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/665.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,TF1
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/646.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,M6
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/647.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 2
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/648.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 3
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/649.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 4
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/650.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 5
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/651.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE O
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/652.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ACTION
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/645.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/627.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL CINEMA
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/628.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL DECALE
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/631.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL FAMILY
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/630.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL SERIES
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/629.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,COMEDIE
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/640.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE CLASSIC
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/639.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE CLUB
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/638.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE EMOTION
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/637.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE FAMIZ
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/636.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE FRISSON
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/635.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE FX
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/634.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE POLAR
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/633.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CINE PREMIER
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/632.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,OCS CHOC
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/644.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,OCS CITY
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/643.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,OCS GEANT
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/642.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,OCS MAX
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/641.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,USHUAIA TV
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/619.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,SEASON
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/620.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,NATIONAL-GEO
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/621.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,NAT-GEO-WILD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/622.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,DISCOVRY-SCI
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/623.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,DISCOVRY
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/624.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CHASSE PECHE
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/625.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ANIMAUX
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/626.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL SPORT
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/616.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,FOOT 24
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/617.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,INFOSPORT
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/618.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ITELE
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/614.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,LCI
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/615.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CARTON NET
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/599.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BOOMERANG
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/600.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,PIWI
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/601.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,TELETOON
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/602.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,TIJI
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/603.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL J
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/604.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,BOING
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/605.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,GULLI
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/606.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,MANGAS
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/607.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY XD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/608.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY JUNIOR
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/609.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY CINEMA
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/610.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY CHANNEL
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/611.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,NICKELODEON JUNIOR
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/612.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,NICKELODEON
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/613.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 1
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/589.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 2
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/590.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 3
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/591.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 4
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/592.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 5
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/593.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 1
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/594.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 2
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/595.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 3
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/596.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 4
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/597.ts
+#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 5
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/598.ts
