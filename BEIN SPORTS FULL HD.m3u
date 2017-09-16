@@ -8,48 +8,33 @@
 #EXTINF:-1,======BEIN SPORTS HD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1  
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 http://bein.jan-beryan.giize.com/bn-sp-1-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport2                 
 http://bein.jan-beryan.giize.com/bn-sp-2-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport3                       
 http://bein.jan-beryan.giize.com/bn-sp-3-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport4                   
 http://bein.jan-beryan.giize.com/bn-sp-4-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport5                        
 http://bein.jan-beryan.giize.com/bn-sp-5-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport6                        
 http://bein.jan-beryan.giize.com/bn-sp-6-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport7                    
 http://bein.jan-beryan.giize.com/bn-sp-7-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport8                       
 http://bein.jan-beryan.giize.com/bn-sp-8-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport9                       
 http://bein.jan-beryan.giize.com/bn-sp-9-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport10                       
 http://bein.jan-beryan.giize.com/bn-sp-10-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport11                        
 http://bein.jan-beryan.giize.com/bn-sp-11-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport12                      
 http://bein.jan-beryan.giize.com/bn-sp-12-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport13                        
 http://bein.jan-beryan.giize.com/bn-sp-13-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport14                      
 http://bein.jan-beryan.giize.com/bn-sp-14-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=0NLINETVCLIENT_X60000_X25000_X40000MEGA_V1.9.00
 #EXTINF:-1,bein sport15                      
 http://bein.jan-beryan.giize.com/bn-sp-15-hd/index.m3u8
 
