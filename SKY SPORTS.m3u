@@ -1,0 +1,76 @@
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORT 1 HD-UK
+http://173.212.206.199:25461/live/control/control/226.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORT 1 HD ITALIA /
+http://173.212.206.199:25461/live/control/control/232.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS 1-UK
+http://173.212.206.199:25461/live/control/control/192.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS 2-UK
+http://173.212.206.199:25461/live/control/control/194.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS 3-UK
+http://173.212.206.199:25461/live/control/control/196.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS 4-UK
+http://173.212.206.199:25461/live/control/control/198.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS 5-UK
+http://173.212.206.199:25461/live/control/control/200.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS F1-UK
+http://173.212.206.199:25461/live/control/control/189.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS BOX OFFICE-UK
+http://173.212.206.199:25461/live/control/control/187.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS MIX-UK
+http://173.212.206.199:25461/live/control/control/186.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS NEWS-DE
+http://173.212.206.199:25461/live/control/control/253.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS NEWS HD-UK
+http://173.212.206.199:25461/live/control/control/188.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SUPER CALCIO HD
+http://173.212.206.199:25461/live/control/control/231.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS 1-US
+http://173.212.206.199:25461/live/control/control/211.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS 2-US
+http://173.212.206.199:25461/live/control/control/212.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS 3-US
+http://173.212.206.199:25461/live/control/control/213.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS 4-US
+http://173.212.206.199:25461/live/control/control/214.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS 5-US
+http://173.212.206.199:25461/live/control/control/215.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS 6-US
+http://173.212.206.199:25461/live/control/control/217.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKYNET SPORTS HD-US
+http://173.212.206.199:25461/live/control/control/216.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORTS NEWS HD-DE
+http://173.212.206.199:25461/live/control/control/576.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,DE-SKY BUNDESLIGA HD SP
+http://173.212.206.199:25461/live/control/control/558.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,DE-SKY BUNDESLIGA 2HD SP
+http://173.212.206.199:25461/live/control/control/856.m3u8
+
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORT 1 HD-DE
+http://173.212.206.199:25461/live/control/control/574.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-SKY SPORT 2 HD-DE
+http://173.212.206.199:25461/live/control/control/575.m3u8
