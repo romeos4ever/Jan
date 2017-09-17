@@ -1,0 +1,341 @@
+#EXTM3U
+
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Roya
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/429.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,LBC Lebanon
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/392.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,cbc
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/389.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Baraem Europe 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/200.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Baraem europe 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/203.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Sport Open - free
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/209.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Mirabelle TV
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/172.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,C8 Fr
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/170.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Gong TV
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/169.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Sport Open
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/108.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Espana
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/107.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein NBA
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/102.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Sport News
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/103.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 3 Fr
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/106.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 2 Fr
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/105.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 1 Fr
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/104.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 12
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/101.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 11
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/100.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 10
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/99.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 9
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/98.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 8
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/97.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 7
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/96.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 6
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/95.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 5
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/94.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 4
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/93.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 3
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/92.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/91.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/90.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Nile Cinema
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/81.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Fatafeat
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/89.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Series 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/86.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Movies 4
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/85.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Movies 3
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/84.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Movies 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/83.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Movies 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/82.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Jeem
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/87.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,bein Baraem
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/88.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KTV 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/61.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Kahira wa nas
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/44.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Iqraa
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/75.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Hayat 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/46.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,France 24 En
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/68.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Extra News
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/72.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,DW Arabic
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/70.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai Sport 4 (2)
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/65.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai Sport 4
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/39.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai Sport 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/38.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai Racing
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/37.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai One
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/35.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/51.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dream 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/50.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dofra
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/53.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CNBC Arabic
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/69.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,City7 Dubai
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/52.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CBC Sofra
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/62.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BBC Arabic
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/71.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Bahrain
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/58.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Almostakbal
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/64.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Al Ray
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/60.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Al Jadid
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/59.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Al Hadat
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/66.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Al Ane
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/57.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Abudabi Sport 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/36.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Abudabi Oula
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/55.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Abudabi Emarat
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/56.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Abudabi Drama
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/22.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Zee Alwan
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/18.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sky News Arabic
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/67.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Saudi Sport 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/40.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Saudi Ikhbarya
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/73.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Saudi 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/43.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana Music
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/25.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana misrya
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/29.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana khalijia
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/27.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana Clip
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/26.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana Classic
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/28.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana Cinema
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/23.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Rotana Aflam
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/24.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Resalah
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/76.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Quest Arabia
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/31.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Panorama Food
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/42.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Panorama Drama 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/33.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Panorama Drama
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/34.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,OSN Mosalsalat
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/19.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,OSN MBC Drama
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/8.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,OSN b4u Plus
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/20.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,OSN b4u Aflam
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/21.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Ordonia
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/54.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Noor Dubai
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/74.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Nile Family
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/49.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,National Geographic
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/32.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Nahar One
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/45.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Nahar Drama
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/30.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Nahar Algerie
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/41.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,mtv Lebanon
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/63.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Misrya
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/47.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Misr 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/48.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Variety
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/17.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Max HD
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/12.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Max
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/11.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Masr 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/16.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Masr
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/15.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Drama
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/14.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Bollywood
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/13.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Action HD
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/10.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC Action
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/9.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 4 HD
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/7.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 4
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/6.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 3
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/5.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 2 HD
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/4.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 2
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/3.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 1 HD
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/2.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MBC 1
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/1.ts
