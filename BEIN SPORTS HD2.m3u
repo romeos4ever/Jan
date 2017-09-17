@@ -1,48 +1,48 @@
-
-#EXTINF:-1,======هذا السيرفر يعمل غالبا اثناء المبارايات=======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-
-#EXTINF:-1,======beIN Sports HD =======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-
-
-
-#EXTINF:-1,beIN Sports 1
-http://185.180.15.249:8081/nimble_live/beinsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,beIN Sports 2
-http://185.180.15.249:8081/nimble_live/beinsports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1,beIN Sports 3
-http://185.180.15.249:8081/nimble_live/beinsports3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1,beIN Sports 4
-http://185.180.15.249:8081/nimble_live/beinsports4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1,beIN Sports 5
-http://185.180.15.249:8081/nimble_live/beinsports5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1,beIN Sports 6
-http://185.180.15.249:8081/nimble_live/beinsports6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1,Bein Sports 7
-http://185.180.15.249:8081/nimble_live/beinsports7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1,Bein Sports 8
-http://185.180.15.249:8081/nimble_live/beinsports8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS GLOBAL
+http://173.212.206.199:25461/live/control/control/143.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS NEWS
+http://173.212.206.199:25461/live/control/control/142.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 1 HD-FR
+http://173.212.206.199:25461/live/control/control/156.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 2 HD-FR
+http://173.212.206.199:25461/live/control/control/157.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 1 HD-AR
+http://173.212.206.199:25461/live/control/control/144.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 2 HD-AR
+http://173.212.206.199:25461/live/control/control/145.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 3 HD-AR
+http://173.212.206.199:25461/live/control/control/146.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 4 HD-AR
+http://173.212.206.199:25461/live/control/control/147.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 5 HD-AR
+http://173.212.206.199:25461/live/control/control/148.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 6 HD-AR
+http://173.212.206.199:25461/live/control/control/149.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 7 HD-AR
+http://173.212.206.199:25461/live/control/control/150.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 8 HD-AR
+http://173.212.206.199:25461/live/control/control/151.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 9 HD-AR
+http://173.212.206.199:25461/live/control/control/152.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 10 HD
+http://173.212.206.199:25461/live/control/control/153.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 11 HD
+http://173.212.206.199:25461/live/control/control/154.m3u8
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 12 HD
+http://173.212.206.199:25461/live/control/control/155.m3u8
