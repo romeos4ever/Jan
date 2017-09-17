@@ -1,56 +1,54 @@
 
 
-#EXTINF:-1,======هذا السيرفر متوقف حاليا=======
+#EXTINF:-1,======هذا السيرفر غالبا يعمل اثناء المبارايات=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
 
 #EXTINF:-1,======BEIN SPORTS 240P Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1 sd
-http://mx.movcast.tv:1935/icoolkora/b1_240p/playlist.m3u8?wowzatokenendtime=1505235631436&wowzatokenstarttime=0&wowzatokenhash=boDtJZbeaC9dfKXPle_hy8m6NuZpwQaPglGI7uMMpDU=
-
+http://185.180.15.249:8081/nimble_live/beinsports1-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 #EXTINF:-1,bein sport2 sd
-http://mx.movcast.tv:1935/coolkora/server2_240p/playlist.m3u8?wowzatokenendtime=1505235767323&wowzatokenstarttime=0&wowzatokenhash=dyFQjvW4vBZMz-O9VY9nJw7V9MdTAI8fhi5bc-sq-08=
-
+http://185.180.15.249:8081/nimble_live/beinsports2-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 #EXTINF:-1,bein sport3 sd
-http://mx.movcast.tv:1935/coolkora/server3_240p/playlist.m3u8?wowzatokenendtime=1505235857162&wowzatokenstarttime=0&wowzatokenhash=9-Lrpgmfnc5gls0NzwhG7Kcs92Z4ZcKAgyiclAHKoeA=
+http://185.180.15.249:8081/nimble_live/beinsports3-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 
 #EXTINF:-1,bein sport4 sd
-http://mx.movcast.tv:1935/icoolkora/b4_240p/playlist.m3u8?wowzatokenendtime=1505235977739&wowzatokenstarttime=0&wowzatokenhash=XTlc8dpJvvWaMEbpRMERyQ9Op_2Fd9wB0ECM5uAKuKI=
+http://185.180.15.249:8081/nimble_live/beinsports4-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 #EXTINF:-1,bein sport5 sd
-http://mx.movcast.tv:1935/icoolkora/b5_240p/playlist.m3u8?wowzatokenendtime=1505236077136&wowzatokenstarttime=0&wowzatokenhash=rWJkRRepG20KD3LPppMV-6Ux93kA4QQAUzpB7TI5bfA=
+http://185.180.15.249:8081/nimble_live/beinsports5-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 
 
 #EXTINF:-1,bein sport6 sd
-http://mx.movcast.tv:1935/icoolkora/b6_240p/playlist.m3u8?wowzatokenendtime=1505236151981&wowzatokenstarttime=0&wowzatokenhash=YLG2BKRqEK8DHvhvSYujpJtWz8BZnUL09lT8ytuQ0vY=
+http://185.180.15.249:8081/nimble_live/beinsports6-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 
 
 #EXTINF:-1,bein sport7 sd
-http://mx.movcast.tv:1935/icoolkora/b7_240p/playlist.m3u8?wowzatokenendtime=1505236242250&wowzatokenstarttime=0&wowzatokenhash=9Yu1afD8GVEyU2uwIk3bVgQtsSaWMNWr6oiDJEh5GDc=
+http://185.180.15.249:8081/nimble_live/beinsports7-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 
 #EXTINF:-1,bein sport8 sd
-http://mx.movcast.tv:1935/icoolkora/b8_240p/playlist.m3u8?wowzatokenendtime=1505236302657&wowzatokenstarttime=0&wowzatokenhash=_ICr5VdosNiyszcspmeybqxC93AoYtslaGQGJiPCN8s=
+http://185.180.15.249:8081/nimble_live/beinsports8-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
