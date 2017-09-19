@@ -1,47 +1,47 @@
 
-#EXTINF:-1,======BEIN SPORTS HD Group=======
+#EXTINF:-1,======هذا السيرفر متوقف حاليا=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
 
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS News
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/682.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS Global
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/683.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 1HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 2HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/685.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 3HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/686.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 4HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/687.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 5HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/688.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 6HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/689.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 7HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/690.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 8HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/691.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 9HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/692.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 10HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/693.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+
 #EXTINF:-1,BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/694.ts
+
 #EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
 #EXTINF:-1,beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/695.ts
+
