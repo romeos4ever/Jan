@@ -1,47 +1,40 @@
 
-#EXTINF:-1,======هذا السيرفر متوقف حاليا=======
+#EXTINF:-1,======BEIN SPORTS HD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
-
-
-#EXTINF:-1,BeINSPORTS News
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/682.ts
-
-#EXTINF:-1,BeINSPORTS Global
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/683.ts
-
-#EXTINF:-1,BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
-
-#EXTINF:-1,BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/685.ts
-
-#EXTINF:-1,BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/686.ts
-
-#EXTINF:-1,BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/687.ts
-
-#EXTINF:-1,BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/688.ts
-
-#EXTINF:-1,BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/689.ts
-
-#EXTINF:-1,BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/690.ts
-
-#EXTINF:-1,BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/691.ts
-
-#EXTINF:-1,BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/692.ts
-
-#EXTINF:-1,BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/693.ts
-
-#EXTINF:-1,BeINSPORTS 11HD
-
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1,beINSPORTS 12HD
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN1HD
+http://emp.jan-beryan.giize.com/848.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN2HD
+http://emp.jan-beryan.giize.com/806.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN3HD
+http://emp.jan-beryan.giize.com/765.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN4HD
+http://emp.jan-beryan.giize.com/807.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN5HD
+http://emp.jan-beryan.giize.com/830.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN6HD
+http://emp.jan-beryan.giize.com/863.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN7HD
+http://emp.jan-beryan.giize.com/808.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN8HD
+http://emp.jan-beryan.giize.com/849.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN9HD
+http://emp.jan-beryan.giize.com/766.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN12HD
+http://emp.jan-beryan.giize.com/850.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN11HD
+http://emp.jan-beryan.giize.com/831.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN10HD
+http://emp.jan-beryan.giize.com/864.ts
