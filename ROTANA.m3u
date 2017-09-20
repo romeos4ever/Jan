@@ -1,44 +1,39 @@
-EXTINF:-1,======ROTANA Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANA
-http://emp.jan-beryan.giize.com/4452.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANAAFLAMHD
-http://emp.jan-beryan.giize.com/4213.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACINEMA
-http://emp.jan-beryan.giize.com/4456.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACINEMAHD
-http://emp.jan-beryan.giize.com/4155.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACINEMAKSA
-http://emp.jan-beryan.giize.com/4214.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACLASSIC
-http://emp.jan-beryan.giize.com/4385.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACLASSICHD
-http://emp.jan-beryan.giize.com/4506.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACLIP
-http://emp.jan-beryan.giize.com/4381.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANAKHAL
-http://emp.jan-beryan.giize.com/4322.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANAKHALIJEAHHD
-http://emp.jan-beryan.giize.com/4380.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANAMASRIYA
-http://emp.jan-beryan.giize.com/4156.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANAMASRIYAHD
-http://emp.jan-beryan.giize.com/4216.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ROTANAMUSICHD
-http://emp.jan-beryan.giize.com/4096.ts
-
-
+http://emp.jan-beryan.giize.com/1101.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANAMASRIYAHD
+http://emp.jan-beryan.giize.com/981.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANAMASRIYA
+http://emp.jan-beryan.giize.com/1041.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANAKHALIJEAHHD
+http://emp.jan-beryan.giize.com/1159.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANAKHAL
+http://emp.jan-beryan.giize.com/877.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANACLIP
+http://emp.jan-beryan.giize.com/1158.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANACLASSICHD
+http://emp.jan-beryan.giize.com/704.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANACLASSIC
+http://emp.jan-beryan.giize.com/1154.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANACINEMAKSA
+http://emp.jan-beryan.giize.com/983.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANACINEMAHD
+http://emp.jan-beryan.giize.com/1042.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANACINEMA
+http://emp.jan-beryan.giize.com/633.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANAAFLAMHD
+http://emp.jan-beryan.giize.com/984.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ROTANA
+http://emp.jan-beryan.giize.com/637.ts
