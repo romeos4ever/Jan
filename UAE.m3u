@@ -2,38 +2,42 @@
 
 #EXTINF:-1,======UAE Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ABUDHABI
-http://emp.jan-beryan.giize.com/4319.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADALEMARAT
-http://emp.jan-beryan.giize.com/4269.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADDRAMA
-http://emp.jan-beryan.giize.com/4151.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADENTV
-http://emp.jan-beryan.giize.com/4474.ts
+
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ADNATGEO
-http://emp.jan-beryan.giize.com/4357.ts
+http://emp.jan-beryan.giize.com/1182.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAIALOULA
-http://emp.jan-beryan.giize.com/4451.ts
+#EXTINF:-1,AR-ADENTV
+http://emp.jan-beryan.giize.com/737.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ADDRAMA
+http://emp.jan-beryan.giize.com/1046.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ADALEMARAT
+http://emp.jan-beryan.giize.com/930.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ABUDHABI
+http://emp.jan-beryan.giize.com/880.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-DUBAIONE
-http://emp.jan-beryan.giize.com/4150.ts
+http://emp.jan-beryan.giize.com/1047.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-DUBAIALOULA
+http://emp.jan-beryan.giize.com/638.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-NOORDUBAI
-http://emp.jan-beryan.giize.com/4489.ts
+http://emp.jan-beryan.giize.com/721.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-SAMADUBAI
-http://emp.jan-beryan.giize.com/4450.ts
+http://emp.jan-beryan.giize.com/639.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALSHARJAH
-http://emp.jan-beryan.giize.com/4376.ts
+http://emp.jan-beryan.giize.com/1163.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALDAFRAH
-http://emp.jan-beryan.giize.com/4449.ts
+http://emp.jan-beryan.giize.com/640.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-FUJAIRAHTV
+http://emp.jan-beryan.giize.com/881.ts
