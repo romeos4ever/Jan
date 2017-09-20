@@ -3,28 +3,28 @@
 
 #EXTINF:-1,======YEMEN Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAMAYEMENTV
-http://emp.jan-beryan.giize.com/4231.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-YEMENSHABAB
-http://emp.jan-beryan.giize.com/4061.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-YEMENTODAY
-http://emp.jan-beryan.giize.com/4174.ts
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-YEMENTV
-http://emp.jan-beryan.giize.com/4111.ts
+http://emp.jan-beryan.giize.com/1086.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-YEMENTODAY
+http://emp.jan-beryan.giize.com/1023.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-YEMENSHABAB
+http://emp.jan-beryan.giize.com/1136.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-SAMAYEMENTV
+http://emp.jan-beryan.giize.com/966.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-SHEBATV
-http://emp.jan-beryan.giize.com/4294.ts
+http://emp.jan-beryan.giize.com/905.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-SUHAILTV
-http://emp.jan-beryan.giize.com/4060.ts
+http://emp.jan-beryan.giize.com/1137.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ADENTV
-http://emp.jan-beryan.giize.com/4474.ts
+http://emp.jan-beryan.giize.com/737.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALEIMANTV
-http://emp.jan-beryan.giize.com/4407.ts
-
+http://emp.jan-beryan.giize.com/682.ts
