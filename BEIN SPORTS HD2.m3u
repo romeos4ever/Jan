@@ -1,48 +1,43 @@
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS GLOBAL
-http://173.212.206.199:25461/live/control/control/143.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS NEWS
-http://173.212.206.199:25461/live/control/control/142.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 1 HD-FR
-http://173.212.206.199:25461/live/control/control/156.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 2 HD-FR
-http://173.212.206.199:25461/live/control/control/157.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 1 HD-AR
-http://173.212.206.199:25461/live/control/control/144.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 2 HD-AR
-http://173.212.206.199:25461/live/control/control/145.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 3 HD-AR
-http://173.212.206.199:25461/live/control/control/146.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 4 HD-AR
-http://173.212.206.199:25461/live/control/control/147.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 5 HD-AR
-http://173.212.206.199:25461/live/control/control/148.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 6 HD-AR
-http://173.212.206.199:25461/live/control/control/149.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 7 HD-AR
-http://173.212.206.199:25461/live/control/control/150.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 8 HD-AR
-http://173.212.206.199:25461/live/control/control/151.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 9 HD-AR
-http://173.212.206.199:25461/live/control/control/152.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 10 HD
-http://173.212.206.199:25461/live/control/control/153.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 11 HD
-http://173.212.206.199:25461/live/control/control/154.m3u8
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,SP-BEIN SPORTS 12 HD
-http://173.212.206.199:25461/live/control/control/155.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINSPORTSNEWSHD
+http://emp.jan-beryan.giize.com/753.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINSPORTNBAHD
+http://emp.jan-beryan.giize.com/768.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN1SD
+http://emp.jan-beryan.giize.com/809.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN2SD
+http://emp.jan-beryan.giize.com/851.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN3SD
+http://emp.jan-beryan.giize.com/767.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN4SD
+http://emp.jan-beryan.giize.com/784.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN5SD
+http://emp.jan-beryan.giize.com/785.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN6SD
+http://emp.jan-beryan.giize.com/810.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN7SD
+http://emp.jan-beryan.giize.com/865.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN8SD
+http://emp.jan-beryan.giize.com/852.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN9SD
+http://emp.jan-beryan.giize.com/786.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN10SD
+http://emp.jan-beryan.giize.com/866.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN11SD
+http://emp.jan-beryan.giize.com/867.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEIN12SD
+http://emp.jan-beryan.giize.com/868.ts
