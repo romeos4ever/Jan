@@ -8,22 +8,22 @@
 #EXTINF:-1,======BEIN SPORTS HD=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1  
-http://www.serialkeygenerator.website/bein1
+http://origin2.movcast.tv:1935/iptv/_definst_/b1_source/chunklist.m3u8
 #EXTINF:-1,bein sport2                 
-http://www.serialkeygenerator.website/bein2
+http://origin2.movcast.tv:1935/iptv/_definst_/b2_source/chunklist.m3u8
 #EXTINF:-1,bein sport3                       
-http://www.serialkeygenerator.website/bein3
+http://origin2.movcast.tv:1935/iptv/_definst_/b3_source/chunklist.m3u8
 #EXTINF:-1,bein sport4                   
-http://www.serialkeygenerator.website/bein4
+http://origin2.movcast.tv:1935/iptv/_definst_/b4_source/chunklist.m3u8
 #EXTINF:-1,bein sport5                        
-http://www.serialkeygenerator.website/bein5
+http://origin2.movcast.tv:1935/iptv/_definst_/b5_source/chunklist.m3u8
 #EXTINF:-1,bein sport6                        
-http://www.serialkeygenerator.website/bein6
+http://origin2.movcast.tv:1935/iptv/_definst_/b6_source/chunklist.m3u8
 #EXTINF:-1,bein sport7                    
-http://www.serialkeygenerator.website/bein7
+http://origin2.movcast.tv:1935/iptv/_definst_/b7_source/chunklist.m3u8
 #EXTINF:-1,bein sport8                       
-http://www.serialkeygenerator.website/bein8
+http://origin2.movcast.tv:1935/iptv/_definst_/b8_source/chunklist.m3u8
 #EXTINF:-1,bein sport9                       
-http://www.serialkeygenerator.website/bein9
+http://origin2.movcast.tv:1935/iptv/_definst_/b9_source/chunklist.m3u8
 #EXTINF:-1,bein sport10                       
-http://www.serialkeygenerator.website/bein10
+http://origin2.movcast.tv:1935/iptv/_definst_/b10_source/chunklist.m3u8
