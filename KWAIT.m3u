@@ -1,17 +1,25 @@
 #EXTINF:-1,======KWAIT Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-KUWAITTVSPORTPLUS
 http://emp.jan-beryan.giize.com/702.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-KUWAITTVSPORT
 http://emp.jan-beryan.giize.com/980.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-KUWAITTV2
 http://emp.jan-beryan.giize.com/1019.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-KUWAITTV1
 http://emp.jan-beryan.giize.com/1018.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-KUWAITPLUS
 http://emp.jan-beryan.giize.com/1191.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALAANTV
 http://emp.jan-beryan.giize.com/1162.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ALRAI
 http://emp.jan-beryan.giize.com/643.ts
