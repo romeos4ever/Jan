@@ -3,35 +3,49 @@
 #EXTINF:-1,======ALGEIRIA Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ECHOUROUKTVHD
 http://emp.jan-beryan.giize.com/651.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ECHOUROUKNEWS
 http://emp.jan-beryan.giize.com/1187.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ECHOUROUKBENNA
 http://emp.jan-beryan.giize.com/943.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-DZAIRTV
 http://emp.jan-beryan.giize.com/1130.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-DZAIR24
 http://emp.jan-beryan.giize.com/903.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-DZAIR16
 http://emp.jan-beryan.giize.com/1131.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-DZAIERNEWS
 http://emp.jan-beryan.giize.com/955.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-NUMIDIANEWSTV
 http://emp.jan-beryan.giize.com/1077.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-KBC
 http://emp.jan-beryan.giize.com/1203.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-SAMIRA
 http://emp.jan-beryan.giize.com/1056.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-MEDI1TV
 http://emp.jan-beryan.giize.com/731.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-CANALALGERIA
 http://emp.jan-beryan.giize.com/1127.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-TV4
 http://emp.jan-beryan.giize.com/1129.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-TVTAMAZIGHT
 http://emp.jan-beryan.giize.com/1201.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-TVCORAN
 http://emp.jan-beryan.giize.com/1115.ts
 
