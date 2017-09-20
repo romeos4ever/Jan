@@ -1,647 +1,357 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BeIN SPORTS 1 HD
-http://emp.jan-beryan.giize.com/6335.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BeIN SPORTS 2 HD
-http://emp.jan-beryan.giize.com/6336.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BeIN SPORTS 3 HD
-http://emp.jan-beryan.giize.com/6337.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BeIN SPORTS 4 HD
-http://emp.jan-beryan.giize.com/6338.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-24TV
-http://emp.jan-beryan.giize.com/5368.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-360TV
-http://emp.jan-beryan.giize.com/5270.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART TURK HD
-http://emp.jan-beryan.giize.com/5845.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NAT GEO WILD HD
-http://emp.jan-beryan.giize.com/5676.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART PREMIUM HD
-http://emp.jan-beryan.giize.com/5729.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-FOOD NETWORK HD
-http://emp.jan-beryan.giize.com/5962.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART ACTION HD
-http://emp.jan-beryan.giize.com/5679.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SINEMATV AILE HD
-http://emp.jan-beryan.giize.com/5678.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-DIZI TV HD
-http://emp.jan-beryan.giize.com/5963.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KITCHEN TV HD
-http://emp.jan-beryan.giize.com/5908.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-DISCOVERY SCIENCE HD
-http://emp.jan-beryan.giize.com/5674.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SİNEMATV 1001 HD
-http://emp.jan-beryan.giize.com/5787.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SİNEMATV AKSION HD
-http://emp.jan-beryan.giize.com/5964.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART GOLD HD
-http://emp.jan-beryan.giize.com/5732.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART PLATIN 2 HD
-http://emp.jan-beryan.giize.com/5788.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART PRMIUM 2 HD
-http://emp.jan-beryan.giize.com/5844.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART CLASSIC HD
-http://emp.jan-beryan.giize.com/5731.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART FEST HD
-http://emp.jan-beryan.giize.com/5847.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SMART SPOR HD
-http://emp.jan-beryan.giize.com/5789.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-S SPORT HD
-http://emp.jan-beryan.giize.com/5680.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TIVIBU SPOR 2 HD
-http://emp.jan-beryan.giize.com/5682.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART PLATIN HD
-http://emp.jan-beryan.giize.com/5730.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SINEMA TV HD
-http://emp.jan-beryan.giize.com/5965.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TIVIBU SPOR 3 HD
-http://emp.jan-beryan.giize.com/5846.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ANIMAL PLANET HD
-http://emp.jan-beryan.giize.com/5681.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MOVIESMART FAMILY HD
-http://emp.jan-beryan.giize.com/5966.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-DICOVERY CHANNEL HD
-http://emp.jan-beryan.giize.com/5675.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-VIASAT HISTORY HD
-http://emp.jan-beryan.giize.com/5677.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-A2TV
-http://emp.jan-beryan.giize.com/5260.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-AHABER
-http://emp.jan-beryan.giize.com/5302.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-AKILLITV
-http://emp.jan-beryan.giize.com/5339.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-AKSUTV
-http://emp.jan-beryan.giize.com/5246.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ANADOLUYURDUMTV
-http://emp.jan-beryan.giize.com/5291.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ASPOR
-http://emp.jan-beryan.giize.com/5337.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ATV
-http://emp.jan-beryan.giize.com/5369.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ATVHD
-http://emp.jan-beryan.giize.com/5323.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BENGUTURK
-http://emp.jan-beryan.giize.com/5334.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BEREKETTV
-http://emp.jan-beryan.giize.com/5282.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BEYAZTV
-http://emp.jan-beryan.giize.com/5300.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BIATTV
-http://emp.jan-beryan.giize.com/5907.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BLOOMBERGHT
-http://emp.jan-beryan.giize.com/5321.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BRT1KKTC
-http://emp.jan-beryan.giize.com/5361.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-BRT2KKTC
-http://emp.jan-beryan.giize.com/5304.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CARTOONNETWORK
-http://emp.jan-beryan.giize.com/5317.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CAYTV
-http://emp.jan-beryan.giize.com/5365.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CEMTV
-http://emp.jan-beryan.giize.com/5281.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CIFTCITV
-http://emp.jan-beryan.giize.com/5267.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CNBCE
-http://emp.jan-beryan.giize.com/5354.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CNNTURK
-http://emp.jan-beryan.giize.com/5288.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-CNNTURKHD
-http://emp.jan-beryan.giize.com/5355.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-DISNEYCHANNEL
-http://emp.jan-beryan.giize.com/5256.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-DREAMTURK
-http://emp.jan-beryan.giize.com/5348.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-DREAMTV
-http://emp.jan-beryan.giize.com/5309.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-EDESSATV
-http://emp.jan-beryan.giize.com/5330.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-EKINTURK
-http://emp.jan-beryan.giize.com/5347.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-FBTV
-http://emp.jan-beryan.giize.com/5350.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-FILTV
-http://emp.jan-beryan.giize.com/5319.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-FLASHTV
-http://emp.jan-beryan.giize.com/5318.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-FOXTV
-http://emp.jan-beryan.giize.com/5341.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-FOXTVHD
-http://emp.jan-beryan.giize.com/5273.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-GAZIANTEPOLAYTV
-http://emp.jan-beryan.giize.com/5275.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-GEMTURKHD
-http://emp.jan-beryan.giize.com/5786.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-GUNEYDUGOTV
-http://emp.jan-beryan.giize.com/5265.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-HABERTURK
-http://emp.jan-beryan.giize.com/5257.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-HALKTV
-http://emp.jan-beryan.giize.com/5336.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-HILALTV
-http://emp.jan-beryan.giize.com/5278.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-HTV
-http://emp.jan-beryan.giize.com/5247.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KABETV
-http://emp.jan-beryan.giize.com/5293.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KACKARTV
-http://emp.jan-beryan.giize.com/5313.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANAL16
-http://emp.jan-beryan.giize.com/5280.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANAL3
-http://emp.jan-beryan.giize.com/5329.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANAL33
-http://emp.jan-beryan.giize.com/5328.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANAL7
-http://emp.jan-beryan.giize.com/5254.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANAL7HD
-http://emp.jan-beryan.giize.com/5286.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALA
-http://emp.jan-beryan.giize.com/5314.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALAVRUPA
-http://emp.jan-beryan.giize.com/5268.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALB
-http://emp.jan-beryan.giize.com/5253.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALD
-http://emp.jan-beryan.giize.com/5358.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALDHD
-http://emp.jan-beryan.giize.com/5259.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALT
-http://emp.jan-beryan.giize.com/5277.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KANALURFA
-http://emp.jan-beryan.giize.com/5327.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KARADENIZTURK
-http://emp.jan-beryan.giize.com/5284.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KIBRISADATV
-http://emp.jan-beryan.giize.com/5264.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KIBRISGENCTV
-http://emp.jan-beryan.giize.com/5245.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KIBRISTV
-http://emp.jan-beryan.giize.com/5305.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KONTV
-http://emp.jan-beryan.giize.com/5326.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KOYTV
-http://emp.jan-beryan.giize.com/5311.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KRALPOPTV
-http://emp.jan-beryan.giize.com/5310.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KRALTV
-http://emp.jan-beryan.giize.com/5349.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-KRTTV
-http://emp.jan-beryan.giize.com/5263.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-LINETV
-http://emp.jan-beryan.giize.com/5344.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MAVIKARADENIZ
-http://emp.jan-beryan.giize.com/5363.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MCEU
-http://emp.jan-beryan.giize.com/5362.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MELTEMTV
-http://emp.jan-beryan.giize.com/5248.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MESAJTV
-http://emp.jan-beryan.giize.com/5294.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MINIKACOCUK
-http://emp.jan-beryan.giize.com/5299.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-MINIKAGO
-http://emp.jan-beryan.giize.com/5353.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NR1HD
-http://emp.jan-beryan.giize.com/5364.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NTV
-http://emp.jan-beryan.giize.com/5289.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NTVHD
-http://emp.jan-beryan.giize.com/5272.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NTVSPOR
-http://emp.jan-beryan.giize.com/5297.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NTVSPORHD
-http://emp.jan-beryan.giize.com/5269.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-NURTV
-http://emp.jan-beryan.giize.com/5331.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-OLAYTV
-http://emp.jan-beryan.giize.com/5360.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-PLANETCOCUK
-http://emp.jan-beryan.giize.com/5298.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-PLANETMUTFAK
-http://emp.jan-beryan.giize.com/5307.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-PLANETPEMBE
-http://emp.jan-beryan.giize.com/5271.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-PLANETTURK
-http://emp.jan-beryan.giize.com/5345.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SEMERKANDTV
-http://emp.jan-beryan.giize.com/5308.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SHOWMAX
-http://emp.jan-beryan.giize.com/5287.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SHOWTV
-http://emp.jan-beryan.giize.com/5322.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SHOWTVHD
-http://emp.jan-beryan.giize.com/5909.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SIHHATTV
-http://emp.jan-beryan.giize.com/5292.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-SPORTSTV
-http://emp.jan-beryan.giize.com/5366.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-STARTVHD
-http://emp.jan-beryan.giize.com/5342.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TARIMTURKTV
-http://emp.jan-beryan.giize.com/5250.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TAYTVHD
-http://emp.jan-beryan.giize.com/5316.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TEKRUMELITV
-http://emp.jan-beryan.giize.com/5306.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TGRTBELGESEL
-http://emp.jan-beryan.giize.com/5333.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TGRTHABER
-http://emp.jan-beryan.giize.com/5320.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TIVIBUSPOR
-http://emp.jan-beryan.giize.com/5338.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRT1
-http://emp.jan-beryan.giize.com/5359.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRT3SPOR
-http://emp.jan-beryan.giize.com/5296.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRTBELGESEL
-http://emp.jan-beryan.giize.com/5312.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRTCOCUK
-http://emp.jan-beryan.giize.com/5367.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRTDIYANET
-http://emp.jan-beryan.giize.com/5279.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRTMUZIK
-http://emp.jan-beryan.giize.com/5283.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TRTOKUL
-http://emp.jan-beryan.giize.com/5352.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TURKMENELITVHD
-http://emp.jan-beryan.giize.com/4290.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV1
-http://emp.jan-beryan.giize.com/5290.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV19
-http://emp.jan-beryan.giize.com/5266.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV2
-http://emp.jan-beryan.giize.com/5301.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV2HD
-http://emp.jan-beryan.giize.com/5340.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV4
-http://emp.jan-beryan.giize.com/5351.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV5
-http://emp.jan-beryan.giize.com/5346.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV52
-http://emp.jan-beryan.giize.com/5252.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV8
-http://emp.jan-beryan.giize.com/5356.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV85HD
-http://emp.jan-beryan.giize.com/5258.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TV8HD
-http://emp.jan-beryan.giize.com/5357.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-TVKAYSERI
-http://emp.jan-beryan.giize.com/5276.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-UCANKUSTV
-http://emp.jan-beryan.giize.com/5303.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ULKETV
-http://emp.jan-beryan.giize.com/5315.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ULKETVHD
-http://emp.jan-beryan.giize.com/5285.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-ULUSALTV
-http://emp.jan-beryan.giize.com/5335.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-VATANTV
-http://emp.jan-beryan.giize.com/5295.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-VIVATV
-http://emp.jan-beryan.giize.com/5332.ts
+#EXTINF:-1,TR-YABANTV
+http://emp.jan-beryan.giize.com/390.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,TR-VUSLATTV
-http://emp.jan-beryan.giize.com/5249.ts
+http://emp.jan-beryan.giize.com/392.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-YOLTV
-http://emp.jan-beryan.giize.com/5843.ts
+#EXTINF:-1,TR-VIVATV
+http://emp.jan-beryan.giize.com/314.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,TR-YABANTV
-http://emp.jan-beryan.giize.com/5251.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.tvyayinakisi.com/kanallar/b/trt_1.png" tvg-name="trt 1 hd"  group-title="TURKEY",trt 1 hd
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://telaffuzz.com/wp-content/uploads/2015/04/trtarap.jpg" tvg-name="TRTARAPCA"  group-title="TURKEY",TRTARAPCA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT AVAZ"  group-title="TURKEY",TRT AVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT BELGESEL"  group-title="TURKEY",TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT COCUK"  group-title="TURKEY",TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT DIYANET"  group-title="TURKEY",TRT DIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT HABER HD"  group-title="TURKEY",TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT MUZIK"  group-title="TURKEY",TRT MUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT OKUL"  group-title="TURKEY",TRT OKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRTTurk"  group-title="TURKEY",TRTTurk
-http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT WORLD"  group-title="TURKEY",TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kanal D"  group-title="TURKEY",kanal D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kanal D yedek"  group-title="TURKEY",kanal D yedek
-http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tv 2"  group-title="TURKEY",Tv 2
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kanal 24"  group-title="TURKEY",kanal 24
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kanalben"  group-title="TURKEY",kanalben
-http://kanalben.cubecdn.net/live/kanalben1.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kanalben"  group-title="TURKEY",kanal t
-rtmp://www.kanalt.com.tr/live/_definst_/kanalt
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="semer kand"  group-title="TURKEY",semer kand
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="yasin tv"  group-title="TURKEY",yasin tv
-http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MEDINE TV"  group-title="TURKEY",MEDINE TV
-http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="dream turktv"  group-title="TURKEY",dream turktv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="dreamtv"  group-title="TURKEY",dreamtv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NUMBER ONE HD"  group-title="TURKEY",NUMBER ONE HD
-http://nr1hls.radyotvonline.com/nr1tv/nr1tv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NUMBER ONE TURK"  group-title="TURKEY",NUMBER ONE TURK
-http://nr1hls.radyotvonline.com/nr1tv/nr1_turk.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DOCUMANTARY TR"  group-title="TURKEY",DOCUMANTARY TR
-http://188.165.239.200:7088/
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KANAL TEK"  group-title="TURKEY",KANAL TEK
-http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPORTS TV"  group-title="TURKEY",SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV 100"  group-title="TURKEY",TV 100
-http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VIRGIN TV"  group-title="TURKEY",VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="star tv"  group-title="TURKEY",star tv
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="eurostar"  group-title="TURKEY",eurostar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="show max"  group-title="TURKEY",show max
-http://mn-l.mncdn.com:1935//showmax2/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="show max"  group-title="TURKEY",show max youtube
-https://www.youtube.com/watch?v=DzPDPtxeY2Y
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="showtv"  group-title="TURKEY",showtv
-http://canli2.tvnet.tv.tr/live/smil:showtv.smil/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="showtv"  group-title="TURKEY",showtv
-http://canli2.tvnet.tv.tr/live/smil:showtv.smil/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV8"  group-title="TURKEY",TV8
-http://yayin8.canlitv.com:1935/tv8/tv8/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV8"  group-title="TURKEY",TV8
-http://yayin8.canlitv.com:1935/tv8/tv8/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tv 2"  group-title="TURKEY",Tv 2
-https://live.dogannet.tv/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="sinema1"  group-title="TURKEY",sinema1
-mmsh://50.7.93.114:80/sinema1/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="sinema2"  group-title="TURKEY",sinema2
-mmsh://50.7.93.114:80/sinema2/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="sinema 3"  group-title="TURKEY",sinema 3
-mmsh://50.7.93.114:80/sinema3/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="sinema 4"  group-title="TURKEY",sinema 4
-mmsh://50.7.93.114:80/sinema4/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="sinema 5"  group-title="TURKEY",sinema 5
-mmsh://50.7.93.114:80/sinema5/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="fortuna tv"  group-title="TURKEY",fortuna tv
-http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="fil tv"  group-title="TURKEY",fil tv
-http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="tv 4"  group-title="TURKEY",tv 4
-http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",brt tv
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",flashtv
-rtmp://184.173.181.2:1935/8158/8158
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",kanal 38
-http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",maltaya
-http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",alanya tv
-rtmp://stream2.taksimbilisim.com/alanyatv/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",mersin tv
-rtmp://ms.n1.tvkur.noccdn.com/cdn/558833d1d1a37
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="360 sky tv"  group-title="TURKEY",360 sky tv
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT COCUK"  group-title="TURKEY",TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="cnn turk"  group-title="TURKEY",cnn turk
-https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="cnnturk"  group-title="TURKEY",cnnturk
-http://media.netd.com.tr/s2/hls_live/cnn_turk/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Planet cocuk"  group-title="TURKEY",Planet cocuk
-https://ams.tvizlehd.com/live/planetcocuk/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Planet cocuk"  group-title="TURKEY",Planet cocuk Backup
-http://62.210.180.24/7/RMDs4CMA/61647/mot9f9j/15018/NMF4zUW/planetcocuk.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Kanal B"  group-title="TURKEY",Kanal B
-rtmp://212.174.233.129/livepkgr/mylivestream
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Kanal A"  group-title="TURKEY",Kanal A
-https://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BLOOMBERG HT"  group-title="TURKEY",BLOOMBERG HT
-http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="aksu tv"  group-title="TURKEY",aksu tv
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kapadokyatv"  group-title="TURKEY",kapadokyatv
-http://yayin3.canlitv.com:1935/live/kapadokyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VUSLAT TV"  group-title="TURKEY",VUSLAT TV
-http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tv kayseri"  group-title="TURKEY",Tv kayseri
-rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="tv 2000"  group-title="TURKEY",tv 2000
-rtmp://stream.taksimbilisim.com/tv2000/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV 52"  group-title="TURKEY",TV 52
-rtmp://stream.taksimbilisim.com/tv52/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tv 41"  group-title="TURKEY",Tv 41
-rtmp://stream.taksimbilisim.com/tv41/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Rumeli tv"  group-title="TURKEY",Rumeli tv
-http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",TV10
-rtmp://5.135.142.60:1935/tv10/xetero
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",arttv
-rtmp://159.253.44.101/arttv/arttv
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=""  group-title="TURKEY",batiyakasi
-http://s02.vidpanel.com/batiyakasi/batiyakasi.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV10"  group-title="TURKEY",BOZTEPE TV
-http://stream.taksimbilisim.com:1935/btv/smil:btv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV10"  group-title="TURKEY",Aile
-rtmp://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TARSUS G?Ãƒâ€šÃ‚Â¼NEY TV"  group-title="TURKEY",TARSUS G?Ãƒâ€šÃ‚Â¼NEY TV
-rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SIVAS SRT TV"  group-title="TURKEY",SIVAS SRT TV
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MERSIN SUN TV"  group-title="TURKEY",MERSIN SUN TV
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="M-TV AZ"  group-title="TURKEY",M-TV AZ
-rtmp://85.132.78.6:1935/live/muztv.stream
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AHITV"  group-title="TURKEY",AHITV
-http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NTV"  group-title="TURKEY",NTV
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ULUSAL KANAL"  group-title="TURKEY",ULUSAL KANAL
-rtmp://184.173.181.2/8132//8132
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tgrt Haber"  group-title="TURKEY",Tgrt Haber
-rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEYAZ TV"  group-title="TURKEY",BEYAZ TV
-rtmp://37.77.31.3/liveedge/BEYAZTVMQ
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kanal urfa"  group-title="TURKEY",kanal urfa
-rtmp://stream.taksimbilisim.com/kanalurfa//bant1
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bursa spor"  group-title="TURKEY",Bursa spor
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="dost tv"  group-title="TURKEY",dost tv
-http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ful TV"  group-title="TURKEY",Ful TV
-http://yayin3.canlitv.com:1935/canlitv/nevtv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Istanbul TV"  group-title="TURKEY",Istanbul TV
-https://istimeglb.mediatriple.net//webtv/webtv_wowza1/Playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GAZI TV"  group-title="TURKEY",GAZI TV
-http://www.arkumedia.com:1935/gazitv/gazitv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="buyuk sivas tv"  group-title="TURKEY",buyuk sivas tv
-http://yayin3.canlitv.com:1935/canlitv/buyuksivastv/playlist.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KANAL A2"  group-title="TURKEY",KANAL A2
-http://yayin8.canlitv.com:1935/live/a2/playlist.m3u8
+#EXTINF:-1,TR-VATANTV
+http://emp.jan-beryan.giize.com/349.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ULUSALTV
+http://emp.jan-beryan.giize.com/311.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ULKETVHD
+http://emp.jan-beryan.giize.com/359.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ULKETV
+http://emp.jan-beryan.giize.com/329.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-UCANKUSTV
+http://emp.jan-beryan.giize.com/341.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TVKAYSERI
+http://emp.jan-beryan.giize.com/368.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV8HD
+http://emp.jan-beryan.giize.com/290.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV85HD
+http://emp.jan-beryan.giize.com/383.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV8
+http://emp.jan-beryan.giize.com/291.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV52
+http://emp.jan-beryan.giize.com/389.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV5
+http://emp.jan-beryan.giize.com/301.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV4
+http://emp.jan-beryan.giize.com/296.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV2HD
+http://emp.jan-beryan.giize.com/306.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV2
+http://emp.jan-beryan.giize.com/343.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV19
+http://emp.jan-beryan.giize.com/377.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TV1
+http://emp.jan-beryan.giize.com/354.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TURKMENELITVHD
+http://emp.jan-beryan.giize.com/909.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRTOKUL
+http://emp.jan-beryan.giize.com/295.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRTMUZIK
+http://emp.jan-beryan.giize.com/361.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRTDIYANET
+http://emp.jan-beryan.giize.com/365.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRTCOCUK
+http://emp.jan-beryan.giize.com/280.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRTBELGESEL
+http://emp.jan-beryan.giize.com/332.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRT3SPOR
+http://emp.jan-beryan.giize.com/348.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TRT1
+http://emp.jan-beryan.giize.com/288.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TIVIBUSPOR
+http://emp.jan-beryan.giize.com/308.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TGRTHABER
+http://emp.jan-beryan.giize.com/324.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TGRTBELGESEL
+http://emp.jan-beryan.giize.com/313.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TEKRUMELITV
+http://emp.jan-beryan.giize.com/338.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TAYTVHD
+http://emp.jan-beryan.giize.com/328.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-TARIMTURKTV
+http://emp.jan-beryan.giize.com/391.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-STARTVHD
+http://emp.jan-beryan.giize.com/304.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-SPORTSTV
+http://emp.jan-beryan.giize.com/281.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-SIHHATTV
+http://emp.jan-beryan.giize.com/352.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-SHOWTV
+http://emp.jan-beryan.giize.com/322.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-SHOWMAX
+http://emp.jan-beryan.giize.com/357.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-SEMERKANDTV
+http://emp.jan-beryan.giize.com/336.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-PLANETTURK
+http://emp.jan-beryan.giize.com/302.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-PLANETPEMBE
+http://emp.jan-beryan.giize.com/372.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-PLANETMUTFAK
+http://emp.jan-beryan.giize.com/337.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-PLANETCOCUK
+http://emp.jan-beryan.giize.com/346.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-OLAYTV
+http://emp.jan-beryan.giize.com/287.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-NURTV
+http://emp.jan-beryan.giize.com/315.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-NTVSPORHD
+http://emp.jan-beryan.giize.com/374.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-NTVSPOR
+http://emp.jan-beryan.giize.com/347.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-NTVHD
+http://emp.jan-beryan.giize.com/371.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-NTV
+http://emp.jan-beryan.giize.com/355.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-NR1HD
+http://emp.jan-beryan.giize.com/283.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-MINIKAGO
+http://emp.jan-beryan.giize.com/294.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-MINIKACOCUK
+http://emp.jan-beryan.giize.com/345.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-MESAJTV
+http://emp.jan-beryan.giize.com/350.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-MELTEMTV
+http://emp.jan-beryan.giize.com/393.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-MCEU
+http://emp.jan-beryan.giize.com/285.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-MAVIKARADENIZ
+http://emp.jan-beryan.giize.com/284.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-LINETV
+http://emp.jan-beryan.giize.com/303.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KRTTV
+http://emp.jan-beryan.giize.com/380.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KRALTV
+http://emp.jan-beryan.giize.com/298.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KRALPOPTV
+http://emp.jan-beryan.giize.com/334.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KOYTV
+http://emp.jan-beryan.giize.com/333.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KONTV
+http://emp.jan-beryan.giize.com/320.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KIBRISTV
+http://emp.jan-beryan.giize.com/339.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KIBRISGENCTV
+http://emp.jan-beryan.giize.com/396.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KIBRISADATV
+http://emp.jan-beryan.giize.com/379.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KARADENIZTURK
+http://emp.jan-beryan.giize.com/360.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALURFA
+http://emp.jan-beryan.giize.com/319.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALT
+http://emp.jan-beryan.giize.com/367.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALDHD
+http://emp.jan-beryan.giize.com/382.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALD
+http://emp.jan-beryan.giize.com/289.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALB
+http://emp.jan-beryan.giize.com/388.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALAVRUPA
+http://emp.jan-beryan.giize.com/375.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANALA
+http://emp.jan-beryan.giize.com/330.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANAL7HD
+http://emp.jan-beryan.giize.com/358.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANAL7
+http://emp.jan-beryan.giize.com/387.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANAL33
+http://emp.jan-beryan.giize.com/318.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANAL3
+http://emp.jan-beryan.giize.com/317.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KANAL16
+http://emp.jan-beryan.giize.com/364.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KACKARTV
+http://emp.jan-beryan.giize.com/331.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-KABETV
+http://emp.jan-beryan.giize.com/351.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-HTV
+http://emp.jan-beryan.giize.com/394.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-HILALTV
+http://emp.jan-beryan.giize.com/366.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-HALKTV
+http://emp.jan-beryan.giize.com/310.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-HABERTURK
+http://emp.jan-beryan.giize.com/384.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-GUNEYDUGOTV
+http://emp.jan-beryan.giize.com/378.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-GAZIANTEPOLAYTV
+http://emp.jan-beryan.giize.com/369.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-FOXTVHD
+http://emp.jan-beryan.giize.com/370.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-FOXTV
+http://emp.jan-beryan.giize.com/305.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-FLASHTV
+http://emp.jan-beryan.giize.com/326.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-FILTV
+http://emp.jan-beryan.giize.com/325.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-FBTV
+http://emp.jan-beryan.giize.com/297.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-EKINTURK
+http://emp.jan-beryan.giize.com/300.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-EDESSATV
+http://emp.jan-beryan.giize.com/316.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-DREAMTV
+http://emp.jan-beryan.giize.com/335.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-DREAMTURK
+http://emp.jan-beryan.giize.com/299.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-DISNEYCHANNEL
+http://emp.jan-beryan.giize.com/385.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CNNTURKHD
+http://emp.jan-beryan.giize.com/292.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CNNTURK
+http://emp.jan-beryan.giize.com/356.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CNBCE
+http://emp.jan-beryan.giize.com/293.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CIFTCITV
+http://emp.jan-beryan.giize.com/376.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CEMTV
+http://emp.jan-beryan.giize.com/363.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CAYTV
+http://emp.jan-beryan.giize.com/282.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-CARTOONNETWORK
+http://emp.jan-beryan.giize.com/327.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-BRT2KKTC
+http://emp.jan-beryan.giize.com/340.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-BRT1KKTC
+http://emp.jan-beryan.giize.com/286.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-BLOOMBERGHT
+http://emp.jan-beryan.giize.com/323.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-BEYAZTV
+http://emp.jan-beryan.giize.com/344.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-BEREKETTV
+http://emp.jan-beryan.giize.com/362.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-BENGUTURK
+http://emp.jan-beryan.giize.com/312.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ATVHD
+http://emp.jan-beryan.giize.com/321.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ATV
+http://emp.jan-beryan.giize.com/278.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ASPOR
+http://emp.jan-beryan.giize.com/309.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-ANADOLUYURDUMTV
+http://emp.jan-beryan.giize.com/353.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-AKSUTV
+http://emp.jan-beryan.giize.com/395.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-AKILLITV
+http://emp.jan-beryan.giize.com/307.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-AHABER
+http://emp.jan-beryan.giize.com/342.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-A2TV
+http://emp.jan-beryan.giize.com/381.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-360TV
+http://emp.jan-beryan.giize.com/373.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,TR-24TV
+http://emp.jan-beryan.giize.com/279.ts
