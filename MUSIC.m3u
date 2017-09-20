@@ -1,55 +1,40 @@
 
-#EXTINF:-1,======MUSIC Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-MAZZIKATV
-http://emp.jan-beryan.giize.com/4241.ts
+http://emp.jan-beryan.giize.com/957.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-WANASAH
-http://emp.jan-beryan.giize.com/4074.ts
+http://emp.jan-beryan.giize.com/1123.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-ARABICATV
-http://emp.jan-beryan.giize.com/4075.ts
+http://emp.jan-beryan.giize.com/1122.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-AGHANITV
-http://emp.jan-beryan.giize.com/4185.ts
+http://emp.jan-beryan.giize.com/1012.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-HAWACOM
-http://emp.jan-beryan.giize.com/4299.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-OSN-Music-Now
-http://emp.jan-beryan.giize.com/6171.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MEMUSICTV
-http://emp.jan-beryan.giize.com/4123.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MUSICALARRAB
-http://emp.jan-beryan.giize.com/4298.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MUSICALHANEN
-http://emp.jan-beryan.giize.com/4421.ts
+http://emp.jan-beryan.giize.com/900.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-MUSICALREMAS
-http://emp.jan-beryan.giize.com/4484.ts
+http://emp.jan-beryan.giize.com/726.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANAMUSICHD
-http://emp.jan-beryan.giize.com/4096.ts
+#EXTINF:-1,AR-MUSICALHANEN
+http://emp.jan-beryan.giize.com/668.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANACLIP
-http://emp.jan-beryan.giize.com/4381.ts
+#EXTINF:-1,AR-MUSICALARRAB
+http://emp.jan-beryan.giize.com/901.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROTANA
-http://emp.jan-beryan.giize.com/4452.ts
+#EXTINF:-1,AR-MEMUSICTV
+http://emp.jan-beryan.giize.com/1074.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-SUDANMUSIC
-http://emp.jan-beryan.giize.com/4564.ts
+http://emp.jan-beryan.giize.com/825.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SHABABTV
-http://emp.jan-beryan.giize.com/4351.ts
+#EXTINF:-1,AR-ROTANAMUSICHD
+http://emp.jan-beryan.giize.com/1101.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-FUNOON
-http://emp.jan-beryan.giize.com/4177.ts
+#EXTINF:-1,AR-ROTANACLIP
+http://emp.jan-beryan.giize.com/1158.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-AWDEH
-http://emp.jan-beryan.giize.com/4414.ts
-
+#EXTINF:-1,AR-ROTANA
+http://emp.jan-beryan.giize.com/637.ts
