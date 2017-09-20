@@ -1,78 +1,54 @@
 
 #EXTINF:-1,======ARAB SPORTS Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+
 #EXTINF:-1,AR-ONSPORTV
-http://emp.jan-beryan.giize.com/4279.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/920.ts
 #EXTINF:-1,AR-MBCPROSPORT1
-http://emp.jan-beryan.giize.com/4015.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/847.ts
 #EXTINF:-1,AR-MBCPROSPORT2
-http://emp.jan-beryan.giize.com/4540.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/803.ts
 #EXTINF:-1,AR-MBCPROSPORT3
-http://emp.jan-beryan.giize.com/4539.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/804.ts
 #EXTINF:-1,AR-MBCPROSPORT4
-http://emp.jan-beryan.giize.com/4538.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BAHRAINSPORT1HD
-http://emp.jan-beryan.giize.com/4277.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/805.ts
 #EXTINF:-1,AR-BAHRAINSPORT2HD
-http://emp.jan-beryan.giize.com/4159.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DMCSPORTS
-http://emp.jan-beryan.giize.com/4160.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAIRACING2
-http://emp.jan-beryan.giize.com/4098.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAIRACING3
-http://emp.jan-beryan.giize.com/4158.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAISPORTS1
-http://emp.jan-beryan.giize.com/4099.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAISPORTS3
-http://emp.jan-beryan.giize.com/4276.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAISPORTS4
-http://emp.jan-beryan.giize.com/4275.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-IRAQIASPORT
-http://emp.jan-beryan.giize.com/4388.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-JORDANSPORT
-http://emp.jan-beryan.giize.com/4218.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-KUWAITTVSPORT
-http://emp.jan-beryan.giize.com/4217.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/1038.ts
+#EXTINF:-1,AR-BAHRAINSPORT1HD
+http://emp.jan-beryan.giize.com/922.ts
 #EXTINF:-1,AR-KUWAITTVSPORTPLUS
-http://emp.jan-beryan.giize.com/4387.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NEELAINSPORT
-http://emp.jan-beryan.giize.com/4161.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILESPORT
-http://emp.jan-beryan.giize.com/4221.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/702.ts
+#EXTINF:-1,AR-KUWAITTVSPORT
+http://emp.jan-beryan.giize.com/980.ts
+#EXTINF:-1,AR-IRAQIASPORT
+http://emp.jan-beryan.giize.com/701.ts
+#EXTINF:-1,AR-DUBAISPORTS3
+http://emp.jan-beryan.giize.com/923.ts
+#EXTINF:-1,AR-DUBAISPORTS1
+http://emp.jan-beryan.giize.com/1098.ts
+#EXTINF:-1,AR-DUBAIRACING3
+http://emp.jan-beryan.giize.com/1039.ts
+#EXTINF:-1,AR-DUBAIRACING2
+http://emp.jan-beryan.giize.com/1099.ts
+#EXTINF:-1,AR-DMCSPORTS
+http://emp.jan-beryan.giize.com/1037.ts
 #EXTINF:-1,AR-OMANTVSPORT
-http://emp.jan-beryan.giize.com/4034.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PALESTINESPORT
-http://emp.jan-beryan.giize.com/4389.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAUDI24SPORT
-http://emp.jan-beryan.giize.com/4517.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAUDISPORT
-http://emp.jan-beryan.giize.com/4101.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SHARJAHSPORT
-http://emp.jan-beryan.giize.com/4100.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/764.ts
+#EXTINF:-1,AR-NILESPORT
+http://emp.jan-beryan.giize.com/976.ts
+#EXTINF:-1,AR-NEELAINSPORT
+http://emp.jan-beryan.giize.com/1036.ts
 #EXTINF:-1,AR-SUDANSPORT
-http://emp.jan-beryan.giize.com/4541.ts
+http://emp.jan-beryan.giize.com/802.ts
+#EXTINF:-1,AR-SHARJAHSPORT
+http://emp.jan-beryan.giize.com/1097.ts
+#EXTINF:-1,AR-SAUDISPORT
+http://emp.jan-beryan.giize.com/1096.ts
+#EXTINF:-1,AR-SAUDI24SPORT
+http://emp.jan-beryan.giize.com/783.ts
+#EXTINF:-1,AR-PALESTINESPORT
+http://emp.jan-beryan.giize.com/700.ts
+
+
+
+
