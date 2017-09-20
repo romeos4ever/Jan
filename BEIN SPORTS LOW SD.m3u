@@ -1,54 +1,47 @@
 
 
-#EXTINF:-1,======هذا السيرفر غالبا يعمل اثناء المبارايات=======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-
 
 #EXTINF:-1,======BEIN SPORTS 240P Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1 sd
-http://185.180.15.249:8081/nimble_live/beinsports1-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
+http://origin2.movcast.tv:1935/iptv/_definst_/b1_240p/chunklist.m3u8
 #EXTINF:-1,bein sport2 sd
-http://185.180.15.249:8081/nimble_live/beinsports2-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
+http://origin2.movcast.tv:1935/iptv/_definst_/b2_240p/chunklist.m3u8
 
 
 
 #EXTINF:-1,bein sport3 sd
-http://185.180.15.249:8081/nimble_live/beinsports3-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
+http://origin2.movcast.tv:1935/iptv/_definst_/b3_240p/chunklist.m3u8
 
 
 
 
 #EXTINF:-1,bein sport4 sd
-http://185.180.15.249:8081/nimble_live/beinsports4-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
+http://origin2.movcast.tv:1935/iptv/_definst_/b4_240p/chunklist.m3u8
 
 
 
 #EXTINF:-1,bein sport5 sd
-http://185.180.15.249:8081/nimble_live/beinsports5-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
+http://origin2.movcast.tv:1935/iptv/_definst_/b5_240p/chunklist.m3u8
 
 
 
 
 
 #EXTINF:-1,bein sport6 sd
-http://185.180.15.249:8081/nimble_live/beinsports6-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
+http://origin2.movcast.tv:1935/iptv/_definst_/b6_240p/chunklist.m3u8
 
 
 
 
 
 #EXTINF:-1,bein sport7 sd
-http://185.180.15.249:8081/nimble_live/beinsports7-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
+http://origin2.movcast.tv:1935/iptv/_definst_/b7_240p/chunklist.m3u8
 
 
 
 
 #EXTINF:-1,bein sport8 sd
-http://185.180.15.249:8081/nimble_live/beinsports8-foot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE3IDE6MTA6MTIgQU0maGFzaF92YWx1ZT1nOVljUnAvanJBeTVkMWI3WmpFYXhnPT0mdmFsaWRtaW51dGVzPTIw
-
+http://origin2.movcast.tv:1935/iptv/_definst_/b8_240p/chunklist.m3u8
 
 
