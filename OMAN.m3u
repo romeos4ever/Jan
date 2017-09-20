@@ -2,18 +2,23 @@
 
 #EXTINF:-1,======OMAN=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-OMANTVCULTURE
-http://emp.jan-beryan.giize.com/4038.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-OMANTVFEED
-http://emp.jan-beryan.giize.com/4004.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-OMANTVGENERAL
-http://emp.jan-beryan.giize.com/4039.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-OMANTVLIVE
-http://emp.jan-beryan.giize.com/4003.ts
+#EXTINF:-1,AR-OMDORMAN
+http://emp.jan-beryan.giize.com/780.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-OMANTVSPORT
-http://emp.jan-beryan.giize.com/4034.ts
+http://emp.jan-beryan.giize.com/764.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OMANTVLIVE
+http://emp.jan-beryan.giize.com/859.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OMANTVGENERAL
+http://emp.jan-beryan.giize.com/759.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OMANTVFEED
+http://emp.jan-beryan.giize.com/858.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OMANTVCULTURE
+http://emp.jan-beryan.giize.com/760.ts
