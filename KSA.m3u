@@ -1,27 +1,20 @@
 
 #EXTINF:-1,======KSA Group=======
 http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAUDI1
-http://emp.jan-beryan.giize.com/4183.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAUDI2
-http://emp.jan-beryan.giize.com/4182.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAUDI24SPORT
-http://emp.jan-beryan.giize.com/4517.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAUDIENJAZAT
-http://emp.jan-beryan.giize.com/4543.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+
 #EXTINF:-1,AR-SAUDISPORT
-http://emp.jan-beryan.giize.com/4101.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/1096.ts
+#EXTINF:-1,AR-SAUDIENJAZAT
+http://emp.jan-beryan.giize.com/800.ts
+#EXTINF:-1,AR-SAUDI24SPORT
+http://emp.jan-beryan.giize.com/783.ts
+#EXTINF:-1,AR-SAUDI2
+http://emp.jan-beryan.giize.com/1015.ts
+#EXTINF:-1,AR-SAUDI1
+http://emp.jan-beryan.giize.com/1014.ts
 #EXTINF:-1,AR-ROTANACINEMAKSA
-http://emp.jan-beryan.giize.com/4214.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/983.ts
 #EXTINF:-1,AR-ALEKHBARIA
-http://emp.jan-beryan.giize.com/4188.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://emp.jan-beryan.giize.com/1009.ts
 #EXTINF:-1,AR-ALEQTISADIAH
-http://emp.jan-beryan.giize.com/4121.ts
+http://emp.jan-beryan.giize.com/1076.ts
