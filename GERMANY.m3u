@@ -1,315 +1,156 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-13THSTREET
-http://emp.jan-beryan.giize.com/4817.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-3SAT
-http://emp.jan-beryan.giize.com/4779.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-ARTE
-http://emp.jan-beryan.giize.com/4815.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-BOOMERANG
-http://emp.jan-beryan.giize.com/4821.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-CARTOONNETWORK
-http://emp.jan-beryan.giize.com/4822.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-DASERSTE
-http://emp.jan-beryan.giize.com/4778.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-DISCOVERYCHANNEL
-http://emp.jan-beryan.giize.com/4812.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-DISNEYCHANNEL
-http://emp.jan-beryan.giize.com/4813.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-DMAX
-http://emp.jan-beryan.giize.com/4780.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-HEITMATKANAL
-http://emp.jan-beryan.giize.com/4773.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-HRFERNSEHEN
-http://emp.jan-beryan.giize.com/4820.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-KABELEINS
-http://emp.jan-beryan.giize.com/4809.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-KIKA
-http://emp.jan-beryan.giize.com/4793.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-N24
-http://emp.jan-beryan.giize.com/4814.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-NATGEO
-http://emp.jan-beryan.giize.com/4811.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-NATGEOWIL
-http://emp.jan-beryan.giize.com/4789.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-NICKELODEON
-http://emp.jan-beryan.giize.com/4799.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-NTV
-http://emp.jan-beryan.giize.com/4788.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-PROSIEBEN
-http://emp.jan-beryan.giize.com/4810.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-PROSIEBENMAXX
-http://emp.jan-beryan.giize.com/4804.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-RTL
-http://emp.jan-beryan.giize.com/4806.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-RTL2
-http://emp.jan-beryan.giize.com/4824.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-RTLCRIME
-http://emp.jan-beryan.giize.com/4782.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-RTLNITRO
-http://emp.jan-beryan.giize.com/4802.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SAT1
-http://emp.jan-beryan.giize.com/4794.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SAT1GOLD
-http://emp.jan-beryan.giize.com/4776.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SIXX
-http://emp.jan-beryan.giize.com/4777.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYACTION
-http://emp.jan-beryan.giize.com/4808.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYATLANTIC
-http://emp.jan-beryan.giize.com/4796.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYBUNDESLIGA1
-http://emp.jan-beryan.giize.com/4791.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYCINEMA
-http://emp.jan-beryan.giize.com/4786.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYCINEMAFAMILY
-http://emp.jan-beryan.giize.com/4819.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYCINEMAPLUS1
-http://emp.jan-beryan.giize.com/4785.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYCINEMAPLUS24
-http://emp.jan-beryan.giize.com/4790.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYCOMEDY
-http://emp.jan-beryan.giize.com/4775.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYEMOTION
-http://emp.jan-beryan.giize.com/4784.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYKRIMI
-http://emp.jan-beryan.giize.com/4774.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYNEWS
-http://emp.jan-beryan.giize.com/4798.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYNOSTALGIE
-http://emp.jan-beryan.giize.com/4818.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYSPORT1
-http://emp.jan-beryan.giize.com/4797.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SKYSPORT2
-http://emp.jan-beryan.giize.com/4792.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SPIEGELGESCHICHTE
-http://emp.jan-beryan.giize.com/4803.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SPORT1
-http://emp.jan-beryan.giize.com/4787.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SUPERRTL
-http://emp.jan-beryan.giize.com/4800.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-SYFY
-http://emp.jan-beryan.giize.com/4795.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-TELE5
-http://emp.jan-beryan.giize.com/4805.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-TLC
-http://emp.jan-beryan.giize.com/4801.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-TNTFILM
-http://emp.jan-beryan.giize.com/4783.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-TNTSERIE
-http://emp.jan-beryan.giize.com/4781.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE-VOX
-http://emp.jan-beryan.giize.com/4816.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,DE-ZEEONE
-http://emp.jan-beryan.giize.com/4823.ts
+http://emp.jan-beryan.giize.com/400.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,DE-ZDF
-http://emp.jan-beryan.giize.com/4807.ts
+http://emp.jan-beryan.giize.com/416.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:3sat_HD
-http://emp.jan-beryan.giize.com/1217.ts
+#EXTINF:-1,DE-VOX
+http://emp.jan-beryan.giize.com/407.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Anixe_HD
-http://emp.jan-beryan.giize.com/1218.ts
+#EXTINF:-1,DE-TNTSERIE
+http://emp.jan-beryan.giize.com/442.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:arte_HD_
-http://emp.jan-beryan.giize.com/1219.ts
+#EXTINF:-1,DE-TNTFILM
+http://emp.jan-beryan.giize.com/440.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:ATV
-http://emp.jan-beryan.giize.com/1220.ts
+#EXTINF:-1,DE-TLC
+http://emp.jan-beryan.giize.com/422.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:AXN_HD
-http://emp.jan-beryan.giize.com/1222.ts
+#EXTINF:-1,DE-TELE5
+http://emp.jan-beryan.giize.com/418.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Das_Erste
-http://emp.jan-beryan.giize.com/1223.ts
+#EXTINF:-1,DE-SYFY
+http://emp.jan-beryan.giize.com/428.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:DE
-http://emp.jan-beryan.giize.com/1221.ts
+#EXTINF:-1,DE-SUPERRTL
+http://emp.jan-beryan.giize.com/423.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Discovery_Channel
-http://emp.jan-beryan.giize.com/1224.ts
+#EXTINF:-1,DE-SPORT1
+http://emp.jan-beryan.giize.com/436.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Disney_Cinemagic
-http://emp.jan-beryan.giize.com/1225.ts
+#EXTINF:-1,DE-SPIEGELGESCHICHTE
+http://emp.jan-beryan.giize.com/420.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Disney_HD
-http://emp.jan-beryan.giize.com/1226.ts
+#EXTINF:-1,DE-SKYSPORT2
+http://emp.jan-beryan.giize.com/431.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Eurosport_HD
-http://emp.jan-beryan.giize.com/1227.ts
+#EXTINF:-1,DE-SKYSPORT1
+http://emp.jan-beryan.giize.com/426.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:History
-http://emp.jan-beryan.giize.com/1228.ts
+#EXTINF:-1,DE-SKYNOSTALGIE
+http://emp.jan-beryan.giize.com/405.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:HR_HD
-http://emp.jan-beryan.giize.com/1229.ts
+#EXTINF:-1,DE-SKYNEWS
+http://emp.jan-beryan.giize.com/425.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Kabel_Eins_HD
-http://emp.jan-beryan.giize.com/1230.ts
+#EXTINF:-1,DE-SKYKRIMI
+http://emp.jan-beryan.giize.com/447.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:KIKA_HD
-http://emp.jan-beryan.giize.com/1231.ts
+#EXTINF:-1,DE-SKYEMOTION
+http://emp.jan-beryan.giize.com/439.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Motorvision_TV
-http://emp.jan-beryan.giize.com/1232.ts
+#EXTINF:-1,DE-SKYCOMEDY
+http://emp.jan-beryan.giize.com/446.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:n-tv_HD
-http://emp.jan-beryan.giize.com/1233.ts
+#EXTINF:-1,DE-SKYCINEMAPLUS24
+http://emp.jan-beryan.giize.com/433.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:N24_HD
-http://emp.jan-beryan.giize.com/1234.ts
+#EXTINF:-1,DE-SKYCINEMAPLUS1
+http://emp.jan-beryan.giize.com/438.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:NatGeo_
-http://emp.jan-beryan.giize.com/1235.ts
+#EXTINF:-1,DE-SKYCINEMAFAMILY
+http://emp.jan-beryan.giize.com/404.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:NDR_HD
-http://emp.jan-beryan.giize.com/1236.ts
+#EXTINF:-1,DE-SKYCINEMA
+http://emp.jan-beryan.giize.com/437.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:ProSieben_HD
-http://emp.jan-beryan.giize.com/1237.ts
+#EXTINF:-1,DE-SKYBUNDESLIGA1
+http://emp.jan-beryan.giize.com/432.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:ProSieben_Maxx
-http://emp.jan-beryan.giize.com/1238.ts
+#EXTINF:-1,DE-SKYATLANTIC
+http://emp.jan-beryan.giize.com/427.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:RTL
-http://emp.jan-beryan.giize.com/1241.ts
+#EXTINF:-1,DE-SKYACTION
+http://emp.jan-beryan.giize.com/415.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:RTL_2
-http://emp.jan-beryan.giize.com/1239.ts
+#EXTINF:-1,DE-SIXX
+http://emp.jan-beryan.giize.com/444.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:RTL_Crime
-http://emp.jan-beryan.giize.com/1240.ts
+#EXTINF:-1,DE-SAT1GOLD
+http://emp.jan-beryan.giize.com/445.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:RTL_Nitro_HD
-http://emp.jan-beryan.giize.com/1242.ts
+#EXTINF:-1,DE-SAT1
+http://emp.jan-beryan.giize.com/429.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:RTL_Passion
-http://emp.jan-beryan.giize.com/1243.ts
+#EXTINF:-1,DE-RTLNITRO
+http://emp.jan-beryan.giize.com/421.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sat.1_HD
-http://emp.jan-beryan.giize.com/1244.ts
+#EXTINF:-1,DE-RTLCRIME
+http://emp.jan-beryan.giize.com/441.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:SIXX_HD
-http://emp.jan-beryan.giize.com/1245.ts
+#EXTINF:-1,DE-RTL2
+http://emp.jan-beryan.giize.com/399.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Action_HD
-http://emp.jan-beryan.giize.com/1246.ts
+#EXTINF:-1,DE-RTL
+http://emp.jan-beryan.giize.com/417.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Bundesliga_1
-http://emp.jan-beryan.giize.com/1247.ts
+#EXTINF:-1,DE-PROSIEBENMAXX
+http://emp.jan-beryan.giize.com/419.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Cinema
-http://emp.jan-beryan.giize.com/1248.ts
+#EXTINF:-1,DE-PROSIEBEN
+http://emp.jan-beryan.giize.com/413.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Comedy
-http://emp.jan-beryan.giize.com/1249.ts
+#EXTINF:-1,DE-NTV
+http://emp.jan-beryan.giize.com/435.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Emotion
-http://emp.jan-beryan.giize.com/1250.ts
+#EXTINF:-1,DE-NICKELODEON
+http://emp.jan-beryan.giize.com/424.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:SKY_Germany_TNT_Serie_HD
-http://emp.jan-beryan.giize.com/1269.ts
+#EXTINF:-1,DE-NATGEOWIL
+http://emp.jan-beryan.giize.com/434.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Hits_HD
-http://emp.jan-beryan.giize.com/1251.ts
+#EXTINF:-1,DE-NATGEO
+http://emp.jan-beryan.giize.com/412.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Select_1HD
-http://emp.jan-beryan.giize.com/1252.ts
+#EXTINF:-1,DE-N24
+http://emp.jan-beryan.giize.com/409.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Select_2HD
-http://emp.jan-beryan.giize.com/1253.ts
+#EXTINF:-1,DE-KIKA
+http://emp.jan-beryan.giize.com/430.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Select_3HD
-http://emp.jan-beryan.giize.com/1254.ts
+#EXTINF:-1,DE-KABELEINS
+http://emp.jan-beryan.giize.com/414.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Select_4HD
-http://emp.jan-beryan.giize.com/1255.ts
+#EXTINF:-1,DE-HRFERNSEHEN
+http://emp.jan-beryan.giize.com/403.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Select_5HD
-http://emp.jan-beryan.giize.com/1256.ts
+#EXTINF:-1,DE-HEITMATKANAL
+http://emp.jan-beryan.giize.com/448.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Sport_1
-http://emp.jan-beryan.giize.com/1257.ts
+#EXTINF:-1,DE-DMAX
+http://emp.jan-beryan.giize.com/397.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Sport_2
-http://emp.jan-beryan.giize.com/1258.ts
+#EXTINF:-1,DE-DISNEYCHANNEL
+http://emp.jan-beryan.giize.com/410.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sky_Sport_News
-http://emp.jan-beryan.giize.com/1259.ts
+#EXTINF:-1,DE-DISCOVERYCHANNEL
+http://emp.jan-beryan.giize.com/411.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sport_1_HD
-http://emp.jan-beryan.giize.com/1260.ts
+#EXTINF:-1,DE-DASERSTE
+http://emp.jan-beryan.giize.com/443.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Sport1
-http://emp.jan-beryan.giize.com/1261.ts
+#EXTINF:-1,DE-CARTOONNETWORK
+http://emp.jan-beryan.giize.com/401.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:Super_RTL
-http://emp.jan-beryan.giize.com/1262.ts
+#EXTINF:-1,DE-BOOMERANG
+http://emp.jan-beryan.giize.com/402.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:TNT_Film
-http://emp.jan-beryan.giize.com/1263.ts
+#EXTINF:-1,DE-ARTE
+http://emp.jan-beryan.giize.com/408.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:TNT_Serie_HD
-http://emp.jan-beryan.giize.com/1264.ts
+#EXTINF:-1,DE-3SAT
+http://emp.jan-beryan.giize.com/398.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:VIVA_Comedy
-http://emp.jan-beryan.giize.com/1265.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:VOX_HD
-http://emp.jan-beryan.giize.com/1266.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:WDR_HD_Aachen
-http://emp.jan-beryan.giize.com/1267.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,DE:ZDF_HD_DE
-http://emp.jan-beryan.giize.com/1268.ts
+#EXTINF:-1,DE-13THSTREET
+http://emp.jan-beryan.giize.com/406.ts
