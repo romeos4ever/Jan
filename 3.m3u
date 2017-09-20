@@ -1,434 +1,453 @@
-#EXTM3U
-
-
-
-
-
-#EXTINF:-1 tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_1.jpg" group-title="12- MBC",MBC 1
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/477.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 2" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_2.jpg" group-title="12- MBC",MBC 2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/478.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 3" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_3.jpg" group-title="12- MBC",MBC 3
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/479.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 4" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_4.jpg" group-title="12- MBC",MBC 4
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/480.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_ACTION.jpg" group-title="12- MBC",MBC ACTION
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/481.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC B4U AFLAM" tvg-logo="http://rmd.primatv.club/picon/arabic/B4U_AFLAM.jpg" group-title="12- MBC",MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/482.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD" tvg-logo="http://rmd.primatv.club/picon/arabic/BOLLYWOOD.jpg" group-title="12- MBC",MBC BOLLYWOOD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/483.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC DRAMA" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_DRAMA.jpg" group-title="12- MBC",MBC DRAMA
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/484.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC DRAMA HD" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_DRAMA.jpg" group-title="12- MBC",MBC DRAMA HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/485.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC MASR 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_MASR_1.jpg" group-title="12- MBC",MBC MASR 1
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/486.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC MASR 2" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_MASR_2.jpg" group-title="12- MBC",MBC MASR 2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/487.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC MAX" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_MAX.jpg" group-title="12- MBC",MBC MAX
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/488.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 1HD" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_PRO_SPORT_1_HD.jpg" group-title="12- MBC",MBC SPORT 1HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/489.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 2HD" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_PRO_SPORT_2_HD.jpg" group-title="12- MBC",MBC SPORT 2HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/490.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 3HD" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_PRO_SPORT_3_HD.jpg" group-title="12- MBC",MBC SPORT 3HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/491.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 4HD" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_PRO_SPORT_4_HD.jpg" group-title="12- MBC",MBC SPORT 4HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/492.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC VARIETY HD" tvg-logo="" group-title="12- MBC",MBC VARIETY HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/493.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC ZEE Aflam" tvg-logo="http://rmd.primatv.club/picon/arabic/ZEE_Aflam.jpg" group-title="12- MBC",MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/494.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC ZEE Alwan" tvg-logo="http://rmd.primatv.club/picon/arabic/ZEE_Alwan.jpg" group-title="12- MBC",MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/495.ts
-
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS News" tvg-logo="http://rmd.primatv.club/picon/beinsports/beIN_Sports_News.jpg" group-title="02- beIN SPORTS",BeINSPORTS News
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/682.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS Global" tvg-logo="http://rmd.primatv.club/picon/beinsports/BeIN-SPORTS-Global.jpg" group-title="02- beIN SPORTS",BeINSPORTS Global
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/683.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_01_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/684.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_02_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/685.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_03_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/686.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_04_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/687.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_05_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/688.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_06_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/689.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_07_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/690.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_08_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/691.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_09_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/692.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_10_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/693.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_11_HD.jpg" group-title="02- beIN SPORTS",BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/694.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Sports_12_HD.jpg" group-title="02- beIN SPORTS",beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/695.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Movies_1_HD.jpg" group-title="04- beIN MOVIES",BeIN Movies 1HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/672.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 2HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Movies_2_HD.jpg" group-title="04- beIN MOVIES",BeIN Movies 2HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/673.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 3HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Movies_3_HD.jpg" group-title="04- beIN MOVIES",BeIN Movies 3HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/674.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 4HD" tvg-logo="http://rmd.primatv.club/picon/beinsports/AR_Bein_Movies_4_HD.jpg" group-title="04- beIN MOVIES",BeIN Movies 4HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/675.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN JUNIOR" tvg-logo="" group-title="04- beIN MOVIES",BeIN JUNIOR
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/676.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Jeem_HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/677.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Baraim_HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/678.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN GROUMMET" tvg-logo="" group-title="04- beIN MOVIES",BeIN GROUMMET
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/679.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="" group-title="04- beIN MOVIES",BeIN Fatafeat
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/680.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Discovery HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Discovery HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/681.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="AD Sports 1HD" tvg-logo="" group-title="03- Abu Dhabi Sports",AD Sports 1HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/666.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="AD Sports 2HD" tvg-logo="" group-title="03- Abu Dhabi Sports",AD Sports 2HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/667.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="AD Sports 3HD" tvg-logo="" group-title="03- Abu Dhabi Sports",AD Sports 3HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/668.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="AD Sports 4HD" tvg-logo="" group-title="03- Abu Dhabi Sports",AD Sports 4HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/669.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="AD Sports 5HD" tvg-logo="" group-title="03- Abu Dhabi Sports",AD Sports 5HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/670.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="AD Sports 6HD" tvg-logo="" group-title="03- Abu Dhabi Sports",AD Sports 6HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/671.ts
-
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al-Aoula-Inter" tvg-logo="http://rmd.primatv.club/picon/arabic/Aloula_Maroc.jpg" group-title="14- Maroc",Al-Aoula-Inter
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/579.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="2M-Monde" tvg-logo="http://rmd.primatv.club/picon/arabic/2M-Maroc-TNT.jpg" group-title="14- Maroc",2M-Monde
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/580.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tele-Maroc" tvg-logo="http://rmd.primatv.club/picon/arabic/Tele-Maroc.jpg" group-title="14- Maroc",Tele-Maroc
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/581.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Medi-1-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/Medi1_Maroc.jpg" group-title="14- Maroc",Medi-1-TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/582.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al-Maghribia" tvg-logo="http://rmd.primatv.club/picon/arabic/Almaghribia.jpg" group-title="14- Maroc",Al-Maghribia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/583.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Arriadia" tvg-logo="http://rmd.primatv.club/picon/arabic/Arriadia.jpg" group-title="14- Maroc",Arriadia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/584.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Arrabia" tvg-logo="http://rmd.primatv.club/picon/arabic/Arrabia.jpg" group-title="14- Maroc",Arrabia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/585.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Assadisa" tvg-logo="http://rmd.primatv.club/picon/arabic/Assadisa.jpg" group-title="14- Maroc",Assadisa
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/586.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tamazight" tvg-logo="http://rmd.primatv.club/picon/arabic/Tamazight.jpg" group-title="14- Maroc",Tamazight
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/587.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SUD24-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/SUD24-TV.jpg" group-title="14- Maroc",SUD24-TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/588.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Samira-Tv" tvg-logo="http://rmd.primatv.club/picon/arabic/Samira_Tv.jpg" group-title="15- Algerie",Samira-Tv
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/556.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Echorouk news" tvg-logo="http://rmd.primatv.club/picon/arabic/Echourouk_news.jpg" group-title="15- Algerie",Echorouk news
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/557.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Echorouk TV" tvg-logo="http://rmd.primatv.club/picon/arabic/Echorouk_TV_HD.jpg" group-title="15- Algerie",Echorouk TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/558.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Echorouk Benna" tvg-logo="http://rmd.primatv.club/picon/arabic/Echourouk_Benna.jpg" group-title="15- Algerie",Echorouk Benna
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/559.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Programme.National" tvg-logo="" group-title="15- Algerie",Programme.National
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/560.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Canal-Algerie" tvg-logo="http://rmd.primatv.club/picon/arabic/Algeria_Channel.jpg" group-title="15- Algerie",Canal-Algerie
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/561.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Algeria 3" tvg-logo="http://rmd.primatv.club/picon/arabic/Algeria_3.jpg" group-title="15- Algerie",Algeria 3
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/562.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Algeria 5" tvg-logo="http://rmd.primatv.club/picon/arabic/Algeria_5.jpg" group-title="15- Algerie",Algeria 5
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/563.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="EnnahTV" tvg-logo="http://rmd.primatv.club/picon/arabic/Ennahar_TV.jpg" group-title="15- Algerie",EnnahTV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/564.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="EnnahLaki" tvg-logo="http://rmd.primatv.club/picon/arabic/Ennahar_Laki.jpg" group-title="15- Algerie",EnnahLaki
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/565.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BAHIA TV" tvg-logo="http://rmd.primatv.club/picon/arabic/BAHIA_TV.jpg" group-title="15- Algerie",BAHIA TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/566.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Beur-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/Beur_TV.jpg" group-title="15- Algerie",Beur-TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/567.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Berbere-TV" tvg-logo="" group-title="15- Algerie",Berbere-TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/568.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Berbere-Music" tvg-logo="" group-title="15- Algerie",Berbere-Music
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/569.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Berbere-Jeuness" tvg-logo="" group-title="15- Algerie",Berbere-Jeuness
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/570.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Dzai News" tvg-logo="http://rmd.primatv.club/picon/arabic/Dzai_News.jpg" group-title="15- Algerie",Dzai News
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/571.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Dzair TV" tvg-logo="http://rmd.primatv.club/picon/arabic/Dzair_TV.jpg" group-title="15- Algerie",Dzair TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/572.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Eljazairia-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/EL_JAZAIRIA_TV.jpg" group-title="15- Algerie",Eljazairia-TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/573.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Elhaddaf-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/ELHADDAF_TV.jpg" group-title="15- Algerie",Elhaddaf-TV
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/574.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Elbilad" tvg-logo="http://rmd.primatv.club/picon/arabic/Elbilad.jpg" group-title="15- Algerie",Elbilad
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/575.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Kbc Algeria" tvg-logo="http://rmd.primatv.club/picon/arabic/Kbc_Algeria.jpg" group-title="15- Algerie",Kbc Algeria
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/576.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Magharibia-1" tvg-logo="" group-title="15- Algerie",Al Magharibia-1
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/577.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Magharibia-2" tvg-logo="" group-title="15- Algerie",Al Magharibia-2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/578.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tunesia 1" tvg-logo="" group-title="17- Tunisie",Tunesia 1
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/546.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tunesia 2" tvg-logo="" group-title="17- Tunisie",Tunesia 2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/547.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tonesna" tvg-logo="" group-title="17- Tunisie",Tonesna
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/548.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Zitouna" tvg-logo="" group-title="17- Tunisie",Zitouna
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/551.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Telvaza" tvg-logo="" group-title="17- Tunisie",Telvaza
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/549.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Nessma" tvg-logo="" group-title="17- Tunisie",Nessma
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/550.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Hannibal" tvg-logo="" group-title="17- Tunisie",Hannibal
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/552.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="El-HiwEttounsi" tvg-logo="" group-title="17- Tunisie",El-HiwEttounsi
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/553.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Attasiaa" tvg-logo="" group-title="17- Tunisie",Attasiaa
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/554.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al-Janoubia" tvg-logo="" group-title="17- Tunisie",Al-Janoubia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/555.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Majd" tvg-logo="" group-title="20- Islam",Al Majd
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/545.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Majd Hadith" tvg-logo="" group-title="20- Islam",Al Majd Hadith
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/544.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Majd Quran" tvg-logo="" group-title="20- Islam",Al Majd Quran
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/543.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alnas" tvg-logo="" group-title="20- Islam",Alnas
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/540.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alrahma" tvg-logo="" group-title="20- Islam",Alrahma
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/539.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alresalah" tvg-logo="" group-title="20- Islam",Alresalah
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/542.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="IQRAA" tvg-logo="" group-title="20- Islam",IQRAA
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/541.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="" group-title="21- News Arab",Al Ekhbariya
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/538.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alarabiyia" tvg-logo="" group-title="21- News Arab",Alarabiyia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/533.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alhadath" tvg-logo="" group-title="21- News Arab",Alhadath
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/532.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="" group-title="21- News Arab",Aljazeera
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/531.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BBC" tvg-logo="" group-title="21- News Arab",BBC
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/536.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="" group-title="21- News Arab",Euronews
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/537.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="France 24" tvg-logo="" group-title="21- News Arab",France 24
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/534.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="" group-title="21- News Arab",Skynews
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/535.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aljazeera Doc" tvg-logo="" group-title="18- Culture Arab",Aljazeera Doc
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/529.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="18- Culture Arab",National Geo-Abudhabi
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/530.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Quest-Arabia" tvg-logo="" group-title="18- Culture Arab",Quest-Arabia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/528.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Baraeem" tvg-logo="" group-title="19- Enfant Arabic",Baraeem
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/524.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CN Arabia" tvg-logo="" group-title="19- Enfant Arabic",CN Arabia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/523.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Space Toon" tvg-logo="" group-title="19- Enfant Arabic",Space Toon
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/527.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Toyour Baby" tvg-logo="" group-title="19- Enfant Arabic",Toyour Baby
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/526.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Toyour ElJannah" tvg-logo="" group-title="19- Enfant Arabic",Toyour ElJannah
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/525.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="13- ART",Cinema
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/521.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="13- ART",Aflam 1
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/518.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aflam 2" tvg-logo="" group-title="13- ART",Aflam 2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/519.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Hekayat 1" tvg-logo="" group-title="13- ART",Hekayat 1
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/520.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Hekayat 2" tvg-logo="" group-title="13- ART",Hekayat 2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/522.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_HD.jpg" group-title="05- OSN",Movies HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/496.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies 2 HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_2_HD.jpg" group-title="05- OSN",Movies 2 HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/497.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_Action_HD.jpg" group-title="05- OSN",Movies Action HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/498.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Action 2 HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_Action_2_HD.jpg" group-title="05- OSN",Movies Action 2 HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/499.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_Comedy_HD.jpg" group-title="05- OSN",Movies Comedy HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/500.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Premiere" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_Premiere.jpg" group-title="05- OSN",Movies Premiere
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/501.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Premiere 2" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Movies_Premiere_2.jpg" group-title="05- OSN",Movies Premiere 2
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/502.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Officebox 1HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Officebox_1HD.jpg" group-title="05- OSN",Officebox 1HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/503.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Officebox 2HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Officebox_2HD.jpg" group-title="05- OSN",Officebox 2HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/504.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Officebox 3HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Officebox_3HD.jpg" group-title="05- OSN",Officebox 3HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/505.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Ondemand HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Ondemand_HD.jpg" group-title="05- OSN",Ondemand HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/506.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Ondemend Extra HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Ondemend_Extra_HD.jpg" group-title="05- OSN",Ondemend Extra HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/507.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Cine1HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Cinema_1HD.jpg" group-title="05- OSN",Cine1HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/509.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Cine2HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Cinema_2HD.jpg" group-title="05- OSN",Cine2HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/508.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii-Shamia" tvg-logo="" group-title="05- OSN",SeeVii-Shamia
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/513.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii DraHD." tvg-logo="" group-title="05- OSN",SeeVii DraHD.
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/512.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii Beelink HD" tvg-logo="" group-title="05- OSN",SeeVii Beelink HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/511.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05- OSN",SeeVii Al oula HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/510.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala CineHD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Yahala_Cinema_HD.jpg" group-title="05- OSN",Yahala CineHD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/514.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Yahala_HD.jpg" group-title="05- OSN",Yahala HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/516.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala DraHD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Yahala_Drama_HD.jpg" group-title="05- OSN",Yahala DraHD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/515.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala Shabab HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Yahala_Shabab_HD.jpg" group-title="05- OSN",Yahala Shabab HD
-http://rmd.primatv.club:8899/live/bigRmd/big10rmd/517.ts
-#EXTVLCOPT:http-user-agent=bib LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS News" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS News
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1496.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS Global" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS Global
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1495.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1494.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1493.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1492.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 4HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1491.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 5HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1490.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 6HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1489.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 7HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1488.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 8HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1487.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 9HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1486.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 10HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1485.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 11HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1484.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1483.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 1HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1454.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 2HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1455.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 3HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1456.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 04HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1457.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 05HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1458.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 06HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1459.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 07HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1460.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 08HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1461.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 09HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1462.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 10HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1463.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1473.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1474.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1475.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1476.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1478.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1477.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1482.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1480.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1479.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1481.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BOING" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",BOING
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1409.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1467.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1468.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1469.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1470.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1471.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1472.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="08-MAROC [AR]",Al-Aoula-Inter
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1382.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="2M-Monde" tvg-logo="" group-title="08-MAROC [AR]",2M-Monde
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1383.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Medi-1-TV" tvg-logo="" group-title="08-MAROC [AR]",Medi-1-TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1381.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al-Maghribia" tvg-logo="" group-title="08-MAROC [AR]",Al-Maghribia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1384.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Tele-Maroc" tvg-logo="" group-title="08-MAROC [AR]",Tele-Maroc
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1380.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Tamazight" tvg-logo="" group-title="08-MAROC [AR]",Tamazight
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1385.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Arriadia" tvg-logo="" group-title="08-MAROC [AR]",Arriadia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1388.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SUD24-TV" tvg-logo="" group-title="08-MAROC [AR]",SUD24-TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1389.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Samira-Tv" tvg-logo="" group-title="09-ALGERIE [AR]",Samira-Tv
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1379.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Programme.National" tvg-logo="" group-title="09-ALGERIE [AR]",Programme.National
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1360.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Canal-Algerie" tvg-logo="" group-title="09-ALGERIE [AR]",Canal-Algerie
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1361.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Algeria 3" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 3
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1362.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Algeria 5" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 5
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1363.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Echorouk TV" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1358.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Echorouk news" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk news
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1357.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Echorouk Benna" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk Benna
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1359.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Kbc Algeria" tvg-logo="" group-title="09-ALGERIE [AR]",Kbc Algeria
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1369.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Eljazairia-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Eljazairia-TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1372.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="EnnahLaki" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahLaki
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1365.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="EnnahTV" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahTV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1364.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Elhaddaf-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Elhaddaf-TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1371.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Elbilad" tvg-logo="" group-title="09-ALGERIE [AR]",Elbilad
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1370.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Dzair TV" tvg-logo="" group-title="09-ALGERIE [AR]",Dzair TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1368.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Dzai News" tvg-logo="" group-title="09-ALGERIE [AR]",Dzai News
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1367.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al Magharibia-1" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1373.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al Magharibia-2" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1374.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Berbere-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1376.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Berbere-Music" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Music
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1377.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Berbere-Jeuness" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Jeuness
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1378.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Beur-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Beur-TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1375.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BAHIA TV" tvg-logo="" group-title="09-ALGERIE [AR]",BAHIA TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1366.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Tonesna" tvg-logo="" group-title="10-TUNISIE [AR]",Tonesna
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1349.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Tunesia 1" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1347.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Tunesia 2" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1348.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Nessma" tvg-logo="" group-title="10-TUNISIE [AR]",Nessma
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1352.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Hannibal" tvg-logo="" group-title="10-TUNISIE [AR]",Hannibal
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1351.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Telvaza" tvg-logo="" group-title="10-TUNISIE [AR]",Telvaza
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1355.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Zitouna" tvg-logo="" group-title="10-TUNISIE [AR]",Zitouna
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1353.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="El-HiwEttounsi" tvg-logo="" group-title="10-TUNISIE [AR]",El-HiwEttounsi
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1350.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Attasiaa" tvg-logo="" group-title="10-TUNISIE [AR]",Attasiaa
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1354.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al-Janoubia" tvg-logo="" group-title="10-TUNISIE [AR]",Al-Janoubia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1356.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Alrahma" tvg-logo="" group-title="12-ENFANTS [AR]",Alrahma
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1343.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Alnas" tvg-logo="" group-title="12-ENFANTS [AR]",Alnas
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1344.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al Majd Quran" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Quran
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1340.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al Majd Hadith" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Hadith
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1341.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al Majd" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1342.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Alresalah" tvg-logo="" group-title="12-ENFANTS [AR]",Alresalah
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1346.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="IQRAA" tvg-logo="" group-title="12-ENFANTS [AR]",IQRAA
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1345.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1324.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Alarabiyia" tvg-logo="" group-title="",Alarabiyia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1325.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Alhadath" tvg-logo="" group-title="",Alhadath
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1326.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="" group-title="",Al Ekhbariya
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1328.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BBC" tvg-logo="" group-title="",BBC
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1331.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="" group-title="",Skynews
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1327.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="CN Arabia" tvg-logo="" group-title="12-ENFANTS [AR]",CN Arabia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1335.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Baraeem" tvg-logo="" group-title="12-ENFANTS [AR]",Baraeem
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1337.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Toyour ElJannah" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour ElJannah
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1338.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Toyour Baby" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour Baby
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1339.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Space Toon" tvg-logo="" group-title="12-ENFANTS [AR]",Space Toon
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1336.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Quest-Arabia" tvg-logo="" group-title="",Quest-Arabia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1334.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="",National Geo-Abudhabi
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1333.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Aljazeera Doc" tvg-logo="" group-title="",Aljazeera Doc
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1332.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Assadisa" tvg-logo="" group-title="08-MAROC [AR]",Assadisa
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1387.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Arrabia" tvg-logo="" group-title="08-MAROC [AR]",Arrabia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1386.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Officebox 1HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1297.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Officebox 2HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1298.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Officebox 3HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1299.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies HD" tvg-logo="" group-title="05-OSN [AR]",Movies HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1300.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies 2 HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1301.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Premiere" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1304.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Premiere 2" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1305.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="" group-title="05-OSN [AR]",Movies Comedy HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1306.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1302.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Action 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action 2 HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1303.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala HD" tvg-logo="" group-title="05-OSN [AR]",Yahala HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1309.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala Shabab HD" tvg-logo="" group-title="05-OSN [AR]",Yahala Shabab HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1311.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala DraHD" tvg-logo="" group-title="05-OSN [AR]",Yahala DraHD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1310.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala CineHD" tvg-logo="" group-title="05-OSN [AR]",Yahala CineHD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1312.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Cine1HD" tvg-logo="" group-title="05-OSN [AR]",Cine1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1313.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Cine2HD" tvg-logo="" group-title="05-OSN [AR]",Cine2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1314.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Ondemend Extra HD" tvg-logo="" group-title="05-OSN [AR]",Ondemend Extra HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1308.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Ondemand HD" tvg-logo="" group-title="05-OSN [AR]",Ondemand HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1307.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii-Shamia" tvg-logo="" group-title="05-OSN [AR]",SeeVii-Shamia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1317.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii DraHD." tvg-logo="" group-title="05-OSN [AR]",SeeVii DraHD.
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1315.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii Beelink HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Beelink HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1318.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Al oula HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1316.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1319.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1320.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1321.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1322.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1323.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1278.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1279.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1280.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1281.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1283.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1282.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1286.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1287.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1289.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1284.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1285.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1292.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1290.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1291.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1288.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1296.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1295.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1294.ts
+#EXTVLCOPT:http-user-agent=vvcc LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1293.ts
