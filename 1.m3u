@@ -1,447 +1,447 @@
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1494.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 2HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1493.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 3HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1492.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 4HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1491.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 5HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1490.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 6HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1489.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 7HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1488.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 8HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1487.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 9HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1486.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 10HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1485.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 11HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1484.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1483.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 1HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1454.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 2HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1455.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 3HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1456.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 04HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1457.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 05HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1458.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 06HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1459.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 07HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1460.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 08HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1461.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 09HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1462.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 10HD Fr
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1463.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1473.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1474.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1475.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1476.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1478.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1477.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1482.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1480.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1479.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1481.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOING" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",BOING
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1409.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1467.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1468.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1469.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1470.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1471.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1472.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="08-MAROC [AR]",Al-Aoula-Inter
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1382.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="2M-Monde" tvg-logo="" group-title="08-MAROC [AR]",2M-Monde
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1383.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Medi-1-TV" tvg-logo="" group-title="08-MAROC [AR]",Medi-1-TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1381.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Maghribia" tvg-logo="" group-title="08-MAROC [AR]",Al-Maghribia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1384.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tele-Maroc" tvg-logo="" group-title="08-MAROC [AR]",Tele-Maroc
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1380.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tamazight" tvg-logo="" group-title="08-MAROC [AR]",Tamazight
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1385.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arriadia" tvg-logo="" group-title="08-MAROC [AR]",Arriadia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1388.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SUD24-TV" tvg-logo="" group-title="08-MAROC [AR]",SUD24-TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1389.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Samira-Tv" tvg-logo="" group-title="09-ALGERIE [AR]",Samira-Tv
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1379.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Programme.National" tvg-logo="" group-title="09-ALGERIE [AR]",Programme.National
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1360.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Canal-Algerie" tvg-logo="" group-title="09-ALGERIE [AR]",Canal-Algerie
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1361.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 3" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 3
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1362.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 5" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 5
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1363.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk TV" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1358.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk news" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk news
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1357.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk Benna" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk Benna
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1359.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Kbc Algeria" tvg-logo="" group-title="09-ALGERIE [AR]",Kbc Algeria
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1369.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Eljazairia-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Eljazairia-TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1372.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahLaki" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahLaki
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1365.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahTV" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahTV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1364.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elhaddaf-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Elhaddaf-TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1371.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elbilad" tvg-logo="" group-title="09-ALGERIE [AR]",Elbilad
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1370.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzair TV" tvg-logo="" group-title="09-ALGERIE [AR]",Dzair TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1368.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzai News" tvg-logo="" group-title="09-ALGERIE [AR]",Dzai News
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1367.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-1" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-1
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1373.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-2" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1374.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1376.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Music" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Music
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1377.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Jeuness" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Jeuness
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1378.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Beur-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Beur-TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1375.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BAHIA TV" tvg-logo="" group-title="09-ALGERIE [AR]",BAHIA TV
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1366.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tonesna" tvg-logo="" group-title="10-TUNISIE [AR]",Tonesna
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1349.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 1" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 1
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1347.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 2" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1348.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Nessma" tvg-logo="" group-title="10-TUNISIE [AR]",Nessma
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1352.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hannibal" tvg-logo="" group-title="10-TUNISIE [AR]",Hannibal
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1351.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Telvaza" tvg-logo="" group-title="10-TUNISIE [AR]",Telvaza
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1355.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Zitouna" tvg-logo="" group-title="10-TUNISIE [AR]",Zitouna
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1353.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="El-HiwEttounsi" tvg-logo="" group-title="10-TUNISIE [AR]",El-HiwEttounsi
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1350.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Attasiaa" tvg-logo="" group-title="10-TUNISIE [AR]",Attasiaa
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1354.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Janoubia" tvg-logo="" group-title="10-TUNISIE [AR]",Al-Janoubia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1356.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alrahma" tvg-logo="" group-title="12-ENFANTS [AR]",Alrahma
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1343.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alnas" tvg-logo="" group-title="12-ENFANTS [AR]",Alnas
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1344.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Quran" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Quran
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1340.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Hadith" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Hadith
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1341.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1342.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alresalah" tvg-logo="" group-title="12-ENFANTS [AR]",Alresalah
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1346.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="IQRAA" tvg-logo="" group-title="12-ENFANTS [AR]",IQRAA
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1345.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1324.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alarabiyia" tvg-logo="" group-title="",Alarabiyia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1325.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alhadath" tvg-logo="" group-title="",Alhadath
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1326.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="" group-title="",Al Ekhbariya
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1328.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BBC" tvg-logo="" group-title="",BBC
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1331.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Skynews" tvg-logo="" group-title="",Skynews
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1327.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CN Arabia" tvg-logo="" group-title="12-ENFANTS [AR]",CN Arabia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1335.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Baraeem" tvg-logo="" group-title="12-ENFANTS [AR]",Baraeem
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1337.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour ElJannah" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour ElJannah
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1338.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour Baby" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour Baby
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1339.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Space Toon" tvg-logo="" group-title="12-ENFANTS [AR]",Space Toon
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1336.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Quest-Arabia" tvg-logo="" group-title="",Quest-Arabia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1334.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="",National Geo-Abudhabi
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1333.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera Doc" tvg-logo="" group-title="",Aljazeera Doc
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1332.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Assadisa" tvg-logo="" group-title="08-MAROC [AR]",Assadisa
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1387.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arrabia" tvg-logo="" group-title="08-MAROC [AR]",Arrabia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1386.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Officebox 1HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 1HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1297.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Officebox 2HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 2HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1298.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Officebox 3HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 3HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1299.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies HD" tvg-logo="" group-title="05-OSN [AR]",Movies HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1300.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies 2 HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1301.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies Premiere" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1304.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies Premiere 2" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere 2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1305.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="" group-title="05-OSN [AR]",Movies Comedy HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1306.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1302.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies Action 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action 2 HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1303.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Yahala HD" tvg-logo="" group-title="05-OSN [AR]",Yahala HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1309.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Yahala Shabab HD" tvg-logo="" group-title="05-OSN [AR]",Yahala Shabab HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1311.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Yahala DraHD" tvg-logo="" group-title="05-OSN [AR]",Yahala DraHD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1310.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Yahala CineHD" tvg-logo="" group-title="05-OSN [AR]",Yahala CineHD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1312.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cine1HD" tvg-logo="" group-title="05-OSN [AR]",Cine1HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1313.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cine2HD" tvg-logo="" group-title="05-OSN [AR]",Cine2HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1314.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Ondemend Extra HD" tvg-logo="" group-title="05-OSN [AR]",Ondemend Extra HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1308.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Ondemand HD" tvg-logo="" group-title="05-OSN [AR]",Ondemand HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1307.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SeeVii-Shamia" tvg-logo="" group-title="05-OSN [AR]",SeeVii-Shamia
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1317.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SeeVii DraHD." tvg-logo="" group-title="05-OSN [AR]",SeeVii DraHD.
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1315.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SeeVii Beelink HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Beelink HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1318.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Al oula HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1316.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1319.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1320.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1321.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1322.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1323.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1278.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1279.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1280.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1281.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1283.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1282.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1286.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1287.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1289.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1284.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1285.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1292.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1290.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1291.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1288.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1296.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1295.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1294.ts
-#EXTVLCOPT:http-user-agent=ccvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
 http://163.172.49.213:8899/live/tvprima103/primaiptv113/1293.ts
