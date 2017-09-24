@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.teledunet.com/logo/mbc%201.jpg" tvg-name=""  group-title="hdlist",mbc1 hd
+#EXTINF:-1tvg-logo="http://www.teledunet.com/logo/mbc%201.jpg" group-title="hdlist",mbc1 hd
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/master.m3u8
 #EXTINF:-1 tvg-logo="http://seevii.selevision.com/stb/item//tv_live1/1158.png" ,mbc drama plus hd
 http://selevision9890-i.akamaihd.net/hls/live/219325/98908/master.m3u8
