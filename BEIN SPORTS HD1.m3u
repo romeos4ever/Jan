@@ -1,45 +1,58 @@
-
-#EXTINF:-1,======BEIN SPORTS HD=======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEINSPORTSNEWSHD
-http://emp.jan-beryan.giize.com/753.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEINSPORTNBAHD
-http://emp.jan-beryan.giize.com/768.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN1HD
-http://emp.jan-beryan.giize.com/848.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN2HD
-http://emp.jan-beryan.giize.com/806.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN3HD
-http://emp.jan-beryan.giize.com/765.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN4HD
-http://emp.jan-beryan.giize.com/807.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN5HD
-http://emp.jan-beryan.giize.com/830.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN6HD
-http://emp.jan-beryan.giize.com/863.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN7HD
-http://emp.jan-beryan.giize.com/808.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN8HD
-http://emp.jan-beryan.giize.com/849.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN9HD
-http://emp.jan-beryan.giize.com/766.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN12HD
-http://emp.jan-beryan.giize.com/850.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN11HD
-http://emp.jan-beryan.giize.com/831.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN10HD
-http://emp.jan-beryan.giize.com/864.ts
+#EXTINF:-1,beIN Sports 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/117.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 10 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/118.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 11 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/119.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 12 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/120.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 13 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/121.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 14 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/122.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sports 15 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/123.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sports 16 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/124.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sports 17 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/125.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/126.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 3 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/127.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/128.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/129.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 6 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/130.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 7 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/131.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 8 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/132.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 9 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/133.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 1 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/173.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 10 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/172.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 11 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/171.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 12 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/170.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 2 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/169.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 3 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/168.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 4 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/167.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 5 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/166.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 6 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/165.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 7 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/164.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 8 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/163.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 9 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/162.m3u8$http-refferer=http://localhost
