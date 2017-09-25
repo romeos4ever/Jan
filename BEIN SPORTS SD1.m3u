@@ -1,27 +1,26 @@
 
 
-#EXTINF:-1,======BEIN SPORTS 360p Group=======
+#EXTINF:-1,======BEIN SPORTS Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 
 EXTINF:-1,bein sport1  
-http://origin2.movcast.tv:1935/iptv/_definst_/b1_360p/chunklist.m3u8
+http://bein1.jan-beryan.giize.com
 #EXTINF:-1,bein sport2                 
-http://origin2.movcast.tv:1935/iptv/_definst_/b2_360p/chunklist.m3u8
+http://bein2.jan-beryan.giize.com
 #EXTINF:-1,bein sport3                       
-http://origin2.movcast.tv:1935/iptv/_definst_/b3_360p/chunklist.m3u8
+http://bein3.jan-beryan.giize.com
 #EXTINF:-1,bein sport4                   
-http://origin2.movcast.tv:1935/iptv/_definst_/b4_360p/chunklist.m3u8
+http://bein4.jan-beryan.giize.com
 #EXTINF:-1,bein sport5                        
-http://origin2.movcast.tv:1935/iptv/_definst_/b5_360p/chunklist.m3u8
+http://bein5.jan-beryan.giize.com
 #EXTINF:-1,bein sport6                        
-http://origin2.movcast.tv:1935/iptv/_definst_/b6_360p/chunklist.m3u8
+http://bein6.jan-beryan.giize.com
 #EXTINF:-1,bein sport7                    
-http://origin2.movcast.tv:1935/iptv/_definst_/b7_360p/chunklist.m3u8
+http://bein7.jan-beryan.giize.com
 #EXTINF:-1,bein sport8                       
-http://origin2.movcast.tv:1935/iptv/_definst_/b8_360p/chunklist.m3u8
+http://bein8.jan-beryan.giize.com
 #EXTINF:-1,bein sport9                       
-http://origin2.movcast.tv:1935/iptv/_definst_/b9_360p/chunklist.m3u8
+http://bein9.jan-beryan.giize.com
 #EXTINF:-1,bein sport10                       
-http://origin2.movcast.tv:1935/iptv/_definst_/b10_360p/chunklist.m3u8
-
+http://bein10.jan-beryan.giize.com
 
