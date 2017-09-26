@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1,======BEIN SPORTS Group=======
+#EXTINF:-1,======BEIN SPORTS Group1=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,AR: beINSports 1
 http://163.172.217.107:1944/live/WWW.IPTV2424.COM-25-9/CotE4B5X3n/4.ts
@@ -25,7 +25,8 @@ http://163.172.217.107:1944/live/WWW.IPTV2424.COM-25-9/CotE4B5X3n/13.ts
 #EXTINF:-1,AR: beINSports 11
 http://163.172.217.107:1944/live/WWW.IPTV2424.COM-25-9/CotE4B5X3n/14.ts
 
-
+#EXTINF:-1,======BEIN SPORTS Group2=======
+http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTINF:-1,bein sport1  
 http://bein1.jan-beryan.giize.com/index.m3u8
 #EXTINF:-1,bein sport2                 
