@@ -1,222 +1,166 @@
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-VIAJARHD
-http://emp.jan-beryan.giize.com/129.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-TVELA2MADRID
-http://emp.jan-beryan.giize.com/115.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-TOROSTVHD
-http://emp.jan-beryan.giize.com/150.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-TNT
-http://emp.jan-beryan.giize.com/123.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-TELEDEPORTE
-http://emp.jan-beryan.giize.com/152.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-TELECINCOHD
-http://emp.jan-beryan.giize.com/121.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-TCM
-http://emp.jan-beryan.giize.com/141.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-SYFYHD
-http://emp.jan-beryan.giize.com/107.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-REALMADRIDTV
-http://emp.jan-beryan.giize.com/135.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-PARAMOUNT
-http://emp.jan-beryan.giize.com/159.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-ODISEA
-http://emp.jan-beryan.giize.com/128.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-NOVA
-http://emp.jan-beryan.giize.com/155.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-NICKELODEON
-http://emp.jan-beryan.giize.com/130.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-NEOX
-http://emp.jan-beryan.giize.com/112.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-NATGEOWILD
-http://emp.jan-beryan.giize.com/144.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-NATGEO
-http://emp.jan-beryan.giize.com/153.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MXTRA
-http://emp.jan-beryan.giize.com/132.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MTVESPANA
-http://emp.jan-beryan.giize.com/113.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MSERIESXTRAHD
-http://emp.jan-beryan.giize.com/157.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MSERIES
-http://emp.jan-beryan.giize.com/166.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MMOTOGPHD
-http://emp.jan-beryan.giize.com/127.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MGOLFHD
-http://emp.jan-beryan.giize.com/162.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MFUTBOL
-http://emp.jan-beryan.giize.com/124.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MFORMULA1HD
-http://emp.jan-beryan.giize.com/171.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MESTRENSOHD
-http://emp.jan-beryan.giize.com/116.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MDEP2HD
-http://emp.jan-beryan.giize.com/143.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MDEP1HDHD
-http://emp.jan-beryan.giize.com/170.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MDCINE
-http://emp.jan-beryan.giize.com/158.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MCOMEDIA
-http://emp.jan-beryan.giize.com/117.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-MACCION
-http://emp.jan-beryan.giize.com/122.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-LASEXTAHD
-http://emp.jan-beryan.giize.com/104.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-LA1HD
-http://emp.jan-beryan.giize.com/156.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-GOL
-http://emp.jan-beryan.giize.com/119.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-FOXLIFE
-http://emp.jan-beryan.giize.com/133.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-FOX
-http://emp.jan-beryan.giize.com/148.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-FDF
-http://emp.jan-beryan.giize.com/173.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-EUROSPORT2
-http://emp.jan-beryan.giize.com/151.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-EUROSPORT1
-http://emp.jan-beryan.giize.com/110.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-ETB
-http://emp.jan-beryan.giize.com/179.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-ENERGY
-http://emp.jan-beryan.giize.com/137.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-DIVINITY
-http://emp.jan-beryan.giize.com/145.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-DISNEYXD
-http://emp.jan-beryan.giize.com/147.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-DISNEYJR
-http://emp.jan-beryan.giize.com/167.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-DISNEYCHANNEL
-http://emp.jan-beryan.giize.com/111.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CUATROHD
-http://emp.jan-beryan.giize.com/164.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-COSMOHD
-http://emp.jan-beryan.giize.com/169.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-COMEDICENTRAL
-http://emp.jan-beryan.giize.com/161.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CLASSICA
-http://emp.jan-beryan.giize.com/165.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CLANTV
-http://emp.jan-beryan.giize.com/174.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CAZAYPESCAHD
-http://emp.jan-beryan.giize.com/154.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CANALSURA
-http://emp.jan-beryan.giize.com/168.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CANALPANDA
-http://emp.jan-beryan.giize.com/175.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CANALHOLLYWOOD
-http://emp.jan-beryan.giize.com/139.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CANALDECASA
-http://emp.jan-beryan.giize.com/172.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CANALCOCINA
-http://emp.jan-beryan.giize.com/140.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-CALLE13
-http://emp.jan-beryan.giize.com/106.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BOING
-http://emp.jan-beryan.giize.com/176.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BEINSPORTSHD
-http://emp.jan-beryan.giize.com/125.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BEINMAX2HD
-http://emp.jan-beryan.giize.com/109.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BEINMAX1HD
-http://emp.jan-beryan.giize.com/142.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BEINLALIGAHD
-http://emp.jan-beryan.giize.com/149.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BEINLALIGA2HD
-http://emp.jan-beryan.giize.com/118.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BEINLALIGA1HD
-http://emp.jan-beryan.giize.com/126.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BARCATV
-http://emp.jan-beryan.giize.com/136.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-BABYTV
-http://emp.jan-beryan.giize.com/163.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-AXNWHITE
-http://emp.jan-beryan.giize.com/138.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-AXN
-http://emp.jan-beryan.giize.com/131.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-ARAGONTV
-http://emp.jan-beryan.giize.com/146.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-ANTENA3HD
-http://emp.jan-beryan.giize.com/120.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-AMC
-http://emp.jan-beryan.giize.com/108.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-AANDE
-http://emp.jan-beryan.giize.com/134.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-A3SERIES
-http://emp.jan-beryan.giize.com/177.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ESP-0SPAIN
-http://emp.jan-beryan.giize.com/105.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,ES-CANAL24HORAS
-http://emp.jan-beryan.giize.com/114.ts
+#EXTINF:-1,=======>   Spain   <=======
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/712.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: #0 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/650.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: 24 Horas
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/643.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: 40 TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/642.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: A&E
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/651.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: AMC
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/652.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: AXN HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/653.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: BARCA TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/641.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/649.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/648.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/647.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Bein Liga HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/654.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Bein Sport HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/655.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Boing
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/656.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/684.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: CANAL COCINA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/657.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Canal De Las Estrellas
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/637.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: CANAL DECASA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/658.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Canal SERIES HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/659.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Caza y pesca
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/660.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Clan Tve
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/661.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/640.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: COSMO HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/662.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Crimen Investigation
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/635.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: DISCOVERY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/694.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/695.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: DISNEY XD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/697.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: DIVINITY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/663.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Energy
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/646.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: EUROSPORT 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/645.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: EUROSPORT 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/644.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: FDF
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/664.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: FOX HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/698.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: GOL Tv
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/665.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: HOLLYWOOD HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/701.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: IBERALIA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/666.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: LA 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/667.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: La Liga BAR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/668.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: MEGA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/704.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: MTV ESPANA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/634.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: NEOX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/669.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: NICKELODEON HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/670.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Nonstop People
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/639.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: NOVA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/671.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: ODISEA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/672.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: PANDA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/673.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: Paramount
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/636.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: SYFY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/674.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES: TNT
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/675.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:ANTENA 3 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/676.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:AXN WHITE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/677.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:CALLE 13 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/678.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:CANAL  ACTION HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/679.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  COMEDIA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/680.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  DCINE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/681.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/682.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  DEPORTES HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/683.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  FUTBOL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/685.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  GOLF HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/686.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/687.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  LIGA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/688.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  SERIES XTRA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/689.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  TOROS HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/690.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:Canal  XTRA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/691.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:CUATRO HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/692.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:DISCOVERY CHANNEL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/693.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:DISNEY JUNIOR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/696.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:FOX LIFE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/699.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:HISTORIA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/700.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:LA 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/702.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:LA SEXTA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/703.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:NAT GEO WILD HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/705.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/706.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:NICK Jr
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/707.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:TCM HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/708.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:TELECINCO HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/709.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:TELEDEPORTE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/710.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES:VIAJAR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/711.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/638.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES : MOVISTAR F1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/630.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/631.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES : movistar Futbol
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/632.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ES : MOVISTAR MOTOGP
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=http://localhost
