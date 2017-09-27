@@ -5,68 +5,21 @@ https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=150464
 #EXTINF:-1,AD Sports 1HD
 https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
 #EXTINF:-1,AD Sports 2HD
-https://adtv.ercdn.net/adsport1/adsport2.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 3HD
-https://adtv.ercdn.net/adsport1/adsport3.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 4HD
-https://adtv.ercdn.net/adsport1/adsport4.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 5HD
-https://adtv.ercdn.net/adsport1/adsport5.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 6HD
-https://adtv.ercdn.net/adsport1/adsport6.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-
-#EXTINF:-1,======دقة متوسطة========
-https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 1SD
-https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 2SD
-https://adtv.ercdn.net/adsport1/adsport2_480p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 3SD
-https://adtv.ercdn.net/adsport1/adsport3_480p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 4SD
-https://adtv.ercdn.net/adsport1/adsport4_480p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 5SD
-https://adtv.ercdn.net/adsport1/adsport5_480p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 6SD
-https://adtv.ercdn.net/adsport1/adsport6_480p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-
-
-#EXTINF:-1,======دقة ضعيفة========
-https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 1LOW SD
-https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 2LOW SD
-https://adtv.ercdn.net/adsport1/adsport2_360p.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTINF:-1,AD Sports 3LOW SD
-https://adtv.ercdn.net/adsport1/adsport3_360p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 4LOW SD
-https://adtv.ercdn.net/adsport1/adsport4_360p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 5LOW SD
-https://adtv.ercdn.net/adsport1/adsport5_360p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
-#EXTINF:-1,AD Sports 6LOW SD
-https://adtv.ercdn.net/adsport1/adsport6_360p.m3u8?st=e17nCzmvmIu5srJt8HQDaw&e=1505177390
 
 
 
 
 
-#EXTINF:-1,======سيرفر احتياطي========
-https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 1HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/666.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 2HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/667.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 3HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/668.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 4HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/669.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 5HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/670.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 6HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/671.ts
+
+#EXTINF:-1,VIP: OSN Abu Dhabi Sports 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/112.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIP: OSN Abu Dhabi Sports 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/111.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIP: OSN Abu Dhabi Sports 3 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/110.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIP: OSN Abu Dhabi Sports 4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/109.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIP: OSN Abu Dhabi Sports 5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/108.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIP: OSN Abu Dhabi Sports 6 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/107.m3u8$http-refferer=http://localhost
