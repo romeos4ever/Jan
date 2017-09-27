@@ -1,196 +1,182 @@
-#EXTM3U
-#EXTINF:-1,A HABER HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/201.m3u8$http-refferer=http://localhost
-#EXTINF:-1,A SPOR HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/202.m3u8$http-refferer=http://localhost
-#EXTINF:-1,A TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/203.m3u8$http-refferer=http://localhost
-#EXTINF:-1,A2 TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/200.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BABY TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/204.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC Earth HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/199.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BENGU TÜRK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/205.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BEYAZ TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/206.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BJKTV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/207.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BLOOMBERG HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/208.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BLOOMBERG SD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/209.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CEM TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/210.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CINESTAR VIZYON 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/211.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CINESTAR VIZYON 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/212.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CINESTAR VIZYON 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/213.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CNN TURK HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/214.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISCOVERY CHANNEL HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/215.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISNEY CHANNEL
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/216.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISNEY JR
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/217.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISNEY XD / DUCK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/218.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DOST TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/219.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DREAM TURK TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/220.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DREAM TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/221.m3u8$http-refferer=http://localhost
-#EXTINF:-1,EUROSPORT HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/222.m3u8$http-refferer=http://localhost
-#EXTINF:-1,EUROSPORT2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/223.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FANATIK TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/224.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FB TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/225.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FIL TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/226.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FLASH TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/227.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX HD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/228.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/229.m3u8$http-refferer=http://localhost
-#EXTINF:-1,GSTV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/230.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HABER TURK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/231.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HALK TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/232.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HISTORY HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/233.m3u8$http-refferer=http://localhost
-#EXTINF:-1,IZTV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/234.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KANAL 24
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/235.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KANAL 7 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/236.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KANAL D HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/237.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KRAL
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/238.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KRAL POP TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/239.m3u8$http-refferer=http://localhost
-#EXTINF:-1,LOCA 1HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/240.m3u8$http-refferer=http://localhost
-#EXTINF:-1,LOCA 2HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/241.m3u8$http-refferer=http://localhost
-#EXTINF:-1,LOCA 3HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/242.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MINIKA COCUK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/243.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MINIKA GO
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/244.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviemax Festival
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/245.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MovieMax Premiere
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/246.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviemax Stars
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/247.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MOVIEMAX TURK HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/248.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Action
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/249.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Classic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/250.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Family
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/251.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Fest
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/252.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Gold
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/253.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Platin
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/254.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Platin 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/255.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Premium
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/256.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Premium 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/257.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Moviesmart Turk
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/258.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NATINOAL GEO WILD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/259.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/260.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NICKELODEON HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/261.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NICKELODEON JR
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/262.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NTV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/263.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NTV SPOR HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/264.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NUMBER 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/265.m3u8$http-refferer=http://localhost
-#EXTINF:-1,PLANET COCUK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/266.m3u8$http-refferer=http://localhost
-#EXTINF:-1,PLANET TURK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/267.m3u8$http-refferer=http://localhost
-#EXTINF:-1,POWER TURK HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/268.m3u8$http-refferer=http://localhost
-#EXTINF:-1,POWER TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/269.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SALON 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/270.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SALON 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/271.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SALON 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/272.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SALON 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/273.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SEMERKAND
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/274.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SHOW HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/275.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY TURK 360
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/276.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SMART SPOR 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/277.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SMART SPOR HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/278.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SPORTS TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/279.m3u8$http-refferer=http://localhost
-#EXTINF:-1,STAR TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/280.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TGRT BELGESEL
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/281.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TGRT HABER
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/282.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TIVIBU SPOR 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/283.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TIVIBUSPOR 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/284.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TIVIBUSPOR 3 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/285.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TIVIBUSPOR 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/286.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TRT SPOR SD/HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/287.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TURKMAX GURME HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/288.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TV NET
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/289.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TV2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/290.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TV5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/291.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TV8 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/292.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TV8.5 SPOR HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/293.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ULKE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/294.m3u8$http-refferer=http://localhost
-#EXTINF:-1,YABAN TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/295.m3u8$http-refferer=http://localhost
-
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.tvyayinakisi.com/kanallar/b/trt_1.png" tvg-name="trt 1 hd"  group-title="TURKEY",trt 1 hd
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://telaffuzz.com/wp-content/uploads/2015/04/trtarap.jpg" tvg-name="TRTARAPCA"  group-title="TURKEY",TRTARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 tvg-name="TRT AVAZ"  group-title="TURKEY",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL"  group-title="TURKEY",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-name="TRT COCUK"  group-title="TURKEY",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-name="TRT DIYANET"  group-title="TURKEY",TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 tvg-name="TRT HABER HD"  group-title="TURKEY",TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-name="TRT MUZIK"  group-title="TURKEY",TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-name="TRT OKUL"  group-title="TURKEY",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1 tvg-name="TRTTurk"  group-title="TURKEY",TRTTurk
+http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/master.m3u8
+#EXTINF:-1 tvg-name="TRT WORLD"  group-title="TURKEY",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-name="kanal D"  group-title="TURKEY",kanal D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="kanal D yedek"  group-title="TURKEY",kanal D yedek
+http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 tvg-name="Tv 2"  group-title="TURKEY",Tv 2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1 tvg-name="kanal 24"  group-title="TURKEY",kanal 24
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1 tvg-name="kanalben"  group-title="TURKEY",kanalben
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 tvg-name="kanalben"  group-title="TURKEY",kanal t
+rtmp://www.kanalt.com.tr/live/_definst_/kanalt
+#EXTINF:-1 tvg-name="semer kand"  group-title="TURKEY",semer kand
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
+#EXTINF:-1 tvg-name="yasin tv"  group-title="TURKEY",yasin tv
+http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="MEDINE TV"  group-title="TURKEY",MEDINE TV
+http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="dream turktv"  group-title="TURKEY",dream turktv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="dreamtv"  group-title="TURKEY",dreamtv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="NUMBER ONE HD"  group-title="TURKEY",NUMBER ONE HD
+http://nr1hls.radyotvonline.com/nr1tv/nr1tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="NUMBER ONE TURK"  group-title="TURKEY",NUMBER ONE TURK
+http://nr1hls.radyotvonline.com/nr1tv/nr1_turk.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="DOCUMANTARY TR"  group-title="TURKEY",DOCUMANTARY TR
+http://188.165.239.200:7088/
+#EXTINF:-1 tvg-name="KANAL TEK"  group-title="TURKEY",KANAL TEK
+http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="SPORTS TV"  group-title="TURKEY",SPORTS TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 100"  group-title="TURKEY",TV 100
+http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
+#EXTINF:-1 tvg-name="VIRGIN TV"  group-title="TURKEY",VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1 tvg-name="star tv"  group-title="TURKEY",star tv
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-name="eurostar"  group-title="TURKEY",eurostar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-name="show max"  group-title="TURKEY",show max
+http://mn-l.mncdn.com:1935//showmax2/master.m3u8
+#EXTINF:-1 tvg-name="show max"  group-title="TURKEY",show max youtube
+https://www.youtube.com/watch?v=DzPDPtxeY2Y
+#EXTINF:-1 tvg-name="showtv"  group-title="TURKEY",showtv
+http://canli2.tvnet.tv.tr/live/smil:showtv.smil/master.m3u8
+#EXTINF:-1 tvg-name="showtv"  group-title="TURKEY",showtv
+http://canli2.tvnet.tv.tr/live/smil:showtv.smil/master.m3u8
+#EXTINF:-1 tvg-name="TV8"  group-title="TURKEY",TV8
+http://yayin8.canlitv.com:1935/tv8/tv8/master.m3u8
+#EXTINF:-1 tvg-name="TV8"  group-title="TURKEY",TV8
+http://yayin8.canlitv.com:1935/tv8/tv8/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv 2"  group-title="TURKEY",Tv 2
+https://live.dogannet.tv/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1 tvg-name="sinema1"  group-title="TURKEY",sinema1
+mmsh://50.7.93.114:80/sinema1/playlist.m3u8
+#EXTINF:-1 tvg-name="sinema2"  group-title="TURKEY",sinema2
+mmsh://50.7.93.114:80/sinema2/playlist.m3u8
+#EXTINF:-1 tvg-name="sinema 3"  group-title="TURKEY",sinema 3
+mmsh://50.7.93.114:80/sinema3/playlist.m3u8
+#EXTINF:-1 tvg-name="sinema 4"  group-title="TURKEY",sinema 4
+mmsh://50.7.93.114:80/sinema4/playlist.m3u8
+#EXTINF:-1 tvg-name="sinema 5"  group-title="TURKEY",sinema 5
+mmsh://50.7.93.114:80/sinema5/playlist.m3u8
+#EXTINF:-1 tvg-name="fortuna tv"  group-title="TURKEY",fortuna tv
+http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="fil tv"  group-title="TURKEY",fil tv
+http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="tv 4"  group-title="TURKEY",tv 4
+http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",brt tv
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",flashtv
+rtmp://184.173.181.2:1935/8158/8158
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",kanal 38
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",maltaya
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",alanya tv
+rtmp://stream2.taksimbilisim.com/alanyatv/bant1
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",mersin tv
+rtmp://ms.n1.tvkur.noccdn.com/cdn/558833d1d1a37
+#EXTINF:-1 tvg-name="360 sky tv"  group-title="TURKEY",360 sky tv
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT COCUK"  group-title="TURKEY",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-name="cnn turk"  group-title="TURKEY",cnn turk
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:-1 tvg-name="cnnturk"  group-title="TURKEY",cnnturk
+http://media.netd.com.tr/s2/hls_live/cnn_turk/index.m3u8
+#EXTINF:-1 tvg-name="Planet cocuk"  group-title="TURKEY",Planet cocuk
+https://ams.tvizlehd.com/live/planetcocuk/playlist.m3u8
+#EXTINF:-1 tvg-name="Planet cocuk"  group-title="TURKEY",Planet cocuk Backup
+http://62.210.180.24/7/RMDs4CMA/61647/mot9f9j/15018/NMF4zUW/planetcocuk.m3u8
+#EXTINF:-1 tvg-name="Kanal B"  group-title="TURKEY",Kanal B
+rtmp://212.174.233.129/livepkgr/mylivestream
+#EXTINF:-1 tvg-name="Kanal A"  group-title="TURKEY",Kanal A
+https://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG HT"  group-title="TURKEY",BLOOMBERG HT
+http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8
+#EXTINF:-1 tvg-name="aksu tv"  group-title="TURKEY",aksu tv
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="kapadokyatv"  group-title="TURKEY",kapadokyatv
+http://yayin3.canlitv.com:1935/live/kapadokyatv/playlist.m3u8
+#EXTINF:-1 tvg-name="VUSLAT TV"  group-title="TURKEY",VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv kayseri"  group-title="TURKEY",Tv kayseri
+rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+#EXTINF:-1 tvg-name="tv 2000"  group-title="TURKEY",tv 2000
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+#EXTINF:-1 tvg-name="TV 52"  group-title="TURKEY",TV 52
+rtmp://stream.taksimbilisim.com/tv52/bant1
+#EXTINF:-1 tvg-name="Tv 41"  group-title="TURKEY",Tv 41
+rtmp://stream.taksimbilisim.com/tv41/bant1
+#EXTINF:-1 tvg-name="Rumeli tv"  group-title="TURKEY",Rumeli tv
+http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",TV10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",arttv
+rtmp://159.253.44.101/arttv/arttv
+#EXTINF:-1 tvg-name=""  group-title="TURKEY",batiyakasi
+http://s02.vidpanel.com/batiyakasi/batiyakasi.m3u8
+#EXTINF:-1 tvg-name="TV10"  group-title="TURKEY",BOZTEPE TV
+http://stream.taksimbilisim.com:1935/btv/smil:btv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV10"  group-title="TURKEY",Aile
+rtmp://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2
+#EXTINF:-1 tvg-name="TARSUS G?Ãƒâ€šÃ‚Â¼NEY TV"  group-title="TURKEY",TARSUS G?Ãƒâ€šÃ‚Â¼NEY TV
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:-1 tvg-name="SIVAS SRT TV"  group-title="TURKEY",SIVAS SRT TV
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:-1 tvg-name="MERSIN SUN TV"  group-title="TURKEY",MERSIN SUN TV
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:-1 tvg-name="M-TV AZ"  group-title="TURKEY",M-TV AZ
+rtmp://85.132.78.6:1935/live/muztv.stream
+#EXTINF:-1 tvg-name="AHITV"  group-title="TURKEY",AHITV
+http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV"  group-title="TURKEY",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-name="ULUSAL KANAL"  group-title="TURKEY",ULUSAL KANAL
+rtmp://184.173.181.2/8132//8132
+#EXTINF:-1 tvg-name="Tgrt Haber"  group-title="TURKEY",Tgrt Haber
+rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1
+#EXTINF:-1 tvg-name="BEYAZ TV"  group-title="TURKEY",BEYAZ TV
+rtmp://37.77.31.3/liveedge/BEYAZTVMQ
+#EXTINF:-1 tvg-name="kanal urfa"  group-title="TURKEY",kanal urfa
+rtmp://stream.taksimbilisim.com/kanalurfa//bant1
+#EXTINF:-1 tvg-name="Bursa spor"  group-title="TURKEY",Bursa spor
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="dost tv"  group-title="TURKEY",dost tv
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+#EXTINF:-1 tvg-name="Ful TV"  group-title="TURKEY",Ful TV
+http://yayin3.canlitv.com:1935/canlitv/nevtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Istanbul TV"  group-title="TURKEY",Istanbul TV
+https://istimeglb.mediatriple.net//webtv/webtv_wowza1/Playlist.m3u8
+#EXTINF:-1 tvg-name="GAZI TV"  group-title="TURKEY",GAZI TV
+http://www.arkumedia.com:1935/gazitv/gazitv/playlist.m3u8
+#EXTINF:-1 tvg-name="buyuk sivas tv"  group-title="TURKEY",buyuk sivas tv
+http://yayin3.canlitv.com:1935/canlitv/buyuksivastv/playlist.m3u8
+#EXTINF:-1 tvg-name="KANAL A2"  group-title="TURKEY",KANAL A2
+http://yayin8.canlitv.com:1935/live/a2/playlist.m3u8
