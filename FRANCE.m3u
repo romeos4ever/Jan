@@ -253,7 +253,36 @@ http://163.172.49.213:8899/live/bigRmd/big10rmd/1413.ts
 #EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
 #EXTINF:-1,DISNEY CINEMA
 http://163.172.49.213:8899/live/bigRmd/big10rmd/1415.ts
-#EXTVLCOPT:http-user-
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1454.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1455.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1456.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 04HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1457.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 05HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1458.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 06HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1459.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 07HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1460.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 08HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1461.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 09HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1462.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 10HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1463.ts
 
 
 
