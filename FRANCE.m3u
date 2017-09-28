@@ -52,7 +52,208 @@ http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 #EXTINF:-1,tvfrancophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
-
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,TF1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1428.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1430.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 3
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1431.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 4
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1432.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 5
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1433.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE O
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1434.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,M6
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1429.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ACTION
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1453.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1435.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL CINEMA
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1436.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL FAMILY
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1438.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL DECALE
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1437.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL SERIES
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1439.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE PREMIER
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1440.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE POLAR
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1446.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE FX
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1447.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE FRISSON
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1441.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE FAMIZ
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1445.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE EMOTION
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1442.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE CLUB
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1444.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CINE CLASSIC
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1443.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,OCS MAX
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1451.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,OCS GEANT
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1449.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,OCS CITY
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1450.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,OCS CHOC
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1448.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,COMEDIE
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1452.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1390.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1391.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 3
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1392.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 4
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1393.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 5
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1394.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1395.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1396.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 3
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1397.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 4
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1398.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 5
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1399.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ANIMAUX
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1424.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,DISCOVRY-SCI
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1423.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,DISCOVRY
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1422.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,USHUAIA TV
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1425.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,SEASON
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1427.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,NATIONAL-GEO
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1420.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,NAT-GEO-WILD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1421.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CHASSE PECHE
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1426.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,France 24
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1329.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,Euronews
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1330.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,LCI
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1401.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,ITELE
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1400.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 1HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1464.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 2HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1465.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 3HD Fr
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1466.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL SPORT
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1417.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,INFOSPORT
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1419.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,FOOT 24
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1418.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,PIWI
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1402.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CARTON NET
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1405.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BOOMERANG
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1404.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,TIJI
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1403.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,GULLI
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1406.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,TELETOON
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1410.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,CANAL J
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1408.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,NICKELODEON JUNIOR
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1412.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,NICKELODEON
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1411.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,MANGAS
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1407.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY XD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1416.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY JUNIOR
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1413.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,DISNEY CINEMA
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1415.ts
+#EXTVLCOPT:http-user-
 
 
 
