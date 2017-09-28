@@ -1,43 +1,42 @@
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEINSPORTSNEWSHD
-http://emp.jan-beryan.giize.com/753.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEINSPORTNBAHD
-http://emp.jan-beryan.giize.com/768.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN1hd
-http://emp.jan-beryan.giize.com/809.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN2hd
-http://emp.jan-beryan.giize.com/851.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN3hd
-http://emp.jan-beryan.giize.com/767.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN4hd
-http://emp.jan-beryan.giize.com/784.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN5hd
-http://emp.jan-beryan.giize.com/785.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN6hd
-http://emp.jan-beryan.giize.com/810.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN7hd
-http://emp.jan-beryan.giize.com/865.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN8hd
-http://emp.jan-beryan.giize.com/852.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN9hd
-http://emp.jan-beryan.giize.com/786.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN10hd
-http://emp.jan-beryan.giize.com/866.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN11hd
-http://emp.jan-beryan.giize.com/867.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BEIN12hd
-http://emp.jan-beryan.giize.com/868.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS News
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1496.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS Global
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1495.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1494.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1493.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1492.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 4HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1491.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 5HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1490.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 6HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1489.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 7HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1488.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 8HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1487.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 9HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1486.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 10HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1485.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 11HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1484.ts
+#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 12HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1483.ts
