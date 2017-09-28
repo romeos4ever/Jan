@@ -24,3 +24,115 @@ http://bein9.jan-beryan.giize.com/playlist.m3u8
 #EXTINF:-1,bein sport10                       
 http://bein10.jan-beryan.giize.com/playlist.m3u8
 
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVSERIE
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1574.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVRECORD
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1573.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVIFICCAO
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1572.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVI24
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1571.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVI
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1570.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVCINE4
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1569.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVCINE3
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1568.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVCINE2
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1567.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-TVCINE1
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1566.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SYFY
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1565.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SPORTTV4
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1564.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SPORTTV3
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1563.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SPORTTV2
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1562.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SPORTTV1
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1561.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SICNOTICIAS
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1560.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SICKIDS
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1559.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-SIC
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1558.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-RTPMADEIRA
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1557.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-RTPACORES
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1556.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-RTP3
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1555.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-RTP2
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1554.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-RTP1
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1553.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-RECORDNEWS
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1552.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-ODESSEIA
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1551.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-MTVPORTUGAL
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1550.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-MOTORSTV
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1549.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-GLOBO
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1548.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-EUROSPORT1
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1547.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-DISNEYCHANNEL
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1546.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-CARTOONNETWORK
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1545.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-CANCAONOVA
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1544.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-CANALHOLLYWOOD
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1543.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-CANALCINEMUNDO
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1542.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-BTV1
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1541.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-ARTV
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1540.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-AMCPORTUGAL
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1539.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,POR-ABOLATV
+http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/1538.ts
