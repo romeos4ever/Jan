@@ -1,3 +1,76 @@
+
+
+#EXTINF:-1, ======FRANCE=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
+http://www.lengua.com/anthems/France.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="FRANCE",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6broowjJuk8/Tl_rNKHRrlI/AAAAAAAACD0/v1mP7Y4934A/s500/Animaux+logo.png" group-title="FRANCE",Animaux
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
+http://streaming-hub.com/stream/arte.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png" group-title="FRANCE",BFM TV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+
+#EXTINF:-1 tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="FRANCE",BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://maxnet.ua/wp-content/uploads/2014/10/chasse-peche.gif" group-title="FRANCE",Chasse et Peche
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg" group-title="FRANCE",CNews
+http://hls-m06.live-lv3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="FRANCE",Indies Live (WN)
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
+http://streaming-hub.com/stream/rmc.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
+http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-1497621843)/live-audio=128000-video=6300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
+http://live2.awedia.com/hls/tebeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671687963689033728/k-tLY6M4.jpg" group-title="FRANCE",Toute l'Histoire
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
+http://str81.creacast.com/weo/high/live.m3u8
+
+
+
 #EXTM3U
 #EXTINF:-1,FR:tf1
 http://195.154.56.192:8000/live/app1FR/app1FR/57.ts
