@@ -1,3 +1,70 @@
+
+
+
+
+#EXTINF:-1, ======TURKEY=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",~ Turkey TV ~
+http://www.lengua.com/anthems/Turkey.mp3
+
+#EXTINF:-1 tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY",Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.trtbelgesel.net.tr/fotograf/makaleler/1-yeni-donem-basin-bulteni-20150404-141137-trtbelgesel-makaleler_270x198.jpg" group-title="TURKEY",TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="TURKEY",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="TURKEY",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="TURKEY",TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.22.45/a778abff5363462182f7a3bd5a87f259.png" group-title="TURKEY",TRT Okul
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.tvyayinakisi.com/kanallar/b/trt_1.png" tvg-name="trt 1 hd"  group-title="TURKEY",trt 1 hd
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="http://telaffuzz.com/wp-content/uploads/2015/04/trtarap.jpg" tvg-name="TRTARAPCA"  group-title="TURKEY",TRTARAPCA
