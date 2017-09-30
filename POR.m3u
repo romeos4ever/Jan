@@ -1,4 +1,63 @@
 
+#EXTINF:-1, ======PORTUGAL=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Portugal-icon.png" group-title="LABEL",~ Portugal TV ~
+http://www.lengua.com/anthems/Portugal.mp3
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" group-title="PORTUGAL",Agueda TV
+http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="PORTUGAL",Eurosport 1
+http://80.90.41.118:6600/play/a007
+
+#EXTINF:-1 tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" group-title="PORTUGAL",Porto Canal
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="PORTUGAL",RTP 1
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="PORTUGAL",RTP2
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" group-title="PORTUGAL",RTP Acores
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_negativo.jpg" group-title="PORTUGAL",RTP Africa
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" group-title="PORTUGAL",RTP Internacional
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_negativo.jpg" group-title="PORTUGAL",RTP Madeira
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" group-title="PORTUGAL",RTP Memoria
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" group-title="PORTUGAL",TVI
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" group-title="PORTUGAL",TVI
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi24.png" group-title="PORTUGAL",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rtc.cv/tcv/images/logo_tcv.jpg" group-title="PORTUGAL",RTC (CV)
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
+http://www.lengua.com/anthems/Brazil.mp3
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png" group-title="BRAZIL",Agro Canal
+http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+
+
+
+
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,POR-TVSERIE
