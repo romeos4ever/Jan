@@ -1,434 +1,84 @@
-#EXTM3U
-#EXTINF:-1,5USA
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1242.m3u8$http-refferer=http://localhost
-#EXTINF:-1,3e
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1248.m3u8$http-refferer=http://localhost
-#EXTINF:-1,5Star
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1249.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Alibi
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1250.m3u8$http-refferer=http://localhost
-#EXTINF:-1,AMC FROM BT
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1240.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Animal Planet 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
-#EXTINF:-1,At The Races
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1252.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC ALBA
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1239.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC Parliament
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1238.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC TWO HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1253.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC World News
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1315.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1254.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BET
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1237.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BritishMuslim
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1236.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport 3 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1246.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport 3 SD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1255.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Extra 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1256.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Extra 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1257.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Extra 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1258.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Extra 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1259.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Extra 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1260.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Mosaic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1261.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Mosaic 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1262.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sports 2 SD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1263.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Cartoon Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Cartoonito
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1211.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Cbeebies
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1201.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Challenge 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1265.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Channel 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1235.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Channel 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1234.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CHANNEL 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1233.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CHANNEL 5 FHD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1232.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Chelsea FC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1266.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CNBC Europe
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1231.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Comedy Central Extra 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1267.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Crime & Investigiation
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1245.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Crime investigation 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1268.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1269.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery History 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1270.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery Science 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Channel 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney XD 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
-#EXTINF:-1,E!
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1274.m3u8$http-refferer=http://localhost
-#EXTINF:-1,E! 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1275.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Eir Sports1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Eir Sports2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/2.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Eurosport 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/3.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Eurosport 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/4.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Food Network
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1276.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Food Network 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1277.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX News
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1230.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Golf Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1212.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Good Food
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1278.m3u8$http-refferer=http://localhost
-#EXTINF:-1,H2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1194.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HBO 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1316.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HBO 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1317.m3u8$http-refferer=http://localhost
-#EXTINF:-1,History
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1200.m3u8$http-refferer=http://localhost
-#EXTINF:-1,History 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1279.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Home&Health 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1280.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Horror Channel 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1281.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ID
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1247.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ID 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1282.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Inspiration
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1229.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Investigation Discovery
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1228.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ITV ENCORE
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1227.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ITV1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/5.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ITV2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/6.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ITV3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/7.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ITV4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/8.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KERRANG
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1226.m3u8$http-refferer=http://localhost
-#EXTINF:-1,KISS UK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1225.m3u8$http-refferer=http://localhost
-#EXTINF:-1,LFC TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1283.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Magic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1199.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Movies 4 Men
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1224.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MTV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1198.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MTV 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1284.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MUTV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1285.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nat Geo Wild
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1286.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NATGEO WILD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
-#EXTINF:-1,National Geographic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nick Jnr Too
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1287.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nick Jr 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1288.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nickelodeon
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1289.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nickelodeon 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1290.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Premier Sports HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1243.m3u8$http-refferer=http://localhost
-#EXTINF:-1,PREMIERE SPORT HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1291.m3u8$http-refferer=http://localhost
-#EXTINF:-1,QUEST
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1223.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Racing UK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1292.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Real Lives
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1222.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTE One
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1293.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTE Two
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1294.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SATENTA SPORT
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1295.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Scuzz
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1197.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Setanta Sports 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1296.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Atlantic 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1297.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Action HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1210.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Comedy HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1209.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Crime & Thriller HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1208.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Disney HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1207.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Drama & Romance HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1206.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Family HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1205.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Premier HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1204.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Premiere 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1298.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1203.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Cinema Select HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1202.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Living 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1299.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Select HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1300.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY NEWS
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1221.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY NEWS HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1215.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY SPORTS 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/28.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY SPORTS 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/29.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY SPORTS 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/30.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY SPORTS 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/31.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY SPORTS 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/32.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sports Mix
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1244.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Two
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1301.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SkySpBoxOff (PPV Events Only)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1302.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SMASH HITS
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1220.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sony Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1218.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sony Chnl 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1303.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sony Movie
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1219.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Syfy 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1304.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TCM
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1196.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Tiny Pop 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1305.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TLC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1306.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TLC 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1307.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TLC 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1308.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Travel Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1309.m3u8$http-refferer=http://localhost
-#EXTINF:-1,True Movies 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1310.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Universal 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1311.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VH1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1312.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VICELAND
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1217.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIVA
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1192.m3u8$http-refferer=http://localhost
-#EXTINF:-1,W 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1313.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Watch
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1216.m3u8$http-refferer=http://localhost
-#EXTINF:-1,4Seven
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1314.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Modern
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1318.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TLC - IRELAND
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1319.m3u8$http-refferer=http://localhost
-#EXTINF:-1,True Movies 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1320.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Cartoon network HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1241.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HBO HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1214.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MTV LIVE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1213.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Animal Planet
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1172.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Chelsea TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1173.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CNN
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1174.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Comedy Central
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1175.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Dave
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1176.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Eden
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1177.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1178.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Life time
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1179.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Living UK
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1180.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Manchester United TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1181.m3u8$http-refferer=http://localhost
-#EXTINF:-1,More 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1182.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Mototrs TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1183.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nat Geo Graphic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1184.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Arts
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1185.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY Atlantic HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1186.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Drama
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1187.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SKY One
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1188.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport 1 SD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1189.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport F1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1190.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Yesterday
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1191.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC World News
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1127.m3u8$http-refferer=http://localhost
-#EXTINF:-1,boomerang
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Boxnation
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1129.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/24.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/25.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport ESPN
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/26.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BT Sport Europe HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/27.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CBS Action
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1130.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CBS Drama
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1131.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CBS reality
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1132.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DISCOVERY
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery History
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1134.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery Science
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1135.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery Shed
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1136.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery Turbo
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1137.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1138.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Junior
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1139.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney XD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1140.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DMax
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1141.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Drama
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1142.m3u8$http-refferer=http://localhost
-#EXTINF:-1,E!
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1143.m3u8$http-refferer=http://localhost
-#EXTINF:-1,E4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1144.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1145.m3u8$http-refferer=http://localhost
-#EXTINF:-1,gold
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1146.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Good Food
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1147.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Home & Health
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1148.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Irish Tv
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1149.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ITV be
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1150.m3u8$http-refferer=http://localhost
-#EXTINF:-1,London Live
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1151.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nick Jr
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1152.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nicktoons
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1153.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movie Sci-Fi
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1154.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Action
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1155.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Comedy
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1156.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Disney
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1157.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Family
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1158.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Greats
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1159.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Premiere
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1160.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Showcase
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1161.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Movies Thriller
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1162.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1163.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport 3 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1164.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1165.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport 5 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1166.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sport News
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1167.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sky Sports 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1168.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Syfy
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1169.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Tiny POP
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1170.m3u8$http-refferer=http://localhost
-#EXTINF:-1,UTV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1171.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Baby TV
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1122.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC ONE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1123.m3u8$http-refferer=http://localhost
-#EXTINF:-1,BBC Three HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1124.m3u8$http-refferer=http://localhost
-#EXTINF:-1,CBBC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1125.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Pick
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer=http://localhost
 
+
+#EXTINF:-1, ======UK=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
+http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
+
+#EXTINF:-1 tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png" group-title="UK",BBC News [Off]
+http://user:asdqwe@rel4.european-iptv.com:81/8144
+
+#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News*
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png" group-title="UK",Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" group-title="UK",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg" group-title="UK",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK",BT Sport 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
+http://185.142.239.164:3135/Euro/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="UK",Eurosport 2
+http://185.142.239.164:3135/Euro/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg" group-title="UK",Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Beauty
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 4
+#EXTINF:0 group-title="UK", QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" group-title="UK",IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
