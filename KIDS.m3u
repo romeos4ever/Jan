@@ -12,3 +12,9 @@ https://r4---sn-i5onxoxu-q0ns.googlevideo.com/videoplayback?expire=1506894273&mi
 rtmp://extondemand.livestream.com/ondemand/trans/dv02/mogulus-user-files/chislamiccartoon/2008/09/28/3d4fa86f-5f3c-4f52-891f-5499a6e39bef
 #EXTINF:-1,Toyor aljanah
 https://manifest.googlevideo.com/api/manifest/hls_variant/key/yt6/id/PrerHSj4jDg.1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1506894782/go/1/dover/8/itag/0/ei/Xg_RWe6QAYmhcJizuGg/ipbits/0/gcr/de/ratebypass/yes/source/yt_live_broadcast/signature/31B4DBF76D38111440E48A44458ECB47CFFB3640.62E8573111A7204BFA5181FACE46FEC4711DFC9E/playlist_type/DVR/hfr/1/maudio/1/keepalive/yes/ip/92.227.50.150/requiressl/yes/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem *
+http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV
+http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
