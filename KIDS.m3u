@@ -1,46 +1,14 @@
 
 #EXTINF:-1,======KIDS Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,baraem
+http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8?v=1558393494
+#EXTINF:-1,ajyal
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8?v=1558393494
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-AJYAL
-http://emp.jan-beryan.giize.com/657.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-KARAMEESH
-http://emp.jan-beryan.giize.com/891.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SPACETOONARABIC
-http://emp.jan-beryan.giize.com/1174.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MAJIDKIDS
-http://emp.jan-beryan.giize.com/1113.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TAHA
-http://emp.jan-beryan.giize.com/656.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-JEEMEUROPE
-http://emp.jan-beryan.giize.com/655.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BARAEMEUROPE
-http://emp.jan-beryan.giize.com/654.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAT7KIDS
-http://emp.jan-beryan.giize.com/698.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HODHODARABIC
-http://emp.jan-beryan.giize.com/995.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ATFALANDMAWAHEB
-http://emp.jan-beryan.giize.com/658.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TOYORALJANAH
-http://emp.jan-beryan.giize.com/1175.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SEMSEM
-http://emp.jan-beryan.giize.com/1114.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TOYORBABY
-http://emp.jan-beryan.giize.com/1058.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MODYKIDS
-http://emp.jan-beryan.giize.com/1176.ts
+#EXTINF:-1,Karameesh
+https://r4---sn-i5onxoxu-q0ns.googlevideo.com/videoplayback?expire=1506894273&mime=video%2Fmp4&ipbits=0&mt=1506872539&ratebypass=yes&itag=22&signature=E37D985EC8E067B6705079B8F1146B11B1AB541D.B5C374BDC10BAAE6444CC9BB5B60CD81229F6A7E&requiressl=yes&lmt=1472346810043437&ei=YQ3RWabEIYGPc9XVvogJ&id=o-AMgVzlGBNVbWdsBp3HRGNGgeI0jaGqcPX3sSCCG1396i&dur=4190.667&pl=23&ms=au&source=youtube&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mv=m&initcwndbps=1348750&ip=92.227.50.150&mm=31&mn=sn-i5onxoxu-q0ns&key=yt6
+#EXTINF:-1,Majid kids
+rtmp://extondemand.livestream.com/ondemand/trans/dv02/mogulus-user-files/chislamiccartoon/2008/09/28/3d4fa86f-5f3c-4f52-891f-5499a6e39bef
+#EXTINF:-1,Toyor aljanah
+https://manifest.googlevideo.com/api/manifest/hls_variant/key/yt6/id/PrerHSj4jDg.1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1506894782/go/1/dover/8/itag/0/ei/Xg_RWe6QAYmhcJizuGg/ipbits/0/gcr/de/ratebypass/yes/source/yt_live_broadcast/signature/31B4DBF76D38111440E48A44458ECB47CFFB3640.62E8573111A7204BFA5181FACE46FEC4711DFC9E/playlist_type/DVR/hfr/1/maudio/1/keepalive/yes/ip/92.227.50.150/requiressl/yes/file/index.m3u8
