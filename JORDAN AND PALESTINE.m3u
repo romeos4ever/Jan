@@ -1,5 +1,32 @@
 
 
+#EXTINF:-1, ======JORDAN=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",~ Jordan TV  ~
+http://www.lengua.com/anthems/Jordan.mp3
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2uer4go.jpg" group-title="JORDAN",Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+
+#EXTINF:-1 tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1, ======PALESTINE=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine TV ~
+http://users.atw.hu/szbszig/palestine.mp3
+
+#EXTINF:-1 tvg-logo="https://www.idfblog.com/hamas/files/2012/01/Al-Aqsa-TV.png" group-title="PALESTINE",Al Aqsa
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1,======JORDAN AND PALESTINE Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1,Jordan_TV
