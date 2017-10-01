@@ -1,46 +1,38 @@
 
-#EXTINF:-1,======SYRIA Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-FREESYRIAN
-http://emp.jan-beryan.giize.com/823.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SYRIATV
-http://emp.jan-beryan.giize.com/1043.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SYRIANEWS
-http://emp.jan-beryan.giize.com/1186.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SYRIANEDUCATION
-http://emp.jan-beryan.giize.com/897.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SYRIANDRAMATV
-http://emp.jan-beryan.giize.com/1105.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SURYOYOSAT
-http://emp.jan-beryan.giize.com/1034.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SUROYOTV
-http://emp.jan-beryan.giize.com/1150.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NABDSYRIATV
-http://emp.jan-beryan.giize.com/991.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAMATV
-http://emp.jan-beryan.giize.com/1161.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NOORALSHAM
-http://emp.jan-beryan.giize.com/946.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HALABTODAY
-http://emp.jan-beryan.giize.com/795.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SEEVIISHAMIYA
-http://emp.jan-beryan.giize.com/839.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SHAMNA
-http://emp.jan-beryan.giize.com/707.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SHAMFM
-http://emp.jan-beryan.giize.com/706.ts
+
+#EXTINF:-1,======SYRIA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Halab-Today
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Noor alsham
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+
+#EXTINF:-1,sama tv
+http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,DORAR TV
+http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Syria
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria
+
+#EXTINF:-1,syria drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=syria_drama&t=ar
+#EXTINF:-1,Sham FM
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sham-FM/index.m3u8
+#EXTINF:-1,Syria news
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:-1,Syria_ugarit
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1,Orient
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
+
+#EXTINF:-1,nabdsyria
+
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+
+
+
