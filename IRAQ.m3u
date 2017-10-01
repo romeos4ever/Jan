@@ -2,97 +2,58 @@
 
 
 #EXTINF:-1,======IRAQ Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Baghdad
+http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Alrafidain
+https://manifest.googlevideo.com/api/manifest/hls_variant/signature/46DF7B01AC02FEB433C04745844E01F8B50140E2.7F374AECF185E3AE0F9F378A231DE519BC439461/go/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/requiressl/yes/id/JxI-GZzYhaw.0/keepalive/yes/gcr/de/dover/8/key/yt6/itag/0/source/yt_live_broadcast/ip/92.227.50.150/playlist_type/DVR/expire/1506887552/hfr/1/ratebypass/yes/ipbits/0/maudio/1/ei/IPPQWaOBD9LbcNjiuoAO/file/index.m3u8
+#EXTINF:-1,Alqanat tv
+http://cdg3.edge.tmed.pw/alqanattv_abr/live/playlist.m3u8?v=1558393494
+
+#EXTINF:-1,Alfallujah-tv
+http://livestream-f.akamaihd.net/i/4671269_4213685_lsi4mh8me8x8x3qtak5_1@305637/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1506952557~acl=%2fi%2f4671269_4213685_lsi4mh8me8x8x3qtak5_1%40305637%2f*~data=hdntl~hmac=8496d0bc403d8ff75238d4f4b3cc60bab272809b027283db9d7c5dc05fca5ad3
+
+#EXTINF:-1,Hadath
+http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
+
+#EXTINF:-1,Houna baghdad
+http://www.elahmad.com/tv/m3u8/itwork.m3u8?id=hounabaghdad
+
+#EXTINF:-1,Alsharqiya tv
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Almasar
+http://212.18.231.213:1935/almasar/ngrp:almasar_all/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Alrasheed
+http://www.elahmad.com/tv/m3u8/gmswf.m3u8?id=alrasheed
+
+#EXTINF:-1,Afaqtv
+rtmp://212.18.231.213:1935/afaqtv/_definst_/?v=1558393494
+#EXTINF:-1,Dijlah
+rtmp://91.134.145.75:1935?gmswf=1558393494
+#EXTINF:-1,Alforat
+rtmp://alforatlive.nanocdn.com:1935/live/alforat256
+#EXTINF:-1,Alhurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?v=1558393494
+
+#EXTINF:-1,Alhurra IRAQ
+http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?v=1558393494
+
+#EXTINF:-1,Taghier
+http://stream.joinvisions.net:1935/taglive/taghier/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,ANB
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=anb
+
+#EXTINF:-1,Alsumaria
+http://38.99.146.71:7777/Alsumaria_Med.m3u8?user=tyty&session=1fbc1b3268ca71605d13aafd51706d0381aea13940fc70fc47727553bcb51762
+
+#EXTINF:-1,AlIraqiya
+http://38.99.146.71:7777/AlIraqiya_Med.m3u8?user=tyty&session=3d316fa5c751d349881ba12f4b4dc0b22a75d7c5d53dd1eb8a909017939731ef
+
+#EXTINF:-1,IraqiaSport
+http://38.99.146.71:7777/IraqiaSport_Med.m3u8?user=tyty&session=089c7bfe724e37bb8ecf0d2e6d351813af0b30367a6f340f44a8ee4f32e4a391
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALSHARQIYANEWS
-http://emp.jan-beryan.giize.com/899.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALSHARQIYA
-http://emp.jan-beryan.giize.com/1049.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SUMARIA
-http://emp.jan-beryan.giize.com/644.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DIJLAH
-http://emp.jan-beryan.giize.com/883.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ANB
-http://emp.jan-beryan.giize.com/862.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALIRAQIANEWS
-http://emp.jan-beryan.giize.com/1072.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALIRAQIA1
-http://emp.jan-beryan.giize.com/1167.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALHURRAIRAQ
-http://emp.jan-beryan.giize.com/724.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-IRAQMEDICAL
-http://emp.jan-beryan.giize.com/645.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-IRAQIASPORT
-http://emp.jan-beryan.giize.com/701.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-IRAQFUTURE
-http://emp.jan-beryan.giize.com/1169.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-IRAQEDU
-http://emp.jan-beryan.giize.com/1168.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TOYORALIRAQ
-http://emp.jan-beryan.giize.com/659.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALFORAT
-http://emp.jan-beryan.giize.com/1207.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALRAFIDEN
-http://emp.jan-beryan.giize.com/882.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BELADI
-http://emp.jan-beryan.giize.com/1141.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALBAGHDADIANOW
-http://emp.jan-beryan.giize.com/911.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HONABAGHDAD
-http://emp.jan-beryan.giize.com/738.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-KARBALATV
-http://emp.jan-beryan.giize.com/895.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALANBARTV
-http://emp.jan-beryan.giize.com/1026.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALANWAR2
-http://emp.jan-beryan.giize.com/1001.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALANWAR
-http://emp.jan-beryan.giize.com/1181.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALQAMAR
-http://emp.jan-beryan.giize.com/1067.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NAYNAWAALGHAD
-http://emp.jan-beryan.giize.com/1088.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALSALAMTV
-http://emp.jan-beryan.giize.com/914.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALGHADEER
-http://emp.jan-beryan.giize.com/739.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALMASIRAH
-http://emp.jan-beryan.giize.com/1205.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALWALAATV
-http://emp.jan-beryan.giize.com/1212.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-WESAL
-http://emp.jan-beryan.giize.com/1178.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALMAAREF
-http://emp.jan-beryan.giize.com/1050.ts
