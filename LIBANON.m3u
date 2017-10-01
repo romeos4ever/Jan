@@ -1,43 +1,24 @@
 
-#EXTINF:-1,======LIBANON Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALJADEED
-http://emp.jan-beryan.giize.com/929.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALMANAR
-http://emp.jan-beryan.giize.com/794.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-FUTURETV
-http://emp.jan-beryan.giize.com/985.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HEYATV
-http://emp.jan-beryan.giize.com/986.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-LEBANONTV
-http://emp.jan-beryan.giize.com/1160.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-LDC
-http://emp.jan-beryan.giize.com/926.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-LCDMOVIES
-http://emp.jan-beryan.giize.com/1095.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-LBCSAT
-http://emp.jan-beryan.giize.com/1103.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-LBCHD
-http://emp.jan-beryan.giize.com/1102.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MTVLEBANON
-http://emp.jan-beryan.giize.com/928.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NOURSAT
-http://emp.jan-beryan.giize.com/1148.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAT7KIDS
-http://emp.jan-beryan.giize.com/698.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAT7ARABIC
-http://emp.jan-beryan.giize.com/917.ts
+
+#EXTINF:-1,======LIBANON Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Future-TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+#EXTINF:-1,manar
+http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
+
+#EXTINF:-1,MTV-Lebanon
+http://streaming.i-sat.tv:1935/live/mtv/gmswf.m3u8?v=1558393494
+#EXTINF:-1,LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1,Aljadeed
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=aljadeed&t=ar
+
+#EXTINF:-1,Almayadeen tv
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8?v=1558393494
+
+
+#EXTINF:-1,TeleLiban
+http://38.99.146.71:7777/TeleLiban_Med.m3u8?user=tyty&session=cf5e7ffca41d36e78e0fdb0b03097a77dcde724fa51767e95deea6e8d3e37d66
+
