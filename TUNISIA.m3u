@@ -1,23 +1,29 @@
 
 
-#EXTINF:-1,======TUNISIA Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ZAYTOUNATV
-http://emp.jan-beryan.giize.com/714.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NESSMA
-http://emp.jan-beryan.giize.com/888.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HANNIBAL
-http://emp.jan-beryan.giize.com/889.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TUNISNATV
-http://emp.jan-beryan.giize.com/652.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TUNISIANAT2
-http://emp.jan-beryan.giize.com/1053.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TUNISIANAT1
-http://emp.jan-beryan.giize.com/941.ts
+
+#EXTINF:-1,======TUNISIA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Tunisia tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ratebypass/yes/hfr/1/expire/1506889465/ei/mfrQWfvIJ8PTcePOuvAP/maudio/1/source/yt_live_broadcast/itag/0/key/yt6/playlist_type/DVR/ip/92.227.50.150/dover/8/gcr/de/go/1/signature/62AEDDFE25E8CEA69887E35424F367971A34034C.68BB7B4FC5CE28971A4FC68C57A4E22DB1DC327C/id/HM9zyjYrs0A.0/keepalive/yes/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/file/index.m3u8
+#EXTINF:-1,Tunisia_watania2
+https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/maudio/1/ei/1_rQWfTcCJnScdPCjYAJ/expire/1506889527/ratebypass/yes/keepalive/yes/id/GOQK346VeAs.0/signature/053C9154590F65E609B6C2AA85F96E19765A9879.DE21E85CB5FE916550AC6DF875FC4C02B9064458/hfr/1/ipbits/0/go/1/key/yt6/playlist_type/DVR/gcr/de/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/source/yt_live_broadcast/dover/8/requiressl/yes/ip/92.227.50.150/file/index.m3u8
+#EXTINF:-1,Nessma
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+
+#EXTINF:-1,Ettounsia tv
+http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
+
+#EXTINF:-1,Hannibal
+http://38.99.146.71:7777/Hannibal_Med.m3u8?user=tyty&session=40146d2a89c9cfaefede324c7255f651b655db9cb0dc8ed25c1d546533170a49
+
+#EXTINF:-1,Zaitouna
+rtmp://wowzacontrol.com:1935/8088?hg=1558393494
+#EXTINF:-1,Elhiwar-ettounsi
+http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
+
+#EXTINF:-1,AlMustakila
+http://38.99.146.71:7777/AlMustakila_Med.m3u8?user=tyty&session=9d1a33637bad8f36f83891c51e4b393f526dbeb7b2599dc715f63190d2249bb4
+
+#EXTINF:-1,Attessia TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/hfr/1/gcr/de/itag/0/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/keepalive/yes/requiressl/yes/key/yt6/ratebypass/yes/expire/1506890157/ei/Tf3QWdTkFcW0cPHotZAD/ipbits/0/maudio/1/source/yt_live_broadcast/playlist_type/DVR/playlist_duration/30/ip/92.227.50.150/dover/8/signature/6B125B5255639DC8581389C011B815465FBAC219.032A36FFAF5F15E12AFDC8830C0C0F492DAF57AD/go/1/id/Uih_W3y6cAs.0/manifest_duration/30/file/index.m3u8
