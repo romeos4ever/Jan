@@ -1,7 +1,18 @@
 
 
-#EXTINF:-1,======ALGEIRIA Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+
+#EXTINF:-1, ======ALGERIA=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
+http://www.lengua.com/anthems/Algeria.mp3
+
+#EXTINF:-1 tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV [Off]
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
 #EXTINF:-1,Echorouk-TV
 http://tv-live.echoroukonline.com/echo/EchoroukTV/playlist.m3u8
 
