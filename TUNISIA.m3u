@@ -1,9 +1,17 @@
 
 
 
+#EXTINF:-1, ======TUNISIA=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-#EXTINF:-1,======TUNISIA Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1 tvg-logo="http://towers.com.ua/style/img/flags/tunisia.png" group-title="LABEL",~ Tunisia TV ~
+http://www.lengua.com/anthems/Tunisia.mp3
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
 #EXTINF:-1,Tunisia tv
 https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ratebypass/yes/hfr/1/expire/1506889465/ei/mfrQWfvIJ8PTcePOuvAP/maudio/1/source/yt_live_broadcast/itag/0/key/yt6/playlist_type/DVR/ip/92.227.50.150/dover/8/gcr/de/go/1/signature/62AEDDFE25E8CEA69887E35424F367971A34034C.68BB7B4FC5CE28971A4FC68C57A4E22DB1DC327C/id/HM9zyjYrs0A.0/keepalive/yes/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/file/index.m3u8
 #EXTINF:-1,Tunisia_watania2
