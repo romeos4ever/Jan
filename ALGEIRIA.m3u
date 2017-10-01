@@ -1,52 +1,34 @@
 
 
 #EXTINF:-1,======ALGEIRIA Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Echorouk-TV
+http://tv-live.echoroukonline.com/echo/EchoroukTV/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ECHOUROUKTVHD
-http://emp.jan-beryan.giize.com/651.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ECHOUROUKNEWS
-http://emp.jan-beryan.giize.com/1187.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ECHOUROUKBENNA
-http://emp.jan-beryan.giize.com/943.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DZAIRTV
-http://emp.jan-beryan.giize.com/1130.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DZAIR24
-http://emp.jan-beryan.giize.com/903.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DZAIR16
-http://emp.jan-beryan.giize.com/1131.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DZAIERNEWS
-http://emp.jan-beryan.giize.com/955.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NUMIDIANEWSTV
-http://emp.jan-beryan.giize.com/1077.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-KBC
-http://emp.jan-beryan.giize.com/1203.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAMIRA
-http://emp.jan-beryan.giize.com/1056.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-MEDI1TV
-http://emp.jan-beryan.giize.com/731.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CANALALGERIA
-http://emp.jan-beryan.giize.com/1127.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TV4
-http://emp.jan-beryan.giize.com/1129.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TVTAMAZIGHT
-http://emp.jan-beryan.giize.com/1201.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-TVCORAN
-http://emp.jan-beryan.giize.com/1115.ts
+#EXTINF:-1,Echorouk News
+http://tv-live.echoroukonline.com/echo/EchoroukNews/playlist.m3u8
+
+#EXTINF:-1,Echorouk benna TV
+http://tv-live.echoroukonline.com/echo/EchoroukBenna/playlist.m3u8
+#EXTINF:-1,Algeria_1
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
+
+#EXTINF:-1,Algeria_3
+http://38.99.146.94:7777/Thalitha_LR.m3u8?user=tyty&session=764abede41e187b8e7cdc419650a8fd8dc8abbc9ec52909b319ef8aad50b245d
+
+#EXTINF:-1,Algeria_3
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=algeria_3&t=ar
+#EXTINF:-1,Algeria_4
+http://38.99.146.94:7777/CanalAlgerie_LR.m3u8?user=tyty&session=eed71643ffc73742ed068ce96075e5309eb7835dd9985f007a12634631ad448d
+
+
+#EXTINF:-1,Ennahar_Algerie
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=ennahar_algerie&t=ar
+
+#EXTINF:-1,Almagharibia1
+http://api.new.livestream.com/accounts/9841337/events/3348791/broadcasts/163569898.m3u8?dw=100&hdnea=st=1506862599~exp=1506864399~acl=%2Fi%2F9841337_3348791_lsigu96emmvwzaosm2d_1@172849%2f*~hmac=95b8b6b3211c004613dfdcde3374803d744174d7d552687e2d13e18076bea8c7
+
+#EXTINF:-1,Almagharibia2
+http://api.new.livestream.com/accounts/7861901/events/4426115/broadcasts/163584805.m3u8?dw=100&hdnea=st=1506862696~exp=1506864496~acl=%2Fi%2F7861901_4426115_lsi6q2i6b1tr33s5evt_1@408398%2f*~hmac=0da0b2c5814418007f0318a4f07a14b5e25bd5de5e168892467a7dca06572e63
 
 
