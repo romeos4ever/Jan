@@ -1,23 +1,34 @@
 
+
+
 #EXTINF:-1,======MOROCO Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Alaoula Inter
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=alaoulainter
+
+#EXTINF:-1,Assadissa
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=assadissa
+
+#EXTINF:-1,2m maroco
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
+
+#EXTINF:-1,Arriadia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+
+#EXTINF:-1,Arrabia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arrabiaa
+
+#EXTINF:-1,Almaghribya
+
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=almaghribya
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-2MMAROC
-http://emp.jan-beryan.giize.com/1079.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ASSADISSA
-http://emp.jan-beryan.giize.com/1125.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ARRIADIA
-http://emp.jan-beryan.giize.com/921.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ARRABIAA
-http://emp.jan-beryan.giize.com/1199.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALMAGHRIBIA
-http://emp.jan-beryan.giize.com/733.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALMAGHARIBIA2
-http://emp.jan-beryan.giize.com/677.ts
+#EXTINF:-1,Tamazight
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=tamazight
+#EXTINF:-1,Medi1_Med
+
+http://37.48.80.76/live/myStream/gmswf.m3u8?v=1558393494
+
+
+
+
