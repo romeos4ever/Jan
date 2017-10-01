@@ -1,8 +1,16 @@
 
 
 
-#EXTINF:-1,======MOROCO Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+
+#EXTINF:-1, ======MOROCCO=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",~ Morocco TV ~
+http://www.lengua.com/anthems/Morocco.mp3
+
+#EXTINF:-1 tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
+http://95.81.155.40/5958/index.m3u8
+
 #EXTINF:-1,Alaoula Inter
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=alaoulainter
 
