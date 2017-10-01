@@ -1,124 +1,148 @@
 
+
 #EXTINF:-1,======EGYPT Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Watan tv
+http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8?v=1558393494
+
+#EXTINF:-1,Elsharq tv
+http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8?v=1558393494
+
+#EXTINF:-1, AlMasriyah
+http://38.99.146.71:7777/AlMasriyah_Med.m3u8?user=tyty&session=a7d9a0f7a1e4b0d605488e1cfb6a7b08eab8964fe0d2d570b558b6c62b97edeb
+
+#EXTINF:-1, AlMasriyah2
+http://38.99.146.71:7777/AlThanya_Med.m3u8?user=tyty&session=0149d02ee5bff77edefac251d4af7e23be4959dbdfec5c217a5e7f94273cbe97
+
+#EXTINF:-1,ONTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/de/hfr/1/txs/9486106%2C9486107%2C9486108%2C9486109%2C9486110%2C9486111%2C9486112%2C9486113%2C9486114%2C9486115%2C9486116/signature/A4B824D0E23E4EE5776978FB123B159CB4E6879F.41390C07BCC72E2206A78F1875DF88441D6B0DE3/source/yt_live_broadcast/manifest_duration/30/id/y9MEN3KUDwg.0/ipbits/0/ei/gOjQWZjpJobKcp_irYAL/playlist_type/DVR/go/1/ratebypass/yes/itag/0/ip/92.227.50.150/requiressl/yes/tx/9486108/dover/8/expire/1506884832/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/key/yt6/maudio/1/playlist_duration/30/keepalive/yes/file/index.m3u8
+#EXTINF:-1,ONTV EG
+https://manifest.googlevideo.com/api/manifest/hls_variant/dover/8/manifest_duration/30/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/ip/92.227.50.150/key/yt6/itag/0/ei/zujQWf-rIcKtco7EsvgB/gcr/de/source/yt_live_broadcast/signature/073DF02D5F95EDEE589E115E04C56066245678F1.63DE52003824B5B4F4E28371B4F2088242C4CEE9/maudio/1/id/gbqb0_Y2kUQ.0/playlist_type/DVR/hfr/1/ipbits/0/go/1/keepalive/yes/expire/1506884910/playlist_duration/30/ratebypass/yes/file/index.m3u8
+#EXTINF:-1,ONTV SPORTS
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/iBDhlVgBk2Y.0/key/yt6/keepalive/yes/go/1/dover/8/requiressl/yes/playlist_type/DVR/ip/92.227.50.150/tx/9474460/itag/0/ratebypass/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/de/signature/3878FCE19A8C432CD51AC9AED5BA0238E1095EC9.C9923BA328C75021CE49D6C4DBDBBF31CDC224A8/expire/1506885027/source/yt_live_broadcast/maudio/1/txs/9474456%2C9474457%2C9474458%2C9474459%2C9474460%2C9474461%2C9474462%2C9474463/ei/QunQWcKYN5iocY67jMAM/hfr/1/ipbits/0/file/index.m3u8
+
+#EXTINF:-1,MehwarTV
+http://radiofm.onlinehorizons.net:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1558393494
+#EXTINF:-1,Nile_drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_drama&t=ar
+
+
+#EXTINF:-1,Nile_cinema
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_cinema&t=ar
+#EXTINF:-1,Nile_comedy
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_comedy&t=ar
+
+#EXTINF:-1,Nile_life
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_life&t=ar
+#EXTINF:-1,Nile_Sport
+http://38.99.146.71:7777/NileSport_Med.m3u8?user=tyty&session=1e7e9392ace2b8262e45008fe64103be2ef003e2e0c0205b4f6307e1c5b97e9d
+
+
+#EXTINF:-1,Nile_family
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_family&t=ar
+
+#EXTINF:-1,Nile_culture
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_culture&t=ar
+
+#EXTINF:-1,Alhayat
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=alhayat_2&t=ar
+#EXTINF:-1,DREAM
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ip/92.227.50.150/dover/8/ei/huvQWaujBIbocK6gngg/id/kXO78jT335A.0/tx/9483011/gcr/de/txs/9483010%2C9483011%2C9483012%2C9483013%2C9483014/maudio/1/signature/61AD8F7577554722377540BA1794DF5BD12E7417.468E73AD6784685B05CBFC5980C664A4B92326EA/key/yt6/keepalive/yes/source/yt_live_broadcast/requiressl/yes/ipbits/0/hfr/1/playlist_duration/30/itag/0/ratebypass/yes/expire/1506885606/playlist_type/DVR/manifest_duration/30/file/index.m3u8
+
+#EXTINF:-1,Cbc_sofra
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_sofra&t=ar
+#EXTINF:-1,Cbc
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc&t=ar
+#EXTINF:-1,Cbc_drama
+
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_drama&t=ar
+#EXTINF:-1,Cbc_EXTRA
+
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_2&t=ar
+
+#EXTINF:-1,Rotana_masriya
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_masriya&t=ar
+
+#EXTINF:-1,PanoramaDrama
+http://38.99.146.71:7777/PanoramaDrama_Med.m3u8?user=tyty&session=60ddd634ca6f35b37a7ba5b1812065094521d7de57debbe6b0062e708ee78da8
+#EXTINF:-1,PanoramaDrama2
+http://38.99.146.71:7777/PanoramaDrama2_Med.m3u8?user=tyty&session=c0d064d3a2868cd13b040819e6d68d7d7cba4d2043ac318900b9dff1c8673cb9
+
+
+#EXTINF:-1,PanoramaFilm
+http://38.99.146.71:7777/PanoramaFilm_Med.m3u8?user=tyty&session=5101d6d72ab4b755fdffd94fce14b698b60d2da7a1c5b086ab22b6aa7bdbff03
+#EXTINF:-1,Melody_aflam
+
+http://www.elahmad.com/tv/m3u8/melody_tv.m3u8?id=melody_aflam
+
+#EXTINF:-1,Melody_drama
+
+http://www.elahmad.com/tv/m3u8/melody_tv.m3u8?id=melody_drama
+
+#EXTINF:-1,Melody_classic
+
+http://www.elahmad.com/tv/m3u8/melody_tv.m3u8?id=melody_classic
+
+#EXTINF:-1,Al_nahar
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar&t=ar
+
+#EXTINF:-1,Al_nahar_youm
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_youm&t=ar
+
+#EXTINF:-1,Al_nahar_drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_drama&t=ar
+
+#EXTINF:-1,Al_nahar_sport
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_sport&t=ar
+
+#EXTINF:-1,Al_nahar_noor
+
+http://www.elahmad.com/tv/m3u8/egypt.m3u8?id=alnaharnoor
+
+#EXTINF:-1,Sada-elbaladtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/ei%2Cforce_finished%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/ei/s-7QWfP4C8qec9H1mNgG/itag/0/ip/92.227.50.150/source/yt_live_broadcast/gcr/de/expire/1506886419/hfr/1/ipbits/0/ratebypass/yes/requiressl/yes/dover/8/id/W4PDUMiE47s.1/playlist_type/CLEAN/keepalive/yes/go/1/maudio/1/signature/370BE65F46015909C193F25A0063D3E2E391F19F.D2150C2CE546510C8B52DDB5B83C90F04B532313/force_finished/1/key/yt6/file/index.m3u8
+
+#EXTINF:-1,Sada-elbaladtv2
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/de/expire/1506886482/source/yt_live_broadcast/ratebypass/yes/signature/55F3FC280E0799D34AFEE445E89ECABB028782F5.9C9165479329006849CAA393A6258BB6190C883C/key/yt6/manifest_duration/30/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/dover/8/go/1/keepalive/yes/id/dyDq1yxKDS8.4/playlist_duration/30/requiressl/yes/maudio/1/ei/8u7QWdr5Gou6cJnAtqAB/playlist_type/DVR/hfr/1/itag/0/ipbits/0/ip/92.227.50.150/file/index.m3u8
+#EXTINF:-1,Sada-elbalad-DRAMA
+https://manifest.googlevideo.com/api/manifest/hls_variant/ip/92.227.50.150/requiressl/yes/dover/8/source/yt_live_broadcast/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/gcr/de/playlist_type/DVR/key/yt6/go/1/ipbits/0/hfr/1/expire/1506886531/id/7NgyiRV8Fas.5/keepalive/yes/ratebypass/yes/itag/0/ei/I-_QWeMlw59zpaq9uA8/signature/BF755B44AFA8B80F8A7FCA434AC0CE4BDF96EF7E.0991A57AE789F8AB3DE16504EAE11CBD90D8B54B/maudio/1/file/index.m3u8
+#EXTINF:-1,AlKaheraWalNas
+http://38.99.146.71:7777/AlKaheraWalNas_Med.m3u8?user=tyty&session=5b820c668058764a6007434493c3139f32838a8cee8889cae4f42c13be142b07
+#EXTINF:-1,AlKaheraWalNas2
+http://38.99.146.71:7777/AlKaheraWalNas2_Med.m3u8?user=tyty&session=afb12694ca8d92e7e76f40958d2446b4a1d9799f9978696aeca5083cc0e1472b
+
+#EXTINF:-1,Mekameleen
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
+#EXTINF:-1,Moga_comedy
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=moga_comedy&t=ar
+
+#EXTINF:-1,Ten tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/2C3piXubOkM.0/ei/OfDQWdGoDs3_cpqTpxA/gcr/de/itag/0/keepalive/yes/signature/6316331146AD03D3F5F034751EAE291834F21D92.5F4CAE1864C010B78A1F82A3603FD158B7C147A7/expire/1506886809/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/dover/8/maudio/1/ip/92.227.50.150/key/yt6/ratebypass/yes/ipbits/0/go/1/hfr/1/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/file/index.m3u8
+
+#EXTINF:-1,Dmc
+http://streaming.i-sat.tv:1935/live/dmc/gmswf.m3u8?v=1558393494
+#EXTINF:-1,Dmc-DRAMA
+https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ip/92.227.50.150/key/yt6/maudio/1/playlist_type/DVR/hfr/1/gcr/de/ratebypass/yes/requiressl/yes/signature/9E62A86B3ACEC3F5F15DD35DA7A6D062A6612C8A.C8CE1839EAD917FBB7E0C0358395D9A72D7BF717/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1506886905/id/uCP49z4LBxU.1/itag/0/source/yt_live_broadcast/ei/mPDQWf-gOtHQc465hKgE/dover/8/keepalive/yes/go/1/file/index.m3u8
+
+#EXTINF:-1,Dmc-SPORTS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1506886956/ip/92.227.50.150/key/yt6/maudio/1/playlist_type/DVR/hfr/1/ipbits/0/playlist_duration/30/gcr/de/manifest_duration/30/ratebypass/yes/requiressl/yes/signature/9152D17E1DB0E95BFAE4D9DABF01165D4EAED5E5.C24C7FF972BB1CDDA82E739C48C31C041F22F154/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/B3Zgw1l0IgY.1/itag/0/source/yt_live_broadcast/ei/zPDQWYKSE8ODccueoIgM/dover/8/keepalive/yes/go/1/file/index.m3u8
+
+#EXTINF:-1,AlAssema1
+http://38.99.146.71:7777/AlAssema1_Med.m3u8?user=tyty&session=a8adbefb1e30c16597d97921a9923c87ab42928096dbc9c7be4f3495b3bf3327
+#EXTINF:-1,AlAssema2
+http://38.99.146.71:7777/AlAssema2_Med.m3u8?user=tyty&session=3dac0f614b05e3886ac682532379098d6c6ee19530da29db4984304559b740e9
+
+#EXTINF:-1,Alghad-alarabi
+https://manifest.googlevideo.com/api/manifest/hls_variant/dover/8/playlist_type/DVR/itag/0/ip/92.227.50.150/source/yt_live_broadcast/maudio/1/expire/1506887079/ei/R_HQWY8rwcpwkMKboAk/hfr/1/ipbits/0/ratebypass/yes/requiressl/yes/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/id/u9N5OPqYv5k.0/signature/C4967A66519152E3E744C7DCDFFAD3AD40C16D78.CEF4A1737B152B923DC866F268569A2FBDAFC485/go/1/gcr/de/keepalive/yes/playlist_duration/30/manifest_duration/30/key/yt6/file/index.m3u8
+
+#EXTINF:-1,PanoramaDrama
+http://38.99.146.71:7777/PanoramaDrama_Med.m3u8?user=tyty&session=a76f89748b85233ff8a4723e522828e5977f7845ea754fa1a75ba0312f770853
+#EXTINF:-1,PanoramaDrama2
+http://38.99.146.71:7777/PanoramaDrama2_Med.m3u8?user=tyty&session=9f4c7e73fbecead640fc8289a34f3d8d360900460dde05b9c02c6fc0e0013cf6
+
+#EXTINF:-1,PanoramaFilm
+http://38.99.146.71:7777/PanoramaFilm_Med.m3u8?user=tyty&session=c862c4938e5d036fb0581ab40c719a45f038440a076450e4d9126a6a41b943ad
 
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALHAYATTV
-http://emp.jan-beryan.giize.com/1149.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALHAYATMOUSALSALET
-http://emp.jan-beryan.giize.com/934.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALHAYAT2
-http://emp.jan-beryan.giize.com/988.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALHAYAT
-http://emp.jan-beryan.giize.com/709.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CBCSOFRA
-http://emp.jan-beryan.giize.com/884.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CBCEXTRA
-http://emp.jan-beryan.giize.com/989.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CBCDRAMA
-http://emp.jan-beryan.giize.com/935.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CBC
-http://emp.jan-beryan.giize.com/710.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILETV
-http://emp.jan-beryan.giize.com/1028.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILESPORT
-http://emp.jan-beryan.giize.com/976.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILENEWS
-http://emp.jan-beryan.giize.com/1010.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILELIFE
-http://emp.jan-beryan.giize.com/1144.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILEFAMILY
-http://emp.jan-beryan.giize.com/970.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILEDRAMA
-http://emp.jan-beryan.giize.com/971.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILECULTURE
-http://emp.jan-beryan.giize.com/1145.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILECOMEDY
-http://emp.jan-beryan.giize.com/1029.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILECINEMA
-http://emp.jan-beryan.giize.com/1146.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NILATTV
-http://emp.jan-beryan.giize.com/1063.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALNAHARDRAMA
-http://emp.jan-beryan.giize.com/885.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALNAHAR
-http://emp.jan-beryan.giize.com/711.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CAIROUNIVERSITY1
-http://emp.jan-beryan.giize.com/691.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CAIRODRAMA
-http://emp.jan-beryan.giize.com/913.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CAIROCINEMA
-http://emp.jan-beryan.giize.com/690.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CINEMA2
-http://emp.jan-beryan.giize.com/1030.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CINEMA1
-http://emp.jan-beryan.giize.com/1147.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CIMAFARTAKA
-http://emp.jan-beryan.giize.com/1209.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CIMAALIBABA
-http://emp.jan-beryan.giize.com/742.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-CIMA
-http://emp.jan-beryan.giize.com/1091.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PANOROMAFOOD
-http://emp.jan-beryan.giize.com/653.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PANORAMAFILM
-http://emp.jan-beryan.giize.com/1208.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PANORAMADRAMA2
-http://emp.jan-beryan.giize.com/1090.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PANORAMADRAMA
-http://emp.jan-beryan.giize.com/692.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PANORAMAACTIONTV
-http://emp.jan-beryan.giize.com/829.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DREAM2
-http://emp.jan-beryan.giize.com/1106.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DOLLYCINEMA
-http://emp.jan-beryan.giize.com/1092.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DMCSPORTS
-http://emp.jan-beryan.giize.com/1037.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DMCDRAMA
-http://emp.jan-beryan.giize.com/1110.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DMC
-http://emp.jan-beryan.giize.com/936.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HALABATV
-http://emp.jan-beryan.giize.com/752.ts
