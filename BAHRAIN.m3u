@@ -1,22 +1,8 @@
 
+
 #EXTINF:-1,======BAHRAIN=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BAHRAINTV
-http://emp.jan-beryan.giize.com/1193.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BAHRAINSPORT2HD
-http://emp.jan-beryan.giize.com/1038.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BAHRAINSPORT1HD
-http://emp.jan-beryan.giize.com/922.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-BAHRAINQURAN
-http://emp.jan-beryan.giize.com/999.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1,AR-BAHRAININTERNATIONAL
-http://emp.jan-beryan.giize.com/1194.ts
+http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_55
+#EXTINF:-1,AR-BAHRAINTV
+http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
