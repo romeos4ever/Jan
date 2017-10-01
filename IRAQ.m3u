@@ -1,8 +1,24 @@
 
 
 
-#EXTINF:-1,======IRAQ Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1, ======IRAQ=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iraq-01.png" group-title="LABEL",~ Iraq TV ~
+http://www.lengua.com/anthems/Iraq.mp3
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/25sbybc.png" group-title="IRAQ",Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" group-title="IRAQ",Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DiN0PHymkxk/UjqtR-oQY6I/AAAAAAAACGQ/mhgOj-8Lrn0/w1200-h630-p-k-no-nu/alsharqiya+news+live+tv.png" group-title="IRAQ",Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
 #EXTINF:-1,Baghdad
 http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8?v=1558393494
 
