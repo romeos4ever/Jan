@@ -1,8 +1,20 @@
 
 
 
-#EXTINF:-1,======SYRIA Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1, ======SYRIA=======
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
+http://www.lengua.com/anthems/Syria.mp3
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" group-title="SYRIA",Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
 #EXTINF:-1,Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1558393494
 
