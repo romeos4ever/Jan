@@ -1,51 +1,57 @@
 
 
 #EXTINF:-1,======JORDAN AND PALESTINE Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Jordan_TV
+http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
+
+#EXTINF:-1,Jordan_Sport
+http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
+
+#EXTINF:-1,ALordonAlyoom
+http://streaming.i-sat.tv:1935/live/ALordonAlyoom/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Roya
+http://streaming.i-sat.tv:1935/live/Roya/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,KIFA
+http://185.27.116.54:1935/live/kifa.stream_360p/chunklist.m3u8?v=1558393494
+#EXTINF:-1,Palestine
+http://htv.mada.ps:8888/PBC/PBC/index.m3u8?v=1558393494
+
+#EXTINF:-1,Palestine-Live
+http://htv.mada.ps:8888/PBCLive/PBCLive/index.m3u8?v=1558393494
+
+#EXTINF:-1,Aqsatv
+http://live.aqsatv.ps:1935/aqsatv/live/tv/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,PalestineAlYawm
+http://38.99.146.71:7777/PalestineAlYawm_Med.m3u8?user=tyty&session=41ea810276960d963441a63c28a5cd63f5817e75b1c8d66d1437b537f7d93637
+
+#EXTINF:-1,Alquds
+http://38.99.146.71:7777/Alquds_Med.m3u8?user=tyty&session=046c8ae1bc5bbc3edf0217d09ccc0ecc75b43e29d808fb8a36a7240490e4e0a3
+
+#EXTINF:-1,Palestinian tv
+http://188.166.3.79:8081/palestiniantv_source/live/playlist.m3u8?v=1558393494
+
+#EXTINF:-1,Alfajertv
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?v=1558393494
+#EXTINF:-1,ftv
+http://htv.mada.ps:8888/ftv/ftv/index.m3u8?v=1558393494
+
+#EXTINF:-1,MaanHD
+http://vstream3.hadara.ps:8081/MaanHD_web/web/playlist.m3u8?v=1558393494
+
+#EXTINF:-1,Ajyal
+http://w2.mada.ps:1935/ajyal/livestreamm/playlist.m3u8?v=1558393494
+
+#EXTINF:-1,Musawa
+http://htv.mada.ps:8888/Musawa/Musawa/index.m3u8?v=1558393494
+
+#EXTINF:-1,salamtv
+http://htv.mada.ps:8888/salamtv/salamtv/playlist.m3u8?v=1558393494
+
+#EXTINF:-1,raya
+http://htv.mada.ps:8888/raya/tv/index.m3u8?v=1558393494
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-JORDANTV
-http://emp.jan-beryan.giize.com/641.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-JORDANSPORT
-http://emp.jan-beryan.giize.com/979.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NOONJORDAN
-http://emp.jan-beryan.giize.com/1195.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ROYA
-http://emp.jan-beryan.giize.com/642.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ETIHADTV
-http://emp.jan-beryan.giize.com/688.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALFURSAN
-http://emp.jan-beryan.giize.com/1138.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-HAWASTV
-http://emp.jan-beryan.giize.com/1165.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PALESTINIANTV
-http://emp.jan-beryan.giize.com/1196.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PALESTINESPORT
-http://emp.jan-beryan.giize.com/700.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PALESTINENEWS
-http://emp.jan-beryan.giize.com/1119.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PALESTINELIVE
-http://emp.jan-beryan.giize.com/673.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-PALASTINETODAY
-http://emp.jan-beryan.giize.com/1024.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALFALASTINIAH
-http://emp.jan-beryan.giize.com/1197.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ANNAJAHNBC
-http://emp.jan-beryan.giize.com/963.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NOURKODDAS
-http://emp.jan-beryan.giize.com/696.ts
