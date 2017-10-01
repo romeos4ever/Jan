@@ -1,43 +1,37 @@
 
 
+
 #EXTINF:-1,======UAE Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Abu Dhabi
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8?v=2746012933
+#EXTINF:-1,Abu Dhabi Drama
+http://adtv.ercdn.net/addrama/addrama_480p.m3u8?v=2746012933
 
 
+#EXTINF:-1,dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADNATGEO
-http://emp.jan-beryan.giize.com/1182.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADENTV
-http://emp.jan-beryan.giize.com/737.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADDRAMA
-http://emp.jan-beryan.giize.com/1046.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ADALEMARAT
-http://emp.jan-beryan.giize.com/930.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ABUDHABI
-http://emp.jan-beryan.giize.com/880.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAIONE
-http://emp.jan-beryan.giize.com/1047.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-DUBAIALOULA
-http://emp.jan-beryan.giize.com/638.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-NOORDUBAI
-http://emp.jan-beryan.giize.com/721.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-SAMADUBAI
-http://emp.jan-beryan.giize.com/639.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALSHARJAH
-http://emp.jan-beryan.giize.com/1163.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-ALDAFRAH
-http://emp.jan-beryan.giize.com/640.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AR-FUJAIRAHTV
-http://emp.jan-beryan.giize.com/881.ts
+#EXTINF:-1, Dubai-Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1,Dubai-One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+
+#EXTINF:-1,ALSHARJAH
+http://38.99.146.71:7777/SharjahTV_Med.m3u8?user=tyty&session=603aaf0cc2d36efe417dc3f2b8c23a942346a76487934b51aafb8a3e60ff4330
+
+#EXTINF:-1,Dubai racing
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubairacing3&
+
+#EXTINF:-1,noor dubai
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,samadubai
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=sama_dubai&t=ar
+#EXTINF:-1,Aldafra
+http://91.74.179.172:1935/live/myStream1/gmswf.m3u8?v=1558393494
+
+#EXTINF:-1,Alaan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/gmswf.m3u8?v=1558393494
+
+
