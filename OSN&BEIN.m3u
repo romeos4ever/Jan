@@ -1,6 +1,103 @@
 
 
-#EXTINF:-1,======OSN&BEIN Group=======
+
+
+#EXTINF:-1,======OSN&BEIN Group1=======
+http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNANIMALPLANET
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4129.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNDISCOVERY
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4130.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNDISCOVERYSCIENCE
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4131.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNDISNEYCHANNEL
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4132.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNDISNEYJUNIOR
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4133.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNDISNEYXD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4134.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNFANN
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4135.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNFIGHTBOX
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4136.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNFOODNETWORK
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4137.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNFOXACTIONMOVIES
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4138.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNHISTORY
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4139.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMOVIES
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4140.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMOVIESACTION
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4141.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMOVIESFAMILY
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4142.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMOVIESFESTIVAL
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4143.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMOVIESKIDS
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4144.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMOVIESTHRILLER
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4145.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMUSALSALAT
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4146.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNMUSALSALATPLUS2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4147.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNNATIONALGEOGRAPHIC
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4148.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNNATIONALGEOGRAPHICPEOPLE
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4149.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNNATIONALGEOGRAPHICWILD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4150.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNNICKELODEON
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4151.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNNICKJR
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4152.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNNICKTOONS
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4153.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNSERIES
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4154.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNYAHALA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4155.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNYAHALAALOULA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4156.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNYAHALAALOULAPLUS2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4157.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-OSNYAHALACINEMA
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4158.ts
+
+
+
+#EXTINF:-1,======OSN&BEIN Group2=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-BEINSERIESHD1
