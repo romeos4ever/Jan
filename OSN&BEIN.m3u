@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1,======OSN&BEIN Group1=======
+#EXTINF:-1,======OSN Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,AR-OSNANIMALPLANET
@@ -95,4 +95,43 @@ http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4157.ts
 #EXTINF:-1,AR-OSNYAHALACINEMA
 http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/4158.ts
 
+#EXTINF:-1,======BEIN Group=======
+http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINBARAEM
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3905.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINFATAFEAT
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3906.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINGOURMET
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3907.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINJEEM
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3908.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINMOVIESHD1
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3909.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINMOVIESHD2
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3910.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINMOVIESHD3
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3911.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINMOVIESHD4
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3912.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINSERIESHD1
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3913.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINSPORTNBAHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3914.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINSPORTSHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3915.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-BEINSPORTSNEWSHD
+http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/3916.ts
 
