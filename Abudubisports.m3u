@@ -3,8 +3,17 @@
 https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
 
 #EXTINF:-1,AD Sports 1HD
-https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+http://iptv.live-plus.info:1989/AD-SPORT1/index.m3u8
+
 #EXTINF:-1,AD Sports 2HD
+http://iptv.live-plus.info:1989/AD-SPORT2/index.m3u8
+
+#EXTINF:-1,AD Sports 3HD
+http://iptv.live-plus.info:1989/AD-SPORT3/index.m3u8
+#EXTINF:-1,AD Sports 4HD
+http://iptv.live-plus.info:1989/AD-SPORT4/index.m3u8
+#EXTINF:-1,AD Sports 5HD
+http://iptv.live-plus.info:1989/AD-SPORT5/index.m3u8
 
 
 
