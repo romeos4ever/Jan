@@ -1,6 +1,27 @@
 
 #EXTINF:-1,======دقة عالية========
 https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AD SPORTS 1HD
+http://emp11111.jan-beryan.giize.com/5663.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AD SPORTS 2HD
+http://emp11111.jan-beryan.giize.com/5664.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AD SPORTS 3HD
+http://emp11111.jan-beryan.giize.com/5665.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AD SPORTS 4HD
+http://emp11111.jan-beryan.giize.com/5666.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AD SPORTS 5HD
+http://emp11111.jan-beryan.giize.com/5667.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AD SPORTS 6HD
+http://emp11111.jan-beryan.giize.com/5668.ts
+
+
 
 #EXTINF:-1,AD Sports 1HD
 http://iptv.live-plus.info:1989/AD-SPORT1/index.m3u8
