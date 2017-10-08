@@ -1,78 +1,36 @@
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS News
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1496.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS Global
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1495.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 1HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1494.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 2HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1493.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 3HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1492.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 4HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1491.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 5HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1490.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 6HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1489.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 7HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1488.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 8HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1487.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 9HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1486.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 10HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1485.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 11HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1484.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,beINSPORTS 12HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1483.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 1 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/838.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 2 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/839.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 3 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/840.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 4 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/841.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 5 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/842.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 6 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/843.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 7 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/844.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 8 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/845.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 9 HD-AR
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/846.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 10 HD
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/847.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 11 HD
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/848.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,SP-BEIN SPORTS 12 HD
-http://147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/849.ts
+#EXTINF:-1,BEIN SPORT NEW HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/41.ts
+#EXTINF:-1,BEIN:BEINSPORTS9HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/29.ts
+#EXTINF:-1,BEIN:BEINSPORTS8HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/26.ts
+#EXTINF:-1,BEIN:BEINSPORTS7HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/23.ts
+#EXTINF:-1,BEIN:BEINSPORTS6HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/20.ts
+#EXTINF:-1,BEIN:BEINSPORTS5HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/17.ts
+#EXTINF:-1,BEIN:BEINSPORTS4HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/14.ts
+#EXTINF:-1,BEIN:BEINSPORTS3HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/11.ts
+#EXTINF:-1,BEIN:BEINSPORTS2HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/8.ts
+#EXTINF:-1,BEIN:BEINSPORTS1HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/5.ts
+#EXTINF:-1,BEIN:BEINSPORTS16HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/40.ts
+#EXTINF:-1,BEIN:BEINSPORTS15HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/39.ts
+#EXTINF:-1,BEIN:BEINSPORTS14HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/38.ts
+#EXTINF:-1,BEIN:BEINSPORTS13HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/37.ts
+#EXTINF:-1,BEIN:BEINSPORTS12HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/36.ts
+#EXTINF:-1,BEIN:BEINSPORTS11HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/35.ts
+#EXTINF:-1,BEIN:BEINSPORTS10HD
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/32.ts
+#EXTINF:-1,BEIN:BEIN.SPORTS
+http://145.239.199.135:8000/live/iptvdroid/iptvdroid/3.ts
