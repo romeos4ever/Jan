@@ -2,69 +2,33 @@
 
 #EXTINF:-1,======BEIN SPORTS Group1=======
 http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
-#EXTINF:-1,======BEIN SPORTS Group1=======
-http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport1  
-http://bein1.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport2                 
-http://bein2.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport3                       
-http://bein3.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport4                   
-http://bein4.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport5                        
-http://bein5.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport6                        
-http://bein6.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport7                    
-http://bein7.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport8                       
-http://bein8.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport9                       
-http://bein9.jan-beryan.giize.com/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,bein sport10                       
-http://bein10.jan-beryan.giize.com/playlist.m3u8
-
-#EXTINF:-1,======BEIN SPORTS Group2=======
-http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
-#EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 1 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1835.ts
+http://emp11111.jan-beryan.giize.com/1835.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 2 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1836.ts
+http://emp11111.jan-beryan.giize.com/1836.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 3 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1837.ts
+http://emp11111.jan-beryan.giize.com/1837.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 4 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1838.ts
+http://emp11111.jan-beryan.giize.com/1838.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 5 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1839.ts
+http://emp11111.jan-beryan.giize.com/1839.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 6 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1840.ts
+http://emp11111.jan-beryan.giize.com/1840.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 7 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1841.ts
+http://emp11111.jan-beryan.giize.com/1841.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 8 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1842.ts
+http://emp11111.jan-beryan.giize.com/1842.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 9 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1843.ts
+http://emp11111.jan-beryan.giize.com/1843.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,beIN 10 HD
-http://147.135.220.87:8877/live/pHgYES5w5E/web9xvkB1d/1844.ts
+http://emp11111.jan-beryan.giize.com/1844.ts
