@@ -3,8 +3,6 @@
 
 #EXTINF:-1,======SUDAN Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,BlueNile
-http://38.99.146.71:7777/BlueNile_Med.m3u8?user=tyty&session=3b52ec7aa32ea134010e9100af0e01125b2610fc3cb5b443bb99b03d32bbc94f
 
 #EXTINF:-1,sudan
 http://38.99.146.71:7777/Sudan_Med.m3u8?user=tyty&session=cdb9591dcc95ca0551b0243d7e34b525ca60b00a129b1ec1102a542cb34f4dfc
@@ -12,12 +10,8 @@ http://38.99.146.71:7777/Sudan_Med.m3u8?user=tyty&session=cdb9591dcc95ca0551b024
 rtmp://82.212.74.98:1935/live/7913
 #EXTINF:-1,Tayba TV
 http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8?v=1558393494
-http://iptv2.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
-#EXTINF:-1,south-sudan
-http://nimlive1.giniko.com/ssudan/ssudan.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE3IDExOjEwOjU1IFBNJmhhc2hfdmFsdWU9YUZza3BwdFBGZlJ4WkE3Skh0VzI5UT09JnZhbGlkbWludXRlcz0yODgw
 
-#EXTINF:-1,Khartoum TV
-http://38.99.146.71:7777/KhartoumTV_Med.m3u8?user=tyty&session=adabf425d3eb90712394aed1cea1ec0c555682acdbb1b627a52f0c8e6d2cad61
+
 
 
 
