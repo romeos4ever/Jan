@@ -53,10 +53,10 @@ http://htv.mada.ps:8888/PBCLive/PBCLive/index.m3u8?v=1558393494
 http://live.aqsatv.ps:1935/aqsatv/live/tv/gmswf.m3u8?v=1558393494
 
 #EXTINF:-1,PalestineAlYawm
-http://38.99.146.71:7777/PalestineAlYawm_Med.m3u8?user=tyty&session=41ea810276960d963441a63c28a5cd63f5817e75b1c8d66d1437b537f7d93637
+http://185.27.116.54:1935/live/palestinetoday/playlist.m3u8?v=1558492496
 
 #EXTINF:-1,Alquds
-http://38.99.146.71:7777/Alquds_Med.m3u8?user=tyty&session=046c8ae1bc5bbc3edf0217d09ccc0ecc75b43e29d808fb8a36a7240490e4e0a3
+rtmp://yayin10.canliyayin.org/P981680400?hghpl=1558492496/kudustv 
 
 #EXTINF:-1,Palestinian tv
 http://188.166.3.79:8081/palestiniantv_source/live/playlist.m3u8?v=1558393494
