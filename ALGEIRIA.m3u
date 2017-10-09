@@ -8,8 +8,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
 
-#EXTINF:-1 tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV [Off]
-http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
 http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
@@ -24,22 +22,12 @@ http://tv-live.echoroukonline.com/echo/EchoroukBenna/playlist.m3u8
 #EXTINF:-1,Algeria_1
 http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
 
-#EXTINF:-1,Algeria_3
-http://38.99.146.94:7777/Thalitha_LR.m3u8?user=tyty&session=764abede41e187b8e7cdc419650a8fd8dc8abbc9ec52909b319ef8aad50b245d
-
-#EXTINF:-1,Algeria_3
-http://38.99.146.94:7777/Thalitha_LR.m3u8?user=tyty&session=ee958a8744c13c449490d33675435748db9571cb6a5ce1cb5eb7599650ae5f4a
-#EXTINF:-1,Algeria_4
-http://38.99.146.94:7777/CanalAlgerie_LR.m3u8?user=tyty&session=eed71643ffc73742ed068ce96075e5309eb7835dd9985f007a12634631ad448d
-
 
 #EXTINF:-1,Ennahar_Algerie
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=ennahar_algerie&t=ar
 
 #EXTINF:-1,Almagharibia1
-http://api.new.livestream.com/accounts/9841337/events/3348791/broadcasts/163569898.m3u8?dw=100&hdnea=st=1506862599~exp=1506864399~acl=%2Fi%2F9841337_3348791_lsigu96emmvwzaosm2d_1@172849%2f*~hmac=95b8b6b3211c004613dfdcde3374803d744174d7d552687e2d13e18076bea8c7
-
+http://livestream-f.akamaihd.net/i/9841337_3348791_lsi1eff4v6si7yr9vbr_1@447069/index_678_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1507644294~acl=%2fi%2f9841337_3348791_lsi1eff4v6si7yr9vbr_1%40447069%2f*~data=hdntl~hmac=b83759af69220f28a69331b7bf99c5c259600fc8ddc3c40be33508e6b776c7f4
 #EXTINF:-1,Almagharibia2
-http://api.new.livestream.com/accounts/7861901/events/4426115/broadcasts/163584805.m3u8?dw=100&hdnea=st=1506862696~exp=1506864496~acl=%2Fi%2F7861901_4426115_lsi6q2i6b1tr33s5evt_1@408398%2f*~hmac=0da0b2c5814418007f0318a4f07a14b5e25bd5de5e168892467a7dca06572e63
-
+http://livestream-f.akamaihd.net/i/7861901_4426115_lsiigcbq3giak49spj7_1@314095/index_678_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1507644322~acl=%2fi%2f7861901_4426115_lsiigcbq3giak49spj7_1%40314095%2f*~data=hdntl~hmac=9b6eb3d3fd7789683e37832da4e4beba27d060528401577420dba8658c505995
 
