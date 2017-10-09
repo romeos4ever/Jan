@@ -8,16 +8,12 @@ http://www.lengua.com/anthems/Libya.mp3
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/msm71t.jpg" group-title="LIBYA",Al Nabaa
 http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
 
-#EXTINF:-1 tvg-logo="https://www.218tv.net/wp-content/uploads/2016/12/218tv-default.jpg" group-title="LIBYA",Libya 218
-http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 #EXTINF:-1,Alnabaa tv
 http://46.101.172.110:8081/alnabaatv_source/nabaatv/playlist.m3u8?v=1558393494
-#EXTINF:-1,AlAhrar
 
-http://38.99.146.71:7777/AlAhrar_Med.m3u8?user=tyty&session=2565d2361fb239615a0c7f7e7e2a0b511a353ea5b11198e2d820f71d0cf57a9c
 #EXTINF:-1,Libya Elwatan
 http://streaming.i-sat.tv:1935/live/libyaelwatan/gmswf.m3u8?v=1558393494
 
