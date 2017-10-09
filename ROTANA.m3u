@@ -6,18 +6,16 @@ http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 
 #EXTINF:-1,Rotana cinema
-http://www.elahmad.com/tv/embed.php?id=rotana_cinema
+http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1558492496
 
 #EXTINF:-1,Rotana classic
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 
-#EXTINF:-1,Rotana-Clip
-http://iptv2.jan-beryan.giize.com/LQ-AR-Rotana-Clip/index.m3u8
 #EXTINF:-1,rotana masriya
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
 
-#EXTINF:-1,Rotana music
-http://iptv2.jan-beryan.giize.com/LQ-AR-Rotana-Music/index.m3u8
+#EXTINF:-1,Rotana clip
+http://streaming.i-sat.tv:1935/live/rotanaclip/playlist.m3u8
 #EXTINF:-1,Rotana khaligi
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_khaligi&t=ar
 
