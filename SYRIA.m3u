@@ -18,8 +18,6 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
 #EXTINF:-1,Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1558393494
 
-#EXTINF:-1,Noor alsham
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
 
 #EXTINF:-1,sama tv
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1558393494
@@ -27,13 +25,11 @@ http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1558393494
 #EXTINF:-1,DORAR TV
 http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494
 
-#EXTINF:-1,Syria
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria
+
 
 #EXTINF:-1,syria drama
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=syria_drama&t=ar
-#EXTINF:-1,Sham FM
-http://iptv2.jan-beryan.giize.com/LQ-AR-Sham-FM/index.m3u8
+
 #EXTINF:-1,Syria news
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 
