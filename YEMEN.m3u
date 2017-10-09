@@ -5,24 +5,21 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 http://www.lengua.com/anthems/Yemen.mp3
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV
 http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" group-title="YEMEN",Al Masirah
-http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+
 #EXTINF:-1,Rushd
 rtmp://82.212.74.3/live/7406
 #EXTINF:-1,Belqees-tv
-http://api.new.livestream.com/accounts/12233888/events/3819374/broadcasts/163552737.m3u8?dw=100&hdnea=st=1506899639~exp=1506901439~acl=%2Fi%2F12233888_3819374_lsib878jm5lv8lfntd2_1@408208%2f*~hmac=9b8c039c150902399d8202a08eba606099a085d67db54df4ef6e4b6518aa90cc
-
+http://livestream-f.akamaihd.net/i/12233888_3819374_lsi2cr812sy2sy3ulx7_1@177185/master.m3u8?__b__=678&dw=100&hdnea=st=1507560050~exp=1507561850~acl=/i/12233888_3819374_lsi2cr812sy2sy3ulx7_1@177185/*~hmac=40c565c7098b05e15e789880eb3ebf6547b44fa79ed81ad787ad11a2b54e03e0&__a__=off
 #EXTINF:-1,SANAA TV
 rtmp://82.212.74.3:1935/live/7410
 #EXTINF:-1,Suhail-tv
 rtmp://82.212.74.5:1935/live/7626
-#EXTINF:-1,Aden
-http://38.99.146.71:7777/Aden_Med.m3u8?user=tyty&session=3a8882f80a982e228b966d4bf2c528c86f5efb20fb395199e23c81310723968e
+
 #EXTINF:-1,yemen_shabab
 
 rtmp://82.212.74.3/live/7425
 #EXTINF:-1,Alghadye
-http://livestream-f.akamaihd.net/i/4818613_6145209_lsii2597vi08rpyc2a9_1@447404/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1506986457~acl=%2fi%2f4818613_6145209_lsii2597vi08rpyc2a9_1%40447404%2f*~data=hdntl~hmac=718809efb663e860a48e8243d739735b11471c4ad2a4f2014ff991c1494c4dc7
+http://livestream-f.akamaihd.net/i/4818613_6145209_lsigebdx5dsb3xuv7lu_1@326493/master.m3u8?__b__=446&dw=100&hdnea=st=1507560169~exp=1507561969~acl=/i/4818613_6145209_lsigebdx5dsb3xuv7lu_1@326493/*~hmac=a0bb211621bd5e01352882618aa9eb7a39f604842060bbec368ecfde32a7b07a&__a__=off
 
 
 
