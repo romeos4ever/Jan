@@ -11,8 +11,7 @@ http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 (English)
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
 
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="KSA",Saudi Sports
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" group-title="KSA",Saudi News
 www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
@@ -26,8 +25,6 @@ http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV *
-http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="KSA",Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
