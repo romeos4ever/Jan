@@ -7,7 +7,24 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
-
+#EXTINF:-1,Chourouk TV
+http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
+#EXTINF:-1,Chourouk News
+http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
+#EXTINF:-1,Chourouk benna
+http://tv-live.echoroukonline.com/echo/EchoroukBenna_SD/chunks.m3u8
+#EXTINF:-1,Dzaier TV
+http://frontend.arabcast.tv/hls/channel17/channel17.m3u8
+#EXTINF:-1,Samira TV
+http://frontend.arabcast.tv/hls/channel18/channel18.m3u8
+#EXTINF:-1,algeria 3
+http://94.130.66.203:1989/Algerie3/playlist.m3u8
+#EXTINF:-1,algeria
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
+#EXTINF:-1,almagharbia
+http://frontend.arabcast.tv/hls/channel5/channel5.m3u8
+#EXTINF:-1,Haddef Algerie
+http://frontend.arabcast.tv/hls/channel15/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
 http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
