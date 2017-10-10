@@ -5,7 +5,34 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",~ Jordan TV  ~
 http://www.lengua.com/anthems/Jordan.mp3
-
+#EXTINF:-1,Jordan Tv
+http://frontend.arabcast.tv/hls/channel11/channel11.m3u8
+#EXTINF:-1,Jordan Deretna
+http://frontend.arabcast.tv/hls/channel13/channel13.m3u8
+#EXTINF:-1,Sama Jordan 
+http://frontend.arabcast.tv/hls/channel23/channel23.m3u8
+#EXTINF:-1,Roya Tv
+http://frontend.arabcast.tv/hls/channel25/channel25.m3u8
+#EXTINF:-1,Numidia TV
+http://frontend.arabcast.tv/hls/channel26/channel26.m3u8
+#EXTINF:-1,Roya
+http://edns.casacam.net:1935/live/Roya/playlist.m3u8
+#EXTINF:-1,ALordon Alyoom
+http://edns.casacam.net:1935/live/ALordonAlyoom/playlist.m3u8
+#EXTINF:-1,zarqa today
+http://edns.casacam.net:1935/live/zarqatoday/playlist.m3u8
+#EXTINF:-1,amn
+http://edns.casacam.net:1935/live/amn/playlist.m3u8
+#EXTINF:-1,manaseer
+http://edns.casacam.net:1935/live/manaseer/playlist.m3u8
+#EXTINF:-1,jordan lights
+http://edns.casacam.net:1935/live/light/playlist.m3u8
+#EXTINF:-1,ALDAWAA alshafy
+http://edns.casacam.net:1935/live/ALDAWAA/playlist.m3u8
+#EXTINF:-1,josat
+http://edns.casacam.net:1935/live/josat/playlist.m3u8
+#EXTINF:-1,kife
+http://edns.casacam.net:1935/live/kifa.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/2uer4go.jpg" group-title="JORDAN",Al Taghier
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
