@@ -6,7 +6,26 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://towers.com.ua/style/img/flags/tunisia.png" group-title="LABEL",~ Tunisia TV ~
 http://www.lengua.com/anthems/Tunisia.mp3
-
+#EXTINF:-1,Tunisia 1
+http://frontend.arabcast.tv/hls/channel10/channel10.m3u8
+#EXTINF:-1,Tunisia 2
+http://frontend.arabcast.tv/hls/channel11/channel11.m3u8
+#EXTINF:-1,Hannibal
+http://frontend.arabcast.tv/hls/channel12/channel12.m3u8
+#EXTINF:-1,AL Ganoubia TV
+http://frontend.arabcast.tv/hls/channel13/channel13.m3u8
+#EXTINF:-1,tounis9
+http://frontend.arabcast.tv/hls/channel14/channel14.m3u8
+#EXTINF:-1,M
+http://frontend.arabcast.tv/hls/channel15/channel15.m3u8
+#EXTINF:-1,Elhiwar ettounsi
+http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
+#EXTINF:-1,telvaza
+http://frontend.arabcast.tv/hls/channel17/channel17.m3u8
+#EXTINF:-1,Tounisna
+http://frontend.arabcast.tv/hls/channel18/channel18.m3u8
+#EXTINF:-1,Nessma tunis
+http://frontend.arabcast.tv/hls/channel50/channel50.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma*
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
