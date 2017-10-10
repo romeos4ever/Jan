@@ -6,7 +6,24 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
 http://www.lengua.com/anthems/Syria.mp3
-
+#EXTINF:-1,sama syria
+http://frontend.arabcast.tv/hls/channel36/channel36.m3u8
+#EXTINF:-1,syria 
+http://frontend.arabcast.tv/hls/channel35/channel35.m3u8
+#EXTINF:-1,noor alsham
+http://frontend.arabcast.tv/hls/channel37/channel37.m3u8
+#EXTINF:-1,Al-Khabar TV
+http://frontend.arabcast.tv/hls/channel12/channel12.m3u8
+#EXTINF:-1,Shamna
+http://frontend.arabcast.tv/hls/channel17/channel17.m3u8
+#EXTINF:-1,syria drama
+http://frontend.arabcast.tv/hls/channel41/channel41.m3u8
+#EXTINF:-1,alminber
+http://edns.casacam.net:1935/live/alminbar/playlist.m3u8
+#EXTINF:-1,nabd syria
+http://edns.casacam.net:1935/live/nabd/playlist.m3u8
+#EXTINF:-1,Qamishlo
+http://edns.casacam.net:1935/live/Qamishlo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
