@@ -23,7 +23,60 @@ http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8?v=1558393494
 
 #EXTINF:-1,Elsharq tv
 http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8?v=1558393494
-
+#EXTINF:-1,rotanamasr
+http://edns.casacam.net:1935/live/rotanamasr/playlist.m3u8
+#EXTINF:-1,dmc
+http://edns.casacam.net:1935/live/dmc/playlist.m3u8
+#EXTINF:-1,dmc youtube
+https://www.youtube.com/watch?v=lDPPrSzA47g
+#EXTINF:-1,dmc drama youtube
+https://www.youtube.com/watch?v=uCP49z4LBxU
+#EXTINF:-1,dmc sport
+https://www.youtube.com/watch?v=bocgTvm8_s8
+#EXTINF:-1,cbc
+http://edns.casacam.net:1935/live/cbcone/playlist.m3u8
+#EXTINF:-1,cbc drama
+http://edns.casacam.net:1935/live/cbc/playlist.m3u8
+#EXTINF:-1,cbc sofra
+http://frontend.arabcast.tv/hls/channel12/channel12.m3u8
+#EXTINF:-1,Elsharq tv
+http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8
+#EXTINF:-1,mekamleen
+http://frontend.arabcast.tv/hls/channel6/channel6.m3u8
+#EXTINF:-1,nile family
+http://frontend.arabcast.tv/hls/channel40/channel40.m3u8
+#EXTINF:-1,Nile tv
+http://frontend.arabcast.tv/hls/channel41/channel41.m3u8
+#EXTINF:-1,Nile comedy
+http://frontend.arabcast.tv/hls/channel42/channel42.m3u8
+#EXTINF:-1,Nile life
+http://frontend.arabcast.tv/hls/channel43/channel43.m3u8
+#EXTINF:-1,Nile Drama
+http://frontend.arabcast.tv/hls/channel44/channel44.m3u8
+#EXTINF:-1,Nile Sport
+http://frontend.arabcast.tv/hls/channel45/channel45.m3u8
+#EXTINF:-1,Nile culture
+http://frontend.arabcast.tv/hls/channel46/channel46.m3u8
+#EXTINF:-1,Nile cinema
+http://frontend.arabcast.tv/hls/channel47/channel47.m3u8
+#EXTINF:-1,Athania Masr
+http://frontend.arabcast.tv/hls/channel18/channel18.m3u8
+#EXTINF:-1,Cima Tube
+http://frontend.arabcast.tv/hls/channel35/channel35.m3u8
+#EXTINF:-1,Mosalsalat Tube
+http://frontend.arabcast.tv/hls/channel37/channel37.m3u8
+#EXTINF:-1,Cinema Tube
+http://frontend.arabcast.tv/hls/channel38/channel38.m3u8
+#EXTINF:-1,Alnahar TV
+http://frontend.arabcast.tv/hls/channel8/channel8.m3u8
+#EXTINF:-1,Nahar Drama
+http://frontend.arabcast.tv/hls/channel9/channel9.m3u8
+#EXTINF:-1,hekayia
+http://frontend.arabcast.tv/hls/channel39/channel39.m3u8
+#EXTINF:-1,Cinema Tube
+http://frontend.arabcast.tv/hls/channel38/channel38.m3u8
+#EXTINF:-1,Hakawati
+http://edns.casacam.net:1935/live/Hakawati/playlist.m3u8
 
 
 #EXTINF:-1,MehwarTV
