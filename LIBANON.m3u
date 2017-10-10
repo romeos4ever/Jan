@@ -6,7 +6,18 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
 http://www.lengua.com/anthems/Lebanon.mp3
-
+#EXTINF:-1,mtv
+http://edns.casacam.net:1935/live/mtv/playlist.m3u8
+#EXTINF:-1,LBC
+http://frontend.arabcast.tv/hls/channel2/channel2.m3u8
+#EXTINF:-1,almayadeen
+http://frontend.arabcast.tv/hls/channel4/channel4.m3u8
+#EXTINF:-1,Future
+http://frontend.arabcast.tv/hls/channel40/channel40.m3u8
+#EXTINF:-1,Ldc
+http://cdnbara.ddnsgeek.com/hls/channel2/channel2.m3u8
+#EXTINF:-1,aljadeed
+http://edns.casacam.net:1935/live/aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 
