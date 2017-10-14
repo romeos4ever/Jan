@@ -1,34 +1,30 @@
-
-
-#EXTINF:-1,======BEIN SPORTS Group1=======
+#EXTINF:-1,======BEIN Group=========================
 http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 1 HD
-http://emp11111.jan-beryan.giize.com/1835.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 2 HD
-http://emp11111.jan-beryan.giize.com/1836.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 3 HD
-http://emp11111.jan-beryan.giize.com/1837.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 4 HD
-http://emp11111.jan-beryan.giize.com/1838.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 5 HD
-http://emp11111.jan-beryan.giize.com/1839.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 6 HD
-http://emp11111.jan-beryan.giize.com/1840.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 7 HD
-http://emp11111.jan-beryan.giize.com/1841.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 8 HD
-http://emp11111.jan-beryan.giize.com/1842.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 9 HD
-http://emp11111.jan-beryan.giize.com/1843.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,beIN 10 HD
-http://emp11111.jan-beryan.giize.com/1844.ts
+#EXTINF:-1group-title="beIN SPORTS HD",beIN Sports News
+http://andr-tv2.jan-beryan.giize.com/hls/bein-sport-news-hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN Sports
+http://andr-tv2.jan-beryan.giize.com/hls/mal-bein-sports-hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 1 HD
+http://streamer8715.embratoria.com:9086/hls/bein1hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 2 HD
+http://streamer8715.embratoria.com:9086/hls/bein2hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 3 HD
+http://streamer8715.embratoria.com:9086/hls/bein3hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 4 HD
+http://streamer8715.embratoria.com:9086/hls/bein4hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 5 HD
+http://streamer8715.embratoria.com:9086/hls/bein5hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 6 HD
+http://streamer8715.embratoria.com:9086/hls/bein6hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 7 HD
+http://streamer8715.embratoria.com:9086/hls/bein7hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 8 HD
+http://streamer8715.embratoria.com:9086/hls/bein8hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 9 HD
+http://streamer8715.embratoria.com:9089/bein9hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 10 HD
+http://streamer8715.embratoria.com:9089/bein10hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 11 HD
+http://andr-tv.jan-beryan.giize.com/bein11hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTINF:-1group-title="beIN SPORTS HD",beIN 12 HD
+http://streamer8715.embratoria.com:9085/bein12hdn.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
