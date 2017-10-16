@@ -1,38 +1,76 @@
 
 
-#EXTINF:-1, ======EGYPT=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,======EGYPT Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",~ Egypt TV ~
 http://www.lengua.com/anthems/Egypt.mp3
 
+#EXTINF:-1,rotanamasr
+http://itats.dynv6.net:1935/live/rotanamasr/playlist.m3u8
+#EXTINF:-1,dmc
+http://itats.dynv6.net:1935/live/dmc/playlist.m3u8
+#EXTINF:-1,cbc
+http://itats.dynv6.net:1935/live/cbcone/playlist.m3u8
+#EXTINF:-1,cbc drama
+http://itats.dynv6.net:1935/live/cbc/playlist.m3u8
+#EXTINF:-1,cbc sofra
+https://cdn.arabcast.tv/hls/channel12/channel12.m3u8
+#EXTINF:-1,Elsharq tv
+http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8
+#EXTINF:-1,mekamleen
+https://cdn.arabcast.tv/hls/channel6/channel6.m3u8
+#EXTINF:-1,nile family
+https://cdn.arabcast.tv/hls/channel40/channel40.m3u8
+#EXTINF:-1,Nile tv
+https://cdn.arabcast.tv/hls/channel41/channel41.m3u8
+#EXTINF:-1,Nile comedy
+https://cdn.arabcast.tv/hls/channel42/channel42.m3u8
+#EXTINF:-1,Nile life
+https://cdn.arabcast.tv/hls/channel43/channel43.m3u8
+#EXTINF:-1,Nile Drama
+https://cdn.arabcast.tv/hls/channel44/channel44.m3u8
+#EXTINF:-1,Nile Sport
+https://cdn.arabcast.tv/hls/channel45/channel45.m3u8
+#EXTINF:-1,Nile culture
+https://cdn.arabcast.tv/hls/channel46/channel46.m3u8
+#EXTINF:-1,Nile cinema
+https://cdn.arabcast.tv/hls/channel47/channel47.m3u8
+#EXTINF:-1,Athania Masr
+https://cdnbis.arabcast.tv/hls/channel18/channel18.m3u8
+#EXTINF:-1,Cima Tube
+https://cdnbis.arabcast.tv/hls/channel35/channel35.m3u8
+#EXTINF:-1,Mosalsalat Tube
+https://cdnbis.arabcast.tv/hls/channel37/channel37.m3u8
+#EXTINF:-1,Cinema Tube
+https://cdnbis.arabcast.tv/hls/channel38/channel38.m3u8
+#EXTINF:-1,Alnahar TV
+https://cdn.arabcast.tv/hls/channel8/channel8.m3u8
+#EXTINF:-1,Nahar Drama
+https://cdn.arabcast.tv/hls/channel9/channel9.m3u8
+#EXTINF:-1,hekayia
+https://cdn.arabcast.tv/hls/channel39/channel39.m3u8
+#EXTINF:-1,Cinema Tube
+https://cdnbis.arabcast.tv/hls/channel38/channel38.m3u8
+#EXTINF:-1,Hakawati
+http://itats.dynv6.net:1935/live/Hakawati/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" group-title="EGYPT",CBC
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8?v=1318132548
-
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/b2/7d/63/b27d63c52f73b653d3da44668aeaf70d--live-stream-live-tv.jpg" group-title="EGYPT",Al Kahera Wal Nas
 http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.arablive-tv.com/2016/01/nile-cinema_tv.jpg" group-title="EGYPT",Nile Cinema
 http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
 #EXTINF:-1,Watan tv
 http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8?v=1558393494
-
 #EXTINF:-1,Elsharq tv
 http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8?v=1558393494
 #EXTINF:-1,rotanamasr
 http://edns.casacam.net:1935/live/rotanamasr/playlist.m3u8
 #EXTINF:-1,dmc
 http://edns.casacam.net:1935/live/dmc/playlist.m3u8
-#EXTINF:-1,dmc youtube
-https://www.youtube.com/watch?v=lDPPrSzA47g
-#EXTINF:-1,dmc drama youtube
-https://www.youtube.com/watch?v=uCP49z4LBxU
-#EXTINF:-1,dmc sport
-https://www.youtube.com/watch?v=bocgTvm8_s8
 #EXTINF:-1,cbc
 http://edns.casacam.net:1935/live/cbcone/playlist.m3u8
 #EXTINF:-1,cbc drama
@@ -41,104 +79,37 @@ http://edns.casacam.net:1935/live/cbc/playlist.m3u8
 http://frontend.arabcast.tv/hls/channel12/channel12.m3u8
 #EXTINF:-1,Elsharq tv
 http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8
-#EXTINF:-1,mekamleen
-http://frontend.arabcast.tv/hls/channel6/channel6.m3u8
-#EXTINF:-1,nile family
-http://frontend.arabcast.tv/hls/channel40/channel40.m3u8
-#EXTINF:-1,Nile tv
-http://frontend.arabcast.tv/hls/channel41/channel41.m3u8
-#EXTINF:-1,Nile comedy
-http://frontend.arabcast.tv/hls/channel42/channel42.m3u8
-#EXTINF:-1,Nile life
-http://frontend.arabcast.tv/hls/channel43/channel43.m3u8
-#EXTINF:-1,Nile Drama
-http://frontend.arabcast.tv/hls/channel44/channel44.m3u8
-#EXTINF:-1,Nile Sport
-http://frontend.arabcast.tv/hls/channel45/channel45.m3u8
-#EXTINF:-1,Nile culture
-http://frontend.arabcast.tv/hls/channel46/channel46.m3u8
-#EXTINF:-1,Nile cinema
-http://frontend.arabcast.tv/hls/channel47/channel47.m3u8
-#EXTINF:-1,Athania Masr
-http://frontend.arabcast.tv/hls/channel18/channel18.m3u8
-#EXTINF:-1,Cima Tube
-http://frontend.arabcast.tv/hls/channel35/channel35.m3u8
-#EXTINF:-1,Mosalsalat Tube
-http://frontend.arabcast.tv/hls/channel37/channel37.m3u8
-#EXTINF:-1,Cinema Tube
-http://frontend.arabcast.tv/hls/channel38/channel38.m3u8
-#EXTINF:-1,Alnahar TV
-http://frontend.arabcast.tv/hls/channel8/channel8.m3u8
-#EXTINF:-1,Nahar Drama
-http://frontend.arabcast.tv/hls/channel9/channel9.m3u8
-#EXTINF:-1,hekayia
-http://frontend.arabcast.tv/hls/channel39/channel39.m3u8
-#EXTINF:-1,Cinema Tube
-http://frontend.arabcast.tv/hls/channel38/channel38.m3u8
-#EXTINF:-1,Hakawati
-http://edns.casacam.net:1935/live/Hakawati/playlist.m3u8
-
-
 #EXTINF:-1,MehwarTV
 http://radiofm.onlinehorizons.net:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1558393494
 #EXTINF:-1,Nile_drama
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_drama&t=ar
-
-
 #EXTINF:-1,Nile_cinema
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_cinema&t=ar
 #EXTINF:-1,Nile_comedy
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=nile_comedy&t=ar
-
-
 #EXTINF:-1,Alhayat
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=alhayat_2&t=ar
-
 #EXTINF:-1,Cbc_sofra
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_sofra&t=ar
 #EXTINF:-1,Cbc
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc&t=ar
 #EXTINF:-1,Cbc_drama
-
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_drama&t=ar
 #EXTINF:-1,Cbc_EXTRA
-
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=cbc_2&t=ar
-
 #EXTINF:-1,Rotana_masriya
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_masriya&t=ar
-
-#EXTINF:-1,PanoramaDrama
-http://38.99.146.71:7777/PanoramaDrama_Med.m3u8?user=tyty&session=07f1cf62124874428a5ced45156f11b279ca71d26f90677a329e572f817d349f
-
-#EXTINF:-1,PanoramaDrama2
-http://38.99.146.71:7777/PanoramaDrama2_Med.m3u8?user=tyty&session=64a36183d98ef76d72af33380e0ca302154c76e68f78815c33c789fbee203746
-
-#EXTINF:-1,PanoramaFilm
-http://38.99.146.71:7777/PanoramaFilm_Med.m3u8?user=tyty&session=9589afc477b6a2bf4c10892c9d0aeb81f56cfd879fd821f64ebe332215afb74f
-
-
 #EXTINF:-1,Al_nahar
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar&t=ar
-
 #EXTINF:-1,Al_nahar_youm
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_youm&t=ar
-
 #EXTINF:-1,Al_nahar_drama
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_drama&t=ar
-
 #EXTINF:-1,Al_nahar_sport
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=al_nahar_sport&t=ar
-
-
 #EXTINF:-1,Mekameleen
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
-
-
-
 #EXTINF:-1,Dmc
 http://streaming.i-sat.tv:1935/live/dmc/gmswf.m3u8?v=1558393494
-
-
 
 
