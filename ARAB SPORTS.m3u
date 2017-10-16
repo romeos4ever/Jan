@@ -2,55 +2,28 @@
 
 #EXTINF:-1,======ARAB SPORTS Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-
 #EXTINF:-1,Alkass1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&
-
-
 #EXTINF:-1,Alkass2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&
-
 #EXTINF:-1,Alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&
-
 #EXTINF:-1,Alkass4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&
-
 #EXTINF:-1,Alkass5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&
-
 #EXTINF:-1,Dubai sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-
-
 #EXTINF:-1,Saudi_sport
 http://www.elahmad.com/tv/m3u8/selevision.m3u8?id=saudi_sport
-
-
-#EXTINF:-1,NileSport
-http://38.99.146.71:7777/NileSport_Med.m3u8?user=tyty&session=f1713b08bb3ee02212d950a91d1bac366f2bdb7c76f1a789345bc5671e5c96dd
-
-
 #EXTINF:-1,Ktv3
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-
-
 #EXTINF:-1,Bahrain Sports
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
-
-
 #EXTINF:-1,Oman_sport
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
-
-
 #EXTINF:-1,Jordan_Sport
 http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
-
-
 #EXTINF:-1,Arriadia Maroc
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-
-
-#EXTINF:-1,Palestine Sport
-http://38.99.146.71:7777/PalestineSport_Med.m3u8?user=tyty&session=e30f7ec87c78f8a83b6d936a544fa1de2e3b5b77a700c5ff4da9b534cbd7f0ea
 
