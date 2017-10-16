@@ -1,30 +1,34 @@
 
+
 #EXTINF:-1,======KIDS Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1,baraem
 http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8?v=1558393494
 #EXTINF:-1,ajyal
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8?v=1558393494
-
-#EXTINF:-1,Karameesh
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-http://freeiptv.jan-beryan.giize.com/148.ts
 #EXTINF:-1,Majid kids
 rtmp://extondemand.livestream.com/ondemand/trans/dv02/mogulus-user-files/chislamiccartoon/2008/09/28/3d4fa86f-5f3c-4f52-891f-5499a6e39bef
-#EXTINF:-1,Toyor aljanah
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-http://freeiptv.jan-beryan.giize.com/307.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-http://freeiptv.jan-beryan.giize.com/141.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem 2
 http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
-#EXTINF:-1,MBC3
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-http://freeiptv.jan-beryan.giize.com/307.ts
-#EXTINF:-1,Toyor BABY
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-http://freeiptv.jan-beryan.giize.com/307.ts
-#EXTINF:-1,SPACETOON
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-http://freeiptv.jan-beryan.giize.com/290.ts
+#EXTINF:-1,baraem
+http://labab.kozow.com/hls/channel19/channel19.m3u8
+#EXTINF:-1,hodhod
+http://labab.kozow.com/hls/channel20/channel20.m3u8
+#EXTINF:-1,jeem
+http://labab.kozow.com/hls/channel21/channel21.m3u8
+#EXTINF:-1,ajyal
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
+#EXTINF:-1,spacetoon
+http://itats.dynv6.net:1935/live/spacetoon/playlist.m3u8
+#EXTINF:-1,majed kids
+http://adtv.ercdn.net/adsport7/adsport7.m3u8
+#EXTINF:-1,semsem
+http://itats.dynv6.net:1935/live/semsem/playlist.m3u8
+#EXTINF:-1,sat7kids
+http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/playlist.m3u8
+#EXTINF:-1,taha
+rtmp://93.95.207.36:9200/livepkgr/livestream2
+#EXTINF:-1,nour kids
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+
+
