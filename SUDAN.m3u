@@ -3,15 +3,20 @@
 
 #EXTINF:-1,======SUDAN Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-
-#EXTINF:-1,sudan
-http://38.99.146.71:7777/Sudan_Med.m3u8?user=tyty&session=cdb9591dcc95ca0551b0243d7e34b525ca60b00a129b1ec1102a542cb34f4dfc
 #EXTINF:-1,Ashrooq
 rtmp://82.212.74.98:1935/live/7913
 #EXTINF:-1,Tayba TV
 http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8?v=1558393494
-
-
-
-
-
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://arabicfomny.com/fomnyarabictv/alshorooq_tv_live.jpg" group-title="Sudan ",alshorooq sudan vlc
+rtmp://82.212.74.98:1935/live/7913
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg" group-title="Sudan ",tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg" group-title="Sudan ",afriqia4
+http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg" group-title="Sudan ",afriqia3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg" group-title="Sudan ",afriqia2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg" group-title="Sudan ",afriqia1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
