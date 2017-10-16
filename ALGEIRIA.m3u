@@ -1,12 +1,11 @@
 
 
 
-#EXTINF:-1, ======ALGERIA=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-
+#EXTINF:-1,======ALGEIRIA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
+
 #EXTINF:-1,Chourouk TV
 http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
 #EXTINF:-1,Chourouk News
@@ -14,37 +13,45 @@ http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
 #EXTINF:-1,Chourouk benna
 http://tv-live.echoroukonline.com/echo/EchoroukBenna_SD/chunks.m3u8
 #EXTINF:-1,Dzaier TV
-http://frontend.arabcast.tv/hls/channel17/channel17.m3u8
+https://cdn.arabcast.tv/hls/channel17/channel17.m3u8
 #EXTINF:-1,Samira TV
-http://frontend.arabcast.tv/hls/channel18/channel18.m3u8
+https://cdn.arabcast.tv/hls/channel18/channel18.m3u8
 #EXTINF:-1,algeria 3
 http://94.130.66.203:1989/Algerie3/playlist.m3u8
 #EXTINF:-1,algeria
 http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
 #EXTINF:-1,almagharbia
-http://frontend.arabcast.tv/hls/channel5/channel5.m3u8
+https://cdn.arabcast.tv/hls/channel5/channel5.m3u8
 #EXTINF:-1,Haddef Algerie
-http://frontend.arabcast.tv/hls/channel15/channel15.m3u8
+https://cdnbis.arabcast.tv/hls/channel15/channel15.m3u8
+#EXTINF:-1,Chourouk TV
+http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
+#EXTINF:-1,Chourouk News
+http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
+#EXTINF:-1,Chourouk benna
+http://tv-live.echoroukonline.com/echo/EchoroukBenna_SD/chunks.m3u8
+#EXTINF:-1,Dzaier TV
+https://cdn.arabcast.tv/hls/channel17/channel17.m3u8
+#EXTINF:-1,Samira TV
+https://cdn.arabcast.tv/hls/channel18/channel18.m3u8
+#EXTINF:-1,algeria 3
+http://94.130.66.203:1989/Algerie3/playlist.m3u8
+#EXTINF:-1,algeria
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
+#EXTINF:-1,almagharbia
+http://livestream-f.akamaihd.net/i/7861901_4426115_lsitv2yhymtl5j3txk3_1@407631/index_678_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1508252689~acl=%2fi%2f7861901_4426115_lsitv2yhymtl5j3txk3_1%40407631%2f*~data=hdntl~hmac=c67b6d4e091df4a2f7bb8c34dbad360ccfac55a4bd982adc153f2ed9cb6a8b47
 
+#EXTINF:-1,Haddef Algerie
+https://cdnbis.arabcast.tv/hls/channel15/channel15.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
 http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
 #EXTINF:-1,Echorouk-TV
 http://tv-live.echoroukonline.com/echo/EchoroukTV/playlist.m3u8
-
 #EXTINF:-1,Echorouk News
 http://tv-live.echoroukonline.com/echo/EchoroukNews/playlist.m3u8
-
 #EXTINF:-1,Echorouk benna TV
 http://tv-live.echoroukonline.com/echo/EchoroukBenna/playlist.m3u8
 #EXTINF:-1,Algeria_1
 http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
-
-
 #EXTINF:-1,Ennahar_Algerie
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=ennahar_algerie&t=ar
-
-#EXTINF:-1,Almagharibia1
-http://livestream-f.akamaihd.net/i/9841337_3348791_lsi1eff4v6si7yr9vbr_1@447069/index_678_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1507644294~acl=%2fi%2f9841337_3348791_lsi1eff4v6si7yr9vbr_1%40447069%2f*~data=hdntl~hmac=b83759af69220f28a69331b7bf99c5c259600fc8ddc3c40be33508e6b776c7f4
-#EXTINF:-1,Almagharibia2
-http://livestream-f.akamaihd.net/i/7861901_4426115_lsiigcbq3giak49spj7_1@314095/index_678_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1507644322~acl=%2fi%2f7861901_4426115_lsiigcbq3giak49spj7_1%40314095%2f*~data=hdntl~hmac=9b6eb3d3fd7789683e37832da4e4beba27d060528401577420dba8658c505995
-
