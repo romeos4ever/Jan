@@ -1,42 +1,24 @@
 
 
-
-
-#EXTINF:-1, ======MOROCCO=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
+#EXTINF:-1,======MOROCO Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",~ Morocco TV ~
 http://www.lengua.com/anthems/Morocco.mp3
-
 #EXTINF:-1 tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
-
 #EXTINF:-1,Alaoula Inter
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=alaoulainter
-
 #EXTINF:-1,Assadissa
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=assadissa
-
 #EXTINF:-1,2m maroco
 http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
-
 #EXTINF:-1,Arriadia
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-
 #EXTINF:-1,Arrabia
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arrabiaa
-
 #EXTINF:-1,Almaghribya
-
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=almaghribya
-
-
 #EXTINF:-1,Tamazight
 http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=tamazight
 #EXTINF:-1,Medi1_Med
-
 http://37.48.80.76/live/myStream/gmswf.m3u8?v=1558393494
-
-
-
-
