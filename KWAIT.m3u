@@ -1,34 +1,41 @@
 
+
 #EXTINF:-1, ======KUWAIT=======
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",~ Kuwait TV ~
 http://www.lengua.com/anthems/Kuwait.mp3
-
-
+#EXTINF:-1 group-title="kuwait",kuwait1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
+#EXTINF:-1,ktv 2
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
+#EXTINF:-1,ktvethraalive
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/gmswf.m3u8
+#EXTINF:-1,ktv arabe
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/gmswf.m3u8
+#EXTINF:-1,ktv almajlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/gmswf.m3u8
+#EXTINF:-1,ktv plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/gmswf.m3u8
+#EXTINF:-1,ktv sports plus
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
+#EXTINF:-1,ALRAI
+http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="KUWAIT",Al Rai *
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1*
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="KUWAIT",KTV 2
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="KUWAIT",KTV 2*
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="KUWAIT",KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-
 #EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img63.jpg" group-title="KUWAIT",KTV Al Arabi
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.wakeplay.net/wp-content/uploads/2016/06/kuwaittvplus.jpg" group-title="KUWAIT",KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636174029839741716.jpg" group-title="KUWAIT",KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+
