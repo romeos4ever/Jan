@@ -1,19 +1,18 @@
 
+
 #EXTINF:-1, ======OMAN=======
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.wpclipart.com/flags/country_code_buttons/.cache/om_Oman.png" group-title="LABEL",~ Oman TV ~
 http://www.lengua.com/anthems/Oman.mp3
-
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV*
+http://37.152.128.66:7009/play/a00j
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/oman_live.png" group-title="OMAN",Oman Mubasher
 http://38.96.148.30:1935/live/omantv3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/cultural.png" group-title="OMAN",Oman Documentary
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="OMAN",Oman Sports
 http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+
+
