@@ -1,15 +1,12 @@
 
 
-
 #EXTINF:-1,======NEWS Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
-
-
 #EXTINF:-1,Al-Jazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index783.m3u8?v=1558393494
-
 #EXTINF:-1,Al-Arabiya
 http://live.alarabiya.net/alarabiya/myStream_480p/chunklist.m3u8
 #EXTINF:-1,alarabiya hadath
@@ -18,23 +15,13 @@ http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
 http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
 #EXTINF:-1,Rusiya_Al_Yaum
 http://demo.ashttp9.visionip.tv/live/Rusiya_Al_Yaum-SD/chunklist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.image-share.com/upload/3127/124.jpg" group-title="ARABIC NEWS",NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-
