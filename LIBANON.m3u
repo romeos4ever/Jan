@@ -1,54 +1,45 @@
 
 
-
-#EXTINF:-1, ======LEBANON=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,======LIBANON Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
 http://www.lengua.com/anthems/Lebanon.mp3
 #EXTINF:-1,mtv
-http://edns.casacam.net:1935/live/mtv/playlist.m3u8
+http://itats.dynv6.net:1935/live/mtv/playlist.m3u8
+#EXTINF:-1,almayadeen
+https://cdn.arabcast.tv/hls/channel4/channel4.m3u8
+#EXTINF:-1,aljadeed
+http://itats.dynv6.net:1935/live/aljadeed/playlist.m3u8
+#EXTINF:-1,mtv
+http://itats.dynv6.net:1935/live/mtv/playlist.m3u8
 #EXTINF:-1,LBC
 http://frontend.arabcast.tv/hls/channel2/channel2.m3u8
-#EXTINF:-1,almayadeen
-http://frontend.arabcast.tv/hls/channel4/channel4.m3u8
 #EXTINF:-1,Future
 http://frontend.arabcast.tv/hls/channel40/channel40.m3u8
-#EXTINF:-1,Ldc
-http://cdnbara.ddnsgeek.com/hls/channel2/channel2.m3u8
-#EXTINF:-1,aljadeed
-http://edns.casacam.net:1935/live/aljadeed/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" group-title="LEBANON",Al Mayadeen
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
-
 #EXTINF:-1 tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" group-title="LEBANON",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,Future-TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
 #EXTINF:-1,manar
 http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
-
 #EXTINF:-1,MTV-Lebanon
 http://streaming.i-sat.tv:1935/live/mtv/gmswf.m3u8?v=1558393494
 #EXTINF:-1,LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1,Aljadeed
 http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=aljadeed&t=ar
-
 #EXTINF:-1,Almayadeen tv
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8?v=1558393494
-
 
 
