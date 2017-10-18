@@ -1,30 +1,27 @@
 #EXTINF:-1,======BEIN Group=========================
 http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
-#EXTINF:-1group-title="beIN SPORTS HD",beIN Sports News
-http://andr-tv2.jan-beryan.giize.com/hls/bein-sport-news-hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN Sports
-http://andr-tv2.jan-beryan.giize.com/hls/mal-bein-sports-hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 1 HD
-http://streamer8715.embratoria.com:9086/hls/bein1hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 2 HD
-http://streamer8715.embratoria.com:9086/hls/bein2hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 3 HD
-http://streamer8715.embratoria.com:9086/hls/bein3hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 4 HD
-http://streamer8715.embratoria.com:9086/hls/bein4hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 5 HD
-http://streamer8715.embratoria.com:9086/hls/bein5hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 6 HD
-http://streamer8715.embratoria.com:9086/hls/bein6hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 7 HD
-http://streamer8715.embratoria.com:9086/hls/bein7hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 8 HD
-http://streamer8715.embratoria.com:9086/hls/bein8hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 9 HD
-http://streamer8715.embratoria.com:9089/bein9hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 10 HD
-http://streamer8715.embratoria.com:9089/bein10hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 11 HD
-http://andr-tv.jan-beryan.giize.com/bein11hd.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
-#EXTINF:-1group-title="beIN SPORTS HD",beIN 12 HD
-http://streamer8715.embratoria.com:9085/bein12hdn.m3u8?md5=7oISnAOgimx6rrfCiiaF7w&expires=1508206786
+#EXTM3U
+#EXTINF:-1,beIN 1 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1835.m3u8
+#EXTINF:-1,beIN 2 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1836.m3u8
+#EXTINF:-1,beIN 3 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1837.m3u8
+#EXTINF:-1,beIN 4 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1838.m3u8
+#EXTINF:-1,beIN 5 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1839.m3u8
+#EXTINF:-1,beIN 6 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1840.m3u8
+#EXTINF:-1,beIN 7 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1841.m3u8
+#EXTINF:-1,beIN 8 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1842.m3u8
+#EXTINF:-1,beIN 9 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1843.m3u8
+#EXTINF:-1,beIN 10 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1844.m3u8
+#EXTINF:-1,beIN 11 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/3035.m3u8
+#EXTINF:-1,beIN 12 HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/3036.m3u8
