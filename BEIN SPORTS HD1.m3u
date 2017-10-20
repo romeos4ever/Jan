@@ -1,58 +1,20 @@
 #EXTINF:-1,beIN Sports 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/117.m3u8$http-refferer=http://localhost
-#EXTINF:-1,beIN Sports 10 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/118.m3u8$http-refferer=http://localhost
-#EXTINF:-1,beIN Sports 11 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/119.m3u8$http-refferer=http://localhost
-#EXTINF:-1,beIN Sports 12 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/120.m3u8$http-refferer=http://localhost
-#EXTINF:-1,beIN Sports 13 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/121.m3u8$http-refferer=http://localhost
-#EXTINF:-1,beIN Sports 14 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/122.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sports 15 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/123.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sports 16 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/124.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sports 17 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/125.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein1-hq
 #EXTINF:-1,beIN Sports 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/126.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein2-hq
 #EXTINF:-1,beIN Sports 3 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/127.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein3-hq
 #EXTINF:-1,beIN Sports 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/128.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein4-hq
 #EXTINF:-1,beIN Sports 5 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/129.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein5-hq
 #EXTINF:-1,beIN Sports 6 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/130.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein6-hq
 #EXTINF:-1,beIN Sports 7 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/131.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein7-hq
 #EXTINF:-1,beIN Sports 8 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/132.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein8-hq
 #EXTINF:-1,beIN Sports 9 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/133.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 1 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/173.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 10 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/172.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 11 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/171.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 12 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/170.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 2 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/169.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 3 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/168.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 4 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/167.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 5 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/166.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 6 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/165.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 7 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/164.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 8 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/163.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bein Sport 9 HD (Backup)
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/162.m3u8$http-refferer=http://localhost
+http://bein.website/movecast/beIN.m3u8?id=bein9-hq
+#EXTINF:-1,BeIN Sport 10 HD 
+http://bein.website/movecast/beIN.m3u8?id=bein10-hq
