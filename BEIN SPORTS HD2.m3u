@@ -1,26 +1,19 @@
+#EXTINF:-1,======BEIN Group=========================
+http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1,beIN 1 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1835.m3u8
-#EXTINF:-1,beIN 2 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1836.m3u8
-#EXTINF:-1,beIN 3 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1837.m3u8
-#EXTINF:-1,beIN 4 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1838.m3u8
-#EXTINF:-1,beIN 5 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1839.m3u8
-#EXTINF:-1,beIN 6 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1840.m3u8
-#EXTINF:-1,beIN 7 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1841.m3u8
-#EXTINF:-1,beIN 8 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1842.m3u8
-#EXTINF:-1,beIN 9 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1843.m3u8
-#EXTINF:-1,beIN 10 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/1844.m3u8
-#EXTINF:-1,beIN 11 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/3035.m3u8
-#EXTINF:-1,beIN 12 HD
-http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/3036.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 1
+http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 2
+http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 3
+http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 4
+http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 5
+http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 6
+http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 7
+http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508525713&t=.m3u8
+#EXTINF:-1,iptv4u.club,beIN SPORTS 8
+http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508525713&t=.m3u8
