@@ -1,19 +1,23 @@
-#EXTINF:-1,======BEIN Group=========================
+#EXTINF:-1,======BEIN SD Group==========
 http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
 
-#EXTINF:-1,iptv4u.club,beIN SPORTS 1
-http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 2
-http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 3
-http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 4
-http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 5
-http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 6
-http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 7
-http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508525713&t=.m3u8
-#EXTINF:-1,iptv4u.club,beIN SPORTS 8
-http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508525713&t=.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://94.102.51.79:8088/stream/beinsports_11yer/playlist.m3u8?id=19113&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 2
+http://80.82.65.164:8088/stream/bewinsport2/playlist.m3u8?id=18851&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 3
+http://89.248.174.98:8088/stream/bein_3per/playlist.m3u8?id=19093&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 4
+http://93.174.93.67:8088/stream/247beinSports_4/playlist.m3u8?id=18994&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 5
+http://94.102.51.78:8088/stream/bein_sports5/playlist.m3u8?id=19162&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 6
+http://80.82.64.144:8088/stream/beinsports6/playlist.m3u8?id=18593&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 7
+http://93.174.93.67:8088/stream/beinsports7/playlist.m3u8?id=18594&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 8
+http://80.82.78.33:8088/stream/Benboss8/playlist.m3u8?id=18708&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 9
+http://89.248.171.23:8088/stream/beinsports9/playlist.m3u8?id=18596&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+#EXTINF:-1,beIN SPORTS 10
+http://89.248.172.146:8088/stream/beinsports10/playlist.m3u8?id=18597&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
