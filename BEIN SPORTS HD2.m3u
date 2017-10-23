@@ -1,23 +1,64 @@
 #EXTINF:-1,======BEIN SD Group==========
 http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
 
-#EXTINF:-1,beIN SPORTS 1
-http://94.102.51.79:8088/stream/beinsports_11yer/playlist.m3u8?id=19113&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 2
-http://80.82.65.164:8088/stream/bewinsport2/playlist.m3u8?id=18851&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 3
-http://89.248.174.98:8088/stream/bein_3per/playlist.m3u8?id=19093&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 4
-http://93.174.93.67:8088/stream/247beinSports_4/playlist.m3u8?id=18994&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 5
-http://94.102.51.78:8088/stream/bein_sports5/playlist.m3u8?id=19162&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 6
-http://80.82.64.144:8088/stream/beinsports6/playlist.m3u8?id=18593&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 7
-http://93.174.93.67:8088/stream/beinsports7/playlist.m3u8?id=18594&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 8
-http://80.82.78.33:8088/stream/Benboss8/playlist.m3u8?id=18708&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 9
-http://89.248.171.23:8088/stream/beinsports9/playlist.m3u8?id=18596&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
-#EXTINF:-1,beIN SPORTS 10
-http://89.248.172.146:8088/stream/beinsports10/playlist.m3u8?id=18597&pk=01b40acbbbb067bb258f747ef0d38b912bd660637fed51e767944581c94cbea7
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports1
+http://asno.gcdn.co/sport-bn-sport-1-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports2
+http://asno.gcdn.co/sport-bn-sport-2-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports3
+http://asno.gcdn.co/sport-bn-sport-3-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports4
+http://asno.gcdn.co/sport-bn-sport-4-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports5
+http://asno.gcdn.co/sport-bn-sport-5-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports6
+http://asno.gcdn.co/sport-bn-sport-6-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports7
+http://asno.gcdn.co/sport-bn-sport-7-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports8
+http://asno.gcdn.co/sport-bn-sport-8-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports9
+http://asno.gcdn.co/sport-bn-sport-9-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports10
+http://asno.gcdn.co/sport-bn-sport-10-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports11
+http://asno.gcdn.co/sport-bn-sport-11-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports12
+http://asno.gcdn.co/sport-bn-sport-12-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports13
+http://asno.gcdn.co/sport-bn-sport-13-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports14
+http://asno.gcdn.co/sport-bn-sport-14-sd/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+#EXTINF:-1,BeIN Sports15
+http://asno.gcdn.co/sport-bn-sport-15-sd/playlist.m3u8
