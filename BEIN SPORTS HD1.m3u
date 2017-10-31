@@ -1,24 +1,47 @@
-#EXTINF:-1,beIN Sports 1 HD
-http://bein.website/movecast/beIN.m3u8?id=bein1-hq
-#EXTINF:-1,beIN Sports 2 HD
-http://bein.website/movecast/beIN.m3u8?id=bein2-hq
-#EXTINF:-1,beIN Sports 3 HD
-http://bein.website/movecast/beIN.m3u8?id=bein3-hq
-#EXTINF:-1,beIN Sports 4 HD
-http://bein.website/movecast/beIN.m3u8?id=bein4-hq
-#EXTINF:-1,beIN Sports 5 HD
-http://bein.website/movecast/beIN.m3u8?id=bein5-hq
-#EXTINF:-1,beIN Sports 6 HD
-http://bein.website/movecast/beIN.m3u8?id=bein6-hq
-#EXTINF:-1,beIN Sports 7 HD
-http://bein.website/movecast/beIN.m3u8?id=bein7-hq
-#EXTINF:-1,beIN Sports 8 HD
-http://bein.website/movecast/beIN.m3u8?id=bein8-hq
-#EXTINF:-1,beIN Sports 9 HD
-http://bein.website/movecast/beIN.m3u8?id=bein9-hq
-#EXTINF:-1,BeIN Sport 10 HD 
-http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
-
+#EXTINF:-1,BEIN SPORT NEW HD
+http://bein1.jan-beryan.giize.com/41.m3u8
+#EXTINF:-1,BEIN:BEIN.SPORTS
+http://bein1.jan-beryan.giize.com/3.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS1HD
+http://bein1.jan-beryan.giize.com/5.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS2HD
+http://bein1.jan-beryan.giize.com/8.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS3HD
+http://bein1.jan-beryan.giize.com/11.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS4HD
+http://bein1.jan-beryan.giize.com/14.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS5HD
+http://bein1.jan-beryan.giize.com/17.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS6HD
+http://bein1.jan-beryan.giize.com/20.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS7HD
+http://bein1.jan-beryan.giize.com/23.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS8HD
+http://bein1.jan-beryan.giize.com/26.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS9HD
+http://bein1.jan-beryan.giize.com/29.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS10HD
+http://bein1.jan-beryan.giize.com/32.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS11HD
+http://bein1.jan-beryan.giize.com/35.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS12HD
+http://bein1.jan-beryan.giize.com/36.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS13HD
+http://bein1.jan-beryan.giize.com/37.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS14HD
+http://bein1.jan-beryan.giize.com/38.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS15HD
+http://bein1.jan-beryan.giize.com/39.m3u8
+#EXTINF:-1,BEIN:BEINSPORTS16HD
+http://bein1.jan-beryan.giize.com/40.m3u8
+#EXTINF:-1,BEIN MOVIES 1HD
+http://bein1.jan-beryan.giize.com/46.m3u8
+#EXTINF:-1,BEIN MOVIES 2HD
+http://bein1.jan-beryan.giize.com/43.m3u8
+#EXTINF:-1,BEIN MOVIES 3HD
+http://bein1.jan-beryan.giize.com/44.m3u8
+#EXTINF:-1,BEIN MOVIES 4HD
+http://bein1.jan-beryan.giize.com/45.m3u8
 
 
