@@ -1,4 +1,46 @@
-
+#EXTM3U
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 1HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/1.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 2HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/2.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 3HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/3.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 4HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/4.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 5HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/5.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 6HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/6.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 7HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/7.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 8HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/8.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 9HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/9.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 10HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/10.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 11HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/11.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports 12HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/12.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports News
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/14.ts
+#EXTVLCOPT:http-user-agent=LOVE
+#EXTINF:-1,beinSports HD
+http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/13.ts
 #EXTINF:-1,BEIN SPORT NEW HD
 http://bein1.jan-beryan.giize.com/41.m3u8
 #EXTINF:-1,BEIN:BEIN.SPORTS
