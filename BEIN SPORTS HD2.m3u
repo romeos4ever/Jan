@@ -3,62 +3,33 @@ http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
 
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
 #EXTINF:-1,BeIN Sports1
-http://asno.gcdn.co/sport-bn-sport-1-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS1SD/index.m3u8
 #EXTINF:-1,BeIN Sports2
-http://asno.gcdn.co/sport-bn-sport-2-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS2SD/index.m3u8
 #EXTINF:-1,BeIN Sports3
-http://asno.gcdn.co/sport-bn-sport-3-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS3SD/index.m3u8
 #EXTINF:-1,BeIN Sports4
-http://asno.gcdn.co/sport-bn-sport-4-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS4SD/index.m3u8
 #EXTINF:-1,BeIN Sports5
-http://asno.gcdn.co/sport-bn-sport-5-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS5SD/index.m3u8
 #EXTINF:-1,BeIN Sports6
-http://asno.gcdn.co/sport-bn-sport-6-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS6SD/index.m3u8
 #EXTINF:-1,BeIN Sports7
-http://asno.gcdn.co/sport-bn-sport-7-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS7SD/index.m3u8
 #EXTINF:-1,BeIN Sports8
-http://asno.gcdn.co/sport-bn-sport-8-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS8SD/index.m3u8
 #EXTINF:-1,BeIN Sports9
-http://asno.gcdn.co/sport-bn-sport-9-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS9SD/index.m3u8
 #EXTINF:-1,BeIN Sports10
-http://asno.gcdn.co/sport-bn-sport-10-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS10SD/index.m3u8
 #EXTINF:-1,BeIN Sports11
-http://asno.gcdn.co/sport-bn-sport-11-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS11SD/index.m3u8
 #EXTINF:-1,BeIN Sports12
-http://asno.gcdn.co/sport-bn-sport-12-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS12SD/index.m3u8
 #EXTINF:-1,BeIN Sports13
-http://asno.gcdn.co/sport-bn-sport-13-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS13SD/index.m3u8
 #EXTINF:-1,BeIN Sports14
-http://asno.gcdn.co/sport-bn-sport-14-sd/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X40000MEGA_v1.9.0 
+http://binkora.jan-beryan.giize.com/beINSPORTS14SD/index.m3u8
 #EXTINF:-1,BeIN Sports15
-http://asno.gcdn.co/sport-bn-sport-15-sd/playlist.m3u8
+http://binkora.jan-beryan.giize.com/beINSPORTS15SD/index.m3u8
