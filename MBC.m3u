@@ -23,3 +23,62 @@ http://selevision9883-i.akamaihd.net/hls/live/219251/98835/1.m3u8?v=636345423
 http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8?v=3707771349
 #EXTINF:-1,MBC 4
 http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8?v=774590527
+
+
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1278.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1279.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1280.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1281.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1283.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1282.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1286.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1287.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1289.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1284.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1285.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1292.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1290.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1291.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1288.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1296.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1295.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1294.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1293.ts
