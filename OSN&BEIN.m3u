@@ -1,92 +1,132 @@
-
-#EXTINF:-1,======OSN Group1=======
-http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-#EXTINF:1,Nat Geo People HD
-http://sstv1.loseyourip.com/c.php?id=00583&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,ART Aflam 1
-http://sstv1.loseyourip.com/c.php?id=00331&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,ART Aflam 2
-http://sstv1.loseyourip.com/c.php?id=00332&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,ART Cinema
-http://sstv1.loseyourip.com/c.php?id=00333&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,ART Hekayat 1
-http://sstv1.loseyourip.com/c.php?id=00334&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,ART Hekayat 2
-http://sstv1.loseyourip.com/c.php?id=00335&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Al Yawm
-http://sstv1.loseyourip.com/c.php?id=00553&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Al Safwa
-http://sstv1.loseyourip.com/c.php?id=00554&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Yahala
-http://sstv1.loseyourip.com/c.php?id=00557&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Yahala Drama
-http://sstv1.loseyourip.com/c.php?id=00559&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Action
-http://sstv1.loseyourip.com/c.php?id=00560&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies HD
-http://sstv1.loseyourip.com/c.php?id=00570&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Premiere
-http://sstv1.loseyourip.com/c.php?id=00561&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Festival
-http://sstv1.loseyourip.com/c.php?id=00562&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Comedy
-http://sstv1.loseyourip.com/c.php?id=00564&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Drama
-http://sstv1.loseyourip.com/c.php?id=00563&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Kids
-http://sstv1.loseyourip.com/c.php?id=00565&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Star World HD
-http://sstv1.loseyourip.com/c.php?id=00574&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Star Movies
-http://sstv1.loseyourip.com/c.php?id=00911&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN First HD
-http://sstv1.loseyourip.com/c.php?id=00566&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN First HBO
-http://sstv1.loseyourip.com/c.php?id=00875&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN First Comedy
-http://sstv1.loseyourip.com/c.php?id=00567&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Bein Movies 1
-http://sstv1.loseyourip.com/c.php?id=05869&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Bein Movies 2
-http://sstv1.loseyourip.com/c.php?id=05870&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Bein Movies 3
-http://sstv1.loseyourip.com/c.php?id=77321&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,BEIN MOVIES 4 HD
-http://sstv1.loseyourip.com/c.php?id=00782&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Nat Geo HD
-http://sstv1.loseyourip.com/c.php?id=00581&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Nat Geo Wild HD
-http://sstv1.loseyourip.com/c.php?id=00582&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Animal Planet
-http://sstv1.loseyourip.com/c.php?id=00580&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,History HD
-http://sstv1.loseyourip.com/c.php?id=00579&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN On Demand
-http://sstv1.loseyourip.com/c.php?id=03916&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Yahala Cinema
-http://sstv1.loseyourip.com/c.php?id=04201&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,History 2 HD
-http://sstv1.loseyourip.com/c.php?id=03960&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OSN_BoxOffice_1
-http://sstv1.loseyourip.com/c.php?id=77317&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OSN_BoxOffice_2
-http://sstv1.loseyourip.com/c.php?id=77318&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OSN_BoxOffice_3
-http://sstv1.loseyourip.com/c.php?id=77319&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OSN ON DEMAND EXTRA
-http://sstv1.loseyourip.com/c.php?id=77322&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Discovery Science
-http://sstv1.loseyourip.com/c.php?id=00577&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Yahala Shabab test
-http://sstv1.loseyourip.com/c.php?id=00558&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OMN Movies Family test
-http://sstv1.loseyourip.com/c.php?id=00569&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Discovery ID test
-http://sstv1.loseyourip.com/c.php?id=00578&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Cinema 1 test
-http://sstv1.loseyourip.com/c.php?id=00571&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,Cinema 2 test
-http://sstv1.loseyourip.com/c.php?id=00572&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-#EXTINF:1,OSN Syfy test
-http://sstv1.loseyourip.com/c.php?id=04278&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
-
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1473.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1474.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1475.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1476.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1478.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1477.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1482.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1480.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1479.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1481.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",BOING
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1409.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1467.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1468.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1469.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1470.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1471.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1472.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Officebox 1HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1297.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Officebox 2HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1298.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Officebox 3HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 3HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1299.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies HD" tvg-logo="" group-title="05-OSN [AR]",Movies HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1300.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies 2 HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1301.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Premiere" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1304.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Premiere 2" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1305.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Comedy HD" tvg-logo="" group-title="05-OSN [AR]",Movies Comedy HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1306.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Action HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1302.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Action 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action 2 HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1303.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala HD" tvg-logo="" group-title="05-OSN [AR]",Yahala HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1309.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala Shabab HD" tvg-logo="" group-title="05-OSN [AR]",Yahala Shabab HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1311.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala DraHD" tvg-logo="" group-title="05-OSN [AR]",Yahala DraHD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1310.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Yahala CineHD" tvg-logo="" group-title="05-OSN [AR]",Yahala CineHD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1312.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Cine1HD" tvg-logo="" group-title="05-OSN [AR]",Cine1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1313.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Cine2HD" tvg-logo="" group-title="05-OSN [AR]",Cine2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1314.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Ondemend Extra HD" tvg-logo="" group-title="05-OSN [AR]",Ondemend Extra HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1308.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Ondemand HD" tvg-logo="" group-title="05-OSN [AR]",Ondemand HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1307.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii-Shamia" tvg-logo="" group-title="05-OSN [AR]",SeeVii-Shamia
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1317.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii DraHD." tvg-logo="" group-title="05-OSN [AR]",SeeVii DraHD.
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1315.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii Beelink HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Beelink HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1318.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Al oula HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1316.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1319.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1320.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1321.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1322.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1323.ts
