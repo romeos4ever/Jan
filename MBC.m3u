@@ -2,15 +2,15 @@
 #EXTINF:-1,======MBC Group=======
 http://iptv2.jan-beryan.giize.com/MBC1/index.m3u8
 #EXTINF:-1,MBC1
-http://selevision9895-i.akamaihd.net/hls/live/219367/98950/master.m3u8
+http://www.elahmad.com/tv/m3u8/arabcast.m3u8?id=mbc_1
 #EXTINF:-1,MBC1HD
-http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
+http://www.elahmad.com/tv/m3u8/arabcast.m3u8?id=mbc_1
 #EXTINF:-1,MbC 3
 http://frontend.arabcast.tv/hls/channel22/channel22.m3u8
 #EXTINF:-1,MBC Action
 http://cdn4.l7iptv.com:8888/video/yaser_wkmKS3/etnY4vuzfqkZQovY-jwOgA/1508773533/mbc-action/mbc-action.m3u8?id=3606&amp;user=yaser_wkmKS3&amp;pass=hhPPTddV&amp;mac=12345678
 #EXTINF:-1,MBC 2
-http://cdn4.l7iptv.com:8888/video/yaser_wkmKS3/1sOwGb99pilAirCF6wDviA/1508773307/mbc2/mbc2.m3u8?id=3599&amp;user=yaser_wkmKS3&amp;pass=hhPPTddV&amp;mac=12345678
+http://www.elahmad.com/tv/m3u8/arabcast.m3u8?id=mbc_2
 #EXTINF:-1,MBC Max
 http://cdn2.l7iptv.com:8888/video/yaser_wkmKS3/1NlZRGOoJ4TNXrF25jsOsA/1508773355/AR_Mbc_Max_HD/AR_Mbc_Max_HD.m3u8?id=3600&amp;user=yaser_wkmKS3&amp;pass=hhPPTddV&amp;mac=12345678
 #EXTINF:-1,MBC Bollywood
