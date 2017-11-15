@@ -5,53 +5,65 @@
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
-
-#EXTINF:-1,Chourouk TV
-http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
-#EXTINF:-1,Chourouk News
-http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
-#EXTINF:-1,Chourouk benna
-http://tv-live.echoroukonline.com/echo/EchoroukBenna_SD/chunks.m3u8
-#EXTINF:-1,Dzaier TV
-https://cdn.arabcast.tv/hls/channel17/channel17.m3u8
-#EXTINF:-1,Samira TV
-https://cdn.arabcast.tv/hls/channel18/channel18.m3u8
-#EXTINF:-1,algeria 3
-http://94.130.66.203:1989/Algerie3/playlist.m3u8
-#EXTINF:-1,algeria
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
-#EXTINF:-1,almagharbia
-https://cdn.arabcast.tv/hls/channel5/channel5.m3u8
-#EXTINF:-1,Haddef Algerie
-https://cdnbis.arabcast.tv/hls/channel15/channel15.m3u8
-#EXTINF:-1,Chourouk TV
-http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
-#EXTINF:-1,Chourouk News
-http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
-#EXTINF:-1,Chourouk benna
-http://tv-live.echoroukonline.com/echo/EchoroukBenna_SD/chunks.m3u8
-#EXTINF:-1,Dzaier TV
-https://cdn.arabcast.tv/hls/channel17/channel17.m3u8
-#EXTINF:-1,Samira TV
-https://cdn.arabcast.tv/hls/channel18/channel18.m3u8
-#EXTINF:-1,algeria 3
-http://94.130.66.203:1989/Algerie3/playlist.m3u8
-#EXTINF:-1,algeria
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
-#EXTINF:-1,almagharbia
-http://livestream-f.akamaihd.net/i/7861901_4426115_lsitv2yhymtl5j3txk3_1@407631/index_678_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1508252689~acl=%2fi%2f7861901_4426115_lsitv2yhymtl5j3txk3_1%40407631%2f*~data=hdntl~hmac=c67b6d4e091df4a2f7bb8c34dbad360ccfac55a4bd982adc153f2ed9cb6a8b47
-
-#EXTINF:-1,Haddef Algerie
-https://cdnbis.arabcast.tv/hls/channel15/channel15.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
-http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
-#EXTINF:-1,Echorouk-TV
-http://tv-live.echoroukonline.com/echo/EchoroukTV/playlist.m3u8
-#EXTINF:-1,Echorouk News
-http://tv-live.echoroukonline.com/echo/EchoroukNews/playlist.m3u8
-#EXTINF:-1,Echorouk benna TV
-http://tv-live.echoroukonline.com/echo/EchoroukBenna/playlist.m3u8
-#EXTINF:-1,Algeria_1
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=algerie
-#EXTINF:-1,Ennahar_Algerie
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=ennahar_algerie&t=ar
+#EXTINF:-1,AR - EN TV Algerie
+http://andrtviptv.jan-beryan.giize.com/1255.m3u8
+#EXTINF:-1,AR - Canal Algerie
+http://andrtviptv.jan-beryan.giize.com/979.m3u8
+#EXTINF:-1,AR - A3 Algerie
+http://andrtviptv.jan-beryan.giize.com/981.m3u8
+#EXTINF:-1,AR - Chourouk TV HD
+http://andrtviptv.jan-beryan.giize.com/983.m3u8
+#EXTINF:-1,AR - Echourouk
+http://andrtviptv.jan-beryan.giize.com/3891.m3u8
+#EXTINF:-1,AR - Chourouk News HD
+http://andrtviptv.jan-beryan.giize.com/984.m3u8
+#EXTINF:-1,AR - Echourouk News
+http://andrtviptv.jan-beryan.giize.com/3890.m3u8
+#EXTINF:-1,AR - Dzair News
+http://andrtviptv.jan-beryan.giize.com/986.m3u8
+#EXTINF:-1,AR - Kbc Algeria
+http://andrtviptv.jan-beryan.giize.com/1260.m3u8
+#EXTINF:-1,AR - Echorouk Benna
+http://andrtviptv.jan-beryan.giize.com/3333.m3u8
+#EXTINF:-1,AR - Samira TV
+http://andrtviptv.jan-beryan.giize.com/1038.m3u8
+#EXTINF:-1,AR - El Heddaf
+http://andrtviptv.jan-beryan.giize.com/1264.m3u8
+#EXTINF:-1,AR - El Bilad
+http://andrtviptv.jan-beryan.giize.com/3898.m3u8
+#EXTINF:-1,AR - Numidia TV
+http://andrtviptv.jan-beryan.giize.com/1246.m3u8
+#EXTINF:-1,AR - El Djazairia
+http://andrtviptv.jan-beryan.giize.com/982.m3u8
+#EXTINF:-1,AR - Ennahar Algerie
+http://andrtviptv.jan-beryan.giize.com/989.m3u8
+#EXTINF:-1,AR - Dzair Jannah
+http://andrtviptv.jan-beryan.giize.com/991.m3u8
+#EXTINF:-1,AR - Dzair TV
+http://andrtviptv.jan-beryan.giize.com/980.m3u8
+#EXTINF:-1,AR - TV Coran
+http://andrtviptv.jan-beryan.giize.com/994.m3u8
+#EXTINF:-1,AR - Al Anis TV
+http://andrtviptv.jan-beryan.giize.com/1159.m3u8
+#EXTINF:-1,AR - Al Magharibia
+http://andrtviptv.jan-beryan.giize.com/1017.m3u8
+#EXTINF:-1,AR - Al Magharibia 2
+http://andrtviptv.jan-beryan.giize.com/1018.m3u8
+#EXTINF:-1,AR - Bahia TV
+http://andrtviptv.jan-beryan.giize.com/1149.m3u8
+#EXTINF:-1,AR - Beur TV
+http://andrtviptv.jan-beryan.giize.com/988.m3u8
+#EXTINF:-1,AR - TV Tamazicht
+http://andrtviptv.jan-beryan.giize.com/995.m3u8
+#EXTINF:-1,AR - Berbere Jeunesse
+http://andrtviptv.jan-beryan.giize.com/2961.m3u8
+#EXTINF:-1,AR - Berbere Music
+http://andrtviptv.jan-beryan.giize.com/2962.m3u8
+#EXTINF:-1,AR - Berbere TV
+http://andrtviptv.jan-beryan.giize.com/2960.m3u8
+#EXTINF:-1,AR - CNA
+http://andrtviptv.jan-beryan.giize.com/3885.m3u8
+#EXTINF:-1,AR - Dzair 24
+http://andrtviptv.jan-beryan.giize.com/3641.m3u8
+#EXTINF:-1,AR - Dzair 3
+http://andrtviptv.jan-beryan.giize.com/3636.m3u8
