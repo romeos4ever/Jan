@@ -5,25 +5,52 @@
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
 http://www.lengua.com/anthems/Syria.mp3
-#EXTINF:-1,AR - Syria Drama
-http://andrtviptv.jan-beryan.giize.com/1133.m3u8
-#EXTINF:-1,AR - Syria Education
-http://andrtviptv.jan-beryan.giize.com/1134.m3u8
-#EXTINF:-1,AR - Al Ekhbariya Al Soriya
-http://andrtviptv.jan-beryan.giize.com/1136.m3u8
-#EXTINF:-1,AR - Syria TV
-http://andrtviptv.jan-beryan.giize.com/2232.m3u8
-#EXTINF:-1,AR - Sama TV
-http://andrtviptv.jan-beryan.giize.com/3042.m3u8
-#EXTINF:-1,AR - Noor Al Sham
-http://andrtviptv.jan-beryan.giize.com/3592.m3u8
-#EXTINF:-1,AR - Orient TV
-http://andrtviptv.jan-beryan.giize.com/4287.m3u8
-#EXTINF:-1,AR - Seevii Aloula
-http://andrtviptv.jan-beryan.giize.com/4286.m3u8
-#EXTINF:-1,AR - Seevii Documentary
-http://andrtviptv.jan-beryan.giize.com/4284.m3u8
-#EXTINF:-1,AR - Seevii Drama
-http://andrtviptv.jan-beryan.giize.com/4283.m3u8
-#EXTINF:-1,AR - Seevii Shamia
-http://andrtviptv.jan-beryan.giize.com/4285.m3u8
+#EXTINF:-1,sama syria
+https://cdn.arabcast.tv/hls/channel36/channel36.m3u8
+#EXTINF:-1,syria 
+https://cdn.arabcast.tv/hls/channel35/channel35.m3u8
+#EXTINF:-1,noor alsham
+https://cdn.arabcast.tv/hls/channel37/channel37.m3u8
+#EXTINF:-1,Al-Khabar TV
+https://cdnbis.arabcast.tv/hls/channel12/channel12.m3u8
+#EXTINF:-1,Shamna
+https://cdnbis.arabcast.tv/hls/channel17/channel17.m3u8
+#EXTINF:-1,syria drama
+http://ss1tv.ddnsgeek.com/hls/channel41/channel41.m3u8
+#EXTINF:-1,alminber
+http://itats.dynv6.net:1935/live/alminbar/playlist.m3u8
+#EXTINF:-1,nabd syria
+http://itats.dynv6.net:1935/live/nabd/playlist.m3u8
+#EXTINF:-1,Qamishlo
+http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8
+#EXTINF:-1,alminber
+http://edns.casacam.net:1935/live/alminbar/playlist.m3u8
+#EXTINF:-1,nabd syria
+http://edns.casacam.net:1935/live/nabd/playlist.m3u8
+#EXTINF:-1,Qamishlo
+http://edns.casacam.net:1935/live/Qamishlo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" group-title="SYRIA",Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1,Halab-Today
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8?v=1558393494
+#EXTINF:-1,sama tv
+http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1558393494
+#EXTINF:-1,DORAR TV
+http://de.live.net.sa:1935/live/dorar/gmswf.m3u8?v=1558393494
+#EXTINF:-1,syria drama
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=syria_drama&t=ar
+#EXTINF:-1,Syria news
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1,Syria_ugarit
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1,Orient
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
+#EXTINF:-1,nabdsyria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+
+
+
