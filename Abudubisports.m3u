@@ -1,26 +1,24 @@
 
 #EXTINF:-1,======دقة عالية========
 https://adtv.ercdn.net/adsport1/adsport1.m3u8?st=zkieYglisw8P6WJZs0NMoQ&e=1504649339
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AD SPORTS 1HD
-http://emp11111.jan-beryan.giize.com/5663.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AD SPORTS 2HD
-http://emp11111.jan-beryan.giize.com/5664.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AD SPORTS 3HD
-http://emp11111.jan-beryan.giize.com/5665.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AD SPORTS 4HD
-http://emp11111.jan-beryan.giize.com/5666.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AD SPORTS 5HD
-http://emp11111.jan-beryan.giize.com/5667.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
-#EXTINF:-1,AD SPORTS 6HD
-http://emp11111.jan-beryan.giize.com/5668.ts
-
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1467.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1468.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1469.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1470.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1471.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1472.ts
 
 
 #EXTINF:-1,AD Sports 1HD
@@ -39,17 +37,3 @@ http://iptv.live-plus.info:1989/AD-SPORT5/index.m3u8
 
 
 
-
-
-#EXTINF:-1,VIP: OSN Abu Dhabi Sports 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/112.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIP: OSN Abu Dhabi Sports 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/111.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIP: OSN Abu Dhabi Sports 3 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/110.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIP: OSN Abu Dhabi Sports 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/109.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIP: OSN Abu Dhabi Sports 5 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/108.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIP: OSN Abu Dhabi Sports 6 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/107.m3u8$http-refferer=http://localhost
