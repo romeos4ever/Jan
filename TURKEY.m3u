@@ -8,244 +8,415 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",~ Turkey TV ~
 http://www.lengua.com/anthems/Turkey.mp3
 
-
-
-#EXTINF:-1 tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY",Dream TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.trtbelgesel.net.tr/fotograf/makaleler/1-yeni-donem-basin-bulteni-20150404-141137-trtbelgesel-makaleler_270x198.jpg" group-title="TURKEY",TRT Belgesel
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="TURKEY",TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="TURKEY",TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="TURKEY",TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.22.45/a778abff5363462182f7a3bd5a87f259.png" group-title="TURKEY",TRT Okul
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.tvyayinakisi.com/kanallar/b/trt_1.png" tvg-name="trt 1 hd"  group-title="TURKEY",trt 1 hd
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://telaffuzz.com/wp-content/uploads/2015/04/trtarap.jpg" tvg-name="TRTARAPCA"  group-title="TURKEY",TRTARAPCA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ"  group-title="TURKEY",TRT AVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL"  group-title="TURKEY",TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK"  group-title="TURKEY",TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 tvg-name="TRT DIYANET"  group-title="TURKEY",TRT DIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:-1 tvg-name="TRT HABER HD"  group-title="TURKEY",TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-name="TRT MUZIK"  group-title="TURKEY",TRT MUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-name="TRT OKUL"  group-title="TURKEY",TRT OKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:-1 tvg-name="TRTTurk"  group-title="TURKEY",TRTTurk
-http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/master.m3u8
-#EXTINF:-1 tvg-name="TRT WORLD"  group-title="TURKEY",TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-name="kanal D"  group-title="TURKEY",kanal D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="kanal D yedek"  group-title="TURKEY",kanal D yedek
-http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1 tvg-name="Tv 2"  group-title="TURKEY",Tv 2
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1 tvg-name="kanal 24"  group-title="TURKEY",kanal 24
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1 tvg-name="kanalben"  group-title="TURKEY",kanalben
-http://kanalben.cubecdn.net/live/kanalben1.m3u8
-#EXTINF:-1 tvg-name="kanalben"  group-title="TURKEY",kanal t
-rtmp://www.kanalt.com.tr/live/_definst_/kanalt
-#EXTINF:-1 tvg-name="semer kand"  group-title="TURKEY",semer kand
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1 tvg-name="yasin tv"  group-title="TURKEY",yasin tv
-http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="MEDINE TV"  group-title="TURKEY",MEDINE TV
-http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="dream turktv"  group-title="TURKEY",dream turktv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="dreamtv"  group-title="TURKEY",dreamtv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE HD"  group-title="TURKEY",NUMBER ONE HD
-http://nr1hls.radyotvonline.com/nr1tv/nr1tv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="NUMBER ONE TURK"  group-title="TURKEY",NUMBER ONE TURK
-http://nr1hls.radyotvonline.com/nr1tv/nr1_turk.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="DOCUMANTARY TR"  group-title="TURKEY",DOCUMANTARY TR
-http://188.165.239.200:7088/
-#EXTINF:-1 tvg-name="KANAL TEK"  group-title="TURKEY",KANAL TEK
-http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV"  group-title="TURKEY",SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 100"  group-title="TURKEY",TV 100
-http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
-#EXTINF:-1 tvg-name="VIRGIN TV"  group-title="TURKEY",VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1 tvg-name="star tv"  group-title="TURKEY",star tv
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-name="eurostar"  group-title="TURKEY",eurostar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-name="show max"  group-title="TURKEY",show max
-http://mn-l.mncdn.com:1935//showmax2/master.m3u8
-#EXTINF:-1 tvg-name="show max"  group-title="TURKEY",show max youtube
-https://www.youtube.com/watch?v=DzPDPtxeY2Y
-#EXTINF:-1 tvg-name="showtv"  group-title="TURKEY",showtv
-http://canli2.tvnet.tv.tr/live/smil:showtv.smil/master.m3u8
-#EXTINF:-1 tvg-name="showtv"  group-title="TURKEY",showtv
-http://canli2.tvnet.tv.tr/live/smil:showtv.smil/master.m3u8
-#EXTINF:-1 tvg-name="TV8"  group-title="TURKEY",TV8
-http://yayin8.canlitv.com:1935/tv8/tv8/master.m3u8
-#EXTINF:-1 tvg-name="TV8"  group-title="TURKEY",TV8
-http://yayin8.canlitv.com:1935/tv8/tv8/playlist.m3u8
-#EXTINF:-1 tvg-name="Tv 2"  group-title="TURKEY",Tv 2
-https://live.dogannet.tv/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1 tvg-name="sinema1"  group-title="TURKEY",sinema1
-mmsh://50.7.93.114:80/sinema1/playlist.m3u8
-#EXTINF:-1 tvg-name="sinema2"  group-title="TURKEY",sinema2
-mmsh://50.7.93.114:80/sinema2/playlist.m3u8
-#EXTINF:-1 tvg-name="sinema 3"  group-title="TURKEY",sinema 3
-mmsh://50.7.93.114:80/sinema3/playlist.m3u8
-#EXTINF:-1 tvg-name="sinema 4"  group-title="TURKEY",sinema 4
-mmsh://50.7.93.114:80/sinema4/playlist.m3u8
-#EXTINF:-1 tvg-name="sinema 5"  group-title="TURKEY",sinema 5
-mmsh://50.7.93.114:80/sinema5/playlist.m3u8
-#EXTINF:-1 tvg-name="fortuna tv"  group-title="TURKEY",fortuna tv
-http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="fil tv"  group-title="TURKEY",fil tv
-http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="tv 4"  group-title="TURKEY",tv 4
-http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",brt tv
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",flashtv
-rtmp://184.173.181.2:1935/8158/8158
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",kanal 38
-http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",maltaya
-http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",alanya tv
-rtmp://stream2.taksimbilisim.com/alanyatv/bant1
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",mersin tv
-rtmp://ms.n1.tvkur.noccdn.com/cdn/558833d1d1a37
-#EXTINF:-1 tvg-name="360 sky tv"  group-title="TURKEY",360 sky tv
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK"  group-title="TURKEY",TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 tvg-name="cnn turk"  group-title="TURKEY",cnn turk
-https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/index.m3u8
-#EXTINF:-1 tvg-name="cnnturk"  group-title="TURKEY",cnnturk
-http://media.netd.com.tr/s2/hls_live/cnn_turk/index.m3u8
-#EXTINF:-1 tvg-name="Planet cocuk"  group-title="TURKEY",Planet cocuk
-https://ams.tvizlehd.com/live/planetcocuk/playlist.m3u8
-#EXTINF:-1 tvg-name="Planet cocuk"  group-title="TURKEY",Planet cocuk Backup
-http://62.210.180.24/7/RMDs4CMA/61647/mot9f9j/15018/NMF4zUW/planetcocuk.m3u8
-#EXTINF:-1 tvg-name="Kanal B"  group-title="TURKEY",Kanal B
-rtmp://212.174.233.129/livepkgr/mylivestream
-#EXTINF:-1 tvg-name="Kanal A"  group-title="TURKEY",Kanal A
-https://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG HT"  group-title="TURKEY",BLOOMBERG HT
-http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8
-#EXTINF:-1 tvg-name="aksu tv"  group-title="TURKEY",aksu tv
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="kapadokyatv"  group-title="TURKEY",kapadokyatv
-http://yayin3.canlitv.com:1935/live/kapadokyatv/playlist.m3u8
-#EXTINF:-1 tvg-name="VUSLAT TV"  group-title="TURKEY",VUSLAT TV
-http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-#EXTINF:-1 tvg-name="Tv kayseri"  group-title="TURKEY",Tv kayseri
-rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
-#EXTINF:-1 tvg-name="tv 2000"  group-title="TURKEY",tv 2000
-rtmp://stream.taksimbilisim.com/tv2000/bant1
-#EXTINF:-1 tvg-name="TV 52"  group-title="TURKEY",TV 52
-rtmp://stream.taksimbilisim.com/tv52/bant1
-#EXTINF:-1 tvg-name="Tv 41"  group-title="TURKEY",Tv 41
-rtmp://stream.taksimbilisim.com/tv41/bant1
-#EXTINF:-1 tvg-name="Rumeli tv"  group-title="TURKEY",Rumeli tv
-http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",TV10
-rtmp://5.135.142.60:1935/tv10/xetero
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",arttv
-rtmp://159.253.44.101/arttv/arttv
-#EXTINF:-1 tvg-name=""  group-title="TURKEY",batiyakasi
-http://s02.vidpanel.com/batiyakasi/batiyakasi.m3u8
-#EXTINF:-1 tvg-name="TV10"  group-title="TURKEY",BOZTEPE TV
-http://stream.taksimbilisim.com:1935/btv/smil:btv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV10"  group-title="TURKEY",Aile
-rtmp://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2
-#EXTINF:-1 tvg-name="TARSUS G?Ãƒâ€šÃ‚Â¼NEY TV"  group-title="TURKEY",TARSUS G?Ãƒâ€šÃ‚Â¼NEY TV
-rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
-#EXTINF:-1 tvg-name="SIVAS SRT TV"  group-title="TURKEY",SIVAS SRT TV
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-#EXTINF:-1 tvg-name="MERSIN SUN TV"  group-title="TURKEY",MERSIN SUN TV
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-#EXTINF:-1 tvg-name="M-TV AZ"  group-title="TURKEY",M-TV AZ
-rtmp://85.132.78.6:1935/live/muztv.stream
-#EXTINF:-1 tvg-name="AHITV"  group-title="TURKEY",AHITV
-http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV"  group-title="TURKEY",NTV
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-name="ULUSAL KANAL"  group-title="TURKEY",ULUSAL KANAL
-rtmp://184.173.181.2/8132//8132
-#EXTINF:-1 tvg-name="Tgrt Haber"  group-title="TURKEY",Tgrt Haber
-rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1
-#EXTINF:-1 tvg-name="BEYAZ TV"  group-title="TURKEY",BEYAZ TV
-rtmp://37.77.31.3/liveedge/BEYAZTVMQ
-#EXTINF:-1 tvg-name="kanal urfa"  group-title="TURKEY",kanal urfa
-rtmp://stream.taksimbilisim.com/kanalurfa//bant1
-#EXTINF:-1 tvg-name="Bursa spor"  group-title="TURKEY",Bursa spor
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1 tvg-name="dost tv"  group-title="TURKEY",dost tv
-http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
-#EXTINF:-1 tvg-name="Ful TV"  group-title="TURKEY",Ful TV
-http://yayin3.canlitv.com:1935/canlitv/nevtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Istanbul TV"  group-title="TURKEY",Istanbul TV
-https://istimeglb.mediatriple.net//webtv/webtv_wowza1/Playlist.m3u8
-#EXTINF:-1 tvg-name="GAZI TV"  group-title="TURKEY",GAZI TV
-http://www.arkumedia.com:1935/gazitv/gazitv/playlist.m3u8
-#EXTINF:-1 tvg-name="buyuk sivas tv"  group-title="TURKEY",buyuk sivas tv
-http://yayin3.canlitv.com:1935/canlitv/buyuksivastv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL A2"  group-title="TURKEY",KANAL A2
-http://yayin8.canlitv.com:1935/live/a2/playlist.m3u8
+#EXTINF:-1,TR - TRT 1 HD
+http://andrtviptv.jan-beryan.giize.com/3524.m3u8
+#EXTINF:-1,TR - TRT 1 HD plus
+http://andrtviptv.jan-beryan.giize.com/3525.m3u8
+#EXTINF:-1,TR - TRT 1 EU HD plus
+http://andrtviptv.jan-beryan.giize.com/3523.m3u8
+#EXTINF:-1,TR - TRT TÜRK
+http://andrtviptv.jan-beryan.giize.com/3522.m3u8
+#EXTINF:-1,TR - Atv HD plus
+http://andrtviptv.jan-beryan.giize.com/3546.m3u8
+#EXTINF:-1,TR - Atv HD
+http://andrtviptv.jan-beryan.giize.com/3545.m3u8
+#EXTINF:-1,TR - Kanal D HD plus
+http://andrtviptv.jan-beryan.giize.com/3544.m3u8
+#EXTINF:-1,TR - Kanal D HD
+http://andrtviptv.jan-beryan.giize.com/3543.m3u8
+#EXTINF:-1,TR - Star HD plus
+http://andrtviptv.jan-beryan.giize.com/3542.m3u8
+#EXTINF:-1,TR - Star HD
+http://andrtviptv.jan-beryan.giize.com/3541.m3u8
+#EXTINF:-1,TR - Show HD plus
+http://andrtviptv.jan-beryan.giize.com/3534.m3u8
+#EXTINF:-1,TR - Show HD
+http://andrtviptv.jan-beryan.giize.com/3533.m3u8
+#EXTINF:-1,TR - Show Max
+http://andrtviptv.jan-beryan.giize.com/3532.m3u8
+#EXTINF:-1,TR - TV 8 HD plus
+http://andrtviptv.jan-beryan.giize.com/3538.m3u8
+#EXTINF:-1,TR - TV 8 HD
+http://andrtviptv.jan-beryan.giize.com/3537.m3u8
+#EXTINF:-1,TR - Teve 2 HD plus
+http://andrtviptv.jan-beryan.giize.com/3529.m3u8
+#EXTINF:-1,TR - Fox HD
+http://andrtviptv.jan-beryan.giize.com/3539.m3u8
+#EXTINF:-1,TR - Fox HD plus
+http://andrtviptv.jan-beryan.giize.com/3540.m3u8
+#EXTINF:-1,TR - TV 8.5 HD plus
+http://andrtviptv.jan-beryan.giize.com/3536.m3u8
+#EXTINF:-1,TR - TV 8.5 HD
+http://andrtviptv.jan-beryan.giize.com/3535.m3u8
+#EXTINF:-1,TR - Beyaz HD plus
+http://andrtviptv.jan-beryan.giize.com/3528.m3u8
+#EXTINF:-1,TR - Kanal 7 HD
+http://andrtviptv.jan-beryan.giize.com/3530.m3u8
+#EXTINF:-1,TR - Kanal 7 HD plus
+http://andrtviptv.jan-beryan.giize.com/3531.m3u8
+#EXTINF:-1,TR - A2 HD plus
+http://andrtviptv.jan-beryan.giize.com/3526.m3u8
+#EXTINF:-1,TR - Flash TV
+http://andrtviptv.jan-beryan.giize.com/3512.m3u8
+#EXTINF:-1,TR - Kanal A HD plus
+http://andrtviptv.jan-beryan.giize.com/3527.m3u8
+#EXTINF:-1,TR - Kanal Avrupa
+http://andrtviptv.jan-beryan.giize.com/3516.m3u8
+#EXTINF:-1,(|TR| FILMLER |TR|)
+http://andrtviptv.jan-beryan.giize.com/5342.m3u8
+#EXTINF:-1,TR - Bein Box Office 1 HD
+http://andrtviptv.jan-beryan.giize.com/3367.m3u8
+#EXTINF:-1,TR - Bein Box Office 2 HD
+http://andrtviptv.jan-beryan.giize.com/3366.m3u8
+#EXTINF:-1,TR - Bein Box Office 3 HD
+http://andrtviptv.jan-beryan.giize.com/3365.m3u8
+#EXTINF:-1,TR - Bein Movies Türk
+http://andrtviptv.jan-beryan.giize.com/3386.m3u8
+#EXTINF:-1,TR - Filmbox Drama HD
+http://andrtviptv.jan-beryan.giize.com/3385.m3u8
+#EXTINF:-1,TR - Filmbox Komedi HD
+http://andrtviptv.jan-beryan.giize.com/3384.m3u8
+#EXTINF:-1,TR - Filmbox Adrenalin HD
+http://andrtviptv.jan-beryan.giize.com/3383.m3u8
+#EXTINF:-1,TR - Filmbox Aile HD
+http://andrtviptv.jan-beryan.giize.com/3382.m3u8
+#EXTINF:-1,TR - Filmbox Turk HD
+http://andrtviptv.jan-beryan.giize.com/3381.m3u8
+#EXTINF:-1,TR - Filmbox Yesilcam HD
+http://andrtviptv.jan-beryan.giize.com/3380.m3u8
+#EXTINF:-1,TR - Filmbox Aksiyon HD
+http://andrtviptv.jan-beryan.giize.com/3379.m3u8
+#EXTINF:-1,TR - Filmbox Aksiyon 2 HD
+http://andrtviptv.jan-beryan.giize.com/3378.m3u8
+#EXTINF:-1,TR - Filmbox Premier HD
+http://andrtviptv.jan-beryan.giize.com/3377.m3u8
+#EXTINF:-1,TR - Filmbox Premier 2 HD
+http://andrtviptv.jan-beryan.giize.com/3376.m3u8
+#EXTINF:-1,TR - Filmbox Bilimkurgu HD
+http://andrtviptv.jan-beryan.giize.com/3375.m3u8
+#EXTINF:-1,TR - Filmbox Korku HD
+http://andrtviptv.jan-beryan.giize.com/3374.m3u8
+#EXTINF:-1,TR - Filmbox Fantastik HD
+http://andrtviptv.jan-beryan.giize.com/3373.m3u8
+#EXTINF:-1,TR - Sinema TV HD
+http://andrtviptv.jan-beryan.giize.com/3372.m3u8
+#EXTINF:-1,TR - Sinema TV 1001 HD
+http://andrtviptv.jan-beryan.giize.com/3371.m3u8
+#EXTINF:-1,TR - Sinema TV Aile HD
+http://andrtviptv.jan-beryan.giize.com/3370.m3u8
+#EXTINF:-1,TR - Sinema TV Aksiyon HD
+http://andrtviptv.jan-beryan.giize.com/3369.m3u8
+#EXTINF:-1,TR - Sinema TV 2 HD
+http://andrtviptv.jan-beryan.giize.com/3368.m3u8
+#EXTINF:-1,TR - Loca 2 HD plus
+http://andrtviptv.jan-beryan.giize.com/3364.m3u8
+#EXTINF:-1,TR - Loca 3 HD plus
+http://andrtviptv.jan-beryan.giize.com/3363.m3u8
+#EXTINF:-1,(|TR| SPOR |TR|)
+http://andrtviptv.jan-beryan.giize.com/5343.m3u8
+#EXTINF:-1,TR - Bein Sports 1 HD
+http://andrtviptv.jan-beryan.giize.com/3362.m3u8
+#EXTINF:-1,TR - Bein Sports 2 HD
+http://andrtviptv.jan-beryan.giize.com/3361.m3u8
+#EXTINF:-1,TR - Bein Sports 3 HD
+http://andrtviptv.jan-beryan.giize.com/3360.m3u8
+#EXTINF:-1,TR - Bein Sports 4 HD
+http://andrtviptv.jan-beryan.giize.com/3359.m3u8
+#EXTINF:-1,TR - Bein Sport 1 HD²
+http://andrtviptv.jan-beryan.giize.com/3557.m3u8
+#EXTINF:-1,TR - Bein Sport 2 HD²
+http://andrtviptv.jan-beryan.giize.com/3558.m3u8
+#EXTINF:-1,TR - Bein Sport 3 HD²
+http://andrtviptv.jan-beryan.giize.com/3559.m3u8
+#EXTINF:-1,TR - Bein Sport 4 HD²
+http://andrtviptv.jan-beryan.giize.com/3560.m3u8
+#EXTINF:-1,TR - Bein Max 1 HD
+http://andrtviptv.jan-beryan.giize.com/3825.m3u8
+#EXTINF:-1,TR - Bein Max 2 HD
+http://andrtviptv.jan-beryan.giize.com/3826.m3u8
+#EXTINF:-1,TR - Smart Spor HD
+http://andrtviptv.jan-beryan.giize.com/3354.m3u8
+#EXTINF:-1,TR - Smart Spor 2 HD
+http://andrtviptv.jan-beryan.giize.com/3353.m3u8
+#EXTINF:-1,TR - Sports TV
+http://andrtviptv.jan-beryan.giize.com/3466.m3u8
+#EXTINF:-1,TR - Tivibu Spor 1 HD
+http://andrtviptv.jan-beryan.giize.com/3358.m3u8
+#EXTINF:-1,TR - Tivibu Spor 2 HD
+http://andrtviptv.jan-beryan.giize.com/3357.m3u8
+#EXTINF:-1,TR - Tivibu Spor 3 HD
+http://andrtviptv.jan-beryan.giize.com/3356.m3u8
+#EXTINF:-1,TR - Tivibu Spor 4 HD
+http://andrtviptv.jan-beryan.giize.com/3355.m3u8
+#EXTINF:-1,TR - NTV Spor HD plus
+http://andrtviptv.jan-beryan.giize.com/3468.m3u8
+#EXTINF:-1,TR - TRT Spor HD plus
+http://andrtviptv.jan-beryan.giize.com/3467.m3u8
+#EXTINF:-1,TR - A Spor HD plus
+http://andrtviptv.jan-beryan.giize.com/3469.m3u8
+#EXTINF:-1,(|TR| BELGESELLER |TR|)
+http://andrtviptv.jan-beryan.giize.com/5344.m3u8
+#EXTINF:-1,TR - Ngc HD
+http://andrtviptv.jan-beryan.giize.com/3393.m3u8
+#EXTINF:-1,TR - Ngc Wild HD plus
+http://andrtviptv.jan-beryan.giize.com/3392.m3u8
+#EXTINF:-1,TR - Ngc People HD
+http://andrtviptv.jan-beryan.giize.com/3391.m3u8
+#EXTINF:-1,TR - Discovery Channel HD plus
+http://andrtviptv.jan-beryan.giize.com/3397.m3u8
+#EXTINF:-1,TR - Discovery Science HD
+http://andrtviptv.jan-beryan.giize.com/3396.m3u8
+#EXTINF:-1,TR - Discovery ID HD
+http://andrtviptv.jan-beryan.giize.com/3394.m3u8
+#EXTINF:-1,TR - Discovery Showcase HD plus
+http://andrtviptv.jan-beryan.giize.com/3395.m3u8
+#EXTINF:-1,TR - Animal Planet HD
+http://andrtviptv.jan-beryan.giize.com/3390.m3u8
+#EXTINF:-1,TR - Bein IZ HD
+http://andrtviptv.jan-beryan.giize.com/3387.m3u8
+#EXTINF:-1,TR - History Channel HD
+http://andrtviptv.jan-beryan.giize.com/3389.m3u8
+#EXTINF:-1,TR - Planet Mutfak
+http://andrtviptv.jan-beryan.giize.com/3506.m3u8
+#EXTINF:-1,TR - Planet Turk
+http://andrtviptv.jan-beryan.giize.com/3492.m3u8
+#EXTINF:-1,TR - Bein Gürme HD
+http://andrtviptv.jan-beryan.giize.com/3388.m3u8
+#EXTINF:-1,TR - TRT Belgesel HD plus
+http://andrtviptv.jan-beryan.giize.com/3497.m3u8
+#EXTINF:-1,TR - TRT Diyanet
+http://andrtviptv.jan-beryan.giize.com/3444.m3u8
+#EXTINF:-1,TR - Hilal TV
+http://andrtviptv.jan-beryan.giize.com/3437.m3u8
+#EXTINF:-1,TR - Dost TV
+http://andrtviptv.jan-beryan.giize.com/3436.m3u8
+#EXTINF:-1,TR - TLC
+http://andrtviptv.jan-beryan.giize.com/3519.m3u8
+#EXTINF:-1,(|TR| MÜZIK |TR|)
+http://andrtviptv.jan-beryan.giize.com/5345.m3u8
+#EXTINF:-1,TR - NR 1 HD plus
+http://andrtviptv.jan-beryan.giize.com/3446.m3u8
+#EXTINF:-1,TR - TRT OKUL
+http://andrtviptv.jan-beryan.giize.com/3520.m3u8
+#EXTINF:-1,TR - Kral TV
+http://andrtviptv.jan-beryan.giize.com/3456.m3u8
+#EXTINF:-1,TR - Kral POP
+http://andrtviptv.jan-beryan.giize.com/3455.m3u8
+#EXTINF:-1,TR - Dream TV
+http://andrtviptv.jan-beryan.giize.com/3452.m3u8
+#EXTINF:-1,TR - Dream TÜRK
+http://andrtviptv.jan-beryan.giize.com/3451.m3u8
+#EXTINF:-1,TR - TRT Muzik
+http://andrtviptv.jan-beryan.giize.com/3457.m3u8
+#EXTINF:-1,(|TR| ÇOCUKLAR |TR|)
+http://andrtviptv.jan-beryan.giize.com/5346.m3u8
+#EXTINF:-1,TR - TRT Çocuk HD plus
+http://andrtviptv.jan-beryan.giize.com/3463.m3u8
+#EXTINF:-1,TR - Disney Channel
+http://andrtviptv.jan-beryan.giize.com/3461.m3u8
+#EXTINF:-1,TR - Cartoon Network
+http://andrtviptv.jan-beryan.giize.com/3462.m3u8
+#EXTINF:-1,TR - Planet Çocuk
+http://andrtviptv.jan-beryan.giize.com/3460.m3u8
+#EXTINF:-1,TR - Minika Go
+http://andrtviptv.jan-beryan.giize.com/3459.m3u8
+#EXTINF:-1,TR - Minika Çocuk
+http://andrtviptv.jan-beryan.giize.com/3458.m3u8
+#EXTINF:-1,(|TR| HABERLER |TR|)
+http://andrtviptv.jan-beryan.giize.com/5347.m3u8
+#EXTINF:-1,TR - Haber Turk HD plus
+http://andrtviptv.jan-beryan.giize.com/3488.m3u8
+#EXTINF:-1,TR - TRT Haber HD plus
+http://andrtviptv.jan-beryan.giize.com/3487.m3u8
+#EXTINF:-1,TR - A News HD plus
+http://andrtviptv.jan-beryan.giize.com/3471.m3u8
+#EXTINF:-1,TR - Euro News Turk
+http://andrtviptv.jan-beryan.giize.com/3476.m3u8
+#EXTINF:-1,TR - CNN Turk HD plus
+http://andrtviptv.jan-beryan.giize.com/3489.m3u8
+#EXTINF:-1,TR - TGRT Haber
+http://andrtviptv.jan-beryan.giize.com/3478.m3u8
+#EXTINF:-1,TR - TGRT EU
+http://andrtviptv.jan-beryan.giize.com/3517.m3u8
+#EXTINF:-1,TR - Ulusal Kanal
+http://andrtviptv.jan-beryan.giize.com/3479.m3u8
+#EXTINF:-1,TR - 360 TV HD plus
+http://andrtviptv.jan-beryan.giize.com/3518.m3u8
+#EXTINF:-1,TR - Bloomberg HT HD plus
+http://andrtviptv.jan-beryan.giize.com/3472.m3u8
+#EXTINF:-1,TR - TRT AVAZ
+http://andrtviptv.jan-beryan.giize.com/3521.m3u8
+#EXTINF:-1,TR - Ucan Kus TV
+http://andrtviptv.jan-beryan.giize.com/3515.m3u8
+#EXTINF:-1,TR - Vatan TV
+http://andrtviptv.jan-beryan.giize.com/3514.m3u8
+#EXTINF:-1,TR - Kanal B
+http://andrtviptv.jan-beryan.giize.com/3513.m3u8
+#EXTINF:-1,TR - Cem TV
+http://andrtviptv.jan-beryan.giize.com/3511.m3u8
+#EXTINF:-1,TR - Rumeli TV
+http://andrtviptv.jan-beryan.giize.com/3510.m3u8
+#EXTINF:-1,TR - Tek Rumeli TV
+http://andrtviptv.jan-beryan.giize.com/3509.m3u8
+#EXTINF:-1,TR - Yasam TV
+http://andrtviptv.jan-beryan.giize.com/3508.m3u8
+#EXTINF:-1,TR - Meltem TV
+http://andrtviptv.jan-beryan.giize.com/3505.m3u8
+#EXTINF:-1,TR - TV 4 HD plus
+http://andrtviptv.jan-beryan.giize.com/3504.m3u8
+#EXTINF:-1,TR - TV 5
+http://andrtviptv.jan-beryan.giize.com/3503.m3u8
+#EXTINF:-1,TR - Kanal 5
+http://andrtviptv.jan-beryan.giize.com/3502.m3u8
+#EXTINF:-1,TR - Kanal T
+http://andrtviptv.jan-beryan.giize.com/3501.m3u8
+#EXTINF:-1,TR - Ekin Turk TV
+http://andrtviptv.jan-beryan.giize.com/3500.m3u8
+#EXTINF:-1,TR - TV EM
+http://andrtviptv.jan-beryan.giize.com/3499.m3u8
+#EXTINF:-1,TR - TGRT Belgesel
+http://andrtviptv.jan-beryan.giize.com/3496.m3u8
+#EXTINF:-1,TR - Yaban TV
+http://andrtviptv.jan-beryan.giize.com/3495.m3u8
+#EXTINF:-1,TR - AV TV
+http://andrtviptv.jan-beryan.giize.com/3494.m3u8
+#EXTINF:-1,TR - Sony Channel
+http://andrtviptv.jan-beryan.giize.com/3493.m3u8
+#EXTINF:-1,TR - A Haber HD plus
+http://andrtviptv.jan-beryan.giize.com/3491.m3u8
+#EXTINF:-1,TR - NTV HD plus
+http://andrtviptv.jan-beryan.giize.com/3490.m3u8
+#EXTINF:-1,TR - Ülke TV HD plus
+http://andrtviptv.jan-beryan.giize.com/3486.m3u8
+#EXTINF:-1,TR - TV Net HD plus
+http://andrtviptv.jan-beryan.giize.com/3485.m3u8
+#EXTINF:-1,TR - 24 Haber HD plus
+http://andrtviptv.jan-beryan.giize.com/3484.m3u8
+#EXTINF:-1,TR - Akit TV
+http://andrtviptv.jan-beryan.giize.com/3483.m3u8
+#EXTINF:-1,TR - Akilli TV
+http://andrtviptv.jan-beryan.giize.com/3507.m3u8
+#EXTINF:-1,TR - Arti TV
+http://andrtviptv.jan-beryan.giize.com/3482.m3u8
+#EXTINF:-1,TR - Tele 1
+http://andrtviptv.jan-beryan.giize.com/3481.m3u8
+#EXTINF:-1,TR - Halk TV
+http://andrtviptv.jan-beryan.giize.com/3480.m3u8
+#EXTINF:-1,TR - Bengu Turk
+http://andrtviptv.jan-beryan.giize.com/3477.m3u8
+#EXTINF:-1,TR - Kudus TV
+http://andrtviptv.jan-beryan.giize.com/3475.m3u8
+#EXTINF:-1,TR - Uzay Haber
+http://andrtviptv.jan-beryan.giize.com/3474.m3u8
+#EXTINF:-1,TR - A Para HD plus
+http://andrtviptv.jan-beryan.giize.com/3473.m3u8
+#EXTINF:-1,TR - TRT World HD plus
+http://andrtviptv.jan-beryan.giize.com/3470.m3u8
+#EXTINF:-1,TR - FB TV HD plus
+http://andrtviptv.jan-beryan.giize.com/3465.m3u8
+#EXTINF:-1,TR - Tay TV HD plus
+http://andrtviptv.jan-beryan.giize.com/3464.m3u8
+#EXTINF:-1,TR - NR 1 Turk HD plus
+http://andrtviptv.jan-beryan.giize.com/3453.m3u8
+#EXTINF:-1,TR - Power Turk HD plus
+http://andrtviptv.jan-beryan.giize.com/3454.m3u8
+#EXTINF:-1,TR - Viva TV
+http://andrtviptv.jan-beryan.giize.com/3450.m3u8
+#EXTINF:-1,TR - Milyon TV
+http://andrtviptv.jan-beryan.giize.com/3449.m3u8
+#EXTINF:-1,TR - Mavi Karadeniz
+http://andrtviptv.jan-beryan.giize.com/3448.m3u8
+#EXTINF:-1,TR - Power HD plus
+http://andrtviptv.jan-beryan.giize.com/3447.m3u8
+#EXTINF:-1,TR - AL Quran TV
+http://andrtviptv.jan-beryan.giize.com/3445.m3u8
+#EXTINF:-1,TR - Semerkand TV HD plus
+http://andrtviptv.jan-beryan.giize.com/3443.m3u8
+#EXTINF:-1,TR - Lalegul TV
+http://andrtviptv.jan-beryan.giize.com/3442.m3u8
+#EXTINF:-1,TR - Yasin TV
+http://andrtviptv.jan-beryan.giize.com/3441.m3u8
+#EXTINF:-1,TR - KABE TV
+http://andrtviptv.jan-beryan.giize.com/3440.m3u8
+#EXTINF:-1,TR - MEDİNE TV
+http://andrtviptv.jan-beryan.giize.com/3439.m3u8
+#EXTINF:-1,TR - REHBER TV
+http://andrtviptv.jan-beryan.giize.com/3438.m3u8
+#EXTINF:-1,TR - Bedir TV
+http://andrtviptv.jan-beryan.giize.com/3435.m3u8
+#EXTINF:-1,TR - Berat TV
+http://andrtviptv.jan-beryan.giize.com/3434.m3u8
+#EXTINF:-1,TR - A9 TV
+http://andrtviptv.jan-beryan.giize.com/3433.m3u8
+#EXTINF:-1,TR - Abant TV Bolu
+http://andrtviptv.jan-beryan.giize.com/3432.m3u8
+#EXTINF:-1,TR - Merkez TV Bolu
+http://andrtviptv.jan-beryan.giize.com/3431.m3u8
+#EXTINF:-1,TR - Altas TV Ordu
+http://andrtviptv.jan-beryan.giize.com/3430.m3u8
+#EXTINF:-1,TR - Ordu 52 TV
+http://andrtviptv.jan-beryan.giize.com/3429.m3u8
+#EXTINF:-1,TR - Kon TV Konya
+http://andrtviptv.jan-beryan.giize.com/3428.m3u8
+#EXTINF:-1,TR - Kanal 42 Konya
+http://andrtviptv.jan-beryan.giize.com/3427.m3u8
+#EXTINF:-1,TR - Bursa TV
+http://andrtviptv.jan-beryan.giize.com/3426.m3u8
+#EXTINF:-1,TR - Olay TV Bursa
+http://andrtviptv.jan-beryan.giize.com/3425.m3u8
+#EXTINF:-1,TR - TV Kayseri
+http://andrtviptv.jan-beryan.giize.com/3424.m3u8
+#EXTINF:-1,TR - TV 1 Kayseri
+http://andrtviptv.jan-beryan.giize.com/3423.m3u8
+#EXTINF:-1,TR - Çay TV Rize
+http://andrtviptv.jan-beryan.giize.com/3422.m3u8
+#EXTINF:-1,TR - Yildiz TV Rize
+http://andrtviptv.jan-beryan.giize.com/3421.m3u8
+#EXTINF:-1,TR - Çiftci TV
+http://andrtviptv.jan-beryan.giize.com/3498.m3u8
+#EXTINF:-1,TR - Drt Denizli TV
+http://andrtviptv.jan-beryan.giize.com/3420.m3u8
+#EXTINF:-1,TR - Kanal Firat Elazig
+http://andrtviptv.jan-beryan.giize.com/3419.m3u8
+#EXTINF:-1,TR - Kanal Urfa
+http://andrtviptv.jan-beryan.giize.com/3418.m3u8
+#EXTINF:-1,TR - TV 6 Ankara
+http://andrtviptv.jan-beryan.giize.com/3417.m3u8
+#EXTINF:-1,TR - Pamukkale TV
+http://andrtviptv.jan-beryan.giize.com/3416.m3u8
+#EXTINF:-1,TR - TV 100 Balikesir
+http://andrtviptv.jan-beryan.giize.com/3415.m3u8
+#EXTINF:-1,TR - Kanal 3 Isparta
+http://andrtviptv.jan-beryan.giize.com/3414.m3u8
+#EXTINF:-1,TR - Kackar Karadeniz TV
+http://andrtviptv.jan-beryan.giize.com/3413.m3u8
+#EXTINF:-1,TR - Kanal V Antalya
+http://andrtviptv.jan-beryan.giize.com/3412.m3u8
+#EXTINF:-1,TR - Koza TV Adana
+http://andrtviptv.jan-beryan.giize.com/3411.m3u8
+#EXTINF:-1,TR - TV A Adana
+http://andrtviptv.jan-beryan.giize.com/3410.m3u8
+#EXTINF:-1,TR - Gaziantep Olay TV
+http://andrtviptv.jan-beryan.giize.com/3409.m3u8
+#EXTINF:-1,TR - Kanal 58 Sivas
+http://andrtviptv.jan-beryan.giize.com/3408.m3u8
+#EXTINF:-1,TR - TV 19 Çorum
+http://andrtviptv.jan-beryan.giize.com/3407.m3u8
+#EXTINF:-1,TR - Turkmeneli TV HD plus
+http://andrtviptv.jan-beryan.giize.com/3406.m3u8
+#EXTINF:-1,TR - BRT 1 HD plus
+http://andrtviptv.jan-beryan.giize.com/3405.m3u8
+#EXTINF:-1,TR - BRT 2
+http://andrtviptv.jan-beryan.giize.com/3404.m3u8
+#EXTINF:-1,TR - Kibris TV
+http://andrtviptv.jan-beryan.giize.com/3403.m3u8
+#EXTINF:-1,TR - Kibris Ada TV
+http://andrtviptv.jan-beryan.giize.com/3402.m3u8
+#EXTINF:-1,TR - Kibris Diyalog TV
+http://andrtviptv.jan-beryan.giize.com/3401.m3u8
+#EXTINF:-1,TR - Kanal T Kibris
+http://andrtviptv.jan-beryan.giize.com/3400.m3u8
+#EXTINF:-1,TR - Kibris Genc TV
+http://andrtviptv.jan-beryan.giize.com/3399.m3u8
+#EXTINF:-1,TR - Koy TV
+http://andrtviptv.jan-beryan.giize.com/3398.m3u8
