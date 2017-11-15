@@ -1,35 +1,69 @@
-#EXTINF:-1,AR - Bein Sport 1 HD
-http://andrtviptv.jan-beryan.giize.com/1454.m3u8
-
-#EXTINF:-1,AR - Bein Sport 2 HD
-http://andrtviptv.jan-beryan.giize.com/1455.m3u8
-
-#EXTINF:-1,AR - Bein Sport 3 HD
-http://andrtviptv.jan-beryan.giize.com/1456.m3u8
-
-#EXTINF:-1,AR - Bein Sport 4 HD
-http://andrtviptv.jan-beryan.giize.com/1457.m3u8
-
-#EXTINF:-1,AR - Bein Sport 5 HD
-http://andrtviptv.jan-beryan.giize.com/1458.m3u8
-
-#EXTINF:-1,AR - Bein Sport 6 HD
-http://andrtviptv.jan-beryan.giize.com/1467.m3u8
-
-#EXTINF:-1,AR - Bein Sport 7 HD
-http://andrtviptv.jan-beryan.giize.com/1459.m3u8
-
-#EXTINF:-1,AR - Bein Sport 8 HD
-http://andrtviptv.jan-beryan.giize.com/1460.m3u8
-
-#EXTINF:-1,AR - Bein Sport 9 HD
-http://andrtviptv.jan-beryan.giize.com/1461.m3u8
-
-#EXTINF:-1,AR - Bein Sport 10 HD
-http://andrtviptv.jan-beryan.giize.com/1462.m3u8
-
-#EXTINF:-1,AR - Bein Sport 11 HD
-http://andrtviptv.jan-beryan.giize.com/972.m3u8
-
-#EXTINF:-1,AR - Bein Sport 12 HD
-http://andrtviptv.jan-beryan.giize.com/973.m3u8
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS Global
+http://binkora1.jan-beryan.giize.com/1495.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 1HD
+http://binkora1.jan-beryan.giize.com/1494.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 2HD
+http://binkora1.jan-beryan.giize.com/1493.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD
+http://binkora1.jan-beryan.giize.com/1492.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 4HD
+http://binkora1.jan-beryan.giize.com/1491.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 5HD
+http://binkora1.jan-beryan.giize.com/1490.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 6HD
+http://binkora1.jan-beryan.giize.com/1489.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 7HD
+http://binkora1.jan-beryan.giize.com/1488.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 8HD
+http://binkora1.jan-beryan.giize.com/1487.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 9HD
+http://binkora1.jan-beryan.giize.com/1486.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 10HD
+http://binkora1.jan-beryan.giize.com/1485.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 11HD
+http://binkora1.jan-beryan.giize.com/1484.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 12HD
+http://binkora1.jan-beryan.giize.com/1483.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://binkora1.jan-beryan.giize.com/1454.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://binkora1.jan-beryan.giize.com/1455.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://binkora1.jan-beryan.giize.com/1456.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 04HD Fr
+http://binkora1.jan-beryan.giize.com/1457.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 05HD Fr
+http://binkora1.jan-beryan.giize.com/1458.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 06HD Fr
+http://binkora1.jan-beryan.giize.com/1459.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 07HD Fr
+http://binkora1.jan-beryan.giize.com/1460.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 08HD Fr
+http://binkora1.jan-beryan.giize.com/1461.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 09HD Fr
+http://binkora1.jan-beryan.giize.com/1462.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 10HD Fr
+http://binkora1.jan-beryan.giize.com/1463.ts
