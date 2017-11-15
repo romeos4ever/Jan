@@ -3,17 +3,9 @@
 
 #EXTINF:-1,======BAHRAIN=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,AR - Bahrain sports 1 HD
-http://andrtviptv.jan-beryan.giize.com/3596.m3u8
-#EXTINF:-1,AR - Bahrain sports 2 HD
-http://andrtviptv.jan-beryan.giize.com/3597.m3u8
-#EXTINF:-1,AR - Bahrain TV  HD
-http://andrtviptv.jan-beryan.giize.com/3595.m3u8
-#EXTINF:-1,AR - Bahrain international HD
-http://andrtviptv.jan-beryan.giize.com/3594.m3u8
-#EXTINF:-1,AR - Al Maaref
-http://andrtviptv.jan-beryan.giize.com/1151.m3u8
-#EXTINF:-1,AR - Bahrain International
-http://andrtviptv.jan-beryan.giize.com/1215.m3u8
-#EXTINF:-1,AR - Bahrain Quran
-http://andrtviptv.jan-beryan.giize.com/1268.m3u8
+#EXTINF:-1,AR-BAHRAININTERNATIONAL
+http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_55
+#EXTINF:-1,AR-BAHRAINTV
+http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
+
+
