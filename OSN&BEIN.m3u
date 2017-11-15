@@ -1,11 +1,4 @@
-#EXTINF:-1,AR - Bein Movies 1
-http://andrtviptv.jan-beryan.giize.com/976.m3u8
-#EXTINF:-1,AR - Bein Movies 2
-http://andrtviptv.jan-beryan.giize.com/977.m3u8
-#EXTINF:-1,AR - Bein Movies 3
-http://andrtviptv.jan-beryan.giize.com/978.m3u8
-#EXTINF:-1,AR - Bein Movies 4
-http://andrtviptv.jan-beryan.giize.com/1678.m3u8
+
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
 http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1478.ts
