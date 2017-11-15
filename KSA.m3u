@@ -4,25 +4,89 @@
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",~ KSA TV ~
 http://www.lengua.com/anthems/SaudiArabia.mp3
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 (English)
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" group-title="KSA",Saudi News
-www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
-#EXTINF:-1 tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" group-title="KSA",Saudi Documentary
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="KSA",Masdar TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
-#EXTINF:-1 tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="KSA",Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="KSA",Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="KSA",Rotana Clip
-http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
-http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-
-
+#EXTINF:-1,AR - Saudi 1
+http://andrtviptv.jan-beryan.giize.com/1142.m3u8
+#EXTINF:-1,AR - Saudi 2 HD
+http://andrtviptv.jan-beryan.giize.com/1145.m3u8
+#EXTINF:-1,AR - Saudi 24
+http://andrtviptv.jan-beryan.giize.com/1143.m3u8
+#EXTINF:-1,AR - Saudi Family
+http://andrtviptv.jan-beryan.giize.com/3901.m3u8
+#EXTINF:-1,AR - Al Amaken Drama
+http://andrtviptv.jan-beryan.giize.com/1192.m3u8
+#EXTINF:-1,AR - Saudi Anti Terrorism
+http://andrtviptv.jan-beryan.giize.com/1144.m3u8
+#EXTINF:-1,AR - Saudi Sport
+http://andrtviptv.jan-beryan.giize.com/1250.m3u8
+#EXTINF:-1,AR - Al Sahraa Alabel
+http://andrtviptv.jan-beryan.giize.com/1190.m3u8
+#EXTINF:-1,AR - Al Mergab
+http://andrtviptv.jan-beryan.giize.com/1198.m3u8
+#EXTINF:-1,AR - Al Teeb
+http://andrtviptv.jan-beryan.giize.com/1199.m3u8
+#EXTINF:-1,AR - Masdar TV
+http://andrtviptv.jan-beryan.giize.com/1202.m3u8
+#EXTINF:-1,AR - Cartoon Network
+http://andrtviptv.jan-beryan.giize.com/1270.m3u8
+#EXTINF:-1,AR - Sem Sem TV
+http://andrtviptv.jan-beryan.giize.com/1207.m3u8
+#EXTINF:-1,AR - Aleqtisadiah
+http://andrtviptv.jan-beryan.giize.com/1258.m3u8
+#EXTINF:-1,AR - Nilat TV
+http://andrtviptv.jan-beryan.giize.com/2219.m3u8
+#EXTINF:-1,AR - Saudi Sunnah
+http://andrtviptv.jan-beryan.giize.com/1025.m3u8
+#EXTINF:-1,(ISLAMIC)
+http://andrtviptv.jan-beryan.giize.com/3570.m3u8
+#EXTINF:-1,AR - Al Burhan
+http://andrtviptv.jan-beryan.giize.com/3912.m3u8
+#EXTINF:-1,AR - Al Hayat Tawazon
+http://andrtviptv.jan-beryan.giize.com/3897.m3u8
+#EXTINF:-1,AR - Bin Outhaymine
+http://andrtviptv.jan-beryan.giize.com/3889.m3u8
+#EXTINF:-1,AR - Daawa
+http://andrtviptv.jan-beryan.giize.com/3894.m3u8
+#EXTINF:-1,AR - Safa
+http://andrtviptv.jan-beryan.giize.com/3888.m3u8
+#EXTINF:-1,AR - Tanasoh
+http://andrtviptv.jan-beryan.giize.com/3895.m3u8
+#EXTINF:-1,AR - Iqraa
+http://andrtviptv.jan-beryan.giize.com/1023.m3u8
+#EXTINF:-1,AR - Saudi Quran
+http://andrtviptv.jan-beryan.giize.com/1024.m3u8
+#EXTINF:-1,AR - Resalat Al Islam
+http://andrtviptv.jan-beryan.giize.com/1026.m3u8
+#EXTINF:-1,AR - Al Rahma TV
+http://andrtviptv.jan-beryan.giize.com/1027.m3u8
+#EXTINF:-1,AR - Al Majd 1
+http://andrtviptv.jan-beryan.giize.com/1029.m3u8
+#EXTINF:-1,AR - Al Majd 2
+http://andrtviptv.jan-beryan.giize.com/1028.m3u8
+#EXTINF:-1,AR - Al Majd 3
+http://andrtviptv.jan-beryan.giize.com/2118.m3u8
+#EXTINF:-1,AR - Al Majd 4
+http://andrtviptv.jan-beryan.giize.com/2119.m3u8
+#EXTINF:-1,AR - Al Resala
+http://andrtviptv.jan-beryan.giize.com/1030.m3u8
+#EXTINF:-1,AR - Mecca TV
+http://andrtviptv.jan-beryan.giize.com/1031.m3u8
+#EXTINF:-1,AR - Mta Muslim TV
+http://andrtviptv.jan-beryan.giize.com/1034.m3u8
+#EXTINF:-1,AR - Mta International
+http://andrtviptv.jan-beryan.giize.com/1035.m3u8
+#EXTINF:-1,AR - Al Haqiqa
+http://andrtviptv.jan-beryan.giize.com/1036.m3u8
+#EXTINF:-1,AR - Ahel Al Quran
+http://andrtviptv.jan-beryan.giize.com/1209.m3u8
+#EXTINF:-1,AR - Wesal
+http://andrtviptv.jan-beryan.giize.com/1211.m3u8
+#EXTINF:-1,AR - Al Sirat
+http://andrtviptv.jan-beryan.giize.com/1212.m3u8
+#EXTINF:-1,AR - AlAfasy
+http://andrtviptv.jan-beryan.giize.com/3619.m3u8
+#EXTINF:-1,AR - Alfath Tv
+http://andrtviptv.jan-beryan.giize.com/3618.m3u8
+#EXTINF:-1,AR - Alnoor
+http://andrtviptv.jan-beryan.giize.com/3635.m3u8
+#EXTINF:-1,AR - Jannah
+http://andrtviptv.jan-beryan.giize.com/3617.m3u8
