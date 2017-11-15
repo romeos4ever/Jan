@@ -8,127 +8,121 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 http://www.lengua.com/anthems/Kurdistan.mp3
 
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
-http://84.244.187.12:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="KURDISTAN",NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/nrt2-large.jpg" group-title="KURDISTAN",NRT 2
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/zt6qo9.jpg" group-title="KURDISTAN",Rega TV
-http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/ltrt6_b.png" group-title="KURDISTAN",TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://kurdishdailynews.org/wp-content/uploads/2014/12/tv10-logo.jpg" group-title="KURDISTAN",TV 10
-http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
-http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
-
-
-
-#EXTINF:-1group-title="Kurdish",KRD AMOZHGARY TV
-http://andr-tv3.jan-beryan.giize.com/KRD_AMOZHGARY_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD BABYLON
-http://andr-tv3.jan-beryan.giize.com/KRD_BABYLON.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD CIRA TV
-http://andr-tv3.jan-beryan.giize.com/KRD_CIRA_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD FREEDOM TV
-http://andr-tv3.jan-beryan.giize.com/KRD_FREEDOM_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD KANAL4
-http://andr-tv3.jan-beryan.giize.com/KRD_KANAL4.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD KNN TV
-http://andr-tv3.jan-beryan.giize.com/KRD_KNN_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD KOREK TV
-http://andr-tv3.jan-beryan.giize.com/KRD_KOREK_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD LALISH
-http://andr-tv3.jan-beryan.giize.com/KRD_LALISH.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD NAILA 2 TV
-http://andr-tv3.jan-beryan.giize.com/KRD_NAILA_2_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD NAILA TV
-http://andr-tv3.jan-beryan.giize.com/KRD_NAILA_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD NAILA TV ARABIC
-http://andr-tv3.jan-beryan.giize.com/KRD_NAILA_TV_ARABIC.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD NEWS CHANNEL TV
-http://andr-tv3.jan-beryan.giize.com/KRD_NEWS_CHANNEL_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD PELISTANK
-http://andr-tv3.jan-beryan.giize.com/KRD_PELISTANK.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD Rojava TV
-http://andr-tv3.jan-beryan.giize.com/KRD_Rojava_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD RONAH
-http://andr-tv3.jan-beryan.giize.com/KRD_RONAH.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD RUDAW TV
-http://andr-tv3.jan-beryan.giize.com/KRD_RUDAW_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD SPEDA TV
-http://andr-tv3.jan-beryan.giize.com/KRD_SPEDA_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD UTV HAWLER
-http://andr-tv3.jan-beryan.giize.com/KRD_UTV_HAWLER.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD VIN TV
-http://andr-tv3.jan-beryan.giize.com/KRD_VIN_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD WAAR TV
-http://andr-tv3.jan-beryan.giize.com/KRD_WAAR_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD YOL TV
-http://andr-tv3.jan-beryan.giize.com/KRD_YOL_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KRD ZARGOS TV
-http://andr-tv3.jan-beryan.giize.com/KRD_ZARGOS_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Gali Kurdistan
-http://streamer8715.embratoria.com:9081/hls/gali-kurdistan.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Komala kurd
-http://andr-tv3.jan-beryan.giize.com/hls/komala-kurd.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Med music kurd
-http://andr-tv3.jan-beryan.giize.com/hls/med-music-kurd.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Kurd Max
-http://andr-tv4.jan-beryan.giize.com/hls/kurd-max.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Med nuce kurd
-http://andr-tv2.jan-beryan.giize.com/hls/med-nuce-kurd.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Gali Kurdistan
-http://streamer8715.embratoria.com:9081/hls/gali-kurdistan.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KurdMax Pepule
-http://andr-tv4.jan-beryan.giize.com/hls/mal-kurd-max.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Sahar TV Kurdish
-http://andr-tv3.jan-beryan.giize.com/hls/sahar-tv-kurdish.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Sahar Universal
-http://andr-tv3.jan-beryan.giize.com/hls/sahar-universal.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Sterk Kurd
-http://andr-tv3.jan-beryan.giize.com/hls/sterk-kurd.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",TRT Kurdish
-http://streamer8715.embratoria.com:9081/hls/trt-kurdi.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Kurd Sat
-http://andr-tv2.jan-beryan.giize.com/hls/kurdsat.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Kurdistan
-http://andr-tv2.jan-beryan.giize.com/hls/kurdistan-tv.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",KNN KURDISH
-http://andr-tv4.jan-beryan.giize.com/hls/knn.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Kurdistan 24
-http://streamer8715.embratoria.com:9081/hls/kurdistan24.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish",Das Erste
-http://andr-tv3.jan-beryan.giize.com/hls/das-erste.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"MED NUCE TV
-http://andr-tv3.jan-beryan.giize.com/MED_NUCE_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"MED NUCE
-http://andr-tv3.jan-beryan.giize.com/MED_NUCE.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"MED MUZA
-http://andr-tv3.jan-beryan.giize.com/MED_MUZA.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"NEWROZ TV
-http://andr-tv3.jan-beryan.giize.com/NEWROZ_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"NRT 2
-http://andr-tv3.jan-beryan.giize.com/NRT_2.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"NRT HD
-http://andr-tv3.jan-beryan.giize.com/NRT_HD.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"Ronahi
-http://andr-tv3.jan-beryan.giize.com/Ronahi.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"OZGUR GUN TV
-http://andr-tv3.jan-beryan.giize.com/OZGUR_GUN_TV.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"STERK ZINDI
-http://andr-tv3.jan-beryan.giize.com/STERK_ZINDI.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-#EXTINF:-1group-title="Kurdish"TV 10
-http://andr-tv3.jan-beryan.giize.com/TV_10.m3u8?md5=PxkBolGR6xzHidCDZldtbQ&expires=1508117871
-
-
+#EXTINF:-1,KU - Nrt 1
+http://andrtviptv.jan-beryan.giize.com/2178.m3u8
+#EXTINF:-1,KU - Nrt 2
+http://andrtviptv.jan-beryan.giize.com/2179.m3u8
+#EXTINF:-1,KU - NRT HD
+http://andrtviptv.jan-beryan.giize.com/3847.m3u8
+#EXTINF:-1,KU - NRT 2 HD
+http://andrtviptv.jan-beryan.giize.com/3846.m3u8
+#EXTINF:-1,KU - NRT Arabic
+http://andrtviptv.jan-beryan.giize.com/3875.m3u8
+#EXTINF:-1,KU - Suroyo TV
+http://andrtviptv.jan-beryan.giize.com/2945.m3u8
+#EXTINF:-1,KU - Suryoyo Sat
+http://andrtviptv.jan-beryan.giize.com/1132.m3u8
+#EXTINF:-1,KU - Kurdsat HD
+http://andrtviptv.jan-beryan.giize.com/3865.m3u8
+#EXTINF:-1,KU - Kurdsat News HD
+http://andrtviptv.jan-beryan.giize.com/3864.m3u8
+#EXTINF:-1,KU - Kurdmax HD Kur
+http://andrtviptv.jan-beryan.giize.com/3868.m3u8
+#EXTINF:-1,KU - Kurdmax HD Sor
+http://andrtviptv.jan-beryan.giize.com/3867.m3u8
+#EXTINF:-1,KU - Kurdmax Pepule
+http://andrtviptv.jan-beryan.giize.com/3839.m3u8
+#EXTINF:-1,KU - Kurdmax Show HD
+http://andrtviptv.jan-beryan.giize.com/3866.m3u8
+#EXTINF:-1,KU - Rudaw HD
+http://andrtviptv.jan-beryan.giize.com/2200.m3u8
+#EXTINF:-1,KU - K24
+http://andrtviptv.jan-beryan.giize.com/3860.m3u8
+#EXTINF:-1,KU - Kurdistan 24 HD
+http://andrtviptv.jan-beryan.giize.com/3589.m3u8
+#EXTINF:-1,KU - Kurdistan 24 TV
+http://andrtviptv.jan-beryan.giize.com/2222.m3u8
+#EXTINF:-1,KU - Kurdistan TV
+http://andrtviptv.jan-beryan.giize.com/2225.m3u8
+#EXTINF:-1,KU - Net HD
+http://andrtviptv.jan-beryan.giize.com/3861.m3u8
+#EXTINF:-1,KU - Cira TV
+http://andrtviptv.jan-beryan.giize.com/3590.m3u8
+#EXTINF:-1,KU - Waar TV HD
+http://andrtviptv.jan-beryan.giize.com/3587.m3u8
+#EXTINF:-1,KU - Ronahi TV
+http://andrtviptv.jan-beryan.giize.com/3588.m3u8
+#EXTINF:-1,KU - Waar TV
+http://andrtviptv.jan-beryan.giize.com/3586.m3u8
+#EXTINF:-1,KU - Kurdmax
+http://andrtviptv.jan-beryan.giize.com/2193.m3u8
+#EXTINF:-1,KU - Zagros
+http://andrtviptv.jan-beryan.giize.com/2230.m3u8
+#EXTINF:-1,KU - Kurdsat
+http://andrtviptv.jan-beryan.giize.com/2946.m3u8
+#EXTINF:-1,KU - Kurdsat News
+http://andrtviptv.jan-beryan.giize.com/2947.m3u8
+#EXTINF:-1,KU - Gali Kurdistan
+http://andrtviptv.jan-beryan.giize.com/2948.m3u8
+#EXTINF:-1,KU - Amozhgary TV
+http://andrtviptv.jan-beryan.giize.com/3856.m3u8
+#EXTINF:-1,KU - Aryen TV
+http://andrtviptv.jan-beryan.giize.com/3852.m3u8
+#EXTINF:-1,KU - Badinan TV
+http://andrtviptv.jan-beryan.giize.com/3844.m3u8
+#EXTINF:-1,KU - Bangwaz TV
+http://andrtviptv.jan-beryan.giize.com/3853.m3u8
+#EXTINF:-1,KU - Damla TV
+http://andrtviptv.jan-beryan.giize.com/3872.m3u8
+#EXTINF:-1,KU - GK TV
+http://andrtviptv.jan-beryan.giize.com/3863.m3u8
+#EXTINF:-1,KU - Helhelok TV
+http://andrtviptv.jan-beryan.giize.com/2955.m3u8
+#EXTINF:-1,KU - Helhelok Kids
+http://andrtviptv.jan-beryan.giize.com/3840.m3u8
+#EXTINF:-1,KU - Rojava TV
+http://andrtviptv.jan-beryan.giize.com/3874.m3u8
+#EXTINF:-1,KU - Ishtar TV
+http://andrtviptv.jan-beryan.giize.com/3855.m3u8
+#EXTINF:-1,KU - Kanal 4
+http://andrtviptv.jan-beryan.giize.com/3862.m3u8
+#EXTINF:-1,KU - Kirkuk TV
+http://andrtviptv.jan-beryan.giize.com/3843.m3u8
+#EXTINF:-1,KU - Knn TV
+http://andrtviptv.jan-beryan.giize.com/3857.m3u8
+#EXTINF:-1,KU - Korek TV
+http://andrtviptv.jan-beryan.giize.com/3848.m3u8
+#EXTINF:-1,KU - KTV
+http://andrtviptv.jan-beryan.giize.com/3859.m3u8
+#EXTINF:-1,KU - MED Muzik
+http://andrtviptv.jan-beryan.giize.com/3869.m3u8
+#EXTINF:-1,KU - Minbij TV
+http://andrtviptv.jan-beryan.giize.com/3854.m3u8
+#EXTINF:-1,KU - Medya Haber TV
+http://andrtviptv.jan-beryan.giize.com/3871.m3u8
+#EXTINF:-1,KU - Pelistank TV
+http://andrtviptv.jan-beryan.giize.com/3838.m3u8
+#EXTINF:-1,KU - Qamishlo TV
+http://andrtviptv.jan-beryan.giize.com/3842.m3u8
+#EXTINF:-1,KU - Rega TV
+http://andrtviptv.jan-beryan.giize.com/3845.m3u8
+#EXTINF:-1,KU - Speda TV
+http://andrtviptv.jan-beryan.giize.com/3850.m3u8
+#EXTINF:-1,KU - Sterk TV
+http://andrtviptv.jan-beryan.giize.com/3870.m3u8
+#EXTINF:-1,KU - TRT Kurkdi
+http://andrtviptv.jan-beryan.giize.com/3873.m3u8
+#EXTINF:-1,KU - Vin TV
+http://andrtviptv.jan-beryan.giize.com/3858.m3u8
+#EXTINF:-1,KU - TV
+http://andrtviptv.jan-beryan.giize.com/3849.m3u8
+#EXTINF:-1,KU - Zagros TV
+http://andrtviptv.jan-beryan.giize.com/3851.m3u8
+#EXTINF:-1,KU - Zarok TV
+http://andrtviptv.jan-beryan.giize.com/3841.m3u8
+#EXTINF:-1,KV - Apollon
+http://andrtviptv.jan-beryan.giize.com/931.m3u8
+#EXTINF:-1,KV - Besa TV
+http://andrtviptv.jan-beryan.giize.com/929.m3u8
+#EXTINF:-1,KU - Gem TV
+http://andrtviptv.jan-beryan.giize.com/4047.m3u8
