@@ -2,23 +2,36 @@
 
 #EXTINF:-1,======MOROCO Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",~ Morocco TV ~
-http://www.lengua.com/anthems/Morocco.mp3
-#EXTINF:-1 tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
-http://95.81.155.40/5958/index.m3u8
-#EXTINF:-1,Alaoula Inter
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=alaoulainter
-#EXTINF:-1,Assadissa
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=assadissa
-#EXTINF:-1,2m maroco
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
-#EXTINF:-1,Arriadia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-#EXTINF:-1,Arrabia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arrabiaa
-#EXTINF:-1,Almaghribya
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=almaghribya
-#EXTINF:-1,Tamazight
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=tamazight
-#EXTINF:-1,Medi1_Med
-http://37.48.80.76/live/myStream/gmswf.m3u8?v=1558393494
+http://andrtviptv.jan-beryan.giize.com/3547.m3u8
+#EXTINF:-1,AR - Al Oula HD
+http://andrtviptv.jan-beryan.giize.com/2189.m3u8
+#EXTINF:-1,AR - Arryadia HD Live
+http://andrtviptv.jan-beryan.giize.com/3721.m3u8
+#EXTINF:-1,AR - MEDI1TV AFRIQUE HD
+http://andrtviptv.jan-beryan.giize.com/3599.m3u8
+#EXTINF:-1,AR - Al Oula
+http://andrtviptv.jan-beryan.giize.com/936.m3u8
+#EXTINF:-1,AR - Al Oula Inter
+http://andrtviptv.jan-beryan.giize.com/939.m3u8
+#EXTINF:-1,AR - 2M Maroc
+http://andrtviptv.jan-beryan.giize.com/937.m3u8
+#EXTINF:-1,AR - Arriadia
+http://andrtviptv.jan-beryan.giize.com/940.m3u8
+#EXTINF:-1,AR - Arrabia
+http://andrtviptv.jan-beryan.giize.com/938.m3u8
+#EXTINF:-1,AR - Al Maghribia
+http://andrtviptv.jan-beryan.giize.com/941.m3u8
+#EXTINF:-1,AR - Assadissa
+http://andrtviptv.jan-beryan.giize.com/942.m3u8
+#EXTINF:-1,AR - Assabia
+http://andrtviptv.jan-beryan.giize.com/3299.m3u8
+#EXTINF:-1,AR - Tamazight
+http://andrtviptv.jan-beryan.giize.com/944.m3u8
+#EXTINF:-1,AR - Medi 1 TV
+http://andrtviptv.jan-beryan.giize.com/943.m3u8
+#EXTINF:-1,AR - Chada FM HD
+http://andrtviptv.jan-beryan.giize.com/8508.m3u8
+#EXTINF:-1,AR - Tele Maroc
+http://andrtviptv.jan-beryan.giize.com/3303.m3u8
+#EXTINF:-1,AR - Canal Atlas
+http://andrtviptv.jan-beryan.giize.com/3598.m3u8
