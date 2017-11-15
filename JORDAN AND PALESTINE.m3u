@@ -7,40 +7,46 @@ http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",~ Jordan TV  ~
 http://www.lengua.com/anthems/Jordan.mp3
-#EXTINF:-1,Jordan Tv
-https://cdnbis.arabcast.tv/hls/channel11/channel11.m3u8
-#EXTINF:-1,Jordan Deretna
-https://cdnbis.arabcast.tv/hls/channel13/channel13.m3u8
-#EXTINF:-1,Sama Jordan 
-https://cdnbis.arabcast.tv/hls/channel23/channel23.m3u8
-#EXTINF:-1,Roya Tv
-https://cdnbis.arabcast.tv/hls/channel25/channel25.m3u8
-#EXTINF:-1,Numidia TV
-https://cdnbis.arabcast.tv/hls/channel26/channel26.m3u8
-#EXTINF:-1,Roya
-http://itats.dynv6.net:1935/live/Roya/playlist.m3u8
-#EXTINF:-1,ALordon Alyoom
-http://itats.dynv6.net:1935/live/ALordonAlyoom/playlist.m3u8
-#EXTINF:-1,zarqa today
-http://itats.dynv6.net:1935/live/zarqatoday/playlist.m3u8
-#EXTINF:-1,amn
-http://itats.dynv6.net:1935/live/amn/playlist.m3u8
-#EXTINF:-1,manaseer
-http://itats.dynv6.net:1935/live/manaseer/playlist.m3u8
-#EXTINF:-1,jordan lights
-http://itats.dynv6.net:1935/live/light/playlist.m3u8
-#EXTINF:-1,ALDAWAA alshafy
-http://itats.dynv6.net:1935/live/ALDAWAA/playlist.m3u8
-#EXTINF:-1,josat
-http://itats.dynv6.net:1935/live/josat/playlist.m3u8
-#EXTINF:-1,kife
-http://itats.dynv6.net:1935/live/kifa.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2uer4go.jpg" group-title="JORDAN",Al Taghier
-http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-#EXTINF:-1 tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
-http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-#EXTINF:-1 tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:-1,AR - Jordan HD
+http://andrtviptv.jan-beryan.giize.com/3648.m3u8
+#EXTINF:-1,AR - Roya HD
+http://andrtviptv.jan-beryan.giize.com/3647.m3u8
+#EXTINF:-1,AR - Karameesh
+http://andrtviptv.jan-beryan.giize.com/1052.m3u8
+#EXTINF:-1,AR - Noursat
+http://andrtviptv.jan-beryan.giize.com/1105.m3u8
+#EXTINF:-1,AR - Noursat Al Chabab
+http://andrtviptv.jan-beryan.giize.com/1121.m3u8
+#EXTINF:-1,AR - Zweina Baladna
+http://andrtviptv.jan-beryan.giize.com/1191.m3u8
+#EXTINF:-1,AR - Al Arrab
+http://andrtviptv.jan-beryan.giize.com/1210.m3u8
+#EXTINF:-1,AR - Jordan TV
+http://andrtviptv.jan-beryan.giize.com/1221.m3u8
+#EXTINF:-1,AR - Jordan Sport
+http://andrtviptv.jan-beryan.giize.com/1225.m3u8
+#EXTINF:-1,AR - Jordan Sama
+http://andrtviptv.jan-beryan.giize.com/1224.m3u8
+#EXTINF:-1,AR - Jordan Now
+http://andrtviptv.jan-beryan.giize.com/1223.m3u8
+#EXTINF:-1,AR - Jordan Manaseer
+http://andrtviptv.jan-beryan.giize.com/1230.m3u8
+#EXTINF:-1,AR - Jordan Jood
+http://andrtviptv.jan-beryan.giize.com/1228.m3u8
+#EXTINF:-1,AR - Jordan Amen
+http://andrtviptv.jan-beryan.giize.com/1229.m3u8
+#EXTINF:-1,AR - Jordan Wast Albalad
+http://andrtviptv.jan-beryan.giize.com/1231.m3u8
+#EXTINF:-1,AR - Noor Jordan
+http://andrtviptv.jan-beryan.giize.com/1232.m3u8
+#EXTINF:-1,AR - Jordan Al Hurra
+http://andrtviptv.jan-beryan.giize.com/1244.m3u8
+#EXTINF:-1,AR - Musawa TV
+http://andrtviptv.jan-beryan.giize.com/2135.m3u8
+#EXTINF:-1,AR - ameer al shefaa
+http://andrtviptv.jan-beryan.giize.com/3615.m3u8
+#EXTINF:-1,AR - Jordan Deretna
+http://andrtviptv.jan-beryan.giize.com/3640.m3u8
 
 #EXTINF:-1,======JORDAN AND PALESTINE Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
