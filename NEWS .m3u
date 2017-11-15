@@ -2,26 +2,63 @@
 
 #EXTINF:-1,======NEWS Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
-http://192.99.35.215:5109/stream
-#EXTINF:-1,Al-Jazeera
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index783.m3u8?v=1558393494
-#EXTINF:-1,Al-Arabiya
-http://live.alarabiya.net/alarabiya/myStream_480p/chunklist.m3u8
-#EXTINF:-1,alarabiya hadath
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
-#EXTINF:-1,ALMANAR
-http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
-#EXTINF:-1,Rusiya_Al_Yaum
-http://demo.ashttp9.visionip.tv/live/Rusiya_Al_Yaum-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.image-share.com/upload/3127/124.jpg" group-title="ARABIC NEWS",NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,AR - Al Jazeera HD
+http://andrtviptv.jan-beryan.giize.com/1010.m3u8
+#EXTINF:-1,AR - Al Jazeera English HD
+http://andrtviptv.jan-beryan.giize.com/2226.m3u8
+#EXTINF:-1,AR - Al Jazeera Documentary HD
+http://andrtviptv.jan-beryan.giize.com/2227.m3u8
+#EXTINF:-1,AR - Abu Dhabi Ngc HD
+http://andrtviptv.jan-beryan.giize.com/1860.m3u8
+#EXTINF:-1,AR - Al Araby HD
+http://andrtviptv.jan-beryan.giize.com/1168.m3u8
+#EXTINF:-1,AR - Al Jazeera
+http://andrtviptv.jan-beryan.giize.com/1007.m3u8
+#EXTINF:-1,AR - Al Jazeera Mubasher
+http://andrtviptv.jan-beryan.giize.com/1009.m3u8
+#EXTINF:-1,AR - Al Alam News Channel
+http://andrtviptv.jan-beryan.giize.com/1011.m3u8
+#EXTINF:-1,AR - Sky News Arabia
+http://andrtviptv.jan-beryan.giize.com/1012.m3u8
+#EXTINF:-1,AR - Euro News
+http://andrtviptv.jan-beryan.giize.com/1013.m3u8
+#EXTINF:-1,AR - Al Arabiya
+http://andrtviptv.jan-beryan.giize.com/1014.m3u8
+#EXTINF:-1,AR - Al Arabiya Al Hadath
+http://andrtviptv.jan-beryan.giize.com/1015.m3u8
+#EXTINF:-1,AR - BBC Arabic
+http://andrtviptv.jan-beryan.giize.com/1019.m3u8
+#EXTINF:-1,AR - Al Mayadeen
+http://andrtviptv.jan-beryan.giize.com/1016.m3u8
+#EXTINF:-1,AR - I24 News English HD
+http://andrtviptv.jan-beryan.giize.com/1021.m3u8
+#EXTINF:-1,AR - Rt Arab
+http://andrtviptv.jan-beryan.giize.com/1022.m3u8
+#EXTINF:-1,AR - Ann TV
+http://andrtviptv.jan-beryan.giize.com/1107.m3u8
+#EXTINF:-1,AR - Al Hurra
+http://andrtviptv.jan-beryan.giize.com/1177.m3u8
+#EXTINF:-1,AR - BBC World News
+http://andrtviptv.jan-beryan.giize.com/1259.m3u8
+#EXTINF:-1,AR - France 24
+http://andrtviptv.jan-beryan.giize.com/1261.m3u8
+#EXTINF:-1,AR - Cnbc Arabiya
+http://andrtviptv.jan-beryan.giize.com/1262.m3u8
+#EXTINF:-1,AR - Al Jazeera Documentary
+http://andrtviptv.jan-beryan.giize.com/1008.m3u8
+#EXTINF:-1,AR - Al Jazeera English
+http://andrtviptv.jan-beryan.giize.com/2969.m3u8
+#EXTINF:-1,AR - I24 News French HD
+http://andrtviptv.jan-beryan.giize.com/2973.m3u8
+#EXTINF:-1,AR - Al Manar
+http://andrtviptv.jan-beryan.giize.com/3043.m3u8
+#EXTINF:-1,AR - Al Hiwar HD
+http://andrtviptv.jan-beryan.giize.com/3155.m3u8
+#EXTINF:-1,AR - Al Ghad HD
+http://andrtviptv.jan-beryan.giize.com/3882.m3u8
+#EXTINF:-1,AR - AL Mustakila
+http://andrtviptv.jan-beryan.giize.com/3896.m3u8
+#EXTINF:-1,AR - Kaifa
+http://andrtviptv.jan-beryan.giize.com/4024.m3u8
+#EXTINF:-1,AR - Quest Arabia
+http://andrtviptv.jan-beryan.giize.com/4025.m3u8
