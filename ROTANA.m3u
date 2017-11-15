@@ -4,27 +4,15 @@
 
 #EXTINF:-1,======ROTANA Group=======
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,AR - Rotana
-http://andrtviptv.jan-beryan.giize.com/953.m3u8
-#EXTINF:-1,AR - Rotana Clip
-http://andrtviptv.jan-beryan.giize.com/954.m3u8
-#EXTINF:-1,AR - Rotana Cinema
-http://andrtviptv.jan-beryan.giize.com/955.m3u8
-#EXTINF:-1,AR - Rotana Cinema Ksa
-http://andrtviptv.jan-beryan.giize.com/956.m3u8
-#EXTINF:-1,AR - Rotana Classic
-http://andrtviptv.jan-beryan.giize.com/957.m3u8
-#EXTINF:-1,AR - Rotana Masriya
-http://andrtviptv.jan-beryan.giize.com/958.m3u8
-#EXTINF:-1,AR - Rotana Khalijiah
-http://andrtviptv.jan-beryan.giize.com/959.m3u8
-#EXTINF:-1,AR - Art Aflam 1
-http://andrtviptv.jan-beryan.giize.com/107.m3u8
-#EXTINF:-1,AR - Art Aflam 2
-http://andrtviptv.jan-beryan.giize.com/108.m3u8
-#EXTINF:-1,AR - Art Cinema
-http://andrtviptv.jan-beryan.giize.com/106.m3u8
-#EXTINF:-1,AR - Art Hekayat 1
-http://andrtviptv.jan-beryan.giize.com/102.m3u8
-#EXTINF:-1,AR - Art Hekayat 2
-http://andrtviptv.jan-beryan.giize.com/105.m3u8
+#EXTINF:-1,Rotana aflam
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
+#EXTINF:-1,Rotana cinema
+http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1558492496
+#EXTINF:-1,Rotana classic
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
+#EXTINF:-1,rotana masriya
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_aflam&t=ar
+#EXTINF:-1,Rotana clip
+http://streaming.i-sat.tv:1935/live/rotanaclip/playlist.m3u8
+#EXTINF:-1,Rotana khaligi
+http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=rotana_khaligi&t=ar
