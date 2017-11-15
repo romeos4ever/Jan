@@ -5,31 +5,19 @@
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",~ Libya TV ~
 http://www.lengua.com/anthems/Libya.mp3
-#EXTINF:-1  group-title="libya ",Libya
-https://5925eaffb8639.streamlock.net/live/livestream/playlist.m3u8
-#EXTINF:-1  group-title="libya ",Libya one
-http://82.212.74.2:8000/live/hls/7308.m3u8
-#EXTINF:-1  group-title="libya ",Libya news
-http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
-#EXTINF:-1  group-title="libya ",alnabaa
-http://46.101.172.110:8081/alnabaatv_source/nabaatv/playlist.m3u8
-#EXTINF:-1  group-title="libya ",altanasuh
-http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1 group-title="libya ",Libya 24
-http://54.154.193.37:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="libya ",Libya 218 tv
-http://91.134.145.75/218tv/218tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/msm71t.jpg" group-title="LIBYA",Al Nabaa
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-#EXTINF:-1,Alnabaa tv
-http://46.101.172.110:8081/alnabaatv_source/nabaatv/playlist.m3u8?v=1558393494
-#EXTINF:-1,Libya Elwatan
-http://streaming.i-sat.tv:1935/live/libyaelwatan/gmswf.m3u8?v=1558393494
-#EXTINF:-1,Libya-alhadath
-http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
-#EXTINF:-1,Benghazi_tv
-rtmp://82.212.74.5:1935/live/7624
-
-
+#EXTINF:-1,AR - Libya Panorama HD
+http://andrtviptv.jan-beryan.giize.com/4029.m3u8
+#EXTINF:-1,AR - Naba TV
+http://andrtviptv.jan-beryan.giize.com/1119.m3u8
+#EXTINF:-1,AR - Libya 218
+http://andrtviptv.jan-beryan.giize.com/1234.m3u8
+#EXTINF:-1,AR - Libya One
+http://andrtviptv.jan-beryan.giize.com/1233.m3u8
+#EXTINF:-1,AR - Libya El Marah
+http://andrtviptv.jan-beryan.giize.com/1235.m3u8
+#EXTINF:-1,AR - Libya Al Rsmia
+http://andrtviptv.jan-beryan.giize.com/1236.m3u8
+#EXTINF:-1,AR - Libya 24
+http://andrtviptv.jan-beryan.giize.com/2195.m3u8
+#EXTINF:-1,AR - Libya Today
+http://andrtviptv.jan-beryan.giize.com/2196.m3u8
