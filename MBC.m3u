@@ -2,49 +2,85 @@
 #EXTINF:-1,======MBC Group=======
 http://iptv2.jan-beryan.giize.com/MBC1/index.m3u8
 
-#EXTINF:-1,AR - Mbc 1 HD
-http://andrtviptv.jan-beryan.giize.com/1679.m3u8
-#EXTINF:-1,AR - Mbc 2 HD
-http://andrtviptv.jan-beryan.giize.com/1680.m3u8
-#EXTINF:-1,AR - Mbc 3 HD
-http://andrtviptv.jan-beryan.giize.com/1681.m3u8
-#EXTINF:-1,AR - Mbc 4 HD
-http://andrtviptv.jan-beryan.giize.com/1682.m3u8
-#EXTINF:-1,AR - Mbc Action HD
-http://andrtviptv.jan-beryan.giize.com/2052.m3u8
-#EXTINF:-1,AR - Mbc Max HD
-http://andrtviptv.jan-beryan.giize.com/2051.m3u8
-#EXTINF:-1,AR - Mbc Drama+ HD
-http://andrtviptv.jan-beryan.giize.com/2053.m3u8
-#EXTINF:-1,AR - Mbc Variety HD
-http://andrtviptv.jan-beryan.giize.com/2959.m3u8
-#EXTINF:-1,AR - MBC PRO SPORTS 1 HD
-http://andrtviptv.jan-beryan.giize.com/3600.m3u8
-#EXTINF:-1,AR - MBC PRO SPORTS 2 HD
-http://andrtviptv.jan-beryan.giize.com/3601.m3u8
-#EXTINF:-1,AR - MBC PRO SPORTS 3 HD
-http://andrtviptv.jan-beryan.giize.com/3602.m3u8
-#EXTINF:-1,AR - Mbc 1
-http://andrtviptv.jan-beryan.giize.com/945.m3u8
-#EXTINF:-1,AR - Mbc 2
-http://andrtviptv.jan-beryan.giize.com/946.m3u8
-#EXTINF:-1,AR - Mbc 3
-http://andrtviptv.jan-beryan.giize.com/947.m3u8
-#EXTINF:-1,AR - Mbc 4
-http://andrtviptv.jan-beryan.giize.com/948.m3u8
-#EXTINF:-1,AR - Mbc Action
-http://andrtviptv.jan-beryan.giize.com/951.m3u8
-#EXTINF:-1,AR - Mbc Max
-http://andrtviptv.jan-beryan.giize.com/950.m3u8
-#EXTINF:-1,AR - Mbc Drama
-http://andrtviptv.jan-beryan.giize.com/949.m3u8
-#EXTINF:-1,AR - Mbc Pro Sports 1
-http://andrtviptv.jan-beryan.giize.com/2054.m3u8
-#EXTINF:-1,AR - Mbc Pro Sports 2
-http://andrtviptv.jan-beryan.giize.com/2055.m3u8
-#EXTINF:-1,AR - Mbc Pro Sports 3
-http://andrtviptv.jan-beryan.giize.com/2056.m3u8
-#EXTINF:-1,AR - Mbc Pro Sports 4
-http://andrtviptv.jan-beryan.giize.com/2120.m3u8
-#EXTINF:-1,AR - Mbc Bollywood
-http://andrtviptv.jan-beryan.giize.com/952.m3u8
+
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1278.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1279.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1280.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1281.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1283.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1282.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1286.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1287.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1289.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1284.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1285.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1292.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1290.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1291.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1288.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1296.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1295.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1294.ts
+#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
+http://tv.primatv.club:8899/live/FFreeiptv/S4Pis8WdWJ/1293.ts
+#EXTINF:-1,MBC1
+http://www.elahmad.com/tv/m3u8/arabcast.m3u8?id=mbc_1
+#EXTINF:-1,MBC1HD
+http://www.elahmad.com/tv/m3u8/arabcast.m3u8?id=mbc_1
+#EXTINF:-1,MbC 3
+http://frontend.arabcast.tv/hls/channel22/channel22.m3u8
+#EXTINF:-1,MBC Action
+http://cdn4.l7iptv.com:8888/video/yaser_wkmKS3/etnY4vuzfqkZQovY-jwOgA/1508773533/mbc-action/mbc-action.m3u8?id=3606&amp;user=yaser_wkmKS3&amp;pass=hhPPTddV&amp;mac=12345678
+#EXTINF:-1,MBC 2
+http://www.elahmad.com/tv/m3u8/arabcast.m3u8?id=mbc_2
+#EXTINF:-1,MBC Max
+http://cdn2.l7iptv.com:8888/video/yaser_wkmKS3/1NlZRGOoJ4TNXrF25jsOsA/1508773355/AR_Mbc_Max_HD/AR_Mbc_Max_HD.m3u8?id=3600&amp;user=yaser_wkmKS3&amp;pass=hhPPTddV&amp;mac=12345678
+#EXTINF:-1,MBC Bollywood
+http://cdn4.l7iptv.com:8888/video/yaser_wkmKS3/IuWzTxKaRMMyA-82qPLt7Q/1508773392/mbc-bolwed/mbc-bolwed.m3u8?id=3604&amp;user=yaser_wkmKS3&amp;pass=hhPPTddV&amp;mac=12345678
+#EXTINF:-1,MBC Drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8?v=3572734610
+#EXTINF:-1,MBC Drama PLUS
+http://selevision9883-i.akamaihd.net/hls/live/219251/98835/1.m3u8?v=636345423
+#EXTINF:-1,MBC MASR 1
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8?v=3707771349
+#EXTINF:-1,MBC 4
+http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8?v=774590527
+
+
