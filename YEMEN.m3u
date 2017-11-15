@@ -4,17 +4,20 @@
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Yemen-icon.png" group-title="LABEL",~ Yemen TV ~
 http://www.lengua.com/anthems/Yemen.mp3
-#EXTINF:-1,AR - Yemen Sama
-http://andrtviptv.jan-beryan.giize.com/1161.m3u8
-#EXTINF:-1,AR - Yemen TV
-http://andrtviptv.jan-beryan.giize.com/1216.m3u8
-#EXTINF:-1,AR - Yemen Shabab
-http://andrtviptv.jan-beryan.giize.com/1217.m3u8
-#EXTINF:-1,AR - Suhail TV
-http://andrtviptv.jan-beryan.giize.com/2212.m3u8
-#EXTINF:-1,AR - Sheba TV
-http://andrtviptv.jan-beryan.giize.com/2952.m3u8
-#EXTINF:-1,AR - Yemen Today
-http://andrtviptv.jan-beryan.giize.com/2951.m3u8
-#EXTINF:-1,AR - Aden TV
-http://andrtviptv.jan-beryan.giize.com/2953.m3u8
+#EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Yemen-icon.png" group-title="LABEL",~ Yemen TV ~
+http://www.lengua.com/anthems/Yemen.mp3
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV
+http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
+#EXTINF:-1,Rushd
+rtmp://82.212.74.3/live/7406
+#EXTINF:-1,Belqees-tv
+http://livestream-f.akamaihd.net/i/12233888_3819374_lsi2cr812sy2sy3ulx7_1@177185/master.m3u8?__b__=678&dw=100&hdnea=st=1507560050~exp=1507561850~acl=/i/12233888_3819374_lsi2cr812sy2sy3ulx7_1@177185/*~hmac=40c565c7098b05e15e789880eb3ebf6547b44fa79ed81ad787ad11a2b54e03e0&__a__=off
+#EXTINF:-1,SANAA TV
+rtmp://82.212.74.3:1935/live/7410
+#EXTINF:-1,Suhail-tv
+rtmp://82.212.74.5:1935/live/7626
+#EXTINF:-1,yemen_shabab
+rtmp://82.212.74.3/live/7425
+#EXTINF:-1,Alghadye
+http://livestream-f.akamaihd.net/i/4818613_6145209_lsigebdx5dsb3xuv7lu_1@326493/master.m3u8?__b__=446&dw=100&hdnea=st=1507560169~exp=1507561969~acl=/i/4818613_6145209_lsigebdx5dsb3xuv7lu_1@326493/*~hmac=a0bb211621bd5e01352882618aa9eb7a39f604842060bbec368ecfde32a7b07a&__a__=off
+
