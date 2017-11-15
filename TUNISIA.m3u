@@ -6,36 +6,32 @@ http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://towers.com.ua/style/img/flags/tunisia.png" group-title="LABEL",~ Tunisia TV ~
 http://www.lengua.com/anthems/Tunisia.mp3
-#EXTINF:-1,Tunisia 1
-http://frontend.arabcast.tv/hls/channel10/channel10.m3u8
-#EXTINF:-1,Tunisia 2
-http://frontend.arabcast.tv/hls/channel11/channel11.m3u8
-#EXTINF:-1,Hannibal
-http://frontend.arabcast.tv/hls/channel12/channel12.m3u8
-#EXTINF:-1,AL Ganoubia TV
-http://frontend.arabcast.tv/hls/channel13/channel13.m3u8
-#EXTINF:-1,tounis9
-http://frontend.arabcast.tv/hls/channel14/channel14.m3u8
-#EXTINF:-1,M
-http://frontend.arabcast.tv/hls/channel15/channel15.m3u8
-#EXTINF:-1,Elhiwar ettounsi
-http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
-#EXTINF:-1,telvaza
-http://frontend.arabcast.tv/hls/channel17/channel17.m3u8
-#EXTINF:-1,Tounisna
-http://frontend.arabcast.tv/hls/channel18/channel18.m3u8
-#EXTINF:-1,Nessma tunis
-http://frontend.arabcast.tv/hls/channel50/channel50.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma*
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
-#EXTINF:-1,Tunisia tv
-https://cdn.streaminghd.tn/live/AIY103XHrm3jgWAfozmLOA/1507572470/nat1/index.m3u8
-#EXTINF:-1,Nessma
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
-#EXTINF:-1,Zaitouna
-rtmp://wowzacontrol.com:1935/8088?hg=1558492496
-#EXTINF:-1,Elhiwar-ettounsi
-http://frontend.arabcast.tv/hls/channel16/channel16.m3u8
+#EXTINF:-1,AR - M Tunisia
+http://andrtviptv.jan-beryan.giize.com/996.m3u8
+#EXTINF:-1,AR - Tunisna
+http://andrtviptv.jan-beryan.giize.com/997.m3u8
+#EXTINF:-1,AR - Hannibal
+http://andrtviptv.jan-beryan.giize.com/998.m3u8
+#EXTINF:-1,AR - Attessia TV
+http://andrtviptv.jan-beryan.giize.com/999.m3u8
+#EXTINF:-1,AR - Zitouna Hedaya
+http://andrtviptv.jan-beryan.giize.com/1002.m3u8
+#EXTINF:-1,AR - Al Janoubia
+http://andrtviptv.jan-beryan.giize.com/1003.m3u8
+#EXTINF:-1,AR - Tunesie Television
+http://andrtviptv.jan-beryan.giize.com/1004.m3u8
+#EXTINF:-1,AR - Tunisia National 1
+http://andrtviptv.jan-beryan.giize.com/1005.m3u8
+#EXTINF:-1,AR - Tunisia National 2
+http://andrtviptv.jan-beryan.giize.com/1006.m3u8
+#EXTINF:-1,AR - Al Insen
+http://andrtviptv.jan-beryan.giize.com/1116.m3u8
+#EXTINF:-1,AR - Nessma TV
+http://andrtviptv.jan-beryan.giize.com/2039.m3u8
+#EXTINF:-1,AR - Telvza TV
+http://andrtviptv.jan-beryan.giize.com/2113.m3u8
+#EXTINF:-1,AR - Zaytoona TV
+http://andrtviptv.jan-beryan.giize.com/2214.m3u8
 
 
 
