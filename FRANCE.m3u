@@ -9,357 +9,473 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
-http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="FRANCE",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6broowjJuk8/Tl_rNKHRrlI/AAAAAAAACD0/v1mP7Y4934A/s500/Animaux+logo.png" group-title="FRANCE",Animaux
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
-http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
-http://streaming-hub.com/stream/arte.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png" group-title="FRANCE",BFM TV
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-
-#EXTINF:-1 tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
-http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="FRANCE",BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://maxnet.ua/wp-content/uploads/2014/10/chasse-peche.gif" group-title="FRANCE",Chasse et Peche
-http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg" group-title="FRANCE",CNews
-http://hls-m06.live-lv3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-
-#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="FRANCE",Indies Live (WN)
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
-http://streaming-hub.com/stream/rmc.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
-http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-1497621843)/live-audio=128000-video=6300000.m3u8
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
-http://live2.awedia.com/hls/tebeo.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671687963689033728/k-tLY6M4.jpg" group-title="FRANCE",Toute l'Histoire
-http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
-http://str81.creacast.com/weo/high/live.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1,FR:tf1
-http://195.154.56.192:8000/live/app1FR/app1FR/57.ts
-#EXTINF:-1,FR:m6
-http://195.154.56.192:8000/live/app1FR/app1FR/60.ts
-#EXTINF:-1,FR:france3
-http://195.154.56.192:8000/live/app1FR/app1FR/59.ts
-#EXTINF:-1,FR:france2
-http://195.154.56.192:8000/live/app1FR/app1FR/58.ts
-
-#EXTINF:-1,F24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1,animaux
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1,action
-http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
-
-
-#EXTINF:-1,chasseetpeche
-http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-
-
-#EXTINF:-1,tvo
-http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/master.m3u8
-
-
-#EXTINF:-1,TV5 MONDE
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_3.m3u8
-
-
-#EXTINF:-1,rmc1
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1,RADIO 105
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-
-#EXTINF:-1,NRJ
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-
-
-#EXTINF:-1,rmc1
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-
-#EXTINF:-1,alsace20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1,BFM
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-
-#EXTINF:-1,tvfrancophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,TF1
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1428.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 2
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1430.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 3
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1431.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 4
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1432.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 5
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1433.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE O
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1434.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,M6
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1429.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ACTION
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1453.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1435.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL CINEMA
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1436.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL FAMILY
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1438.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL DECALE
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1437.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL SERIES
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1439.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE PREMIER
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1440.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE POLAR
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1446.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE FX
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1447.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE FRISSON
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1441.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE FAMIZ
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1445.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE EMOTION
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1442.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE CLUB
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1444.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CINE CLASSIC
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1443.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,OCS MAX
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1451.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,OCS GEANT
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1449.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,OCS CITY
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1450.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,OCS CHOC
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1448.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,COMEDIE
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1452.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 1
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1390.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 2
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1391.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 3
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1392.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 4
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1393.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 5
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1394.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 1
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1395.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 2
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1396.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 3
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1397.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 4
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1398.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 5
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1399.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ANIMAUX
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1424.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,DISCOVRY-SCI
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1423.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,DISCOVRY
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1422.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,USHUAIA TV
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1425.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SEASON
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1427.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,NATIONAL-GEO
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1420.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,NAT-GEO-WILD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1421.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CHASSE PECHE
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1426.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,France 24
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1329.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Euronews
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1330.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,LCI
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1401.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,ITELE
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1400.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 1HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1464.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 2HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1465.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 3HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1466.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL SPORT
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1417.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,INFOSPORT
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1419.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,FOOT 24
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1418.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,PIWI
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1402.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CARTON NET
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1405.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BOOMERANG
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1404.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,TIJI
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1403.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,GULLI
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1406.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,TELETOON
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1410.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,CANAL J
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1408.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,NICKELODEON JUNIOR
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1412.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,NICKELODEON
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1411.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,MANGAS
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1407.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY XD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1416.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY JUNIOR
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1413.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,DISNEY CINEMA
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1415.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 1HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1454.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 2HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1455.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 3HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1456.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 04HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1457.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 05HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1458.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 06HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1459.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 07HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1460.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 08HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1461.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 09HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1462.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 10HD Fr
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1463.ts
-
-
-
-
-
+#EXTINF:-1,FR - TF1 HD
+http://andrtviptv.jan-beryan.giize.com/1380.m3u8
+#EXTINF:-1,FR - France 2 HD
+http://andrtviptv.jan-beryan.giize.com/1381.m3u8
+#EXTINF:-1,FR - France 3 HD
+http://andrtviptv.jan-beryan.giize.com/1382.m3u8
+#EXTINF:-1,FR - France 4 HD
+http://andrtviptv.jan-beryan.giize.com/1383.m3u8
+#EXTINF:-1,FR - France 5 HD
+http://andrtviptv.jan-beryan.giize.com/1384.m3u8
+#EXTINF:-1,FR - France O HD
+http://andrtviptv.jan-beryan.giize.com/1385.m3u8
+#EXTINF:-1,FR - C8 HD
+http://andrtviptv.jan-beryan.giize.com/1402.m3u8
+#EXTINF:-1,FR - M6 HD
+http://andrtviptv.jan-beryan.giize.com/1386.m3u8
+#EXTINF:-1,FR - W9 HD
+http://andrtviptv.jan-beryan.giize.com/1387.m3u8
+#EXTINF:-1,FR - Nrj 12 HD
+http://andrtviptv.jan-beryan.giize.com/1389.m3u8
+#EXTINF:-1,FR - France 24
+http://andrtviptv.jan-beryan.giize.com/2944.m3u8
+#EXTINF:-1,FR - TV 5 Monde HD
+http://andrtviptv.jan-beryan.giize.com/129.m3u8
+#EXTINF:-1,FR - Bfm HD
+http://andrtviptv.jan-beryan.giize.com/1398.m3u8
+#EXTINF:-1,FR - Euronews (french)
+http://andrtviptv.jan-beryan.giize.com/131.m3u8
+#EXTINF:-1,FR - Arte HD
+http://andrtviptv.jan-beryan.giize.com/1390.m3u8
+#EXTINF:-1,FR - 6ter HD
+http://andrtviptv.jan-beryan.giize.com/1391.m3u8
+#EXTINF:-1,FR - Piwi HD
+http://andrtviptv.jan-beryan.giize.com/153.m3u8
+#EXTINF:-1,FR - Disney XD HD
+http://andrtviptv.jan-beryan.giize.com/146.m3u8
+#EXTINF:-1,FR - Game One HD
+http://andrtviptv.jan-beryan.giize.com/145.m3u8
+#EXTINF:-1,FR - Gulli HD
+http://andrtviptv.jan-beryan.giize.com/1388.m3u8
+#EXTINF:-1,FR - Canal J HD
+http://andrtviptv.jan-beryan.giize.com/152.m3u8
+#EXTINF:-1,FR - Disney Cinemagic HD
+http://andrtviptv.jan-beryan.giize.com/150.m3u8
+#EXTINF:-1,FR - Disney Junior HD
+http://andrtviptv.jan-beryan.giize.com/151.m3u8
+#EXTINF:-1,FR - Teletoon HD
+http://andrtviptv.jan-beryan.giize.com/148.m3u8
+#EXTINF:-1,FR - Tiji HD
+http://andrtviptv.jan-beryan.giize.com/147.m3u8
+#EXTINF:-1,FR - Planet A&E HD
+http://andrtviptv.jan-beryan.giize.com/123.m3u8
+#EXTINF:-1,FR - Planet+ Ci HD
+http://andrtviptv.jan-beryan.giize.com/133.m3u8
+#EXTINF:-1,FR - Planet+ HD
+http://andrtviptv.jan-beryan.giize.com/132.m3u8
+#EXTINF:-1,FR - Lci HD
+http://andrtviptv.jan-beryan.giize.com/2586.m3u8
+#EXTINF:-1,FR - Science et Vie HD
+http://andrtviptv.jan-beryan.giize.com/140.m3u8
+#EXTINF:-1,FR - Voyage HD
+http://andrtviptv.jan-beryan.giize.com/139.m3u8
+#EXTINF:-1,FR - Syfy HD
+http://andrtviptv.jan-beryan.giize.com/115.m3u8
+#EXTINF:-1,FR - Teva HD
+http://andrtviptv.jan-beryan.giize.com/111.m3u8
+#EXTINF:-1,FR - Mangas HD
+http://andrtviptv.jan-beryan.giize.com/149.m3u8
+#EXTINF:-1,FR - Animaux HD
+http://andrtviptv.jan-beryan.giize.com/138.m3u8
+#EXTINF:-1,FR - Ngc HD
+http://andrtviptv.jan-beryan.giize.com/1423.m3u8
+#EXTINF:-1,FR - Ngc Wild HD
+http://andrtviptv.jan-beryan.giize.com/134.m3u8
+#EXTINF:-1,FR - Discovery HD
+http://andrtviptv.jan-beryan.giize.com/1422.m3u8
+#EXTINF:-1,FR - Discovery Science HD
+http://andrtviptv.jan-beryan.giize.com/135.m3u8
+#EXTINF:-1,FR - Equidia HD
+http://andrtviptv.jan-beryan.giize.com/109.m3u8
+#EXTINF:-1,FR - Equidia Live HD
+http://andrtviptv.jan-beryan.giize.com/112.m3u8
+#EXTINF:-1,FR - Ab 1 HD
+http://andrtviptv.jan-beryan.giize.com/128.m3u8
+#EXTINF:-1,FR - Numero 23 HD
+http://andrtviptv.jan-beryan.giize.com/1393.m3u8
+#EXTINF:-1,FR - Comedie HD
+http://andrtviptv.jan-beryan.giize.com/130.m3u8
+#EXTINF:-1,FR - Paris Premiere HD
+http://andrtviptv.jan-beryan.giize.com/114.m3u8
+#EXTINF:-1,FR - Infosport+ HD
+http://andrtviptv.jan-beryan.giize.com/142.m3u8
+#EXTINF:-1,FR- Tmc HD
+http://andrtviptv.jan-beryan.giize.com/1401.m3u8
+#EXTINF:-1,FR - Histoire HD
+http://andrtviptv.jan-beryan.giize.com/126.m3u8
+#EXTINF:-1,FR - Paramount Channel HD
+http://andrtviptv.jan-beryan.giize.com/110.m3u8
+#EXTINF:-1,FR - Action HD
+http://andrtviptv.jan-beryan.giize.com/119.m3u8
+#EXTINF:-1,FR - Rtl 9 HD
+http://andrtviptv.jan-beryan.giize.com/121.m3u8
+#EXTINF:-1,FR - Ushuaia HD
+http://andrtviptv.jan-beryan.giize.com/136.m3u8
+#EXTINF:-1,FR - Rmc Decoverte 24 HD
+http://andrtviptv.jan-beryan.giize.com/1394.m3u8
+#EXTINF:-1,FR - Eurosport 1HD
+http://andrtviptv.jan-beryan.giize.com/1418.m3u8
+#EXTINF:-1,FR - Eurosport 2 HD
+http://andrtviptv.jan-beryan.giize.com/144.m3u8
+#EXTINF:-1,FR - Bein Sport 1 HD
+http://andrtviptv.jan-beryan.giize.com/1419.m3u8
+#EXTINF:-1,FR - Bein Sport 2 HD
+http://andrtviptv.jan-beryan.giize.com/1420.m3u8
+#EXTINF:-1,FR - Bein Sport 3 HD
+http://andrtviptv.jan-beryan.giize.com/1421.m3u8
+#EXTINF:-1,FR - Sfr Sport 1 HD
+http://andrtviptv.jan-beryan.giize.com/2912.m3u8
+#EXTINF:-1,FR - Sfr Sport 2 HD
+http://andrtviptv.jan-beryan.giize.com/2913.m3u8
+#EXTINF:-1,FR - Sfr Sport 3 HD
+http://andrtviptv.jan-beryan.giize.com/2914.m3u8
+#EXTINF:-1,FR - Sfr Sport 5 HD
+http://andrtviptv.jan-beryan.giize.com/2915.m3u8
+#EXTINF:-1,FR - Foot 24 HD
+http://andrtviptv.jan-beryan.giize.com/127.m3u8
+#EXTINF:-1,FR - 13 Eme Rue HD
+http://andrtviptv.jan-beryan.giize.com/113.m3u8
+#EXTINF:-1,FR - Canal Plus HD
+http://andrtviptv.jan-beryan.giize.com/2918.m3u8
+#EXTINF:-1,FR - Canal+ HD
+http://andrtviptv.jan-beryan.giize.com/1404.m3u8
+#EXTINF:-1,FR - Canal+ Serie HD
+http://andrtviptv.jan-beryan.giize.com/117.m3u8
+#EXTINF:-1,FR - Canal+ Family HD
+http://andrtviptv.jan-beryan.giize.com/1406.m3u8
+#EXTINF:-1,FR - Canal+ Decale HD
+http://andrtviptv.jan-beryan.giize.com/116.m3u8
+#EXTINF:-1,FR - Canal+ Cinema HD
+http://andrtviptv.jan-beryan.giize.com/1405.m3u8
+#EXTINF:-1,FR - Canal+ Sport HD
+http://andrtviptv.jan-beryan.giize.com/1407.m3u8
+#EXTINF:-1,FR - Cine+ Frisson HD
+http://andrtviptv.jan-beryan.giize.com/1410.m3u8
+#EXTINF:-1,FR - Cine+ Classic HD
+http://andrtviptv.jan-beryan.giize.com/1411.m3u8
+#EXTINF:-1,FR - Cine+ Famiz HD
+http://andrtviptv.jan-beryan.giize.com/118.m3u8
+#EXTINF:-1,FR - Cine+ Polar HD
+http://andrtviptv.jan-beryan.giize.com/1413.m3u8
+#EXTINF:-1,FR - Cine+ Emotion HD
+http://andrtviptv.jan-beryan.giize.com/1412.m3u8
+#EXTINF:-1,FR - Ocs Max HD
+http://andrtviptv.jan-beryan.giize.com/1414.m3u8
+#EXTINF:-1,FR - Ocs City HD
+http://andrtviptv.jan-beryan.giize.com/1415.m3u8
+#EXTINF:-1,FR - Ocs Choc HD
+http://andrtviptv.jan-beryan.giize.com/1417.m3u8
+#EXTINF:-1,FR - Ocs Geants HD
+http://andrtviptv.jan-beryan.giize.com/1416.m3u8
+#EXTINF:-1,FR - HD1 HD
+http://andrtviptv.jan-beryan.giize.com/1396.m3u8
+#EXTINF:-1,FR - Nt 1HD
+http://andrtviptv.jan-beryan.giize.com/1400.m3u8
+#EXTINF:-1,FR - L Equipe21 HD
+http://andrtviptv.jan-beryan.giize.com/1395.m3u8
+#EXTINF:-1,FR - Cine+ Premiere HD
+http://andrtviptv.jan-beryan.giize.com/1408.m3u8
+#EXTINF:-1,FR - Cine+ Club HD
+http://andrtviptv.jan-beryan.giize.com/1409.m3u8
+#EXTINF:-1,FR - Cherie25 HD
+http://andrtviptv.jan-beryan.giize.com/1399.m3u8
+#EXTINF:-1,FR - Boomeran HD
+http://andrtviptv.jan-beryan.giize.com/3037.m3u8
+#EXTINF:-1,FR - Canal News HD
+http://andrtviptv.jan-beryan.giize.com/3041.m3u8
+#EXTINF:-1,FR - Cartoon Network HD
+http://andrtviptv.jan-beryan.giize.com/3036.m3u8
+#EXTINF:-1,FR - Cine FX HD
+http://andrtviptv.jan-beryan.giize.com/3021.m3u8
+#EXTINF:-1,FR - Cstar HD
+http://andrtviptv.jan-beryan.giize.com/3016.m3u8
+#EXTINF:-1,FR - E! Entertainment HD
+http://andrtviptv.jan-beryan.giize.com/3018.m3u8
+#EXTINF:-1,FR - Elle Girl HD
+http://andrtviptv.jan-beryan.giize.com/3019.m3u8
+#EXTINF:-1,FR - Extreme Sports HD
+http://andrtviptv.jan-beryan.giize.com/3023.m3u8
+#EXTINF:-1,FR - France Info HD
+http://andrtviptv.jan-beryan.giize.com/3040.m3u8
+#EXTINF:-1,FR - Golf Channel HD
+http://andrtviptv.jan-beryan.giize.com/3025.m3u8
+#EXTINF:-1,FR - Golf+ HD
+http://andrtviptv.jan-beryan.giize.com/3026.m3u8
+#EXTINF:-1,FR - Mcm HD
+http://andrtviptv.jan-beryan.giize.com/3032.m3u8
+#EXTINF:-1,FR - Mcm Top HD
+http://andrtviptv.jan-beryan.giize.com/3033.m3u8
+#EXTINF:-1,FR - Mezzo HD
+http://andrtviptv.jan-beryan.giize.com/3034.m3u8
+#EXTINF:-1,FR - Mezzo Live HD
+http://andrtviptv.jan-beryan.giize.com/3035.m3u8
+#EXTINF:-1,FR - Mtv HD
+http://andrtviptv.jan-beryan.giize.com/3029.m3u8
+#EXTINF:-1,FR - Nickelodeon Junior HD
+http://andrtviptv.jan-beryan.giize.com/3039.m3u8
+#EXTINF:-1,FR - Season HD
+http://andrtviptv.jan-beryan.giize.com/3028.m3u8
+#EXTINF:-1,FR - Trace Sport HD
+http://andrtviptv.jan-beryan.giize.com/3024.m3u8
+#EXTINF:-1,FR - Trace Urban HD
+http://andrtviptv.jan-beryan.giize.com/3030.m3u8
+#EXTINF:-1,FR - Trek HD
+http://andrtviptv.jan-beryan.giize.com/3027.m3u8
+#EXTINF:-1,FR - TV Breizh HD
+http://andrtviptv.jan-beryan.giize.com/3017.m3u8
+#EXTINF:-1,FR - Vivolta HD
+http://andrtviptv.jan-beryan.giize.com/3020.m3u8
+#EXTINF:-1,FR - Nickelodeon HD
+http://andrtviptv.jan-beryan.giize.com/3038.m3u8
+#EXTINF:-1,FR - Rfm TV HD
+http://andrtviptv.jan-beryan.giize.com/3031.m3u8
+#EXTINF:-1,FR - Tcm Cinema HD
+http://andrtviptv.jan-beryan.giize.com/3022.m3u8
+#EXTINF:-1,FR - TF1 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4279.m3u8
+#EXTINF:-1,FR - France 2 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4277.m3u8
+#EXTINF:-1,FR - France 3 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4276.m3u8
+#EXTINF:-1,FR - France 4 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4275.m3u8
+#EXTINF:-1,FR - France 5 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4274.m3u8
+#EXTINF:-1,FR - France O HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4273.m3u8
+#EXTINF:-1,FR - M6 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4278.m3u8
+#EXTINF:-1,FR - Arte HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4174.m3u8
+#EXTINF:-1,FR - NT1 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4267.m3u8
+#EXTINF:-1,FR - RTS Deux HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4264.m3u8
+#EXTINF:-1,(|FR| CH. CANAL+ |FR|)
+http://andrtviptv.jan-beryan.giize.com/5332.m3u8
+#EXTINF:-1,FR - Canal  HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4252.m3u8
+#EXTINF:-1,FR - Canal  Cinema HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4248.m3u8
+#EXTINF:-1,FR - Canal  Sport HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4247.m3u8
+#EXTINF:-1,FR - Canal  Series HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4249.m3u8
+#EXTINF:-1,FR - Canal  Family HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4251.m3u8
+#EXTINF:-1,FR - Canal  Decale HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4250.m3u8
+#EXTINF:-1,(|FR| CINEMA |FR|)
+http://andrtviptv.jan-beryan.giize.com/5333.m3u8
+#EXTINF:-1,FR - Cine  Premier HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4245.m3u8
+#EXTINF:-1,FR - Cine  Frisson HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4244.m3u8
+#EXTINF:-1,FR - Cine  Emotion HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4243.m3u8
+#EXTINF:-1,FR - Cine  Famiz HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4242.m3u8
+#EXTINF:-1,FR - Cine  Club HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4246.m3u8
+#EXTINF:-1,FR - Cine  Classic HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4241.m3u8
+#EXTINF:-1,FR - OCS Max HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4164.m3u8
+#EXTINF:-1,FR - OCS City HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4166.m3u8
+#EXTINF:-1,FR - OCS Choc HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4167.m3u8
+#EXTINF:-1,FR - OCS Geants HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4165.m3u8
+#EXTINF:-1,FR - Disney Cinema HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4188.m3u8
+#EXTINF:-1,FR - Paramount Channel HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4236.m3u8
+#EXTINF:-1,FR - TCM Cinema HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4238.m3u8
+#EXTINF:-1,FR - Action HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4237.m3u8
+#EXTINF:-1,FR - Cine FX HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4240.m3u8
+#EXTINF:-1,FR - Cine Polar HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4239.m3u8
+#EXTINF:-1,FR - Crime District HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4226.m3u8
+#EXTINF:-1,FR - Vivolta HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4168.m3u8
+#EXTINF:-1,(|FR| DIVERTISSEMENT |FR])
+http://andrtviptv.jan-beryan.giize.com/5334.m3u8
+#EXTINF:-1,FR - Comedie  HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4253.m3u8
+#EXTINF:-1,FR - 13EME Rue HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4256.m3u8
+#EXTINF:-1,FR - Syfy HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4255.m3u8
+#EXTINF:-1,FR - MTV France HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4197.m3u8
+#EXTINF:-1,FR - Elle Girl HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4254.m3u8
+#EXTINF:-1,FR - E! Entertainment HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4235.m3u8
+#EXTINF:-1,FR - GAME ONE HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4179.m3u8
+#EXTINF:-1,FR - Manga HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4180.m3u8
+#EXTINF:-1,FR - AB1 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4262.m3u8
+#EXTINF:-1,FR - AB3 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4261.m3u8
+#EXTINF:-1,FR - TV Breizh HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4257.m3u8
+#EXTINF:-1,FR - Rtl9 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4258.m3u8
+#EXTINF:-1,FR - Bet HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4195.m3u8
+#EXTINF:-1,FR - Canal8 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4270.m3u8
+#EXTINF:-1,FR - W9 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4272.m3u8
+#EXTINF:-1,FR - TMC HD 1080
+http://andrtviptv.jan-beryan.giize.com/4269.m3u8
+#EXTINF:-1,FR - Cstar HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4271.m3u8
+#EXTINF:-1,FR - HD1 1080P HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4266.m3u8
+#EXTINF:-1,FR - 6Ter HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4263.m3u8
+#EXTINF:-1,FR - Numero 23 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4260.m3u8
+#EXTINF:-1,FR - Cherie 25 HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4259.m3u8
+#EXTINF:-1,(|FR| DECOUVERTE |FR|)
+http://andrtviptv.jan-beryan.giize.com/5335.m3u8
+#EXTINF:-1,FR - Planete  HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4229.m3u8
+#EXTINF:-1,FR - Planete CI HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4227.m3u8
+#EXTINF:-1,FR - Planete AE HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4228.m3u8
+#EXTINF:-1,FR - Discovery HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4234.m3u8
+#EXTINF:-1,FR - Discovery Investigation HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4232.m3u8
+#EXTINF:-1,FR - Discovery Science HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4233.m3u8
+#EXTINF:-1,FR - Ngc HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4231.m3u8
+#EXTINF:-1,FR - Ngc Wild HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4230.m3u8
+#EXTINF:-1,FR - Voyage HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4223.m3u8
+#EXTINF:-1,FR - Ushuaia TV HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4224.m3u8
+#EXTINF:-1,FR - Histoire HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4222.m3u8
+#EXTINF:-1,FR - Animaux HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4219.m3u8
+#EXTINF:-1,FR - TREK HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4220.m3u8
+#EXTINF:-1,FR - Sciences & Vie HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4225.m3u8
+#EXTINF:-1,FR - RMC Decouverte HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4221.m3u8
+#EXTINF:-1,FR - RTS UN HD 1080
+http://andrtviptv.jan-beryan.giize.com/4265.m3u8
+#EXTINF:-1,FR - One TV HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4194.m3u8
+#EXTINF:-1,FR - Season HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4218.m3u8
+#EXTINF:-1,(|FR| INFORMATION |FR|)
+http://andrtviptv.jan-beryan.giize.com/5336.m3u8
+#EXTINF:-1,FR - CANAL NEWS HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4175.m3u8
+#EXTINF:-1,FR - Bfm TV HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4172.m3u8
+#EXTINF:-1,FR - LCI HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4176.m3u8
+#EXTINF:-1,FR - France Info HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4170.m3u8
+#EXTINF:-1,FR - Bfm Business HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4171.m3u8
+#EXTINF:-1,FR - I24 News HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4173.m3u8
+#EXTINF:-1,(|FR| SPORT |FR|)
+http://andrtviptv.jan-beryan.giize.com/5337.m3u8
+#EXTINF:-1,FR - SFR Sport1 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4217.m3u8
+#EXTINF:-1,FR - SFR Sport2 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4216.m3u8
+#EXTINF:-1,FR - SFR Sport3 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4215.m3u8
+#EXTINF:-1,FR - SFR Sport5 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4214.m3u8
+#EXTINF:-1,FR - Beinsport1 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4211.m3u8
+#EXTINF:-1,FR - Beinsport2 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4210.m3u8
+#EXTINF:-1,FR - Beinsport3 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4209.m3u8
+#EXTINF:-1,FR - Infosport HD 1080
+http://andrtviptv.jan-beryan.giize.com/4207.m3u8
+#EXTINF:-1,FR - Eurosport1 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4213.m3u8
+#EXTINF:-1,FR - Eurosport2 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4212.m3u8
+#EXTINF:-1,FR - Equidia Life HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4202.m3u8
+#EXTINF:-1,FR - Equidia Live HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4201.m3u8
+#EXTINF:-1,FR - Motorsport TV HD 1080
+http://andrtviptv.jan-beryan.giize.com/4208.m3u8
+#EXTINF:-1,FR - Golf  HD 1080
+http://andrtviptv.jan-beryan.giize.com/4205.m3u8
+#EXTINF:-1,FR - Golf Channel HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4204.m3u8
+#EXTINF:-1,FR - Extreme Sports HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4203.m3u8
+#EXTINF:-1,FR - L'Equipe21 HD 1080
+http://andrtviptv.jan-beryan.giize.com/4206.m3u8
+#EXTINF:-1,(|FR| JEUNESSE |FR|)
+http://andrtviptv.jan-beryan.giize.com/5338.m3u8
+#EXTINF:-1,FR - Disney Junior HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4191.m3u8
+#EXTINF:-1,FR - Tiji HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4181.m3u8
+#EXTINF:-1,FR - Canal J HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4185.m3u8
+#EXTINF:-1,FR - Boomerang HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4187.m3u8
+#EXTINF:-1,FR - Cartoon Network HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4178.m3u8
+#EXTINF:-1,FR - Disney XD HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4190.m3u8
+#EXTINF:-1,FR - Nickelodeon HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4182.m3u8
+#EXTINF:-1,FR - Disney Channel HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4189.m3u8
+#EXTINF:-1,FR - Boing HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4186.m3u8
+#EXTINF:-1,FR - GULLI HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4177.m3u8
+#EXTINF:-1,FR - Piwi  HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4184.m3u8
+#EXTINF:-1,FR - Teletoon  HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4183.m3u8
+#EXTINF:-1,(|FR| MUSIQUE |FR|)
+http://andrtviptv.jan-beryan.giize.com/5339.m3u8
+#EXTINF:-1,FR - Trace Urban HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4196.m3u8
+#EXTINF:-1,FR - Mtv Hits HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4193.m3u8
+#EXTINF:-1,FR - RFM TV HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4198.m3u8
+#EXTINF:-1,FR - MCM HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4200.m3u8
+#EXTINF:-1,FR - MCM Top HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4199.m3u8
+#EXTINF:-1,FR - Mezzo HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4169.m3u8
+#EXTINF:-1,FR - Mezzo Live HD 1080P
+http://andrtviptv.jan-beryan.giize.com/4192.m3u8
