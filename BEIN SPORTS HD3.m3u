@@ -1,43 +1,24 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 1HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/1.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 2HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/2.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 3HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/3.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 4HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/4.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 5HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/5.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 6HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/6.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 7HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/7.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 8HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/8.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 9HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/9.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 10HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/10.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 11HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/11.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports 12HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/12.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports News
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/14.ts
-#EXTVLCOPT:http-user-agent=LOVE
-#EXTINF:-1,beinSports HD
-http://star.be-iptv.co:4991/live/lkjSDGKJKJHF/jc40jSPgnn/13.ts
+#EXTINF:-1,AR - Bein Sport 1 HD²
+http://andrtviptv.jan-beryan.giize.com/2233.m3u8
+#EXTINF:-1,AR - Bein Sport 2 HD²
+http://andrtviptv.jan-beryan.giize.com/2234.m3u8
+#EXTINF:-1,AR - Bein Sport 3 HD²
+http://andrtviptv.jan-beryan.giize.com/2235.m3u8
+#EXTINF:-1,AR - Bein Sport 4 HD²
+http://andrtviptv.jan-beryan.giize.com/2236.m3u8
+#EXTINF:-1,AR - Bein Sport 5 HD²
+http://andrtviptv.jan-beryan.giize.com/2237.m3u8
+#EXTINF:-1,AR - Bein Sport 6 HD²
+http://andrtviptv.jan-beryan.giize.com/2238.m3u8
+#EXTINF:-1,AR - Bein Sport 7 HD²
+http://andrtviptv.jan-beryan.giize.com/2239.m3u8
+#EXTINF:-1,AR - Bein Sport 8 HD²
+http://andrtviptv.jan-beryan.giize.com/2240.m3u8
+#EXTINF:-1,AR - Bein Sport 9 HD²
+http://andrtviptv.jan-beryan.giize.com/2241.m3u8
+#EXTINF:-1,AR - Bein Sport 10 HD²
+http://andrtviptv.jan-beryan.giize.com/2242.m3u8
+#EXTINF:-1,AR - Bein Sport 11 HD²
+http://andrtviptv.jan-beryan.giize.com/2243.m3u8
+#EXTINF:-1,AR - Bein Sport 12 HD²
+http://andrtviptv.jan-beryan.giize.com/2244.m3u8
