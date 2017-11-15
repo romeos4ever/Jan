@@ -4,102 +4,51 @@
 http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ UAE TV ~
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
-
-#EXTINF:-1,Dubai TV
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8
-#EXTINF:-1,Dubai Drama
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.smil/chunklist_b750000.m3u8
-#EXTINF:-1,Dubai one
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
-#EXTINF:-1,sama Dubai
-http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b750000.m3u8
-#EXTINF:-1,Dubai zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b840000.m3u8
-#EXTINF:-1,noor dubai
-http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b480000.m3u8
-#EXTINF:-1,alan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
-#EXTINF:-1,aldhafra
-http://91.74.179.172:1935/live/myStream2/gmswf.m3u8
-#EXTINF:-1,abudhabi
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-#EXTINF:-1,abudhabi emarat
-http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
-#EXTINF:-1,abudhabi drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8
-#EXTINF:-1,Natgeo abudhabi
-http://adtv.ercdn.net/adnatgeo/adnatgeo_480p.m3u8
-#EXTINF:-1,alsharqa
-https://svs.itworkscdn.net/smc1live/smc1.smil/gmswf.m3u8
-#EXTINF:-1,alsharqiya from kalba
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/gmswf.m3u8
-#EXTINF:-1,sharqa sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/gmswf.m3u8
-#EXTINF:-1,alfujera
-http://ccfz.dyndns.org:8282/hls-live/fujtv/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,alwoustatv
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="UAE",Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya
-http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV**
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=dubai&t=ar
-#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One**
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports*
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE",YAS Sports
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1*
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2*
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8?v=2746012933
-#EXTINF:-1,Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8?v=2746012933
-#EXTINF:-1,dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1, Dubai-Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1,Dubai-One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,Dubai racing
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubairacing3&
-#EXTINF:-1,noor dubai
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/gmswf.m3u8?v=1558393494
-#EXTINF:-1,samadubai
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=sama_dubai&t=ar
-#EXTINF:-1,Alaan TV
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/gmswf.m3u8?v=1558393494
+#EXTINF:-1,AR - Dubai TV HD
+http://andrtviptv.jan-beryan.giize.com/2129.m3u8
+#EXTINF:-1,AR - Sama Dubai HD
+http://andrtviptv.jan-beryan.giize.com/1273.m3u8
+#EXTINF:-1,AR - Dubai Sport 1 HD
+http://andrtviptv.jan-beryan.giize.com/1280.m3u8
+#EXTINF:-1,AR - Dubai Racing 1 HD
+http://andrtviptv.jan-beryan.giize.com/1283.m3u8
+#EXTINF:-1,AR - AD Sport 1 HD
+http://andrtviptv.jan-beryan.giize.com/3883.m3u8
+#EXTINF:-1,AR - Abu Dhabi Sport 2 HD
+http://andrtviptv.jan-beryan.giize.com/1859.m3u8
+#EXTINF:-1,AR - Yas Sport HD
+http://andrtviptv.jan-beryan.giize.com/2190.m3u8
+#EXTINF:-1,AR - Abu Dhabi TV HD
+http://andrtviptv.jan-beryan.giize.com/1862.m3u8
+#EXTINF:-1,AR - Abu Dhabi Drama HD
+http://andrtviptv.jan-beryan.giize.com/1861.m3u8
+#EXTINF:-1,AR - Abu Dhabi Al Emarat HD
+http://andrtviptv.jan-beryan.giize.com/2192.m3u8
+#EXTINF:-1,AR - Noor Dubai
+http://andrtviptv.jan-beryan.giize.com/1272.m3u8
+#EXTINF:-1,AR - Dubai One
+http://andrtviptv.jan-beryan.giize.com/1274.m3u8
+#EXTINF:-1,AR - Dubai Zaman
+http://andrtviptv.jan-beryan.giize.com/1275.m3u8
+#EXTINF:-1,AR - Dubai TV
+http://andrtviptv.jan-beryan.giize.com/1277.m3u8
+#EXTINF:-1,AR - Dubai Sport 3 HD
+http://andrtviptv.jan-beryan.giize.com/1281.m3u8
+#EXTINF:-1,AR - Dubai Sport 4
+http://andrtviptv.jan-beryan.giize.com/1282.m3u8
+#EXTINF:-1,AR - Dubai Racing 2
+http://andrtviptv.jan-beryan.giize.com/1284.m3u8
+#EXTINF:-1,AR - Dubai Racing 3
+http://andrtviptv.jan-beryan.giize.com/1285.m3u8
+#EXTINF:-1,AR - Abu Dhabi Sport 1
+http://andrtviptv.jan-beryan.giize.com/1286.m3u8
+#EXTINF:-1,AR - Yas Sport
+http://andrtviptv.jan-beryan.giize.com/1046.m3u8
+#EXTINF:-1,AR - Hod Hod TV
+http://andrtviptv.jan-beryan.giize.com/1048.m3u8
+#EXTINF:-1,AR - Al Sharjah
+http://andrtviptv.jan-beryan.giize.com/1124.m3u8
+#EXTINF:-1,AR - Al Waha TV
+http://andrtviptv.jan-beryan.giize.com/1082.m3u8
+#EXTINF:-1,AR - Al Shallal TV
+http://andrtviptv.jan-beryan.giize.com/1166.m3u8
