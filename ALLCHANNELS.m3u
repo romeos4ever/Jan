@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/photos-2016/august/week-1/1-8-2016/14/MBC-Group-Logo/original/00f96c243f825f476df3133936ceb20818e62a53/MBC-Group-Logo.jpg",=======MBC [AR]=========
+#EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
@@ -61,7 +61,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1294.ts
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1293.ts
 
 
-#EXTINF:-1,======OSN [AR]=========
+#EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/43499_download.png", OSN Cinema1
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV13QzAYAOAf1ONI9U1w0QufG6Wi09HLEG1sRdcV4fjxfZ4HGI8bzTkijY236Hu%2bVq6FpKbS89Z%2bgac1Im%2bbTiY8sJ7EjlKgbRjGJKnp5cIqUTrF6M61aWSiT9HIVDYhdQglLJHMwO%2b6g14bm7qkCyQkURlOccQpWj7i1vL8%2f3TzqKRow%2fvdx%2bQXR%2bL28o6yUFlctuwqhqxJ%2bF82HQ7VNQuCC%2flazl1%2f6nUZBK%2b8IxtYxcC1p8aMqqTzsbC3K9Y1x9F2O0X3LUMBHZBiEgAFYWLqLvZsMNFKnMAqwn5eGD%2fB7nMsYj79TPv9G8vN9NIPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
@@ -89,7 +89,7 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCA
 
 
 
-#EXTINF:-1,======BeIN MOVIES [AR]=========
+#EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
@@ -123,7 +123,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1479.ts
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1481.ts
 
 
-#EXTINF:-1,======ART [AR]========
+#EXTINF:-1 tvg-logo="http://masr140.org/wp-content/uploads/2016/11/hqdefault-1-2.jpg",======ART [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
@@ -143,7 +143,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1323.ts
 
 
 
-#EXTINF:-1,=====AD SPORTS [AR]=========
+#EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
@@ -168,7 +168,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 
 
 
-#EXTINF:-1,=====NEWS [AR]========
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/02/15/09/33/news-636978_960_720.jpg",=====NEWS [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
@@ -202,7 +202,7 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
 
-#EXTINF:-1,=====ISLAM [AR]========
+#EXTINF:-1 tvg-logo="http://www.missionislam.com/discover/digrf/understandislam.jpg",=====ISLAM [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Majd" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd
@@ -240,7 +240,7 @@ http://m.live.net.sa:1935/live/ayat/gmswf.m3u8?v=1558393494
 
 
 
-#EXTINF:-1,=====ENFANTS [AR]=======
+#EXTINF:-1 tvg-logo="http://www.pleumeurbodou.com/IMG/jpg/enfants.jpg",=====ENFANTS [AR]=======
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Baraeem" tvg-logo="" group-title="12-ENFANTS [AR]",Baraeem
@@ -257,7 +257,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1336.ts
 
 
 
-#EXTINF:-1,=====DOCUMENTARY [AR]=======
+#EXTINF:-1 tvg-logo="http://www.2gzr.com/uploads/2014/07/documentary-2.jpg",=====DOCUMENTARY [AR]=======
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Quest-Arabia" tvg-logo="" group-title="",Quest-Arabia
@@ -272,7 +272,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1332.ts
 
 
 
-#EXTINF:-1,=====MAROC [AR]=======
+#EXTINF:-1 tvg-logo="http://www.almountakhab.com/uploads/resized/drapeau_maroc.resized-600x300.jpg",=====MAROC [AR]=======
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="08-MAROC [AR]",Al-Aoula-Inter
@@ -306,7 +306,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1387.ts
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1386.ts
 
 
-#EXTINF:-1,=====ALGERIE [AR]========
+#EXTINF:-1 tvg-logo="http://www.larousse.fr/encyclopedie/data/images/1009452-Drapeau_de_lAlg%C3%A9rie.jpg",=====ALGERIE [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Samira-Tv" tvg-logo="" group-title="09-ALGERIE [AR]",Samira-Tv
@@ -380,7 +380,7 @@ http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1366.ts
 
 
 
-#EXTINF:-1,=====TUNISIE [AR]========
+#EXTINF:-1 tvg-logo="https://cdn.psychologytoday.com/sites/default/files/blogs/1023/2009/11/34753-78991.jpg",=====TUNISIE [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tonesna" tvg-logo="" group-title="10-TUNISIE [AR]",Tonesna
@@ -775,7 +775,7 @@ rtmp://82.212.74.3/live/7425
 
 
 
-#EXTINF:-1 tvg-logo="http://arabicfomny.com/fomnyarabictv/alshorooq_tv_live.jpg" group-title="Sudan ",======SUDAN Group=======
+#EXTINF:-1 tvg-logo="https://media1.britannica.com/eb-media/96/4496-004-641955A7.jpg" group-title="Sudan ",======SUDAN Group=======
 rtmp://82.212.74.98:1935/live/7913
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg" group-title="Sudan ",tayba
 http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
