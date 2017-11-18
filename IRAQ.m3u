@@ -1,66 +1,8 @@
 
 
 
-#EXTINF:-1,======IRAQ Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iraq-01.png" group-title="LABEL",~ Iraq TV ~
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iraq-01.png" group-title="LABEL",======IRAQ Group=======
 http://www.lengua.com/anthems/Iraq.mp3
-#EXTINF:-1,Dijlah TV
-https://cdnbis.arabcast.tv/hls/channel16/channel16.m3u8
-#EXTINF:-1,Alsumaria
-https://cdnbis.arabcast.tv/hls/channel1/channel1.m3u8
-#EXTINF:-1,Al Sharquia News
-https://frontendbis.arabcast.tv/hls/channel5/channel5.m3u8
-#EXTINF:-1,Samarra
-https://frontendbis.arabcast.tv/hls/channel4/channel4.m3u8
-#EXTINF:-1,Al Mawsliya
-https://frontendbis.arabcast.tv/hls/channel9/channel9.m3u8
-#EXTINF:-1,Afeq
-https://frontendbis.arabcast.tv/hls/channel10/channel10.m3u8
-#EXTINF:-1,almasar
-https://frontendbis.arabcast.tv/hls/channel11/channel11.m3u8
-#EXTINF:-1,Iraqiya Sport
-https://frontendbis.arabcast.tv/hls/channel12/channel12.m3u8
-#EXTINF:-1,alrafiden
-https://frontendbis.arabcast.tv/hls/channel14/channel14.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="IRAQ" ,Sumaria
-http://youness-export.com/tv/sumaria
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="IRAQ" ,AlSharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="IRAQ" ,AlsharqiyaNews
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad
-https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dijlah.tv/templates/defaultNew/images/logo-sticky@2x.png" group-title="IRAQ" ,Dejlah
-http://91.134.145.75/Dijlah/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="IRAQ" ,AL Rasheed TV
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.arabi21.com/Content/Upload/large/5201543135.jpg" ,baghdad
-http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-sSWMDncpXjo/AAAAAAAAAAI/AAAAAAAAAAA/9cs5oMO3hMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAQ" ,Asia TV
-http://178.63.55.18:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.livetvswatch.com/uploads/afaq-tv-live-from-iraq.png" group-title="IRAQ" ,afaqtv
-http://212.18.231.213:1935/afaqtv/afaqtv_source/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iraqi-website.com/wp-content/uploads/2016/11/photo-2.jpg" group-title="IRAQ" ,Hadath Iraq TV
-http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/09/214.jpg" group-title="IRAQ" ,Anb iraq
-http://185.27.116.54:1935/live/anb.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alahad.tv.iq/images/sitelogo.png" group-title="IRAQ" ,Alahad
-http://176.241.91.122/hls-live/livepkgr/_definst_/myliveevent/alahad.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20forat.jpg" group-title="IRAQ" ,alforat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/09/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.png" group-title="IRAQ" ,ishtar TV
-http://avenuewtv1.srfms.com:2039/live/ishtar/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.assyriantv.net/wp-content/uploads/2016/08/logo.png" group-title="IRAQ" ,Assyria TV
-mms://66.242.170.200/AssyriaSat
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20hurra%20iraq.jpg" group-title="IRAQ" ,alhura
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/25sbybc.png" group-title="IRAQ",Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" group-title="IRAQ",Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya
