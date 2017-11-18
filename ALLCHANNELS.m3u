@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
+#EXTINF:-1 tvg-logo="https://taiz-press.com/user_images/thumbs/06-11-17-54792397.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
