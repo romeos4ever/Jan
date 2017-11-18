@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiU8YfOtMfXAhVRzKQKHQ83CXgQjRwIBw&url=http%3A%2F%2Fwww.mbc.net%2Far%2Fmbc1%2Farticles%2F%25D8%25AA%25D8%25A3%25D8%25AC%25D9%258A%25D9%2584-%25D8%25B9%25D8%25B1%25D8%25B6-%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584--%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2588%25D9%2581--%25D8%25B9%25D9%2584%25D9%2589-MBC1-%25D8%25A5%25D9%2584%25D9%2589-%25D9%2588%25D9%2582%25D8%25AA-%25D9%2584%25D8%25A7%25D8%25AD%25D9%2582-%25D9%258A%25D9%258F%25D8%25B9%25D9%2584%25D9%2586-%25D8%25B9%25D9%2586%25D9%2587-%25D9%2581%25D9%258A-%25D8%25AD%25D9%258A%25D9%2586%25D9%2587.html&psig=AOvVaw1pJ0RTF7imjnkmGFJHB8Cf&ust=1511070014927100",=======MBC [AR]=========
+#EXTINF:-1 tvg-logo="http://www.mbc.net/default/mediaObject/photos-2016/august/week-1/1-8-2016/14/MBC-Group-Logo/original/00f96c243f825f476df3133936ceb20818e62a53/MBC-Group-Logo.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
