@@ -2,63 +2,46 @@
 
 #EXTINF:-1 tvg-logo="https://taiz-press.com/user_images/thumbs/06-11-17-54792397.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1278.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1279.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1280.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1281.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1283.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1282.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1286.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1287.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1289.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1284.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1285.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1292.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1290.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1291.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1288.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1296.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1295.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1294.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1293.ts
+#EXTINF:-1 tvg-logo="", MBC 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHWRRbFjlwCBgGwjayCjekVHAcQRENKR5v9yBzKzcm6%2f4hV%2bEhngnj3J6iuW%2bc8PfUsSjMLu3m4bXQS5o%2bJTR%2fDO%2fnBVTOMRubhsU27Cam3wVpP%2biTbs81XzgV89EJNy9S6nWVdGqx%2bP97DdW2hYmKZfokdaEBlF8XyKb59dM1osZRFzpBFbP5Vtw80CZBUIxRNvK5SXMRuCU112Hyqw6kO8EUKrjVrxBrtq3puoQdspUABopkIAAkBSID7yC1gKGsh6QsBw7fcuz%2fsT3S3QNSXWKaX3jYB777AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAANwVFzQzAAAOAftHNyRDIPHkisVvRwpOwNK0o0KMXOj%2b%2b%2bL87mp7c9vZf63B5rbvPb7kfsGrOk7FAbFT24i1UHqcfOKS2SWnSK20zfYqwcbp3K6hemOAQnQa0qx7LHsFuTB4Nd8jFYEA2io0il%2fnh5ZQVZy2S5cG6S9F8LtoY5579g8eMa9Tzqf4p6z3niBHjYo6YyU2IWHMhzm%2fFm3OTaOKRR0EiZoomY7nKr8kPDCiGKqkr4y%2fyUIIZA0hGEEtCQjqlmW1AHBwJhQK6i5AlvdXtZ5ukOcGgYb3nNNwH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC 3
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP6ph1SYQHDy4Rma2yLlu8NbK0orVlsrTj4%2fecynIvoi1utb0JLenqsTU453HeXmLzmZYLW7t7p7LxgB9DfiRDckDGlQfnxSQa7LOSTH89r%2bvCei0NiUqticA4Je%2fwQ4Qj204DLrYKn7MCpC7qRK%2fP%2fhGnc8uxRXM6sWzlj8D3eqmnmohC6YJbcp3pq0lF%2fFvKz2c8elXAVLlR4OysICtl07da8Zj%2bdKcdIt33dcNQUOhaCkBAVWwTAEWFpo0CiD1gq3skYTayu8hhQt50aMMBfMnecf4B%2bgiMofsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC 4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcuyQzAAANAvMoJEZGHRqncZeqXU7qbelNGiGB%2ffc8bSK0N5KIu9bnf%2bvbDCHR9hhBeFKchsmD6kceGMBpV7npVWmCaRcSOC5a9Cu0Yd%2ffgbRVsQU7%2fqFM8D9uWvqnD6DBg%2f5WZ0Pz%2fSl8ugqTQWXaIR%2b90qPQt%2bHxKo5WzzsisDtaUUuJREoQ%2ffNirObYxuuUSn5jo75B%2fAQBMHO%2f2qR3DPZ6Z%2fY%2fdUJbmWbQfCoqaJksRh46RwEEPAERlCDiCZ4AvSz5CAI3P2F%2fuIAE492Za5bslOhlBVfxZZfS77AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC MAX
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwct2Q0AAANAP6nGizHNhEYxKQ5iSeuzGpJFElAgVc3x8790p8zC8%2fLICuSNuPuv29kW4I%2fpZvsbjEosAK3%2fI1DB68awAYxdaKNU1qO2N1ijDQE9SpFOSvsjy6XcBlNEdNZXNSD%2bJM6vJFJm3Py9lJI9IFXYnHsICxGoPp8L82PAW%2foIEjjKi9qYtxTGac37qxXvQOFn83WbSHp6xREyUMbfWgBTeNsn7HTSu6CH5CrHhOIZpatjbEg1goGsUAaDpEFHsQmYDqq9Fhu%2b1nOfzs14O%2bPpw67cOcsv6B1R6BUf7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC ACTION
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhi2hCQHDiULYFUMHUWOUKlQtoRirQwf3%2fcauSb%2b9UuddpM%2f5p%2fO5ZmB1NkXSXrOVz1OGDD1wuhdsdmIhTXrahSoe7R1S%2fq6jGidDx0NlxQTaUePRcobYX7%2fHAoOd1PxAdj5EKb8PimNq87aSy7uCWjKsuQe7NLDJc4s7rqnXkSeprPwpHh1hPzFyv4xZsYcLVa5avR7VSDYktnNQIUXU9rUvy16g8il1PU8E4k3bAIEbJP4AJg29AlikIeA2NvLUEO1us0RtgPPvlsciWMsg%2bAfg0orX%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC DRAMA
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtyQ0AAANAPypiyF2sfPLiWNWXSxGX7FiKotSSDivHxPSfnuzZNu8fFbXNDOZRGEMC8O3uyvT%2feDU1qFszOmQ9MX9%2fMxjdspZcr8VnCPi4%2fco6QgCRa4%2fFad714nUq7wCrbIlA5wScLCfXBPg6bb3zxsrOlkyVecaqKxegmQPI%2bbbwVxe0zTDY3q3FOrMpo4zIc5xlaf%2fYCaGjXkoadpvfm0UOhA5ShBxfpbyzvBybAcQCECvEtQ0EEqQrVEVJUrFPiYs9GVD325zKTtWz4d1uoGoNCLYaXZZr%2fRMJyY%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC DRAMA HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPSilLNx0HBzpiG0sNkXCzkzFB6zaJ8vHzniF9hhfxfJxPY8JoaWFm%2b%2bEwieUX8brTm0XB%2fujcbr3zAMG4rnpe%2fMve1mws5jj5hDVqSsuq9bCzLs%2fegN1Nx022%2fjhj2tLXyANhMcsIZpD1LRuDRfwOk9Byo3gHetqHcr7yv9Js15ZLTQHoTWznd9FIdqwzxFuBr24fp324NfW141okVbEXkBLXzrbb%2bZCRhLEEAIeu%2bpmDCAqcqkDICbKiootsGlAVjj6b58vwDlvy7CdSEOUk0a3TtH%2fI7BM8%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC BOLLYWOOD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZICA8eNKlEqa5bWW9YZl26S3XjMj5%2bz7nTO1u3stY9fWg2EnZto3BpfY7vsOcEnHJGELH4u8qsbuOOTSd329YxYfLiaIOeDtToNrwEdN7hjRYBQfvie7qeCXXoURoR9%2fwzVxF%2bdDzzh1tey4vvvhJ75DMgket%2f7x1ksXBhj2Jq06CEJMc12MvTCuJPpZVI4iV85q9Jg%2baBVdZYYrUWv9eeoa%2f9UJGCsQKAiGxLFyGCkmhoEIqSqhmIqJczNKSjpNbTjidHrv4%2bvPIKu7QX8sU0%2fwHWGRan%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC MASR 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtugjAAANAPWogILdAHHtoCOoRiAxrgbYJcOjJSudr48TtnDCOCqjcSjNVLD0fZvNEo%2fdTa6DQH%2fbHxcdb9SS8PXkWa%2fbSt2s6inw9kTyGRCmQDdLqxFKEaBH8mK8I5RwoP6GbKk%2beILnU4%2fhKL5R9FFQpeZE1t4yeca8OMVDfJQ%2bTF27oYlN1gcKbh6p94N92NvMHX4YKv8PFgUq%2fgPrqfC68pWcqwvHtarn6LD7QNSg3T1OwAOxqwga4hCwBNhxayPegTgPQP2763ajF2EvSx2mPVvhKWcNf9B%2bekhIz7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC MASR 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUdygzAAAMAHMQxNQuLAASSKS1BwHAS%2bwYRi0x0IZXh8dt%2faNn6MSmMlyOeY1BSiPvfn4kKj1FYMS5KgFWk7z7A92fMWMWtDNo9UsNOV9exSP%2bP2p8teIWbBlTd%2bysvT6hawMbZ9cDHPafAALDo9pw4IuVfbWlipjSaEfiYNdUWdO622O%2f%2blkq6Qfvkif%2fA1EMaDIlni8yP2CE6%2f1SQDS2keo9NV3RSdl7d3zVC1HBCphKiaJiLXwiJAQBYNHQBRhrqBKHRsYMjH56i3kyN0M27TcTS6NbyVZDHNf6cCM%2f%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC B4U AFLAM
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSRDAAANAPmlJDRCIHB2lCrKVpbdyY1vZt%2bpCifPy8Z%2fkO%2b1nzuBFC7nl85%2b6KzEh4PU6EGYWbXLZV2mVZTFqkD%2bOm%2foKCcMshQxMpXh5TB7LzHJoQ7JyA0z0O0GucdsM7oPrf%2fZVvRRIqlvesl52szZdZ2tXiTSMQ9juaPt%2bnXvveHHA2hln6mh9DNyYPSmsW1868MbDn%2fMB8LxHTjSvhKrKV3kV3XeOtrV4aBrcbUFUJM1OXIIayRBCEkqwhgi3NppDIF09LE59gWhUqFv%2bziqCoiGkY%2f1JG%2f5v7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC ZEE Alwan
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUmugjAAANADEcLQluqCBQLt1y9TUTTuQKFFIjIJQji8793p9TB5xXjSM3fyvzEqq6cFpQZekq6nTvC3dEp9qF4ZeexzaTy%2fFu0DZ3HWi5uTpcSIvsY%2ft0hMr9f6uLRxx7SJK75gZZMXjkDG7hLth7TEmDTA0wkvQEBFntKua4W2ycIHTefne5fdPtAe%2bBPNhU%2bnZADSHAVu1M%2f3o0LYwWtYb64hOLWBymvI6BK%2fc7AirNu2DoCMibWRIYaqvDUglFVkbLGD3B3cqms1tj3zknLAgl1Ox9CijKTcNH9f82Bl%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC ZEE Aflam
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtugyAAANAPMsYbCDz4gHZYXWOtLTr75gzi6gWbijNLP37ntMT54c9rCpJDWhhSSHo5rsUyjNkc9hNPj1wTWBX3Kqzw7N1udG4RasrN2lZh2DyD9bz%2fFd43s0qVXgFoIqstSjotuTihdX49mNprXzbx9KS6xiJm5TxwJnT3C%2bucRKIXmawUM0Kk%2fbF08k5%2fvc4xfLSUjz2WZ8OiInH3PlPBm%2bip9lbmnFQ43DcZvSFyo8j1PBMxik2AgG0SHwDThj5BB%2fgRAmK%2f42whLpKttBz7glWHP32Q0CD4B%2fxfPHH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC VARIETY HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPmlJp0rQ%2bOHTsjEEYjBupxN52IuXj5z0umaaY6rLZa%2bU9PNTxEkSxi3evqdiOJVZc0%2bxv%2fnV9VNZ8ZwyvAq9kg%2fvFXQ%2bqips99n48QDNK1MUdViFzFU8bCqh9%2bWMoLqXRBkkAIjsdP28LuUmJF70iA2VVmr3I0rXzDrDppKnnj%2foxPz9zDCxjK5z89j01P7I5Kd1hrFr%2beEinHe%2fZPRu4qq2ansmbk0ecLHPXK4M0IjIQQcBgAUIG8AJGCq%2feIAZnWThhb4c0OswnXfda4EztTSTpH%2bXCsVH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC SPORT 4HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwd12QzAAAOAHcpymiDQXLgRtmUml1ZGbHf8zsdrKJo6H3%2fetDB%2f7mkLJ7dTzOul%2b8ypyo2VG0%2f3J2EihqHyCPQrKUolv80ueZ7V3wvvoWfRyFuu4I79USJEICMLa7PR2KMvkLGQQ7NzcIYki6yRIlUNFKIFLRAMK%2b2rPfZ6NXz8jD3HsNtB9c8SV0fb0CC9109nT68iHQbul6VpkIvws%2bsC3NnkW7%2fT%2bpzPwkU7oSjaINMfRdF1FR%2fugGsgAKjYNQwXQxMiFHjEw2MK%2b8lc79qOHD6mIWXNZlra1rH8KPV%2bj%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC SPORT 3HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAANy0lugzAUANADRYjpM3jBArAJFjatKgiJd4TEqAquGFImcfj27Z%2fS45XUc7fUbbkp4BsLZ%2bi9XrLram%2bZTBI046%2fnOuTbO9n1rvWn05KKAv83Tl5bvo9mdCdnN5JtufsWeaCr5PHAzE%2fbFA109VjstzHpI7M0p6mibimYT9jE5AeUl%2b%2f8hSd9Vk8xDjq97FTAacmd9AbkF%2fjjbhi2T2Fd1Fu1wVF36Q%2bK6oFQFS6bLA7Hs%2bLYsm3NS0JfAw8MDbkAmuG4yMMOiQAZx1ilVUYz3DRycjkXaXOKcRsEfzTzMuT7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC SPORT 2HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwW1zQzAAAOAf5FxzhMQHH7AYxYbMdrdvpJV5adIGVc6P3%2fPwiX3WkArVkB%2b7RZFK0nb%2fCHqDr9QuO9ZdqwKSfBpJ0hUxp2dabvGt%2bvYWPiGMnizG72SS%2fgDS86XHOVPNTV63DvNWFhEpLIM6SGhi%2fgK%2fz5ZWS63dUybGu9fK4VWo02LlnGdWDwXdCNtlvSvqw0d80aLZyErKsNqzMjRm4B5bQUoZPsxl%2fBNNtPqHhYwgMExTR6GHdYgg0B0bQh1YtoPeLOJDBxyrw9VJw2LFInmBPuBD85Kr6%2f4DMDlQz%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="", MBC SPORT 1HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jGyEdE8eKi4dAmlCOOtbtOWXYslZXz8nrMNPH5uTr%2bSovv9CQXjVrPUdBRbcS35vepFJ0%2feeK4%2bhZ%2b08itI%2bM3JFwgvK0ka2fKMWcaAchqre0CJwqvSZb49I24FQ4EMkzBFDWFKqFzbzVwYsWFrAJPJS9o2Sj143R8cZIqaOaeLm7I2H%2froXWYgY%2f3zngbua9oHMyn93NKPZWJRmImF4WzsnHQ6VA1SChVF0uzzSUIaAhLBCElAxUQzVctABBxf55qsEIb%2bx%2bT94eDxLr93InT9H3Iq3DT7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+
+
 
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
