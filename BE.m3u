@@ -1,33 +1,37 @@
 
-#EXTINF:-1, ======BELGIUM=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",~ Belgium TV ~
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",======BELGIUM=======
 http://www.lengua.com/anthems/Belgium.mp3
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg" group-title="BELGIUM",ATV (Dutch)
-http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/MNM_logo.png" group-title="BELGIUM",MNM (Dutch)
-http://live.stream.vrt.be/vrt_mnm_live/smil:vrt_mnm_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/08d35767e0675ecd4d321b8274b21ee4.jpeg" group-title="BELGIUM",Notele (French)
-http://streaming06.axeweb.be/live/direct.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (French)
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV* (French)
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://en.keywall.be/wp-content/themes/devdmbootstrap3-sasschild/img/partners/telesambre-512x512.png" group-title="BELGIUM",Telesambre (French)
-http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cache.tvl.be/tvlbe/meta/tvl.25ce1cf6.png" group-title="BELGIUM",TVL (Dutch)
-http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.frontview-magazine.be/sites/default/files/news/30843-tvo-digitext-de-nieuwe-digitale-teletekst-van-tv-oost-528130.jpg" group-title="BELGIUM",TV OOST
-http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
-
+#EXTINF:-1,BE:-LA-UNE
+http://andrtviptv.jan-beryan.giize.com/377.ts
+#EXTINF:-1,BE:-LA-DEUX
+http://andrtviptv.jan-beryan.giize.com/379.ts
+#EXTINF:-1,BE:-LA-TROIS
+http://andrtviptv.jan-beryan.giize.com/378.ts
+#EXTINF:-1,BE:-2BE-HD
+http://andrtviptv.jan-beryan.giize.com/713.ts
+#EXTINF:-1,BE:-Een
+http://andrtviptv.jan-beryan.giize.com/714.ts
+#EXTINF:-1,BE:-RTL-TVI
+http://andrtviptv.jan-beryan.giize.com/375.ts
+#EXTINF:-1,BE:-PLUG-RTL
+http://andrtviptv.jan-beryan.giize.com/376.ts
+#EXTINF:-1,BE:-CLUB-RTL
+http://andrtviptv.jan-beryan.giize.com/380.ts
+#EXTINF:-1,BE:-Vitaya
+http://andrtviptv.jan-beryan.giize.com/698.ts
+#EXTINF:-1,BE:-Vier
+http://andrtviptv.jan-beryan.giize.com/697.ts
+#EXTINF:-1,BE:_TV_OOST
+http://andrtviptv.jan-beryan.giize.com/3711.ts
+#EXTINF:-1,BE:_TVL
+http://andrtviptv.jan-beryan.giize.com/3710.ts
+#EXTINF:-1,BE:_Telesambre
+http://andrtviptv.jan-beryan.giize.com/3709.ts
+#EXTINF:-1,BE:_NRJ_Hits_TV
+http://andrtviptv.jan-beryan.giize.com/3708.ts
+#EXTINF:-1,BE:_Notele
+http://andrtviptv.jan-beryan.giize.com/3707.ts
+#EXTINF:-1,BE:_ATV
+http://andrtviptv.jan-beryan.giize.com/3706.ts
