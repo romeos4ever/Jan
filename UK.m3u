@@ -1,84 +1,97 @@
 
 
-#EXTINF:-1, ======UK=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",======UK=======
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
-
-#EXTINF:-1 tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png" group-title="UK",BBC News [Off]
-http://user:asdqwe@rel4.european-iptv.com:81/8144
-
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio One
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio Two
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-
-#EXTINF:-1 tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio Four
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News*
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png" group-title="UK",Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" group-title="UK",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg" group-title="UK",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
-http://185.142.239.164:3135/BT/Espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK",BT Sport 3
-http://185.142.239.164:3135/BT/3/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
-http://185.142.239.164:3135/Euro/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="UK",Eurosport 2
-http://185.142.239.164:3135/Euro/2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg" group-title="UK",Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Style
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Beauty
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 2
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 3
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 4
-#EXTINF:0 group-title="UK", QVC 4
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" group-title="UK",IdealWorld
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:-1,========|||-SKY-UK-|||========
+http://andrtviptv.jan-beryan.giize.com/606.ts
+#EXTINF:-1,UK:-Animal-Planet
+http://andrtviptv.jan-beryan.giize.com/1207.ts
+#EXTINF:-1,UK:-BBC-1
+http://andrtviptv.jan-beryan.giize.com/1221.ts
+#EXTINF:-1,UK:-BBC-2
+http://andrtviptv.jan-beryan.giize.com/1220.ts
+#EXTINF:-1,UK:-BBC-3HD
+http://andrtviptv.jan-beryan.giize.com/1502.ts
+#EXTINF:-1,UK:-BBC-4
+http://andrtviptv.jan-beryan.giize.com/1219.ts
+#EXTINF:-1,UK:-BBC-NEWS
+http://andrtviptv.jan-beryan.giize.com/1218.ts
+#EXTINF:-1,UK:-BT-Sport-1
+http://andrtviptv.jan-beryan.giize.com/1189.ts
+#EXTINF:-1,UK:-BT-Sports-2
+http://andrtviptv.jan-beryan.giize.com/1190.ts
+#EXTINF:-1,UK:-Cartoon-NetWork
+http://andrtviptv.jan-beryan.giize.com/1226.ts
+#EXTINF:-1,UK:-Comedy-Central
+http://andrtviptv.jan-beryan.giize.com/1205.ts
+#EXTINF:-1,UK:-Discovery
+http://andrtviptv.jan-beryan.giize.com/1213.ts
+#EXTINF:-1,UK:-Discovery-History
+http://andrtviptv.jan-beryan.giize.com/1212.ts
+#EXTINF:-1,UK:-Discovery-Science
+http://andrtviptv.jan-beryan.giize.com/1210.ts
+#EXTINF:-1,UK:-Discovery-Turbo
+http://andrtviptv.jan-beryan.giize.com/1211.ts
+#EXTINF:-1,UK:-Disney-Channel
+http://andrtviptv.jan-beryan.giize.com/1225.ts
+#EXTINF:-1,UK:-Disney-Junior
+http://andrtviptv.jan-beryan.giize.com/1224.ts
+#EXTINF:-1,UK:-DisneyXD
+http://andrtviptv.jan-beryan.giize.com/1223.ts
+#EXTINF:-1,UK:-Fox
+http://andrtviptv.jan-beryan.giize.com/1216.ts
+#EXTINF:-1,UK:-History
+http://andrtviptv.jan-beryan.giize.com/1209.ts
+#EXTINF:-1,UK:-ITV1
+http://andrtviptv.jan-beryan.giize.com/2322.ts
+#EXTINF:-1,UK:-ITV2
+http://andrtviptv.jan-beryan.giize.com/2321.ts
+#EXTINF:-1,UK:-ITV3
+http://andrtviptv.jan-beryan.giize.com/2320.ts
+#EXTINF:-1,UK:-NATIONAL-GEOGRAPHIC
+http://andrtviptv.jan-beryan.giize.com/1215.ts
+#EXTINF:-1,UK:-National-Geography-Wild
+http://andrtviptv.jan-beryan.giize.com/1214.ts
+#EXTINF:-1,UK:-NICK.JR
+http://andrtviptv.jan-beryan.giize.com/2315.ts
+#EXTINF:-1,UK:-Nicktoons
+http://andrtviptv.jan-beryan.giize.com/1222.ts
+#EXTINF:-1,UK:-Racing
+http://andrtviptv.jan-beryan.giize.com/1192.ts
+#EXTINF:-1,UK:-Setanta-Sport
+http://andrtviptv.jan-beryan.giize.com/1185.ts
+#EXTINF:-1,UK:-Sky-Comedy
+http://andrtviptv.jan-beryan.giize.com/1201.ts
+#EXTINF:-1,UK:-Sky-Family
+http://andrtviptv.jan-beryan.giize.com/1200.ts
+#EXTINF:-1,UK:-Sky-Living
+http://andrtviptv.jan-beryan.giize.com/1199.ts
+#EXTINF:-1,UK:-Sky-Movies-Action
+http://andrtviptv.jan-beryan.giize.com/1198.ts
+#EXTINF:-1,UK:-Sky-Movies-Disney-HD
+http://andrtviptv.jan-beryan.giize.com/1197.ts
+#EXTINF:-1,UK:-Sky-Movies-Drama
+http://andrtviptv.jan-beryan.giize.com/1196.ts
+#EXTINF:-1,UK:-Sky-Movies-Great
+http://andrtviptv.jan-beryan.giize.com/1195.ts
+#EXTINF:-1,UK:-Sky-Movies-Premiere
+http://andrtviptv.jan-beryan.giize.com/1194.ts
+#EXTINF:-1,UK:-Sky-Movies-ShowCase
+http://andrtviptv.jan-beryan.giize.com/1193.ts
+#EXTINF:-1,UK:-SKY-SPORT-1-HD
+http://andrtviptv.jan-beryan.giize.com/1179.ts
+#EXTINF:-1,UK:-Sky-SPORT-2-HD
+http://andrtviptv.jan-beryan.giize.com/1180.ts
+#EXTINF:-1,UK:-Sky-Sport-3-HD
+http://andrtviptv.jan-beryan.giize.com/1181.ts
+#EXTINF:-1,UK:-Sky-Sport-4-HD
+http://andrtviptv.jan-beryan.giize.com/1182.ts
+#EXTINF:-1,UK:-Sky-SPORT-5-HD
+http://andrtviptv.jan-beryan.giize.com/1183.ts
+#EXTINF:-1,UK:-Sky-Sports-F1
+http://andrtviptv.jan-beryan.giize.com/1184.ts
+#EXTINF:-1,UK:-Sky-Sports-News-HQ
+http://andrtviptv.jan-beryan.giize.com/1178.ts
+#EXTINF:-1,UK:-True-Movies-2
+http://andrtviptv.jan-beryan.giize.com/1203.ts
