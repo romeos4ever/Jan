@@ -1,209 +1,75 @@
 
 
 
-
-#EXTINF:-1, ======NETHERLANDS=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",~ Netherlands TV ~
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",======NETHERLANDS=======
 http://www.lengua.com/anthems/Netherlands.mp3
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/AT5_Logo.png" group-title="NETHERLANDS",AT5
-http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.omropfryslan.nl/data/files/imagenodes/Klipkar_tv_logo_banner_nijesite.JPG" group-title="NETHERLANDS",Klipkar TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/nl/RTVNH.png" group-title="NETHERLANDS",NH
-http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.allradio.nl/uploaded/logo/omroep-brabant.jpg" group-title="NETHERLANDS",Omroep Brabant
-http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_tv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433029724235776000/UHkbwjpY.png" group-title="NETHERLANDS",Omroep Ede
-http://live.streamone.nl/livestream/yEr2XzzAi311/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.noviafacts.nl/wp-content/uploads/2015/01/Portfolio_omroep_flevoland-1170x780.jpg" group-title="NETHERLANDS",Omroep Flevoland
-http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dedemsvaartnatuurlijk.nl/wp-content/uploads/2017/03/1280X720img-high14157239851418.jpg" group-title="NETHERLANDS",Omroep NOOS
-http://cdn25.streampartner.nl:1935/detorenhberg/live/chunklist_w1331231895.m3u8
-
-#EXTINF:-1 tvg-logo="http://imgw.rgcdn.nl/819f34dadc124c9faccf2793e5710096/opener/Omroep-West.jpg" group-title="NETHERLANDS",Omroep West
-http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://static3.omroepzeeland.nl/sites/all/themes/omroepzeeland/logo.png" group-title="NETHERLANDS",Omroep Zeeland
-http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/kSr7t6X7l.png" group-title="NETHERLANDS",RTV Drenthe
-http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.nrc.nl/FuZApxT5P6e1cqPM9CT767tUpLA=/1280x/s3/static.nrc.nl/wp-content/uploads/2016/10/rtv-rijnmond.jpg" group-title="NETHERLANDS",RTV Rijnmond
-http://d1eexm99gmxi2a.cloudfront.net/live/rijnmond/ngrp:TV-Rijnmond_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://opsterland.d66.nl/content/uploads/sites/185/2014/03/omrop_logo.png" group-title="NETHERLANDS",Omrop Fryslan
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtvpurmerend.nl/assets/basic-newsportal/img/logo/rtvpurmerend.png" group-title="NETHERLANDS",RTV Purmerend
-http://wowza.pmedia74.kpnstreaming.nl/pi6atvlive/rtvpurm/chunklist_w2047641916.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",Slam! TV
-http://hls2.slamfm.nl/content/slamtv/slamtv.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",Slam! TV*
-http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.538.nl/social_share.png" group-title="NETHERLANDS",TV 538
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,Eurosport 1 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/764.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Eurosport 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/763.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film1 Premiere FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/762.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/41.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX Sports 1 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/761.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/42.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX Sports 2 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/760.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/43.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX Sports 3 HD ( 1080P )
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/753.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/44.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 4 HD ( 1080P )
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/755.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/45.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 5 HD ( 1080P )
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/754.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Fox Sports 6
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/46.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nat Geo Wild FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/759.m3u8$http-refferer=http://localhost
-#EXTINF:-1,National Geographic FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/758.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Net 5 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/757.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/765.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 2 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/766.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 3 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/767.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 4 FHD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/768.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 5 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/769.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 7 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/770.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 8 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/771.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SBS 9
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/772.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SBS6 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/756.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sport 1 Voetbal
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/773.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Veronica / Disney XD FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/774.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport Select FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/775.m3u8$http-refferer=http://localhost
-#EXTINF:-1,13th
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/713.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Animal Planet
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/714.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Boomerang
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/715.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Comedy Central
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/716.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/717.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/718.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film1 Action
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/719.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film1 Comedy & Kids
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/720.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film1 Premiere
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/721.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film1 Spotlight
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/722.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Film1 SUNDANCE
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/723.m3u8$http-refferer=http://localhost
-#EXTINF:-1,FOX Channel
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/724.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HBO
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/725.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HBO 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/726.m3u8$http-refferer=http://localhost
-#EXTINF:-1,HBO2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/727.m3u8$http-refferer=http://localhost
-#EXTINF:-1,History
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/728.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Investigation Discovery
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/729.m3u8$http-refferer=http://localhost
-#EXTINF:-1,JimJam
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/730.m3u8$http-refferer=http://localhost
-#EXTINF:-1,National Geographic
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/732.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NET 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/731.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nick Jr
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/733.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nickelodeon
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/734.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/735.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/736.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/737.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/738.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 5
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/739.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 7
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/740.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL 8
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/741.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL lounge
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/742.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SBS 6
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/743.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SYFY
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/744.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TLC
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/745.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Veronica Disney XD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/746.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport Extra1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/747.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport Extra2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/748.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport Golf
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/749.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport Racing
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/750.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport Select HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/751.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Ziggo Sport.Voetbal
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/752.m3u8$http-refferer=http://localhost
-
+#EXTINF:-1,NL:-HBO-1
+http://andrtviptv.jan-beryan.giize.com/337.ts
+#EXTINF:-1,NL:-HBO-2
+http://andrtviptv.jan-beryan.giize.com/338.ts
+#EXTINF:-1,NL:-HBO-3
+http://andrtviptv.jan-beryan.giize.com/1512.ts
+#EXTINF:-1,NL:-NPO-1
+http://andrtviptv.jan-beryan.giize.com/340.ts
+#EXTINF:-1,NL:-NPO-2
+http://andrtviptv.jan-beryan.giize.com/341.ts
+#EXTINF:-1,NL:-NPO-3
+http://andrtviptv.jan-beryan.giize.com/342.ts
+#EXTINF:-1,NL:-RTL-4
+http://andrtviptv.jan-beryan.giize.com/343.ts
+#EXTINF:-1,NL:-RTL-5
+http://andrtviptv.jan-beryan.giize.com/344.ts
+#EXTINF:-1,NL:-SBS-6
+http://andrtviptv.jan-beryan.giize.com/347.ts
+#EXTINF:-1,NL:-RTL-7
+http://andrtviptv.jan-beryan.giize.com/345.ts
+#EXTINF:-1,NL:-RTL-8
+http://andrtviptv.jan-beryan.giize.com/346.ts
+#EXTINF:-1,NL:-SBS9
+http://andrtviptv.jan-beryan.giize.com/348.ts
+#EXTINF:-1,NL:-FOX
+http://andrtviptv.jan-beryan.giize.com/381.ts
+#EXTINF:-1,NL:-FILM-1-ACTION
+http://andrtviptv.jan-beryan.giize.com/353.ts
+#EXTINF:-1,NL:-FILM-1-PREMIER-HD
+http://andrtviptv.jan-beryan.giize.com/351.ts
+#EXTINF:-1,NL:-Film-1-Comedy
+http://andrtviptv.jan-beryan.giize.com/1511.ts
+#EXTINF:-1,NL:-FILM-1-SUNDANCE
+http://andrtviptv.jan-beryan.giize.com/350.ts
+#EXTINF:-1,NL:-FILM-1-COMEDY-KIDS
+http://andrtviptv.jan-beryan.giize.com/352.ts
+#EXTINF:-1,========|||-NEDERLAND-SPORTS-|||========
+http://andrtviptv.jan-beryan.giize.com/410.ts
+#EXTINF:-1,NL:-Ziggo-Sport-Select-HD
+http://andrtviptv.jan-beryan.giize.com/1524.ts
+#EXTINF:-1,NL:-Ziggo-Sport-Extra1
+http://andrtviptv.jan-beryan.giize.com/1520.ts
+#EXTINF:-1,NL:-Ziggo-Sport-Extra2
+http://andrtviptv.jan-beryan.giize.com/1521.ts
+#EXTINF:-1,NL:-Ziggo-Sport-Racing
+http://andrtviptv.jan-beryan.giize.com/1523.ts
+#EXTINF:-1,NL:-Ziggo-Sport-Golf
+http://andrtviptv.jan-beryan.giize.com/1522.ts
+#EXTINF:-1,NL:-FOX-SPORTS-1
+http://andrtviptv.jan-beryan.giize.com/382.ts
+#EXTINF:-1,NL:-FOX-SPORTS-2
+http://andrtviptv.jan-beryan.giize.com/383.ts
+#EXTINF:-1,NL:-FOX-SPORTS-3
+http://andrtviptv.jan-beryan.giize.com/384.ts
+#EXTINF:-1,NL:-Fox-Sports-4
+http://andrtviptv.jan-beryan.giize.com/1517.ts
+#EXTINF:-1,NL:-Fox-Sports-5
+http://andrtviptv.jan-beryan.giize.com/1518.ts
+#EXTINF:-1,NL:-Fox-Sports-6
+http://andrtviptv.jan-beryan.giize.com/1519.ts
+#EXTINF:-1,NL:-Veronica-DisneyXD-HD
+http://andrtviptv.jan-beryan.giize.com/1516.ts
+#EXTINF:-1,NL:_Comedy_Central
+http://andrtviptv.jan-beryan.giize.com/2626.ts
+#EXTINF:-1,NL:_Ziggo_Sport
+http://andrtviptv.jan-beryan.giize.com/2621.ts
+#EXTINF:-1,NL:_ZiggoSport_Voetbal
+http://andrtviptv.jan-beryan.giize.com/2622.ts
+#EXTINF:-1,NL:-NET5
+http://andrtviptv.jan-beryan.giize.com/2590.ts
