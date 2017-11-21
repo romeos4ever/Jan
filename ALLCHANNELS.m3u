@@ -109,7 +109,7 @@ http://andrtviptv.jan-beryan.giize.com/914.ts
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 #EXTINF:-1,BEIN DRAMA
-http://1336129131.rsc.cdn77.org/beIN_Baraem/index.m3u8
+http://1336129131.rsc.cdn77.org/beindrama/index.m3u8
 #EXTINF:-1,BEIN FX
 http://1336129131.rsc.cdn77.org/BEIN_FX_HD/index.m3u8
 #EXTINF:-1,BEIN:SERIE.1.HD
