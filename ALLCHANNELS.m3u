@@ -46,138 +46,223 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]يحتاج الى انترنت قوي=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,OSN:Discovery.ScienceHD
-http://andrtviptv2.jan-beryan.giize.com/3447.ts
-#EXTINF:-1,MY-HD:FIX.FOXI
-http://andrtviptv2.jan-beryan.giize.com/4371.ts
-#EXTINF:-1,OSN:FJ
-http://andrtviptv2.jan-beryan.giize.com/4372.ts
-#EXTINF:-1,OSN:OutDoor
-http://andrtviptv2.jan-beryan.giize.com/4374.ts
-#EXTINF:-1,OSN:Cinema-1-HD
-http://andrtviptv2.jan-beryan.giize.com/1267.ts
-#EXTINF:-1,OSN:Cinema-2-HD
-http://andrtviptv2.jan-beryan.giize.com/1265.ts
-#EXTINF:-1,OSN:Movies-HD.2h
-http://andrtviptv2.jan-beryan.giize.com/1232.ts
-#EXTINF:-1,OSN:Movies-Festival-HD.
-http://andrtviptv2.jan-beryan.giize.com/1233.ts
-#EXTINF:-1,OSN:Movies_Action+2
-http://andrtviptv2.jan-beryan.giize.com/1266.ts
-#EXTINF:-1,OSN:Movie_Box
-http://andrtviptv2.jan-beryan.giize.com/1260.ts
-#EXTINF:-1,OSN:Movies- FIRST-HD
-http://andrtviptv2.jan-beryan.giize.com/1255.ts
-#EXTINF:-1,OSN:Movie-kids-HD
-http://andrtviptv2.jan-beryan.giize.com/1262.ts
-#EXTINF:-1,OSN:MOVIES-PREMIER2
-http://andrtviptv2.jan-beryan.giize.com/1257.ts
-#EXTINF:-1,OSN:Movies-Demand.EXTRA
-http://andrtviptv2.jan-beryan.giize.com/1258.ts
-#EXTINF:-1,OSN:Movies-Action-HD
-http://andrtviptv2.jan-beryan.giize.com/1261.ts
-#EXTINF:-1,OSN:MOVIES.HD
-http://andrtviptv2.jan-beryan.giize.com/1254.ts
-#EXTINF:-1,OSN:MOVIES_COMEDY
-http://andrtviptv2.jan-beryan.giize.com/1229.ts
-#EXTINF:-1,OSN:YAHALA
-http://andrtviptv2.jan-beryan.giize.com/1256.ts
-#EXTINF:-1,OSN:Yahala.Oula.2h
-http://andrtviptv2.jan-beryan.giize.com/2738.ts
-#EXTINF:-1,OSN:YaHala-AlOula_HD
-http://andrtviptv2.jan-beryan.giize.com/1252.ts
-#EXTINF:-1,OSN:YaHala!-CINEMA-HD
-http://andrtviptv2.jan-beryan.giize.com/1230.ts
-#EXTINF:-1,OSN:First.HD
-http://andrtviptv2.jan-beryan.giize.com/2866.ts
-#EXTINF:-1,OSN:First.HOME.OF.HBO
-http://andrtviptv2.jan-beryan.giize.com/1263.ts
-#EXTINF:-1,OSN:STAR_GOULD
-http://andrtviptv2.jan-beryan.giize.com/2880.ts
-#EXTINF:-1,OSN:MusalsalatHD
-http://andrtviptv2.jan-beryan.giize.com/2871.ts
-#EXTINF:-1,MY-HD.MBC+Drama.HD
-http://andrtviptv2.jan-beryan.giize.com/2867.ts
-#EXTINF:-1,|BEIN|.FATAFEAT.HD
-http://andrtviptv2.jan-beryan.giize.com/2827.ts
-#EXTINF:-1,OSN:AL.YAWM
-http://andrtviptv2.jan-beryan.giize.com/2830.ts
-#EXTINF:-1,OSN:AL.SAFWA
-http://andrtviptv2.jan-beryan.giize.com/2831.ts
-#EXTINF:-1,OSN:Animal-Planet-HD
-http://andrtviptv2.jan-beryan.giize.com/1237.ts
-#EXTINF:-1,OSN:FIRST.COMEDY
-http://andrtviptv2.jan-beryan.giize.com/1264.ts
-#EXTINF:-1,OSN:Demand -HD
-http://andrtviptv2.jan-beryan.giize.com/1259.ts
-#EXTINF:-1,OSN:WWE
-http://andrtviptv2.jan-beryan.giize.com/1227.ts
-#EXTINF:-1,OSN:OFFICBOX1
-http://andrtviptv2.jan-beryan.giize.com/1889.ts
-#EXTINF:-1,OSN:OFFICBOX2
-http://andrtviptv2.jan-beryan.giize.com/1890.ts
-#EXTINF:-1,OSN:OFFICBOX3
-http://andrtviptv2.jan-beryan.giize.com/1891.ts
-#EXTINF:-1,OSN:ONDEMANDEEXTRA1
-http://andrtviptv2.jan-beryan.giize.com/2893.ts
-#EXTINF:-1,OSN:ONDEMANDEEXTRA2
-http://andrtviptv2.jan-beryan.giize.com/2891.ts
-#EXTINF:-1,OSN:ONDEMANDEEXTRA3
-http://andrtviptv2.jan-beryan.giize.com/2892.ts
-#EXTINF:-1,OSN:Sport.1
-http://andrtviptv2.jan-beryan.giize.com/1662.ts
-#EXTINF:-1,OSN:Sport.2
-http://andrtviptv2.jan-beryan.giize.com/1663.ts
-#EXTINF:-1,OSN:Sport.3
-http://andrtviptv2.jan-beryan.giize.com/1664.ts
-#EXTINF:-1,OSN:Sport.4
-http://andrtviptv2.jan-beryan.giize.com/1665.ts
-#EXTINF:-1,OSN:Nat.Geo.People
-http://andrtviptv2.jan-beryan.giize.com/3129.ts
-#EXTINF:-1,OSN:Nat_Geo_Wild_HD
-http://andrtviptv2.jan-beryan.giize.com/3128.ts
-#EXTINF:-1,OSN:Disney.Channel
-http://andrtviptv2.jan-beryan.giize.com/4152.ts
-#EXTINF:-1,OSN:Disney.ChannelHD
-http://andrtviptv2.jan-beryan.giize.com/3446.ts
-#EXTINF:-1,OSN:Fann
-http://andrtviptv2.jan-beryan.giize.com/3449.ts
-#EXTINF:-1,OSN:Fight.Network.HD
-http://andrtviptv2.jan-beryan.giize.com/3444.ts
-#EXTINF:-1,OSN:Food.Networ
-http://andrtviptv2.jan-beryan.giize.com/3623.ts
-#EXTINF:-1,OSN:Food.Network
-http://andrtviptv2.jan-beryan.giize.com/3445.ts
-#EXTINF:-1,OSN:Movie.Family
-http://andrtviptv2.jan-beryan.giize.com/4153.ts
-#EXTINF:-1,OSN:Movie.THRILLER
-http://andrtviptv2.jan-beryan.giize.com/4150.ts
-#EXTINF:-1,OSN:Movies.AMC
-http://andrtviptv2.jan-beryan.giize.com/4151.ts
-#EXTINF:-1,OSN:Nat.Geo.HD
-http://andrtviptv2.jan-beryan.giize.com/4216.ts
-#EXTINF:-1,OSN:ONDEMAND1
-http://andrtviptv2.jan-beryan.giize.com/3115.ts
-#EXTINF:-1,OSN:ONDEMANDE2
-http://andrtviptv2.jan-beryan.giize.com/3113.ts
-#EXTINF:-1,OSN:ONDEMANDE3
-http://andrtviptv2.jan-beryan.giize.com/3114.ts
-#EXTINF:-1,OSN:SeeVii BEELINK
-http://andrtviptv2.jan-beryan.giize.com/3108.ts
-#EXTINF:-1,OSN:SeeVii DRAMA
-http://andrtviptv2.jan-beryan.giize.com/3109.ts
-#EXTINF:-1,OSN:SeeVii SHAMIYA
-http://andrtviptv2.jan-beryan.giize.com/3111.ts
-#EXTINF:-1,OSN:SeeVii.Al Aoula_HD
-http://andrtviptv2.jan-beryan.giize.com/3716.ts
-#EXTINF:-1,OSN:Sports.Cricket.HD
-http://andrtviptv2.jan-beryan.giize.com/4223.ts
-#EXTINF:-1,OSN:Star-Movies
-http://andrtviptv2.jan-beryan.giize.com/1234.ts
-#EXTINF:-1,OSN:Star.Movies.HD
-http://andrtviptv2.jan-beryan.giize.com/1146.ts
-#EXTINF:-1,OSN:Ten.Cricket.International
-http://andrtviptv2.jan-beryan.giize.com/4224.ts
+#EXTINF:-1,AR | *OSN Movie Drama HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11779.ts
+#EXTINF:-1,AR | *OSN OSN Movies HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11786.ts
+#EXTINF:-1,AR | *OSN OSN SPORT FIGHTNETWORK
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11784.ts
+#EXTINF:-1,AR | *OSN Nat Geo Abu Dhabi
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11783.ts
+#EXTINF:-1,AR | *OSN OSN SyFy HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11782.ts
+#EXTINF:-1,AR | *OSN OSN TLC HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11781.ts
+#EXTINF:-1,AR | *Bein Movies 4 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11791.ts
+#EXTINF:-1,AR | *OSN Star World HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11448.ts
+#EXTINF:-1,AR | *OSN Star Movies HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11449.ts
+#EXTINF:-1,AR | *OSN Sports 3 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11470.ts
+#EXTINF:-1,AR | *OSN Sports 2 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11471.ts
+#EXTINF:-1,AR | *OSN Sports 1 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11472.ts
+#EXTINF:-1,AR | *OSN OSN Yahala Drama HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11450.ts
+#EXTINF:-1,AR | Rotana Cinema
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11462.ts
+#EXTINF:-1,AR | *OSN YAHALA CINEMA HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11463.ts
+#EXTINF:-1,AR | Rotana Massrya
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11464.ts
+#EXTINF:-1,AR | *OSN CN
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11466.ts
+#EXTINF:-1,AR | *OSN Boxoffice 3
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11467.ts
+#EXTINF:-1,AR | Rotana Clip
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/11468.ts
+#EXTINF:-1,AR | OSN Movies Premier   2 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8928.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8929.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8931.ts
+#EXTINF:-1,AR | OSN Movies Comedy 2 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8932.ts
+#EXTINF:-1,AR | OSN Box Office 1
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8924.ts
+#EXTINF:-1,AR | OSN Movie Festival HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8941.ts
+#EXTINF:-1,AR | OSN  Ya Hala! Cinema HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8942.ts
+#EXTINF:-1,AR | OSN  Ya Hala! HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8943.ts
+#EXTINF:-1,AR | Dubai Sports 3
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8847.ts
+#EXTINF:-1,AR | OSN Movies HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8056.ts
+#EXTINF:-1,AR | OSN MOVIES Action
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/8059.ts
+#EXTINF:-1,AR | OSN Al Safwa ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13263.ts
+#EXTINF:-1,AR | OSN Al Yawm ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13262.ts
+#EXTINF:-1,AR | OSN Animal Planet ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13261.ts
+#EXTINF:-1,AR | OSN Baby ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13260.ts
+#EXTINF:-1,AR | OSN Box Office 1 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13259.ts
+#EXTINF:-1,AR | OSN Box Office 2 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13258.ts
+#EXTINF:-1,AR | OSN Box Office 3 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13257.ts
+#EXTINF:-1,AR | OSN CNN ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13255.ts
+#EXTINF:-1,AR | OSN Comedy Central ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13254.ts
+#EXTINF:-1,AR | OSN Diney Junior ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13253.ts
+#EXTINF:-1,AR | OSN Discovery HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13252.ts
+#EXTINF:-1,AR | OSN Discovery History ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13251.ts
+#EXTINF:-1,AR | OSN Discovery Science ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13250.ts
+#EXTINF:-1,AR | OSN Discovery Xtra ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13249.ts
+#EXTINF:-1,AR | OSN Disney Channel ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13248.ts
+#EXTINF:-1,AR | OSN Disney XD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13247.ts
+#EXTINF:-1,AR | OSN E! ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13246.ts
+#EXTINF:-1,AR | OSN Fann ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13245.ts
+#EXTINF:-1,AR | OSN FataFeat ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13244.ts
+#EXTINF:-1,AR | OSN Fight Network ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13243.ts
+#EXTINF:-1,AR | OSN Fine Living ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13242.ts
+#EXTINF:-1,AR | OSN First HBO ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13241.ts
+#EXTINF:-1,AR | OSN Food Network ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13240.ts
+#EXTINF:-1,AR | OSN Fox News HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13239.ts
+#EXTINF:-1,AR | OSN H2 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13237.ts
+#EXTINF:-1,AR | OSN History 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13236.ts
+#EXTINF:-1,AR | OSN IDX ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13235.ts
+#EXTINF:-1,AR | OSN ITV Choice ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13234.ts
+#EXTINF:-1,AR | OSN JimJam ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13233.ts
+#EXTINF:-1,AR | OSN MBC   Drama HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13231.ts
+#EXTINF:-1,AR | OSN MBC Variety HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13232.ts
+#EXTINF:-1,AR | OSN Movie 1 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13230.ts
+#EXTINF:-1,AR | OSN Movie 2 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13229.ts
+#EXTINF:-1,AR | OSN Movie Action 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13228.ts
+#EXTINF:-1,AR | OSN Movie Action 2 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13227.ts
+#EXTINF:-1,AR | OSN Movie Comedy ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13226.ts
+#EXTINF:-1,AR | OSN Movie Drama 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13225.ts
+#EXTINF:-1,AR | OSN Movie Drama 2 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13224.ts
+#EXTINF:-1,AR | OSN Movie Family ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13223.ts
+#EXTINF:-1,AR | OSN Movie Festival ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13222.ts
+#EXTINF:-1,AR | OSN Movie Kids ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13221.ts
+#EXTINF:-1,AR | OSN Movie Premier 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13220.ts
+#EXTINF:-1,AR | OSN Movie Premier 2 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13219.ts
+#EXTINF:-1,AR | OSN Nat Geo HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13218.ts
+#EXTINF:-1,AR | OSN Nat Geo People HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13217.ts
+#EXTINF:-1,AR | OSN Nat Geo Wild HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13216.ts
+#EXTINF:-1,AR | OSN Nick Junior ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13215.ts
+#EXTINF:-1,AR | OSN Nickelodeon ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13214.ts
+#EXTINF:-1,AR | OSN ON Demande 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13213.ts
+#EXTINF:-1,AR | OSN ON Demande 2 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13212.ts
+#EXTINF:-1,AR | OSN ON Demande 3 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13211.ts
+#EXTINF:-1,AR | OSN Orbit Cinema 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13210.ts
+#EXTINF:-1,AR | OSN Orbit Cinema 2 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13209.ts
+#EXTINF:-1,AR | OSN Outdoor ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13208.ts
+#EXTINF:-1,AR | OSN SeeVii Al Aoula HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13207.ts
+#EXTINF:-1,AR | OSN SeeVii Beelink HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13206.ts
+#EXTINF:-1,AR | OSN SeeVii Drama HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13205.ts
+#EXTINF:-1,AR | OSN SeeVii Shamiya HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13204.ts
+#EXTINF:-1,AR | OSN Series   2 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13203.ts
+#EXTINF:-1,AR | OSN Series Comedy 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13202.ts
+#EXTINF:-1,AR | OSN Series Comedy 2 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13201.ts
+#EXTINF:-1,AR | OSN Series First 1 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13200.ts
+#EXTINF:-1,AR | OSN SeeVii Drama
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13199.ts
+#EXTINF:-1,AR | FOX ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13198.ts
+#EXTINF:-1,AR | OSN Sport 1 Action ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13197.ts
+#EXTINF:-1,AR | OSN Sport 2 Action ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13196.ts
+#EXTINF:-1,AR | OSN Sport 3 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13195.ts
+#EXTINF:-1,AR | OSN Sport 4 ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13194.ts
+#EXTINF:-1,AR | OSN Sport Cricket HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13193.ts
+#EXTINF:-1,AR | OSN Star Movie ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13192.ts
+#EXTINF:-1,AR | OSN Star World ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13191.ts
+#EXTINF:-1,AR | OSN SyFy ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13189.ts
+#EXTINF:-1,AR | OSN TLC ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13188.ts
+#EXTINF:-1,AR | OSN Travel ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13186.ts
+#EXTINF:-1,AR | OSN WWE Network ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13185.ts
+#EXTINF:-1,AR | OSN Ya Hala 1 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13184.ts
+#EXTINF:-1,AR | OSN Ya Hala 2 HD ARB
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/13183.ts
+
+
+
 
 
 
@@ -185,34 +270,24 @@ http://andrtviptv2.jan-beryan.giize.com/4224.ts
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 
-#EXTINF:-1,|BEIN|.Nat.Geo.PeopleHD
-http://andrtviptv2.jan-beryan.giize.com/3955.ts
-#EXTINF:-1,|BEIN|.Nat.Geo.Wild HD
-http://andrtviptv2.jan-beryan.giize.com/3954.ts
-#EXTINF:-1,|BEIN|.DREAMWORKS_HD
-http://andrtviptv2.jan-beryan.giize.com/3710.ts
-#EXTINF:-1,|BEIN|.BeinHDSERIE1
-http://andrtviptv2.jan-beryan.giize.com/3704.ts
-#EXTINF:-1,L.BEIN: beIN.GOURMET.HD
-http://andrtviptv2.jan-beryan.giize.com/4840.ts
-#EXTINF:-1,|BEIN|.FOX.FAMILY
-http://andrtviptv2.jan-beryan.giize.com/3709.ts
-#EXTINF:-1,|BEIN|.FOX.MOVIES.HD
-http://andrtviptv2.jan-beryan.giize.com/3713.ts
-#EXTINF:-1,|BEIN|.FOX.ACTION
-http://andrtviptv2.jan-beryan.giize.com/3711.ts
-#EXTINF:-1,|BEIN|.FX.HD
-http://andrtviptv2.jan-beryan.giize.com/3715.ts
-#EXTINF:-1,L.BEIN:FOX.HD
-http://andrtviptv2.jan-beryan.giize.com/4440.ts
-#EXTINF:-1,L.BEIN:Outdoor.HD
-http://andrtviptv2.jan-beryan.giize.com/4441.ts
-#EXTINF:-1,|BEIN|.STARWORLD.HD
-http://andrtviptv2.jan-beryan.giize.com/3644.ts
-#EXTINF:-1,|BEIN|.STARMOVIES_HD
-http://andrtviptv2.jan-beryan.giize.com/3799.ts
-#EXTINF:-1,|BEIN|.ANIMALPLANET
-http://andrtviptv2.jan-beryan.giize.com/3978.ts
+#EXTINF:-1,AR | beIN Fatafeat HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/14314.ts
+#EXTINF:-1,AR | beIN Groummet HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/14313.ts
+#EXTINF:-1,AR | beIN Series 1 HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/14317.ts
+#EXTINF:-1,AR | Fox Action Movies HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/14316.ts
+#EXTINF:-1,AR | Fox Family Movies HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/14315.ts
+#EXTINF:-1,AR | beIN DreamWorks HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/15579.ts
+#EXTINF:-1,AR | BeIN AMC HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/15595.ts
+#EXTINF:-1,AR | beIN JEEM HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/15581.ts
+#EXTINF:-1,AR | beIN Junior HD
+http://62.210.248.96:11000/live/Cristian_paidch/cnRwqFr1vV78rfg/15580.ts
 #EXTINF:-1 tvg-logo="", BeIN Movies 1HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhhijAEOHAiJ0QqILZveKouClCA7Dh%2ff95bEPKdZ4vo%2f0%2b3Zv0e2MfWP%2fbfE3SHj37z2iLTAh5h9XiriRJQ04sV823esWs7tQEvNvl5DBw6wGTI%2bvB4pzqnkvTfbwf6ir0BMoUKzCyYpE3N%2bfbdQ%2bxSOCZhyr2kFud%2bfnTGPpuRwsFpwRCDpUvHravdWKmKGmScSVE%2fd3e1NzVibYnaR1%2fo8IvZ41J%2frToWWBbdbWd2bmoxUBGQdIySDHdZVumME6WD18orMpzFoMHk8S0HGIIjDi2H8A8NNJV%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", BeIN Movies 2HD
@@ -277,7 +352,6 @@ http://andrtviptv2.jan-beryan.giize.com/1550.ts
 http://andrtviptv2.jan-beryan.giize.com/1549.ts
 #EXTINF:-1,|AR|.ROTANA.CINEMA
 http://andrtviptv2.jan-beryan.giize.com/1548.ts
-
 
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
