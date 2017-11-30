@@ -3,115 +3,839 @@
 http://andrtviptv.jan-beryan.giize.com/398.ts
 
 
-#EXTM3U
-#EXTINF:-1,DE:ZDF
-http://andrtviptv2.jan-beryan.giize.com/2759.ts
-#EXTINF:-1,DE:VOX.HD
-http://andrtviptv2.jan-beryan.giize.com/1881.ts
-#EXTINF:-1,DE:SPIEGEL.GESCHICHTE
-http://andrtviptv2.jan-beryan.giize.com/2758.ts
-#EXTINF:-1,DE:SKY.SELECT.9
-http://andrtviptv2.jan-beryan.giize.com/2480.ts
-#EXTINF:-1,DE:SKY.SELECT.8
-http://andrtviptv2.jan-beryan.giize.com/2481.ts
-#EXTINF:-1,DE:SKY.SELECT.7
-http://andrtviptv2.jan-beryan.giize.com/2482.ts
-#EXTINF:-1,DE:SKY.SELECT.6
-http://andrtviptv2.jan-beryan.giize.com/2483.ts
-#EXTINF:-1,DE:SIXX.HD
-http://andrtviptv2.jan-beryan.giize.com/2757.ts
-#EXTINF:-1,DE:SAT1.GOLD
-http://andrtviptv2.jan-beryan.giize.com/2756.ts
-#EXTINF:-1,DE:RTL.CRIMI
-http://andrtviptv2.jan-beryan.giize.com/2755.ts
-#EXTINF:-1,DE:TNT.Film
-http://andrtviptv2.jan-beryan.giize.com/1883.ts
-#EXTINF:-1,DE:Syfy
-http://andrtviptv2.jan-beryan.giize.com/1887.ts
-#EXTINF:-1,DE:Super.RTL.HD
-http://andrtviptv2.jan-beryan.giize.com/1880.ts
-#EXTINF:-1,DE:Sat.1.HD
-http://andrtviptv2.jan-beryan.giize.com/1878.ts
-#EXTINF:-1,DE:RTL2.HD
-http://andrtviptv2.jan-beryan.giize.com/1877.ts
-#EXTINF:-1,DE:RTL.Passion
-http://andrtviptv2.jan-beryan.giize.com/1885.ts
-#EXTINF:-1,DE:RTL.Living
-http://andrtviptv2.jan-beryan.giize.com/1874.ts
-#EXTINF:-1,DE:RTL.HD
-http://andrtviptv2.jan-beryan.giize.com/1876.ts
-#EXTINF:-1,DE:Pro.7.HD
-http://andrtviptv2.jan-beryan.giize.com/1879.ts
-#EXTINF:-1,DE:N24
-http://andrtviptv2.jan-beryan.giize.com/1886.ts
-#EXTINF:-1,DE:KiKA
-http://andrtviptv2.jan-beryan.giize.com/1884.ts
-#EXTINF:-1,DE:History.HD
-http://andrtviptv2.jan-beryan.giize.com/1873.ts
-#EXTINF:-1,DE:13th.Street
-http://andrtviptv2.jan-beryan.giize.com/1872.ts
-#EXTINF:-1,DE:DISNEY.XD
-http://andrtviptv2.jan-beryan.giize.com/1875.ts
-#EXTINF:-1,DE:Sky.Discovery.Channel.HD
-http://andrtviptv2.jan-beryan.giize.com/1327.ts
-#EXTINF:-1,DE:SKY.CINEMA.1,HD
-http://andrtviptv2.jan-beryan.giize.com/1130.ts
-#EXTINF:-1,DE:SKY.SELECT.1
-http://andrtviptv2.jan-beryan.giize.com/427.ts
-#EXTINF:-1,DE:Sky.Bundesliga
-http://andrtviptv2.jan-beryan.giize.com/438.ts
-#EXTINF:-1,DE:Sky.Nostalgie
-http://andrtviptv2.jan-beryan.giize.com/437.ts
-#EXTINF:-1,DE:SKY.SELECT.2
-http://andrtviptv2.jan-beryan.giize.com/428.ts
-#EXTINF:-1,DE:SKY.SELECT.3
-http://andrtviptv2.jan-beryan.giize.com/429.ts
-#EXTINF:-1,DE:SKY.SELECT.4
-http://andrtviptv2.jan-beryan.giize.com/430.ts
-#EXTINF:-1,DE:SKY.SELECT.5
-http://andrtviptv2.jan-beryan.giize.com/431.ts
-#EXTINF:-1,DE:AXN.HD
-http://andrtviptv2.jan-beryan.giize.com/435.ts
-#EXTINF:-1,DE:Sky.ComedyHD
-http://andrtviptv2.jan-beryan.giize.com/434.ts
-#EXTINF:-1,DE:SKY.Krimi
-http://andrtviptv2.jan-beryan.giize.com/436.ts
-#EXTINF:-1,DE:FOX.HD
-http://andrtviptv2.jan-beryan.giize.com/313.ts
-#EXTINF:-1,DE:SKY.EMOTION
-http://andrtviptv2.jan-beryan.giize.com/317.ts
-#EXTINF:-1,DE:NAT.GEO.HD
-http://andrtviptv2.jan-beryan.giize.com/314.ts
-#EXTINF:-1,DE:NAT.GEO.WILD
-http://andrtviptv2.jan-beryan.giize.com/319.ts
-#EXTINF:-1,DE:Sky.Cinema.24HD
-http://andrtviptv2.jan-beryan.giize.com/315.ts
-#EXTINF:-1,DE:Sky.Bundesliga1HD
-http://andrtviptv2.jan-beryan.giize.com/322.ts
-#EXTINF:-1,DE:MGM
-http://andrtviptv2.jan-beryan.giize.com/316.ts
-#EXTINF:-1,DE:PRO.7.MAXX
-http://andrtviptv2.jan-beryan.giize.com/318.ts
-#EXTINF:-1,DE:KABEL.1.HD
-http://andrtviptv2.jan-beryan.giize.com/323.ts
-#EXTINF:-1,DE:Sky-Hits
-http://andrtviptv2.jan-beryan.giize.com/178.ts
-#EXTINF:-1,DE:Sky.AtlanticHD
-http://andrtviptv2.jan-beryan.giize.com/181.ts
-#EXTINF:-1,DE:TNT.Serie
-http://andrtviptv2.jan-beryan.giize.com/179.ts
-#EXTINF:-1,DE:Sky-Cinema
-http://andrtviptv2.jan-beryan.giize.com/176.ts
-#EXTINF:-1,DE:Sky.Action
-http://andrtviptv2.jan-beryan.giize.com/180.ts
-#EXTINF:-1,DE:SPORT.1+HD
-http://andrtviptv2.jan-beryan.giize.com/1127.ts
-#EXTINF:-1,DE:Universal.HD
-http://andrtviptv2.jan-beryan.giize.com/1128.ts
-#EXTINF:-1,DE-Eurosport1
-http://andrtviptv2.jan-beryan.giize.com/321.ts
-#EXTINF:-1,DE:Sky.Sport1.HD
-http://andrtviptv2.jan-beryan.giize.com/185.ts
-#EXTINF:-1,DE:Sky.Sport2.HD
-http://andrtviptv2.jan-beryan.giize.com/186.ts
+
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Disney Cinemagic HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2448.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Eurosport 1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2449.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Fox HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2450.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : RTL Crime HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2451.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : RTL HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2452.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : RTL Living
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2453.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : RTL Passion
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2454.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : RTL2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2455.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Sky atlantic
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2456.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Sky Atlantic HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2457.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Sky Krimi
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2458.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Sky Nostalgie
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2459.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : sky sport austria
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2460.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Sport 1  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2461.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : Syfy
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2462.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : TNT Comedy
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2463.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE : TNT Film TCM
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2464.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2430.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2431.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2432.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2433.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2434.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2435.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2436.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2437.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2438.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 10 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2439.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 11 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2440.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 3 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2447.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 4 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2441.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 5 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2442.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 6 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2443.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 7 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2444.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 8 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2445.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE | Sky Germany Sport 9 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2446.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: 13th Street HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2429.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: A&E HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2428.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Animal Planet HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2427.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: AXN HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2426.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Discovery HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2425.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Disney Channel HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2424.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Disney Cinemagic HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2423.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: FOX HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2422.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: History HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2421.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: MGM HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2420.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: N-TV HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2419.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Nat Geo Wild HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2418.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: NatGeo HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2417.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: National Geographic HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2416.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: PRO 7 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2415.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: ProSieben Maxx HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2414.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: RTL 2 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2413.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: RTL HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2412.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: RTL NITRO HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2411.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: SAT.1 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2410.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: sixx HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2409.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Sky Action HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2408.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Sky Atlantic HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2407.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Sky Cinema HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2406.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: Sky Hits HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2405.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: SUPER RTL HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2404.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: SyFy HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2403.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: TNT Serie HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2402.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE VIP: VOX HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2401.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE:  Sky Cinema Hits
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2470.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: *Sky Sport 1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/394.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: *Sky Sport 2 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/393.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: 1-2-3.tv HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2497.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: 13th Street
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2537.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: 3sat
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2536.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: 3SAT HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2535.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ANIXE HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2496.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ARD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2538.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Arte
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2534.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: AXN HD Germany
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2539.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Boomerang
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2540.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2541.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 1 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/522.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 1 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/521.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 1 UHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/520.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 10 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/519.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 10 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/518.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 2 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/517.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 2 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/516.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 3 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/515.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 4 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/514.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 5 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/513.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 6 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/512.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 6 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/511.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 7 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/510.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 7 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/509.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 8 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/508.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 8 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/507.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: BUNDESLIGA 9 FHD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/506.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Bundesliga 9 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/505.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Cartoon Network Germany
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2542.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Channel21 HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2495.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Classica
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2543.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: DAS ERSTE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2533.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Deluxe Music HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2544.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Discovery HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2545.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Disney Channel HD Germany
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2546.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2547.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Disney Junior
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2548.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Disney XD Deutschland
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2549.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: E! Entertainement
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2466.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: E! Entertainm HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2469.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 1 HD (BackUp)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/504.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 2 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/503.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 4 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/502.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 5 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/501.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 6 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/500.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 7 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/499.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 8 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/498.ts
+EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Eurosport360 9 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/497.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Hr-fernsehen HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2494.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: HSE24 EXTRA HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2493.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Kabel 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2550.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: KABEL 1 HD 1080
+http://gmcllc.de:25461/live/აპი0/პარანდრო/195.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Kabel Eins
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2532.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Kika
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2551.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: MDR S-Anhalt HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2492.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: MDR Sachsen HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2491.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: MDR Thüringen HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2490.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Mediaspar
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2489.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: MGM HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2552.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Motorvision TV
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2468.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: MTV HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2488.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: N24
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2553.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2554.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: National Geographic HD Germany
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2555.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Nickelodeon
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2556.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Orf 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2557.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Orf 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2558.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: PHOENIX
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2531.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Phoenix HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/194.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Pro7
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2559.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Pro7 Fun HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2499.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2498.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ProSieben HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2487.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ProSieben Maxx HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2486.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: QVC BEAUTY & STYLE HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2485.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: QVC HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2484.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: QVC PLUS HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2483.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Rbb Berlin HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2482.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: rbb Brandenburg HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2481.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: RD HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2480.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ROMANCE TV
+http://gmcllc.de:25461/live/აპი0/პარანდრო/193.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: RTL
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2560.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: RTL II YOU HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/185.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: RTL NITRO
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2561.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sat 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2562.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: sat 1 emotions
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2563.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sat 1 Gold
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2530.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SERVUS TV HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2529.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SIXX HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/192.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky 3D ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2479.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Action HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2564.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Arts HD ( EN AUDIO )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2465.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2565.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2566.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 1 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/496.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2567.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 10 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/495.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2568.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 2 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/494.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2569.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 3 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/493.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2570.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 4 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/492.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2571.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 5 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/491.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2572.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 6 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/490.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2573.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 7 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/489.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2574.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 8 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/488.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2575.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Bundesliga 9 HD ( during match )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/487.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2576.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY CINEMA  24
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2577.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Cinema Family
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2467.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Cinema HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2578.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Comedy HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2579.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Disney HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2580.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky DMAX HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2581.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Emotion HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2582.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Hits HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2583.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SELECT 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2584.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SELECT 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2585.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SELECT 3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2586.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SELECT 4
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2587.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SELECT 5
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2588.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SELECT 6
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2589.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Select 7
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2590.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Select 8
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2591.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/392.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2592.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 1 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/939.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2593.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 10 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/391.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 10 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/938.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2594.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 11 HD (Nur an Spieltagen)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/390.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 11 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/937.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/389.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2595.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 2 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/936.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 3 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/388.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2596.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 3 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/387.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 3 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/935.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 4 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/386.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 4 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/385.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2597.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 4 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/934.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 5 FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/384.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2598.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 5 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/383.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 5 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/933.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2599.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 6 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/382.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 6 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/932.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2600.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 7 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/381.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 7 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/931.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2601.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 8 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/380.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 8 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/930.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2602.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SKY SPORT 9 HD [ON MATCHDAY]
+http://gmcllc.de:25461/live/აპი0/პარანდრო/379.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport 9 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/929.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2512.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/928.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2511.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/927.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2510.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/926.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2509.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/925.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2508.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/924.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2507.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/923.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2506.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/922.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2505.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/921.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2504.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/920.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2503.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/919.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport Fanzone HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2478.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport News HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2603.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Sport News HD 1080P
+http://gmcllc.de:25461/live/აპი0/პარანდრო/918.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2604.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sky Universal HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2605.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SPIEGEL TV Wissen HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2477.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sport 1  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2501.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sport 1 US
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2502.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Sport Digital HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2500.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SPORT1 HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2476.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SR Fernsehen HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2475.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: SUPER RTL HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2606.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: tagesschau24 HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2474.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: TLC HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2473.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: TNT Comedy HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2472.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: TNT Serie
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2607.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: VIVA
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2528.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: VOX
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2608.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: VOX HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/191.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: WDR HD DE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2527.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ZDF
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2609.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ZDF FHD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/178.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ZDF NEO HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2526.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: ZEE ONE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2525.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,DE: Zee One HD ( 1080P )
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2471.ts
 
