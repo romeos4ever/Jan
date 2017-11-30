@@ -46,129 +46,211 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]يحتاج الى انترنت قوي=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,OSN:_ALYOUM
-http://andrtviptv.jan-beryan.giize.com/2632.m3u8
-#EXTINF:-1,OSN:_Animal_Planet
-http://andrtviptv.jan-beryan.giize.com/2635.m3u8
-#EXTINF:-1,OSN:_DISCOVERY_HD
-http://andrtviptv.jan-beryan.giize.com/2636.m3u8
-#EXTINF:-1,OSN:_Mousalsalat
-http://andrtviptv.jan-beryan.giize.com/2633.m3u8
-#EXTINF:-1,OSN:_Nat_Geo_Wild_HD
-http://andrtviptv.jan-beryan.giize.com/2637.m3u8
-#EXTINF:-1,OSN:_ORBIT_CINEMA_1
-http://andrtviptv.jan-beryan.giize.com/2728.m3u8
-#EXTINF:-1,OSN:_ORBIT_CINEMA_2
-http://andrtviptv.jan-beryan.giize.com/2729.m3u8
-#EXTINF:-1,OSN:-MOVIE-HD
-http://andrtviptv.jan-beryan.giize.com/908.m3u8
-#EXTINF:-1,OSN:-Movies-Action-HD
-http://andrtviptv.jan-beryan.giize.com/897.m3u8
-#EXTINF:-1,OSN:-Movies-Action2-HD
-http://andrtviptv.jan-beryan.giize.com/907.m3u8
-#EXTINF:-1,OSN:-Movies-Box-Office-1HD
-http://andrtviptv.jan-beryan.giize.com/900.m3u8
-#EXTINF:-1,OSN:-Movies-Box-Office-2HD
-http://andrtviptv.jan-beryan.giize.com/899.m3u8
-#EXTINF:-1,OSN:-Movies-Box-Office-3HD
-http://andrtviptv.jan-beryan.giize.com/898.m3u8
-#EXTINF:-1,OSN:-Movies-Comedy-HD
-http://andrtviptv.jan-beryan.giize.com/906.m3u8
-#EXTINF:-1,OSN:-Movies-Comedy-Plus2-HD
-http://andrtviptv.jan-beryan.giize.com/905.m3u8
-#EXTINF:-1,OSN:-Movies-Drama-HD
-http://andrtviptv.jan-beryan.giize.com/904.m3u8
-#EXTINF:-1,OSN:-Movies-Festival-HD
-http://andrtviptv.jan-beryan.giize.com/903.m3u8
-#EXTINF:-1,OSN:-MOVIES-KIDS-HD
-http://andrtviptv.jan-beryan.giize.com/989.m3u8
-#EXTINF:-1,OSN:-Movies-Premiere-HD
-http://andrtviptv.jan-beryan.giize.com/902.m3u8
-#EXTINF:-1,OSN:-Movies-Premiere-plus-2
-http://andrtviptv.jan-beryan.giize.com/901.m3u8
-#EXTINF:-1,OSN:-ON-DEMAND-1HD
-http://andrtviptv.jan-beryan.giize.com/896.m3u8
-#EXTINF:-1,OSN:-ON-DEMAND-2HD
-http://andrtviptv.jan-beryan.giize.com/895.m3u8
-#EXTINF:-1,OSN:-ON-DEMAND-3HD
-http://andrtviptv.jan-beryan.giize.com/894.m3u8
-#EXTINF:-1,OSN:-ON-DEMAND-EXTRA-1HD
-http://andrtviptv.jan-beryan.giize.com/893.m3u8
-#EXTINF:-1,OSN:-ON-DEMAND-EXTRA-3HD
-http://andrtviptv.jan-beryan.giize.com/891.m3u8
-#EXTINF:-1,OSN:-ON-DEMANDE-EXTRA-2-HD
-http://andrtviptv.jan-beryan.giize.com/988.m3u8
-#EXTINF:-1,OSN:-STAR-Movies-HD
-http://andrtviptv.jan-beryan.giize.com/890.m3u8
-#EXTINF:-1,OSN:-Yahala
-http://andrtviptv.jan-beryan.giize.com/911.m3u8
-#EXTINF:-1,OSN:-Yahala-Cinema
-http://andrtviptv.jan-beryan.giize.com/914.m3u8
-#EXTINF:-1,OSN:-Yahala-Drama
-http://andrtviptv.jan-beryan.giize.com/912.m3u8
-#EXTINF:-1,OSN:-Yahala-Shabab
-http://andrtviptv.jan-beryan.giize.com/913.m3u8
 
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN  Ya Hala! SHABAB HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3131.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN Disney Junior
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3130.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN ITV Choice
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3129.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN MOVIE COMEDY HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3128.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3127.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN Movies Drama
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3126.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3125.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: OSN Outdoor
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3124.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN BBC FIRST HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3347.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Box Office 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3348.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN BOXOFFICE 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3349.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Cinema 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3350.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN CNBC ARABIA
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3351.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN CRICKET HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3352.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN CRICKET HD**
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3415.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN DISCOVERY FAMILY HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3353.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Discovery I.D
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3354.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Discovery Science
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3359.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Disney Channel HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3360.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN E!
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3361.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Fann
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3362.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Fatafeat
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3363.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Fine Living HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3364.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN First
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3266.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN First Comedy
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3366.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN First HBO
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3367.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Fox News HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3369.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN France 24
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3370.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN MBC Drama
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3371.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN MBC Plus Drama
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3372.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Mousalsalat
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3373.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies 2 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3374.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies Action  2 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3375.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies Festival
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3376.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3392.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies Kids
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3377.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies Premiere 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3291.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Movies Premiere 2HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3379.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN MTV LIVE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3380.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Nat Geo HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3381.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Nat Geo People HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3382.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Nat Geo Wild
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3383.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN NEWS
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3384.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Nickelodeon HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3385.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN ON DEMAND 1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3386.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN ON DEMAND 2 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3387.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN ON DEMAND 3 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3388.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN On Demand Extra 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3389.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN ON DEMAND EXTRA 3 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3390.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN OSN SPORT FIGHTNETWORK
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3394.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN OSN Yahala Drama HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3397.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Star Movies HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3398.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Star World HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3399.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN SyFy HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3395.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN TLC HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3396.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN TRACE URBAN
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3400.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Travel Channel HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3401.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN WWE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3402.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Yahala Cinema
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3403.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN  SKY NEWS
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3330.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Action
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3331.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Action 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3332.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Al Safwa
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3333.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN AL Yawm
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3334.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN Al Youm
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3335.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR : OSN AL Youm HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3336.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,L.BEIN:SERIE.1.HD
-http://andrtviptv.jan-beryan.giize.com/6407.m3u8
-#EXTINF:-1,L.BEIN:FOX.MOVIES.HD
-http://andrtviptv.jan-beryan.giize.com/6404.m3u8
-#EXTINF:-1,L.BEIN:FATAFEAT.HD
-http://andrtviptv.jan-beryan.giize.com/6402.m3u8
-#EXTINF:-1,L.BEIN:DREAMWORKS.HD
-http://andrtviptv.jan-beryan.giize.com/6401.m3u8
-#EXTINF:-1,L.BEIN:BEIN.GURME
-http://andrtviptv.jan-beryan.giize.com/6403.m3u8
-#EXTINF:-1,L.BEIN.STAR.WORLD.HD
-http://andrtviptv.jan-beryan.giize.com/6400.m3u8
-#EXTINF:-1,L.BEIN.STAR.MOVIES.HD
-http://andrtviptv.jan-beryan.giize.com/6395.m3u8
-#EXTINF:-1,L.BEIN.OUTDOOR.HD
-http://andrtviptv.jan-beryan.giize.com/6417.m3u8
-#EXTINF:-1,L.BEIN.Nat.Geo.Wild.HD
-http://andrtviptv.jan-beryan.giize.com/6415.m3u8
-#EXTINF:-1,L.BEIN.JEEM.HD
-http://andrtviptv.jan-beryan.giize.com/6416.m3u8
-#EXTINF:-1,L.BEIN.FOX.HD
-http://andrtviptv.jan-beryan.giize.com/6414.m3u8
-#EXTINF:-1,L.BEIN.DISCOVRY.KIDS
-http://andrtviptv.jan-beryan.giize.com/6398.m3u8
-#EXTINF:-1,L.BEIN.Discovery.Sc.HD
-http://andrtviptv.jan-beryan.giize.com/6413.m3u8
-#EXTINF:-1,L.BEIN.Discovery.MAX.HD
-http://andrtviptv.jan-beryan.giize.com/6412.m3u8
-#EXTINF:-1,L.BEIN.DISCOVERY.LIFE.HD
-http://andrtviptv.jan-beryan.giize.com/6410.m3u8
-#EXTINF:-1,L.BEIN.BOX.OFFICE.HD
-http://andrtviptv.jan-beryan.giize.com/6409.m3u8
-#EXTINF:-1,L.BEIN.BOOMERANG
-http://andrtviptv.jan-beryan.giize.com/6397.m3u8
-#EXTINF:-1,L.BEIN.BE.JUNIOR
-http://andrtviptv.jan-beryan.giize.com/6396.m3u8
-#EXTINF:-1,L.BEIN.BARAEM.HD
-http://andrtviptv.jan-beryan.giize.com/6408.m3u8
-#EXTINF:-1,L.BEIN.Animal.Planet.HD
-http://andrtviptv.jan-beryan.giize.com/6411.m3u8
-#EXTINF:-1,L.BEIN.AMC.HD
-http://andrtviptv.jan-beryan.giize.com/6406.m3u8
-#EXTINF:-1,L.BEIN-NAT GEO PEAPLE
-http://andrtviptv.jan-beryan.giize.com/6399.m3u8
-#EXTINF:-1,L.BEIN-BABY.TV.HD
-http://andrtviptv.jan-beryan.giize.com/6405.m3u8
-#EXTINF:-1,AR:-BEIN-MOVIES-1-HD
-http://andrtviptv.jan-beryan.giize.com/43.m3u8
-#EXTINF:-1,AR:-BEIN-MOVIES-2-HD
-http://andrtviptv.jan-beryan.giize.com/44.m3u8
-#EXTINF:-1,AR:-BEIN-MOVIES-3-HD
-http://andrtviptv.jan-beryan.giize.com/45.m3u8
-#EXTINF:-1,AR:-BEIN-MOVIES-4-HD
-http://andrtviptv.jan-beryan.giize.com/46.m3u8
 #EXTINF:-1 tvg-logo="", BeIN Movies 1HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhhijAEOHAiJ0QqILZveKouClCA7Dh%2ff95bEPKdZ4vo%2f0%2b3Zv0e2MfWP%2fbfE3SHj37z2iLTAh5h9XiriRJQ04sV823esWs7tQEvNvl5DBw6wGTI%2bvB4pzqnkvTfbwf6ir0BMoUKzCyYpE3N%2bfbdQ%2bxSOCZhyr2kFud%2bfnTGPpuRwsFpwRCDpUvHravdWKmKGmScSVE%2fd3e1NzVibYnaR1%2fo8IvZ41J%2frToWWBbdbWd2bmoxUBGQdIySDHdZVumME6WD18orMpzFoMHk8S0HGIIjDi2H8A8NNJV%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", BeIN Movies 2HD
@@ -215,19 +297,27 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 
 #EXTINF:-1 tvg-logo="https://files.elnashra.com/elnashrafan/imagine/pictures_360/1378375243_timthumb.php.jpg",========|||-ROTANA-|||========
 http://andrtviptv.jan-beryan.giize.com/1464.ts
-#EXTINF:-1,AR:-Rotana-Cinema
-http://andrtviptv.jan-beryan.giize.com/196.m3u8
-#EXTINF:-1,AR:-Rotana-Classic
-http://andrtviptv.jan-beryan.giize.com/195.m3u8
-#EXTINF:-1,AR:-ROTANA-CLIP
-http://andrtviptv.jan-beryan.giize.com/886.m3u8
-#EXTINF:-1,AR:-Rotana-Khaliji
-http://andrtviptv.jan-beryan.giize.com/197.m3u8
-#EXTINF:-1,AR:-Rotana-Massrya
-http://andrtviptv.jan-beryan.giize.com/194.m3u8
-#EXTINF:-1,AR:-Rotana-Music
-http://andrtviptv.jan-beryan.giize.com/193.m3u8
-
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Aflam HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3247.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Cinema
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3103.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Cinema HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3248.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Classic HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3249.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3250.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Masriah HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3251.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,AR: Rotana Music HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/3252.ts
 
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
