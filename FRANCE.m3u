@@ -4,375 +4,557 @@
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
-#EXTINF:-1,FR:W9.VIP
-http://andrtviptv2.jan-beryan.giize.com/2719.ts
-#EXTINF:-1,FR:VOSGES.VIP
-http://andrtviptv2.jan-beryan.giize.com/2762.ts
-#EXTINF:-1,FR:USHUAIA.VIP
-http://andrtviptv2.jan-beryan.giize.com/2760.ts
-#EXTINF:-1,FR:TRACE.URBANHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2787.ts
-#EXTINF:-1,FR:TMC.VIP
-http://andrtviptv2.jan-beryan.giize.com/2728.ts
-#EXTINF:-1,FR:TF1.HD
-http://andrtviptv2.jan-beryan.giize.com/2711.ts
-#EXTINF:-1,FR:TEVA.VIP
-http://andrtviptv2.jan-beryan.giize.com/2718.ts
-#EXTINF:-1,FR:RTL9_VIP
-http://andrtviptv2.jan-beryan.giize.com/2713.ts
-#EXTINF:-1,FR:RMCDECOHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2727.ts
-#EXTINF:-1,FR:PARISPREMIERE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2726.ts
-#EXTINF:-1,FR:OCS.CHOC.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2789.ts
-#EXTINF:-1,FR:Numero.23_SD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2779.ts
-#EXTINF:-1,FR:NT1.VIP
-http://andrtviptv2.jan-beryan.giize.com/2725.ts
-#EXTINF:-1,FR:NRJ12.VIP
-http://andrtviptv2.jan-beryan.giize.com/2724.ts
-#EXTINF:-1,FR:NICKELODEON.JRHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2788.ts
-#EXTINF:-1,FR:MCM.VIP
-http://andrtviptv2.jan-beryan.giize.com/2723.ts
-#EXTINF:-1,FR:M6_VIP
-http://andrtviptv2.jan-beryan.giize.com/2712.ts
-#EXTINF:-1,FR:M6BOUTIQUE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2766.ts
-#EXTINF:-1,|FR.|LEQUIPE21.
-http://andrtviptv2.jan-beryan.giize.com/2681.ts
-#EXTINF:-1,FR:LCP.VIP
-http://andrtviptv2.jan-beryan.giize.com/2722.ts
-#EXTINF:-1,|FR|.J-ONE HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2744.ts
-#EXTINF:-1,FR:iTELE_SD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2778.ts
-#EXTINF:-1,FR:HISTOIRE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2768.ts
-#EXTINF:-1,FR:HD1.VIP
-http://andrtviptv2.jan-beryan.giize.com/2721.ts
-#EXTINF:-1,FR:GULLI.VIP
-http://andrtviptv2.jan-beryan.giize.com/2720.ts
-#EXTINF:-1,FR:GOLF+
-http://andrtviptv2.jan-beryan.giize.com/2479.ts
-#EXTINF:-1,FR:GAMEONEL.VIP
-http://andrtviptv2.jan-beryan.giize.com/2700.ts
-#EXTINF:-1,FR:FRANCEO.VIP
-http://andrtviptv2.jan-beryan.giize.com/2699.ts
-#EXTINF:-1,FR:FRANCE5HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2696.ts
-#EXTINF:-1,FR:FRANCE4HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2695.ts
-#EXTINF:-1,FR:FRANCE3HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2694.ts
-#EXTINF:-1,FR:FRANCE24ENG.VIP
-http://andrtviptv2.jan-beryan.giize.com/2698.ts
-#EXTINF:-1,FR:FRANCE24.VIP
-http://andrtviptv2.jan-beryan.giize.com/2697.ts
-#EXTINF:-1,FR:FRANCE2.VIP
-http://andrtviptv2.jan-beryan.giize.com/2693.ts
-#EXTINF:-1,FR:EURONEWSFR.VIP
-http://andrtviptv2.jan-beryan.giize.com/2692.ts
-#EXTINF:-1,FR:EQUIDIALIVE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2691.ts
-#EXTINF:-1,FR:EQUIDIALIFE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2690.ts
-#EXTINF:-1,FR:DISNEY.CHANELLE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2688.ts
-#EXTINF:-1,FR:DISNEY.CHANELLE+1.VIP
-http://andrtviptv2.jan-beryan.giize.com/2689.ts
-#EXTINF:-1,FR:DIRECTSTAR.VIP
-http://andrtviptv2.jan-beryan.giize.com/2687.ts
-#EXTINF:-1,FR:DIRECT8.VIP
-http://andrtviptv2.jan-beryan.giize.com/2686.ts
-#EXTINF:-1,FR:CNNI.NTERNATIONAL.VIP
-http://andrtviptv2.jan-beryan.giize.com/2685.ts
-#EXTINF:-1,FR:CLUBBING;VIP
-http://andrtviptv2.jan-beryan.giize.com/2684.ts
-#EXTINF:-1,FR:CHERIE25HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2683.ts
-#EXTINF:-1,FR:BRAVAHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2763.ts
-#EXTINF:-1,FR:BOING.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2786.ts
-#EXTINF:-1,FR:BFMHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2682.ts
-#EXTINF:-1,|FR|BEIN SPORTS.MAX.8.HD
-http://andrtviptv2.jan-beryan.giize.com/1864.ts
-#EXTINF:-1,FR:ARTE_SD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2776.ts
-#EXTINF:-1,FR:ALJAZENG.VIP
-http://andrtviptv2.jan-beryan.giize.com/2680.ts
-#EXTINF:-1,FR:AFRICA24.VIP
-http://andrtviptv2.jan-beryan.giize.com/2679.ts
-#EXTINF:-1,FR:ABMOTEURS.VIP
-http://andrtviptv2.jan-beryan.giize.com/2678.ts
-#EXTINF:-1,FR:6ter_SD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2777.ts
-#EXTINF:-1,FR: SCIENCE&VIE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2475.ts
-#EXTINF:-1,FR: FOOT.24.VIP
-http://andrtviptv2.jan-beryan.giize.com/2745.ts
-#EXTINF:-1,FR:VOYAGE
-http://andrtviptv2.jan-beryan.giize.com/2352.ts
-#EXTINF:-1,FR:HISTOIRE
-http://andrtviptv2.jan-beryan.giize.com/2354.ts
-#EXTINF:-1,L.FR:DISCOVERY-SCIENCE.VIP
-http://andrtviptv2.jan-beryan.giize.com/2353.ts
-#EXTINF:-1,FR:AB1.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/2345.ts
-#EXTINF:-1,|FR|TOUTE.L'HISTOIRE
-http://andrtviptv2.jan-beryan.giize.com/2360.ts
-#EXTINF:-1,FR:LEQUIPE.HD
-http://andrtviptv2.jan-beryan.giize.com/2195.ts
-#EXTINF:-1,FR:RMC_DECOUVERTE
-http://andrtviptv2.jan-beryan.giize.com/2241.ts
-#EXTINF:-1,FR:iTELE
-http://andrtviptv2.jan-beryan.giize.com/2244.ts
-#EXTINF:-1,FR:EQUIDIA.LIFE
-http://andrtviptv2.jan-beryan.giize.com/2243.ts
-#EXTINF:-1,FR:CHERIE.25
-http://andrtviptv2.jan-beryan.giize.com/2242.ts
-#EXTINF:-1,FR:BFM.TVHD
-http://andrtviptv2.jan-beryan.giize.com/2196.ts
-#EXTINF:-1,FR:NT1
-http://andrtviptv2.jan-beryan.giize.com/1780.ts
-#EXTINF:-1,FR:HD1.FR
-http://andrtviptv2.jan-beryan.giize.com/1779.ts
-#EXTINF:-1,FR:EUROSPORT.1.HD
-http://andrtviptv2.jan-beryan.giize.com/1975.ts
-#EXTINF:-1,FR:ALACARTE3.(3D)
-http://andrtviptv2.jan-beryan.giize.com/1871.ts
-#EXTINF:-1,FR:ALACARTE2.(3D)
-http://andrtviptv2.jan-beryan.giize.com/1870.ts
-#EXTINF:-1,FR:ALACARTE1.(3D)
-http://andrtviptv2.jan-beryan.giize.com/1869.ts
-#EXTINF:-1,|FR|.L.TIJI
-http://andrtviptv2.jan-beryan.giize.com/2172.ts
-#EXTINF:-1,|FR|.L.DISNEY.CINEMA.HD
-http://andrtviptv2.jan-beryan.giize.com/1659.ts
-#EXTINF:-1,FR:Disney.Channel
-http://andrtviptv2.jan-beryan.giize.com/1660.ts
-#EXTINF:-1,|FR|.L.DISNEY.JUNIOR.HD
-http://andrtviptv2.jan-beryan.giize.com/1658.ts
-#EXTINF:-1,FR:Mangas.VIP
-http://andrtviptv2.jan-beryan.giize.com/1530.ts
-#EXTINF:-1,FR:Gulli
-http://andrtviptv2.jan-beryan.giize.com/1533.ts
-#EXTINF:-1,FR:13emeRue
-http://andrtviptv2.jan-beryan.giize.com/1532.ts
-#EXTINF:-1,FR_C8
-http://andrtviptv2.jan-beryan.giize.com/1534.ts
-#EXTINF:-1,FR:Chasse.Peche.HD
-http://andrtviptv2.jan-beryan.giize.com/1531.ts
-#EXTINF:-1,FR_Canal+_Series_HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/1545.ts
-#EXTINF:-1,L:FR.Canal+HD
-http://andrtviptv2.jan-beryan.giize.com/1540.ts
-#EXTINF:-1,FR:RTL9HD
-http://andrtviptv2.jan-beryan.giize.com/1557.ts
-#EXTINF:-1,FR:NATIONAL.GEO
-http://andrtviptv2.jan-beryan.giize.com/1595.ts
-#EXTINF:-1,FR:MTV-PULSE
-http://andrtviptv2.jan-beryan.giize.com/1590.ts
-#EXTINF:-1,FR:MTV-MUSIC
-http://andrtviptv2.jan-beryan.giize.com/1588.ts
-#EXTINF:-1,FR:MTV-BASE
-http://andrtviptv2.jan-beryan.giize.com/1589.ts
-#EXTINF:-1,FR:Ma-Chaine-Sport
-http://andrtviptv2.jan-beryan.giize.com/1593.ts
-#EXTINF:-1,FR:M6-MusicHD
-http://andrtviptv2.jan-beryan.giize.com/1592.ts
-#EXTINF:-1,FR:CANALPLAY-9
-http://andrtviptv2.jan-beryan.giize.com/1379.ts
-#EXTINF:-1,FR:CANALPLAY-8
-http://andrtviptv2.jan-beryan.giize.com/1378.ts
-#EXTINF:-1,FR:CANALPLAY-7
-http://andrtviptv2.jan-beryan.giize.com/1377.ts
-#EXTINF:-1,FR:CANALPLAY-5
-http://andrtviptv2.jan-beryan.giize.com/1375.ts
-#EXTINF:-1,FR:CANALPLAY-4
-http://andrtviptv2.jan-beryan.giize.com/1374.ts
-#EXTINF:-1,FR:CANALPLAY-3
-http://andrtviptv2.jan-beryan.giize.com/1373.ts
-#EXTINF:-1,FR:CANALPLAY-2
-http://andrtviptv2.jan-beryan.giize.com/1372.ts
-#EXTINF:-1,FR:CANALPLAY-10
-http://andrtviptv2.jan-beryan.giize.com/1380.ts
-#EXTINF:-1,FR:CANALPLAY-1
-http://andrtviptv2.jan-beryan.giize.com/1371.ts
-#EXTINF:-1,FR:CANAL.J.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/1559.ts
-#EXTINF:-1,FR:ACTION.VIP
-http://andrtviptv2.jan-beryan.giize.com/1558.ts
-#EXTINF:-1,FR:LA.CARTE.9
-http://andrtviptv2.jan-beryan.giize.com/1494.ts
-#EXTINF:-1,FR:A.LA.CARTE.8
-http://andrtviptv2.jan-beryan.giize.com/1493.ts
-#EXTINF:-1,FR:A.LA.CARTE.7
-http://andrtviptv2.jan-beryan.giize.com/1492.ts
-#EXTINF:-1,FR:A.LA.CARTE.6
-http://andrtviptv2.jan-beryan.giize.com/1491.ts
-#EXTINF:-1,FR:A.LA.CARTE.5
-http://andrtviptv2.jan-beryan.giize.com/1490.ts
-#EXTINF:-1,FR:A.LA.CARTE.4
-http://andrtviptv2.jan-beryan.giize.com/1489.ts
-#EXTINF:-1,FR:A.LA.CARTE.3
-http://andrtviptv2.jan-beryan.giize.com/1488.ts
-#EXTINF:-1,FR:A.LA.CARTE.2
-http://andrtviptv2.jan-beryan.giize.com/1487.ts
-#EXTINF:-1,FR:A.LA.CARTE.11
-http://andrtviptv2.jan-beryan.giize.com/1496.ts
-#EXTINF:-1,FR:A.LA.CARTE.10
-http://andrtviptv2.jan-beryan.giize.com/1495.ts
+
+
+
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR : Bein max 4
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2768.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR : EURONEWS
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2767.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR : FRANCE 3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2766.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR : RTL9
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2765.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR : TELETOON
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2764.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR : W9
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2763.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:  Cartoon Network HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2760.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:  Discovery Science HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2759.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:  Disney Jr Fr
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2758.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:  Nat Geo HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2757.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:  Nat Geo Wild  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2756.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:  NRJ12 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2755.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: 13 EME RUE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2754.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: 6TER HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2753.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: A LA CARTE 10
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2752.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: A LA CARTE 7
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2751.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: A LA CARTE 8
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2750.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: A LA CARTE 9
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2749.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: AB Moteur HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2748.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: AB1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2747.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: AB3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2746.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: ACTION
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2745.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: ANIMAUX
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2744.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: ARTE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2743.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BE CURIOUS TV HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/358.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sport Max 10
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2737.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sport Max 5
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2738.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sport Max 6
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2739.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sport Max 7
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2740.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sport Max 8
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2741.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sport Max 9
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2742.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BeIN SPORTS 1 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/357.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Bein Sports 1 HD backup
+http://gmcllc.de:25461/live/აპი0/პარანდრო/188.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BeIN SPORTS 2 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/356.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BeIN SPORTS 3 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/355.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: beIN SPORTS 3HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2648.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: beIN SPORTS1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2649.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: beINS PORTS 2HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2650.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BFM business
+http://gmcllc.de:25461/live/აპი0/პარანდრო/328.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BFM SPORT
+http://gmcllc.de:25461/live/აპი0/პარანდრო/736.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BFM TV
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2703.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Boing
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2761.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: BOOMERANG HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2762.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: C8
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2735.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Canal  Cinema
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2734.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Canal  Decale
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2733.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Canal  Family
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2732.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL  HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/354.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Canal  Series
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2731.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Canal  Sport
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2730.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Canal  Sport HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/353.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL CINEMA HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/352.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2704.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL J
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2729.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2728.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2727.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2726.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 4
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2725.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 5
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2724.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 6
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2723.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CANAL PLAY 7
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2722.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Cartoon Network HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/351.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Chasse et Peche
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2721.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CHERIE 25 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2720.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE CLASSIC
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2719.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2718.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE EMOTION
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2717.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE EMOTION HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2716.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE FAMIZ
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2715.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Cine Famiz HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2714.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Cine Famiz HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/350.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE FRISSON
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2713.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE FRISSON HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2712.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Cine Frisson HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/349.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE FX
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2711.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE POLAR
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2710.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CINE PREMIER HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2709.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: COMEDIE  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2708.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: COMEDIE Plus
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2707.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/186.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: CSTAR HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2706.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: D17
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2705.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: D8
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2736.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: DISCOVERY
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2612.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Discovery Investigation HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/331.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2690.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: DISNEY CINEMA
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2691.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: DISNEY CINEMA HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/347.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: DISNEY JUNIOR HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/346.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Disney xd  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2692.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: E! Entertainment
+http://gmcllc.de:25461/live/აპი0/პარანდრო/253.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: ELLE GIRL HD 1080
+http://gmcllc.de:25461/live/აპი0/პარანდრო/530.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: EQUIDIA LIFE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/395.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: EQUIDIA live
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2693.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Eurosport 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2694.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Eurosport 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2695.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: EUROSPORT2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2696.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: France 02 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/345.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: France 03 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/344.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: FRANCE 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2697.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: France 4  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2698.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: France 5 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2699.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: France O  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2700.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: GAME ONE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2701.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: GOLF  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/529.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: GULLI HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2702.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: HD1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2689.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: HD1 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/343.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: i Tele
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2688.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: INFOSPORT
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2687.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: L'EQUIPE 21
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2686.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: La Deux
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2685.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: La une BE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2684.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: LCI
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2683.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: M6
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2682.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: M6 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/342.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Ma Chaine Sport HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2681.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Mangas
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2680.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: MCM
+http://gmcllc.de:25461/live/აპი0/პარანდრო/27.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: MCM TOP
+http://gmcllc.de:25461/live/აპი0/პარანდრო/26.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: National geo wild
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2679.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Nick Jr
+http://gmcllc.de:25461/live/აპი0/პარანდრო/25.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: NICKELODEON HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2627.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2678.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: NRJ Hits
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2677.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: NUMERO 23 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2676.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: OCS CHOC HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2675.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: OCS CITY
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2674.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: OCS GEANT
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2673.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: OCS MAX
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2672.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: OLTV HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2671.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Orange Cine horreur HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2670.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Orange enquete exclusive HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2669.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2668.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PARIS PREMIERE  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2667.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2666.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PIWI HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2665.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PLANETE  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2664.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PLANETE A&E HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2663.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: PLANETE CI HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2662.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: rmc decouverte
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2660.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: RTL TVI
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2659.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: RTS Deux
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2658.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: RTS Un
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2657.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2656.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SCIENCES & VIE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2655.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Seasons
+http://gmcllc.de:25461/live/აპი0/პარანდრო/15.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SERIE CLUB
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2654.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Series Club HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2653.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR SPORT 3 backup
+http://gmcllc.de:25461/live/აპი0/პარანდრო/240.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR Sport 4 4K
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2630.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR sport 5
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2626.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR: CINE A LA DEMANDE 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2652.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR: CINE A LA DEMANDE 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2651.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR: CINE A LA DEMANDE 3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2647.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR: Sport 1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2646.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR: Sport 2
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2645.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR: Sport 3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2644.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: SFR2 SPORT HD (backup)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/241.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Syfy HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2643.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Syfy HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/341.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Teva
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2642.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: TF1 HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2641.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: TF1 HD (1080P)
+http://gmcllc.de:25461/live/აპი0/პარანდრო/340.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Tiji
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2640.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: TOUTE LHISTOIRE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2639.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: TRACE URBAN
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2625.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: TV BREIZH HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2638.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: USHUAIA  HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2637.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR: Zouzou TV LOCAL
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2636.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:A LA CARTE 5
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2635.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:A la Carte 6
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2634.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
 #EXTINF:-1,FR:A.LA.CARTE.1
-http://andrtviptv2.jan-beryan.giize.com/1486.ts
-#EXTINF:-1,|FR|.L.TELETOON+.HD
-http://andrtviptv2.jan-beryan.giize.com/1561.ts
-#EXTINF:-1,FR:TELETOON
-http://andrtviptv2.jan-beryan.giize.com/1560.ts
-#EXTINF:-1,FR.CINE.POLAR.VIP
-http://andrtviptv2.jan-beryan.giize.com/1563.ts
-#EXTINF:-1,FR.CINE.CLASSIC.HD
-http://andrtviptv2.jan-beryan.giize.com/1562.ts
-#EXTINF:-1,FR.CINE+FRISSONHD
-http://andrtviptv2.jan-beryan.giize.com/1565.ts
-#EXTINF:-1,FR.CINE+EMOTION.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/1564.ts
-#EXTINF:-1,FR.CINE+FAMIZHD
-http://andrtviptv2.jan-beryan.giize.com/1566.ts
-#EXTINF:-1,FR:NATIONAL.GEO.WILD.HD
-http://andrtviptv2.jan-beryan.giize.com/1359.ts
-#EXTINF:-1,FR:Rmc
-http://andrtviptv2.jan-beryan.giize.com/1347.ts
-#EXTINF:-1,FR:E!.ENTERTAINEMENT
-http://andrtviptv2.jan-beryan.giize.com/1358.ts
-#EXTINF:-1,FR:D17
-http://andrtviptv2.jan-beryan.giize.com/1342.ts
-#EXTINF:-1,FR:Disney
-http://andrtviptv2.jan-beryan.giize.com/1343.ts
-#EXTINF:-1,FR:PLANETE.CI.VIP
-http://andrtviptv2.jan-beryan.giize.com/1336.ts
-#EXTINF:-1,FR:Planete.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/1335.ts
-#EXTINF:-1,FR:MCS.BIEN.ETRE.HD
-http://andrtviptv2.jan-beryan.giize.com/1341.ts
-#EXTINF:-1,FR:GOLF++
-http://andrtviptv2.jan-beryan.giize.com/1346.ts
-#EXTINF:-1,FR:INFOSPORT
-http://andrtviptv2.jan-beryan.giize.com/1344.ts
-#EXTINF:-1,FR:disney.ch
-http://andrtviptv2.jan-beryan.giize.com/1340.ts
-#EXTINF:-1,FR:COMEDIE.HD
-http://andrtviptv2.jan-beryan.giize.com/1345.ts
-#EXTINF:-1,|FR|.L.CARTOON.NETWORK
-http://andrtviptv2.jan-beryan.giize.com/1339.ts
-#EXTINF:-1,FR:Canal.J
-http://andrtviptv2.jan-beryan.giize.com/1337.ts
-#EXTINF:-1,FR:Boomerang
-http://andrtviptv2.jan-beryan.giize.com/1338.ts
-#EXTINF:-1,FR:Planete.A&E.VIP
-http://andrtviptv2.jan-beryan.giize.com/609.ts
-#EXTINF:-1,FR:Paris.Premiere
-http://andrtviptv2.jan-beryan.giize.com/608.ts
-#EXTINF:-1,FR:NRJ12:HITS.VIP
-http://andrtviptv2.jan-beryan.giize.com/1207.ts
-#EXTINF:-1,FR-France24
-http://andrtviptv2.jan-beryan.giize.com/1173.ts
-#EXTINF:-1,FR:CINE.FX.VIP
-http://andrtviptv2.jan-beryan.giize.com/607.ts
-#EXTINF:-1,|FR|.BEIN.SPORTS.1.HD
-http://andrtviptv2.jan-beryan.giize.com/1169.ts
-#EXTINF:-1,FR:SyFy
-http://andrtviptv2.jan-beryan.giize.com/1208.ts
-#EXTINF:-1,FR:TevaHD
-http://andrtviptv2.jan-beryan.giize.com/516.ts
-#EXTINF:-1,FR:M6HD
-http://andrtviptv2.jan-beryan.giize.com/520.ts
-#EXTINF:-1,FR:W9
-http://andrtviptv2.jan-beryan.giize.com/514.ts
-#EXTINF:-1,FR:France2
-http://andrtviptv2.jan-beryan.giize.com/523.ts
-#EXTINF:-1,FR:France3
-http://andrtviptv2.jan-beryan.giize.com/524.ts
-#EXTINF:-1,FR:France4
-http://andrtviptv2.jan-beryan.giize.com/525.ts
-#EXTINF:-1,FR:France5
-http://andrtviptv2.jan-beryan.giize.com/526.ts
-#EXTINF:-1,FR:FranceO
-http://andrtviptv2.jan-beryan.giize.com/527.ts
-#EXTINF:-1,FR:EUROSPORT.2.HD
-http://andrtviptv2.jan-beryan.giize.com/529.ts
-#EXTINF:-1,FR:DisneyCinemagic
-http://andrtviptv2.jan-beryan.giize.com/532.ts
-#EXTINF:-1,L.FR:DISCOVERY-HD
-http://andrtviptv2.jan-beryan.giize.com/531.ts
-#EXTINF:-1,FR:CANAL+.HD
-http://andrtviptv2.jan-beryan.giize.com/535.ts
-#EXTINF:-1,FR:CanalCinema
-http://andrtviptv2.jan-beryan.giize.com/536.ts
-#EXTINF:-1,FR:CanalSport
-http://andrtviptv2.jan-beryan.giize.com/539.ts
-#EXTINF:-1,FR:CanalDecale
-http://andrtviptv2.jan-beryan.giize.com/537.ts
-#EXTINF:-1,FR:CanalFamily
-http://andrtviptv2.jan-beryan.giize.com/538.ts
-#EXTINF:-1,FR:OCS.CITYHD
-http://andrtviptv2.jan-beryan.giize.com/443.ts
-#EXTINF:-1,FR:OCS_GeantsHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/442.ts
-#EXTINF:-1,FR:OCS.MaxHD
-http://andrtviptv2.jan-beryan.giize.com/441.ts
-#EXTINF:-1,FR:Disney.XD
-http://andrtviptv2.jan-beryan.giize.com/445.ts
-#EXTINF:-1,|FR|.BEIN.SPORTS.2.HD
-http://andrtviptv2.jan-beryan.giize.com/440.ts
-#EXTINF:-1,|FR|.BEIN.SPORTS.3.HD
-http://andrtviptv2.jan-beryan.giize.com/439.ts
-#EXTINF:-1,|FR|.L.PIWI+.HD
-http://andrtviptv2.jan-beryan.giize.com/238.ts
-#EXTINF:-1,FR:USHUIA.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/233.ts
-#EXTINF:-1,FR:W9HD
-http://andrtviptv2.jan-beryan.giize.com/208.ts
-#EXTINF:-1,FR:TMC.HD
-http://andrtviptv2.jan-beryan.giize.com/209.ts
-#EXTINF:-1,FR:TF1
-http://andrtviptv2.jan-beryan.giize.com/210.ts
-#EXTINF:-1,FR:NAT.GEO.WILD
-http://andrtviptv2.jan-beryan.giize.com/206.ts
-#EXTINF:-1,FR:M6-HD
-http://andrtviptv2.jan-beryan.giize.com/204.ts
-#EXTINF:-1,FR:COMEDIE+.VIP
-http://andrtviptv2.jan-beryan.giize.com/189.ts
-#EXTINF:-1,FR:CINE-FAMIZ
-http://andrtviptv2.jan-beryan.giize.com/192.ts
-#EXTINF:-1,FR:CANAL-SPORT-HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/194.ts
-#EXTINF:-1,FR:CANAL-DECALEHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/197.ts
-#EXTINF:-1,FR:CANAL-CINEMAHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/198.ts
-#EXTINF:-1,FR:CANAL+FAMILYHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/196.ts
-#EXTINF:-1,FR:SERIE.CLUB.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/193.ts
-#EXTINF:-1,FR:CINE-PREMIERHD.VIP
-http://andrtviptv2.jan-beryan.giize.com/191.ts
-#EXTINF:-1,FR:FRANCE4.HD
-http://andrtviptv2.jan-beryan.giize.com/103.ts
-#EXTINF:-1,FR:FRANCE3.HD
-http://andrtviptv2.jan-beryan.giize.com/102.ts
-#EXTINF:-1,FR:FRANCE2.HD
-http://andrtviptv2.jan-beryan.giize.com/101.ts
-#EXTINF:-1,FR:France5.HD
-http://andrtviptv2.jan-beryan.giize.com/100.ts
-#EXTINF:-1,FR:M6.Music.vip
-http://andrtviptv2.jan-beryan.giize.com/47.ts
-#EXTINF:-1,FR:TF1HD
-http://andrtviptv2.jan-beryan.giize.com/33.ts
-#EXTINF:-1,FR:CANAL+Series
-http://andrtviptv2.jan-beryan.giize.com/35.ts
-#EXTINF:-1,FR:ANIMAUX.HD.VIP
-http://andrtviptv2.jan-beryan.giize.com/22.ts
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2633.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:A.LA.CARTE.3
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2632.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:A.LA.CARTE.4
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2631.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:CINE PREMIER
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2629.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:FRANCE 24
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2628.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:NT1
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2617.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:TCM CINEMA
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2616.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:TEVA/TMC
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2615.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:TREK HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2614.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:TV5 MONDE
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2613.ts
+#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
+#EXTINF:-1,FR:VOYAGE HD
+http://gmcllc.de:25461/live/აპი0/პარანდრო/2611.ts
+
+
