@@ -46,206 +46,180 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]يحتاج الى انترنت قوي=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN  Ya Hala! SHABAB HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3131.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN Disney Junior
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3130.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN ITV Choice
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3129.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN MOVIE COMEDY HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3128.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN MOVIES ACTION HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3127.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN Movies Drama
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3126.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3125.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: OSN Outdoor
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3124.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN BBC FIRST HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3347.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Box Office 1
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3348.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN BOXOFFICE 2
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3349.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Cinema 1
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3350.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN CNBC ARABIA
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3351.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN CRICKET HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3352.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN CRICKET HD**
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3415.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN DISCOVERY FAMILY HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3353.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Discovery I.D
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3354.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Discovery Science
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3359.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Disney Channel HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3360.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN E!
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3361.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Fann
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3362.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Fatafeat
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3363.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Fine Living HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3364.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN First
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3266.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN First Comedy
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3366.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN First HBO
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3367.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Fox News HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3369.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN France 24
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3370.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN MBC Drama
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3371.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN MBC Plus Drama
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3372.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Mousalsalat
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3373.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies 2 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3374.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies Action  2 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3375.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies Festival
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3376.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3392.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies Kids
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3377.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies Premiere 2
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3291.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Movies Premiere 2HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3379.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN MTV LIVE HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3380.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Nat Geo HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3381.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Nat Geo People HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3382.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Nat Geo Wild
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3383.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN NEWS
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3384.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Nickelodeon HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3385.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN ON DEMAND 1 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3386.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN ON DEMAND 2 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3387.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN ON DEMAND 3 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3388.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN On Demand Extra 1
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3389.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN ON DEMAND EXTRA 3 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3390.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN OSN SPORT FIGHTNETWORK
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3394.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN OSN Yahala Drama HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3397.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Star Movies HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3398.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Star World HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3399.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN SyFy HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3395.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN TLC HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3396.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN TRACE URBAN
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3400.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Travel Channel HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3401.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN WWE
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3402.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Yahala Cinema
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3403.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN  SKY NEWS
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3330.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Action
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3331.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Action 2
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3332.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Al Safwa
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3333.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN AL Yawm
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3334.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN Al Youm
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3335.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR : OSN AL Youm HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3336.ts
-
+#EXTINF:-1,OSN: OSN NEWS
+http://andrtv-iptv4.jan-beryan.giize.com/8801.ts
+#EXTINF:-1,OSN: FRANCE 24
+http://andrtv-iptv4.jan-beryan.giize.com/6106.ts
+#EXTINF:-1,OSN: CNBC ARABIA
+http://andrtv-iptv4.jan-beryan.giize.com/6071.ts
+#EXTINF:-1,OSN: First
+http://andrtv-iptv4.jan-beryan.giize.com/8808.ts
+#EXTINF:-1,OSN: First HBO HD
+http://andrtv-iptv4.jan-beryan.giize.com/8595.ts
+#EXTINF:-1,OSN: First Comedy-HD
+http://andrtv-iptv4.jan-beryan.giize.com/8759.ts
+#EXTINF:-1,OSN: TLC HD
+http://andrtv-iptv4.jan-beryan.giize.com/8806.ts
+#EXTINF:-1,OSN: SyFy HD
+http://andrtv-iptv4.jan-beryan.giize.com/8807.ts
+#EXTINF:-1,OSN: BBC FIRST HD
+http://andrtv-iptv4.jan-beryan.giize.com/8794.ts
+#EXTINF:-1,OSN: MBC 4
+http://andrtv-iptv4.jan-beryan.giize.com/6128.ts
+#EXTINF:-1,OSN: MBC ACTION
+http://andrtv-iptv4.jan-beryan.giize.com/7227.ts
+#EXTINF:-1,OSN: STAR WORLD HD
+http://andrtv-iptv4.jan-beryan.giize.com/6322.ts
+#EXTINF:-1,OSN: Travel Channel HD
+http://andrtv-iptv4.jan-beryan.giize.com/8805.ts
+#EXTINF:-1,OSN: MBC 2
+http://andrtv-iptv4.jan-beryan.giize.com/6127.ts
+#EXTINF:-1,OSN: MBC MAX
+http://andrtv-iptv4.jan-beryan.giize.com/7225.ts
+#EXTINF:-1,OSN: MOVIES HD
+http://andrtv-iptv4.jan-beryan.giize.com/3036.ts
+#EXTINF:-1,OSN: MOVIES KIDS HD
+http://andrtv-iptv4.jan-beryan.giize.com/6323.ts
+#EXTINF:-1,OSN: MOVIES DRAMA HD
+http://andrtv-iptv4.jan-beryan.giize.com/3032.ts
+#EXTINF:-1,OSN: MOVIES ACTION HD
+http://andrtv-iptv4.jan-beryan.giize.com/3044.ts
+#EXTINF:-1,OSN: MOVIES COMEDY HD
+http://andrtv-iptv4.jan-beryan.giize.com/3034.ts
+#EXTINF:-1,OSN: MOVIES FESTIVAL HD
+http://andrtv-iptv4.jan-beryan.giize.com/3031.ts
+#EXTINF:-1,OSN: MOVIES ACTION 2 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3035.ts
+#EXTINF:-1,OSN: MOVIES COMEDY 2 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3033.ts
+#EXTINF:-1,OSN: MOVIES PREMIERE HD
+http://andrtv-iptv4.jan-beryan.giize.com/3030.ts
+#EXTINF:-1,OSN: MOVIES PREMIERE 2 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3029.ts
+#EXTINF:-1,OSN: MOVIES BOX-OFFICE 1 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3047.ts
+#EXTINF:-1,OSN: MOVIES BOX-OFFICE 2 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3046.ts
+#EXTINF:-1,OSN: MOVIES BOX-OFFICE 3 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3045.ts
+#EXTINF:-1,OSN: ON DEMAND 1 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3043.ts
+#EXTINF:-1,OSN: ON DEMAND 2 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3042.ts
+#EXTINF:-1,OSN: ON DEMAND 3 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3041.ts
+#EXTINF:-1,OSN: ON DEMAND EXTRA 1 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3040.ts
+#EXTINF:-1,OSN: ON DEMAND EXTRA 2 HD
+http://andrtv-iptv4.jan-beryan.giize.com/6324.ts
+#EXTINF:-1,OSN: ON DEMAND EXTRA 3 HD
+http://andrtv-iptv4.jan-beryan.giize.com/3038.ts
+#EXTINF:-1,OSN: STAR MOVIES HD
+http://andrtv-iptv4.jan-beryan.giize.com/3037.ts
+#EXTINF:-1,OSN: CINEMA 2
+http://andrtv-iptv4.jan-beryan.giize.com/8231.ts
+#EXTINF:-1,OSN: SPORTS 1HD
+http://andrtv-iptv4.jan-beryan.giize.com/8790.ts
+#EXTINF:-1,OSN: SPORTS 2HD
+http://andrtv-iptv4.jan-beryan.giize.com/8791.ts
+#EXTINF:-1,OSN: SPORTS 3HD
+http://andrtv-iptv4.jan-beryan.giize.com/8792.ts
+#EXTINF:-1,OSN: SPORTS 4HD
+http://andrtv-iptv4.jan-beryan.giize.com/8793.ts
+#EXTINF:-1,OSN: WWE
+http://andrtv-iptv4.jan-beryan.giize.com/8803.ts
+#EXTINF:-1,OSN: Fight
+http://andrtv-iptv4.jan-beryan.giize.com/8103.ts
+#EXTINF:-1,OSN: FIGHT NETWORK
+http://andrtv-iptv4.jan-beryan.giize.com/8802.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT1
+http://andrtv-iptv4.jan-beryan.giize.com/7198.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT2
+http://andrtv-iptv4.jan-beryan.giize.com/7199.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT3
+http://andrtv-iptv4.jan-beryan.giize.com/7200.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT4
+http://andrtv-iptv4.jan-beryan.giize.com/7201.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT5
+http://andrtv-iptv4.jan-beryan.giize.com/7202.ts
+#EXTINF:-1,OSN: ANIMAL PLANET HD
+http://andrtv-iptv4.jan-beryan.giize.com/7919.ts
+#EXTINF:-1,OSN: Nat Geo HD
+http://andrtv-iptv4.jan-beryan.giize.com/8798.ts
+#EXTINF:-1,OSN: NGC PEOPLE HD
+http://andrtv-iptv4.jan-beryan.giize.com/8111.ts
+#EXTINF:-1,OSN: DISCOVERY CH
+http://andrtv-iptv4.jan-beryan.giize.com/8795.ts
+#EXTINF:-1,OSN: MBC Variety-HD
+http://andrtv-iptv4.jan-beryan.giize.com/7192.ts
+#EXTINF:-1,OSN: MBC DRAMA
+http://andrtv-iptv4.jan-beryan.giize.com/7197.ts
+#EXTINF:-1,OSN: YAHALA_HD
+http://andrtv-iptv4.jan-beryan.giize.com/7535.ts
+#EXTINF:-1,OSN: YAHALA_SHABAB
+http://andrtv-iptv4.jan-beryan.giize.com/7533.ts
+#EXTINF:-1,OSN: YAHALA CINE HD
+http://andrtv-iptv4.jan-beryan.giize.com/8230.ts
+#EXTINF:-1,OSN: ALYOUM
+http://andrtv-iptv4.jan-beryan.giize.com/7532.ts
+#EXTINF:-1,OSN: ART HEKAYAT 2
+http://andrtv-iptv4.jan-beryan.giize.com/6117.ts
+#EXTINF:-1,OSN: ART AFLAM 1
+http://andrtv-iptv4.jan-beryan.giize.com/6881.ts
+#EXTINF:-1,OSN: ART AFLAM 2
+http://andrtv-iptv4.jan-beryan.giize.com/6880.ts
+#EXTINF:-1,OSN: ART CINEMA
+http://andrtv-iptv4.jan-beryan.giize.com/8094.ts
+#EXTINF:-1,OSN: Nickelodeon HD
+http://andrtv-iptv4.jan-beryan.giize.com/8800.ts
+#EXTINF:-1,OSN: Disney XD
+http://andrtv-iptv4.jan-beryan.giize.com/8796.ts
+#EXTINF:-1,OSN: Mousalsalat
+http://andrtv-iptv4.jan-beryan.giize.com/8758.ts
+#EXTINF:-1,OSN: TRACE URBAN
+http://andrtv-iptv4.jan-beryan.giize.com/8804.ts
+#EXTINF:-1,OSN: MTV LIVE HD
+http://andrtv-iptv4.jan-beryan.giize.com/8797.ts
+#EXTINF:-1,OSN: MBC 3
+http://andrtv-iptv4.jan-beryan.giize.com/7226.ts
+#EXTINF:-1,OSN: MBC PRO SPORT1
+http://andrtv-iptv4.jan-beryan.giize.com/7224.ts
+#EXTINF:-1,OSN: MBC PRO SPORT 2
+http://andrtv-iptv4.jan-beryan.giize.com/7223.ts
+#EXTINF:-1,OSN: MBC PRO SPORT 3
+http://andrtv-iptv4.jan-beryan.giize.com/7222.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_4_HD
+http://andrtv-iptv4.jan-beryan.giize.com/8107.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_2_HD
+http://andrtv-iptv4.jan-beryan.giize.com/8105.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_1_HD
+http://andrtv-iptv4.jan-beryan.giize.com/8104.ts
+#EXTINF:-1,OSN: B4U-Plus
+http://andrtv-iptv4.jan-beryan.giize.com/8235.ts
+#EXTINF:-1,OSN: Al Safwa
+http://andrtv-iptv4.jan-beryan.giize.com/9028.ts
+#EXTINF:-1,OSN: Fann
+http://andrtv-iptv4.jan-beryan.giize.com/9026.ts
+#EXTINF:-1,OSN: Fatafeat
+http://andrtv-iptv4.jan-beryan.giize.com/9025.ts
+#EXTINF:-1,OSN: Fine Living HD
+http://andrtv-iptv4.jan-beryan.giize.com/9023.ts
+#EXTINF:-1,OSN: Outdoor
+http://andrtv-iptv4.jan-beryan.giize.com/9027.ts
+#EXTINF:-1,OSN: E!
+http://andrtv-iptv4.jan-beryan.giize.com/11462.ts
+#EXTINF:-1,OSN: B4U-Aflam
+http://andrtv-iptv4.jan-beryan.giize.com/8234.ts
+#EXTINF:-1,OSN: Fox News HD
+http://andrtv-iptv4.jan-beryan.giize.com/11461.ts
+#EXTINF:-1,OSN: SeeVii BEELINK
+http://andrtv-iptv4.jan-beryan.giize.com/13761.ts
+#EXTINF:-1,OSN: SeeVii DRAMA
+http://andrtv-iptv4.jan-beryan.giize.com/13762.ts
+#EXTINF:-1,OSN: SeeVii SHAMIYA
+http://andrtv-iptv4.jan-beryan.giize.com/13764.ts
+#EXTINF:-1,OSN:SeeVii PREMIER
+http://andrtv-iptv4.jan-beryan.giize.com/13763.ts
 
 
 
