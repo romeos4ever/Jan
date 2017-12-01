@@ -1,22 +1,49 @@
-#EXTINF:-1,.AR: beINSports 1 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/4.ts
-#EXTINF:-1,.AR: beINSports 2 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/5.ts
-#EXTINF:-1,.AR: beINSports 3 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/6.ts
-#EXTINF:-1,.AR: beINSports 4 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/7.ts
-#EXTINF:-1,.AR: beINSports 5 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/8.ts
-#EXTINF:-1,.AR: beINSports 6 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/9.ts
-#EXTINF:-1,.AR: beINSports 7 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/10.ts
-#EXTINF:-1,.AR: beINSports 8 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/11.ts
-#EXTINF:-1,.AR: beINSports 9 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/12.ts
-#EXTINF:-1,.AR: beINSports 10 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/13.ts
-#EXTINF:-1,.AR: beINSports 11 HD
-http://163.172.14.187:1944/live/APP/z8C0y3QSs7/14.ts
+#EXTM3U
+#EXTINF:-1,BeinSport_1_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14104.ts
+#EXTINF:-1,BeinSport_2_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14105.ts
+#EXTINF:-1,BeinSport_3_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14106.ts
+#EXTINF:-1,BeinSport_4_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14107.ts
+#EXTINF:-1,BeinSport_5_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14108.ts
+#EXTINF:-1,BeinSport_6_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14109.ts
+#EXTINF:-1,BeinSport_7_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14110.ts
+#EXTINF:-1,BeinSport_8_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14111.ts
+#EXTINF:-1,BeinSport_9_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14112.ts
+#EXTINF:-1,BeinSport_10_HD_FULL_3
+http://andrtv-iptv4.jan-beryan.giize.com/14113.ts
+#EXTINF:-1,OTE Cinema 1 FHD GR
+http://andrtv-iptv4.jan-beryan.giize.com/14071.ts
+#EXTINF:-1,OTE Cinema 2 FHD GR
+http://andrtv-iptv4.jan-beryan.giize.com/14072.ts
+#EXTINF:-1,OTE Cinema 3 HD GR
+http://andrtv-iptv4.jan-beryan.giize.com/14073.ts
+#EXTINF:-1,OTE Cinema 4 HD GR
+http://andrtv-iptv4.jan-beryan.giize.com/14074.ts
+#EXTINF:-1,AR: BEIN SPORT 1
+http://andrtv-iptv4.jan-beryan.giize.com/11003.ts
+#EXTINF:-1,AR: BEIN SPORT 2
+http://andrtv-iptv4.jan-beryan.giize.com/11002.ts
+#EXTINF:-1,AR: BEIN SPORT 3
+http://andrtv-iptv4.jan-beryan.giize.com/11001.ts
+#EXTINF:-1,AR: BEIN SPORT 4
+http://andrtv-iptv4.jan-beryan.giize.com/11000.ts
+#EXTINF:-1,AR: BEIN SPORT 5
+http://andrtv-iptv4.jan-beryan.giize.com/10999.ts
+#EXTINF:-1,AR: BEIN SPORT 6
+http://andrtv-iptv4.jan-beryan.giize.com/10998.ts
+#EXTINF:-1,AR: BEIN SPORT 7
+http://andrtv-iptv4.jan-beryan.giize.com/10997.ts
+#EXTINF:-1,AR: BEIN SPORT 8
+http://andrtv-iptv4.jan-beryan.giize.com/10996.ts
+#EXTINF:-1,AR: BEIN SPORT 9
+http://andrtv-iptv4.jan-beryan.giize.com/10995.ts
+#EXTINF:-1,AR: BEIN SPORT 10
+http://andrtv-iptv4.jan-beryan.giize.com/10994.ts
