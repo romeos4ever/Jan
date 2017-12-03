@@ -147,3 +147,51 @@ http://95.77.16.72:81/tv20/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="MOLDOVA",TV Elita
 http://46.55.111.242:8080/Rezina.m3u8
 
+#EXTINF:-1,RU:vip:ACASA GOLD
+http://andrtviptv5.jan-beryan.giize.com/1142.ts
+#EXTINF:-1,RU:vip:ACASA HD
+http://andrtviptv5.jan-beryan.giize.com/1141.ts
+#EXTINF:-1,RU:vip:AUTO MOTOR SPORT
+http://andrtviptv5.jan-beryan.giize.com/1140.ts
+#EXTINF:-1,RU:vip:AXN
+http://andrtviptv5.jan-beryan.giize.com/1139.ts
+#EXTINF:-1,RU:vip:AXN BLACK
+http://andrtviptv5.jan-beryan.giize.com/1138.ts
+#EXTINF:-1,RU:vip:AXN WHITE
+http://andrtviptv5.jan-beryan.giize.com/1137.ts
+#EXTINF:-1,RU:vip:BOOMERANG
+http://andrtviptv5.jan-beryan.giize.com/1136.ts
+#EXTINF:-1,RU:vip:CARTOON NETWORK
+http://andrtviptv5.jan-beryan.giize.com/1135.ts
+#EXTINF:-1,RU:vip:CNN
+http://andrtviptv5.jan-beryan.giize.com/1134.ts
+#EXTINF:-1,RU:vip:DIGI SPORT 2
+http://andrtviptv5.jan-beryan.giize.com/1133.ts
+#EXTINF:-1,RU:vip:DIVA TV
+http://andrtviptv5.jan-beryan.giize.com/1132.ts
+#EXTINF:-1,RU:vip:DOLCE SPORT 1 HD
+http://andrtviptv5.jan-beryan.giize.com/1131.ts
+#EXTINF:-1,RU:vip:EUROSPORT 1
+http://andrtviptv5.jan-beryan.giize.com/1130.ts
+#EXTINF:-1,RU:vip:EUROSPORT 2 HD
+http://andrtviptv5.jan-beryan.giize.com/1129.ts
+#EXTINF:-1,RU:vip:FOOD NETWORK HD
+http://andrtviptv5.jan-beryan.giize.com/1128.ts
+#EXTINF:-1,RU:vip:FRANCE 24
+http://andrtviptv5.jan-beryan.giize.com/1127.ts
+#EXTINF:-1,RU:vip:HBO HD
+http://andrtviptv5.jan-beryan.giize.com/1126.ts
+#EXTINF:-1,RU:vip:History HD
+http://andrtviptv5.jan-beryan.giize.com/1125.ts
+#EXTINF:-1,RU:vip:MTV music
+http://andrtviptv5.jan-beryan.giize.com/1124.ts
+#EXTINF:-1,RU:vip:PLUS
+http://andrtviptv5.jan-beryan.giize.com/1123.ts
+#EXTINF:-1,RU:vip:SPORT RO
+http://andrtviptv5.jan-beryan.giize.com/1122.ts
+#EXTINF:-1,RU:vip:TRAVEL MIX
+http://andrtviptv5.jan-beryan.giize.com/1121.ts
+#EXTINF:-1,RU:vip:TV 1000
+http://andrtviptv5.jan-beryan.giize.com/1120.ts
+#EXTINF:-1,RU:vip:VH1 music
+http://andrtviptv5.jan-beryan.giize.com/1119.ts
