@@ -4,108 +4,531 @@
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",======TURKEY=======
 http://www.lengua.com/anthems/Turkey.mp3
-
-#EXTINF:-1,TR:-BEIN-BOX-OFFICE1-HD
-http://andrtviptv.jan-beryan.giize.com/630.ts
-#EXTINF:-1,TR:-BEIN-BOX-OFFICE-2-HD
-http://andrtviptv.jan-beryan.giize.com/629.ts
-#EXTINF:-1,TR:-BEIN-BOX-OFFICE-3-HD
-http://andrtviptv.jan-beryan.giize.com/628.ts
-#EXTINF:-1,TR:_BEIN_SPORT_1HD
-http://andrtviptv.jan-beryan.giize.com/673.ts
-#EXTINF:-1,TR:_BEIN_SPORT_2HD
-http://andrtviptv.jan-beryan.giize.com/674.ts
-#EXTINF:-1,TR:-Lig-Tv-3HD
-http://andrtviptv.jan-beryan.giize.com/680.ts
-#EXTINF:-1,TR:_BEIN_SPORT_4HD
-http://andrtviptv.jan-beryan.giize.com/681.ts
-#EXTINF:-1,TR:-SHOW-TV
-http://andrtviptv.jan-beryan.giize.com/667.ts
-#EXTINF:-1,TR:-POWERTURK-HD
-http://andrtviptv.jan-beryan.giize.com/678.ts
-#EXTINF:-1,TR:-YAT-TV
-http://andrtviptv.jan-beryan.giize.com/1880.ts
-#EXTINF:-1,TR:-TV8-HD
-http://andrtviptv.jan-beryan.giize.com/631.ts
-#EXTINF:-1,TR:-TV-NET-HD
-http://andrtviptv.jan-beryan.giize.com/814.ts
-#EXTINF:-1,TR:-TRT-WORLD
-http://andrtviptv.jan-beryan.giize.com/1804.ts
-#EXTINF:-1,TR:-TRT-TURK
-http://andrtviptv.jan-beryan.giize.com/1803.ts
-#EXTINF:-1,TR:-TRT-SPORT
-http://andrtviptv.jan-beryan.giize.com/815.ts
-#EXTINF:-1,TR:-TRT-OKUL
-http://andrtviptv.jan-beryan.giize.com/1802.ts
-#EXTINF:-1,TR:-TRT-MUZIK
-http://andrtviptv.jan-beryan.giize.com/1801.ts
-#EXTINF:-1,TR:-TRT-KURDI
-http://andrtviptv.jan-beryan.giize.com/682.ts
-#EXTINF:-1,TR:-TRT-HABER-HD
-http://andrtviptv.jan-beryan.giize.com/809.ts
-#EXTINF:-1,TR:-TRT-DIYANET
-http://andrtviptv.jan-beryan.giize.com/1800.ts
-#EXTINF:-1,TR:-TRT-BELGESEL
-http://andrtviptv.jan-beryan.giize.com/699.ts
-#EXTINF:-1,TR:-TRT-ARAPCA
-http://andrtviptv.jan-beryan.giize.com/1799.ts
-#EXTINF:-1,TR:-TRT-1-HD
-http://andrtviptv.jan-beryan.giize.com/805.ts
-#EXTINF:-1,TR:-TJK-TV
-http://andrtviptv.jan-beryan.giize.com/1869.ts
-#EXTINF:-1,TR:-TIVIBU-SPOR-2
-http://andrtviptv.jan-beryan.giize.com/887.ts
-#EXTINF:-1,TR:-TIVIBU-SPOR-1
-http://andrtviptv.jan-beryan.giize.com/684.ts
-#EXTINF:-1,TR:-TGRT-HABER
-http://andrtviptv.jan-beryan.giize.com/812.ts
-#EXTINF:-1,TR:-STAR_HD
-http://andrtviptv.jan-beryan.giize.com/666.ts
-#EXTINF:-1,TR:-SPORTS-TV
-http://andrtviptv.jan-beryan.giize.com/810.ts
-#EXTINF:-1,TR:-NTV-SPOR
-http://andrtviptv.jan-beryan.giize.com/672.ts
-#EXTINF:-1,TR:-Meltem-TV
-http://andrtviptv.jan-beryan.giize.com/1888.ts
-#EXTINF:-1,TR:-KANAL-Z
-http://andrtviptv.jan-beryan.giize.com/1797.ts
-#EXTINF:-1,TR:-KANAL-TEK
-http://andrtviptv.jan-beryan.giize.com/1795.ts
-#EXTINF:-1,TR:-KANAL-D
-http://andrtviptv.jan-beryan.giize.com/668.ts
-#EXTINF:-1,TR:-KANAL-7
-http://andrtviptv.jan-beryan.giize.com/665.ts
-#EXTINF:-1,TR:-KANAL-33
-http://andrtviptv.jan-beryan.giize.com/1785.ts
-#EXTINF:-1,TR:-KANAL-26
-http://andrtviptv.jan-beryan.giize.com/1783.ts
-#EXTINF:-1,TR:-FOX-TV
-http://andrtviptv.jan-beryan.giize.com/669.ts
-#EXTINF:-1,TR:-DRT-DENIZLI
-http://andrtviptv.jan-beryan.giize.com/1779.ts
-#EXTINF:-1,TR:-DREAMTURK-HD
-http://andrtviptv.jan-beryan.giize.com/679.ts
-#EXTINF:-1,TR:-DISCOVERY-CHANNEL
-http://andrtviptv.jan-beryan.giize.com/683.ts
-#EXTINF:-1,TR:-CTV-Turk
-http://andrtviptv.jan-beryan.giize.com/1855.ts
-#EXTINF:-1,TR:-COCUK
-http://andrtviptv.jan-beryan.giize.com/816.ts
-#EXTINF:-1,TR:-CNN-TURK-HD
-http://andrtviptv.jan-beryan.giize.com/813.ts
-#EXTINF:-1,TR:-Bloomberg-HT
-http://andrtviptv.jan-beryan.giize.com/1864.ts
-#EXTINF:-1,TR:-BEN-TV
-http://andrtviptv.jan-beryan.giize.com/1859.ts
-#EXTINF:-1,TR:-A-SPOR
-http://andrtviptv.jan-beryan.giize.com/671.ts
-#EXTINF:-1,TR:-A-HABER-HD
-http://andrtviptv.jan-beryan.giize.com/675.ts
-#EXTINF:-1,TR:-360-TV
-http://andrtviptv.jan-beryan.giize.com/1852.ts
-#EXTINF:-1,TR:-24-TV
-http://andrtviptv.jan-beryan.giize.com/811.ts
-#EXTINF:-1,TR:--ISTANBUL1
-http://andrtviptv.jan-beryan.giize.com/1858.ts
-#EXTINF:-1,TR:--BENGUTURK
-http://andrtviptv.jan-beryan.giize.com/1863.ts
+#EXTINF:-1,TR:24 TV HD
+http://andrtviptv5.jan-beryan.giize.com/4937.ts
+#EXTINF:-1,TR:360 TV
+http://andrtviptv5.jan-beryan.giize.com/2322.ts
+#EXTINF:-1,TR:A 2
+http://andrtviptv5.jan-beryan.giize.com/2320.ts
+#EXTINF:-1,TR:A 9 TV
+http://andrtviptv5.jan-beryan.giize.com/4789.ts
+#EXTINF:-1,TR:A HABER HD
+http://andrtviptv5.jan-beryan.giize.com/4038.ts
+#EXTINF:-1,TR:A SPOR HD
+http://andrtviptv5.jan-beryan.giize.com/4037.ts
+#EXTINF:-1,TR:A SPORT HD
+http://andrtviptv5.jan-beryan.giize.com/2321.ts
+#EXTINF:-1,TR:AKIT TV
+http://andrtviptv5.jan-beryan.giize.com/5139.ts
+#EXTINF:-1,TR:ANIMAL PLANET HD
+http://andrtviptv5.jan-beryan.giize.com/4036.ts
+#EXTINF:-1,TR:ATV HD
+http://andrtviptv5.jan-beryan.giize.com/2319.ts
+#EXTINF:-1,TR:BEIN BOX OFFICE 1 HD
+http://andrtviptv5.jan-beryan.giize.com/2404.ts
+#EXTINF:-1,TR:BEIN BOX OFFICE 2 HD
+http://andrtviptv5.jan-beryan.giize.com/2403.ts
+#EXTINF:-1,TR:BEIN BOX OFFICE 3 HD
+http://andrtviptv5.jan-beryan.giize.com/2402.ts
+#EXTINF:-1,TR:BEIN BOXOFFICE TURK HD
+http://andrtviptv5.jan-beryan.giize.com/2314.ts
+#EXTINF:-1,TR:BEIN GURME
+http://andrtviptv5.jan-beryan.giize.com/2401.ts
+#EXTINF:-1,TR:beIN SPORTS 1 HD
+http://andrtviptv5.jan-beryan.giize.com/2318.ts
+#EXTINF:-1,TR:beIN SPORTS 2 HD
+http://andrtviptv5.jan-beryan.giize.com/2317.ts
+#EXTINF:-1,TR:beIN SPORTS 3 HD
+http://andrtviptv5.jan-beryan.giize.com/2316.ts
+#EXTINF:-1,TR:beIN SPORTS 4 HD
+http://andrtviptv5.jan-beryan.giize.com/2315.ts
+#EXTINF:-1,TR:BEINMOVIES TURK
+http://andrtviptv5.jan-beryan.giize.com/2405.ts
+#EXTINF:-1,TR:BENGU TURK
+http://andrtviptv5.jan-beryan.giize.com/4035.ts
+#EXTINF:-1,TR:BEYAZ HD
+http://andrtviptv5.jan-beryan.giize.com/2313.ts
+#EXTINF:-1,TR:BJK TV
+http://andrtviptv5.jan-beryan.giize.com/4033.ts
+#EXTINF:-1,TR:BLOOMBERG HT
+http://andrtviptv5.jan-beryan.giize.com/5138.ts
+#EXTINF:-1,TR:BURSASPOR TV BSTV
+http://andrtviptv5.jan-beryan.giize.com/5137.ts
+#EXTINF:-1,TR:CAPTAIN MOVIES 1
+http://andrtviptv5.jan-beryan.giize.com/4926.ts
+#EXTINF:-1,TR:CAPTAIN MOVIES 2
+http://andrtviptv5.jan-beryan.giize.com/4925.ts
+#EXTINF:-1,TR:CAPTAIN MOVIES 3
+http://andrtviptv5.jan-beryan.giize.com/4924.ts
+#EXTINF:-1,TR:CAPTAIN MOVIES 4
+http://andrtviptv5.jan-beryan.giize.com/4952.ts
+#EXTINF:-1,TR:CAPTAIN MOVIES 5
+http://andrtviptv5.jan-beryan.giize.com/4953.ts
+#EXTINF:-1,TR:CARTOON NETWORK
+http://andrtviptv5.jan-beryan.giize.com/2400.ts
+#EXTINF:-1,TR:CEM TV
+http://andrtviptv5.jan-beryan.giize.com/4032.ts
+#EXTINF:-1,TR:CIFTCI TV
+http://andrtviptv5.jan-beryan.giize.com/4031.ts
+#EXTINF:-1,TR:CINE 1 HD
+http://andrtviptv5.jan-beryan.giize.com/5136.ts
+#EXTINF:-1,TR:CINE KING
+http://andrtviptv5.jan-beryan.giize.com/5429.ts
+#EXTINF:-1,TR:CINEBOX 1
+http://andrtviptv5.jan-beryan.giize.com/4073.ts
+#EXTINF:-1,TR:CINEBOX 2
+http://andrtviptv5.jan-beryan.giize.com/4072.ts
+#EXTINF:-1,TR:CINEBOX 3
+http://andrtviptv5.jan-beryan.giize.com/4071.ts
+#EXTINF:-1,TR:CINEBOX 4
+http://andrtviptv5.jan-beryan.giize.com/4070.ts
+#EXTINF:-1,TR:CINEBOX 5
+http://andrtviptv5.jan-beryan.giize.com/4069.ts
+#EXTINF:-1,TR:CINEBOX 6
+http://andrtviptv5.jan-beryan.giize.com/4068.ts
+#EXTINF:-1,TR:CINEBOX 7
+http://andrtviptv5.jan-beryan.giize.com/4067.ts
+#EXTINF:-1,TR:CINEBOX TR
+http://andrtviptv5.jan-beryan.giize.com/4074.ts
+#EXTINF:-1,TR:CINESTAR AILE
+http://andrtviptv5.jan-beryan.giize.com/4066.ts
+#EXTINF:-1,TR:CINESTAR Gerilim
+http://andrtviptv5.jan-beryan.giize.com/4936.ts
+#EXTINF:-1,TR:CINESTAR Komedi
+http://andrtviptv5.jan-beryan.giize.com/4065.ts
+#EXTINF:-1,TR:CINESTAR Korku
+http://andrtviptv5.jan-beryan.giize.com/4064.ts
+#EXTINF:-1,TR:CINESTAR Nostalji
+http://andrtviptv5.jan-beryan.giize.com/4063.ts
+#EXTINF:-1,TR:CINESTAR Türk
+http://andrtviptv5.jan-beryan.giize.com/4062.ts
+#EXTINF:-1,TR:CINESTAR VIZYON 1
+http://andrtviptv5.jan-beryan.giize.com/4061.ts
+#EXTINF:-1,TR:CINESTAR VIZYON 2
+http://andrtviptv5.jan-beryan.giize.com/4060.ts
+#EXTINF:-1,TR:CINESTAR VIZYON 3
+http://andrtviptv5.jan-beryan.giize.com/4059.ts
+#EXTINF:-1,TR:CNN TURK *
+http://andrtviptv5.jan-beryan.giize.com/4030.ts
+#EXTINF:-1,TR:DAVINCI LEARNING
+http://andrtviptv5.jan-beryan.giize.com/5135.ts
+#EXTINF:-1,TR:DENIZLI TV (DRT)
+http://andrtviptv5.jan-beryan.giize.com/4028.ts
+#EXTINF:-1,TR:DERYA TV
+http://andrtviptv5.jan-beryan.giize.com/5134.ts
+#EXTINF:-1,TR:DIGI MAX 1
+http://andrtviptv5.jan-beryan.giize.com/5133.ts
+#EXTINF:-1,TR:DIGI MAX 2
+http://andrtviptv5.jan-beryan.giize.com/5132.ts
+#EXTINF:-1,TR:DISCOVERY CHANNEL HD
+http://andrtviptv5.jan-beryan.giize.com/4027.ts
+#EXTINF:-1,TR:DISCOVERY SCIENCE
+http://andrtviptv5.jan-beryan.giize.com/5130.ts
+#EXTINF:-1,TR:DISCOVERY SHOWCASE
+http://andrtviptv5.jan-beryan.giize.com/5131.ts
+#EXTINF:-1,TR:DISNEY CHANNEL
+http://andrtviptv5.jan-beryan.giize.com/4026.ts
+#EXTINF:-1,TR:DISNEY JR
+http://andrtviptv5.jan-beryan.giize.com/4273.ts
+#EXTINF:-1,TR:DISNEY XD
+http://andrtviptv5.jan-beryan.giize.com/4274.ts
+#EXTINF:-1,TR:Dizi Tv
+http://andrtviptv5.jan-beryan.giize.com/4923.ts
+#EXTINF:-1,TR:DREAM TURK
+http://andrtviptv5.jan-beryan.giize.com/4025.ts
+#EXTINF:-1,TR:DREAM TV
+http://andrtviptv5.jan-beryan.giize.com/4024.ts
+#EXTINF:-1,TR:DTX HD
+http://andrtviptv5.jan-beryan.giize.com/5403.ts
+#EXTINF:-1,TR:DUCK TV
+http://andrtviptv5.jan-beryan.giize.com/4023.ts
+#EXTINF:-1,TR:EGE TURK TV
+http://andrtviptv5.jan-beryan.giize.com/5129.ts
+#EXTINF:-1,TR:FB TV
+http://andrtviptv5.jan-beryan.giize.com/4022.ts
+#EXTINF:-1,TR:FIL TV
+http://andrtviptv5.jan-beryan.giize.com/4021.ts
+#EXTINF:-1,TR:FILMAX ACTION HD
+http://andrtviptv5.jan-beryan.giize.com/5402.ts
+#EXTINF:-1,TR:FILMAX BLACK HD
+http://andrtviptv5.jan-beryan.giize.com/5401.ts
+#EXTINF:-1,TR:FILMAX COMEDY HD
+http://andrtviptv5.jan-beryan.giize.com/5400.ts
+#EXTINF:-1,TR:FILMAX DRAMA HD
+http://andrtviptv5.jan-beryan.giize.com/5399.ts
+#EXTINF:-1,TR:FILMAX FAMILY HD
+http://andrtviptv5.jan-beryan.giize.com/5398.ts
+#EXTINF:-1,TR:FILMAX GOLD HD
+http://andrtviptv5.jan-beryan.giize.com/5397.ts
+#EXTINF:-1,TR:FILMAX PREMIER HD
+http://andrtviptv5.jan-beryan.giize.com/5396.ts
+#EXTINF:-1,TR:FILMBOX ADRENALIN
+http://andrtviptv5.jan-beryan.giize.com/4010.ts
+#EXTINF:-1,TR:FILMBOX AILE
+http://andrtviptv5.jan-beryan.giize.com/4009.ts
+#EXTINF:-1,TR:FILMBOX AKSIYON
+http://andrtviptv5.jan-beryan.giize.com/4008.ts
+#EXTINF:-1,TR:FILMBOX AKSIYON 2
+http://andrtviptv5.jan-beryan.giize.com/4020.ts
+#EXTINF:-1,TR:FILMBOX ANIMASYON
+http://andrtviptv5.jan-beryan.giize.com/4007.ts
+#EXTINF:-1,TR:FILMBOX BILIMKURGU
+http://andrtviptv5.jan-beryan.giize.com/4006.ts
+#EXTINF:-1,TR:FILMBOX DRAMA
+http://andrtviptv5.jan-beryan.giize.com/4019.ts
+#EXTINF:-1,TR:FILMBOX FANTASTIK
+http://andrtviptv5.jan-beryan.giize.com/4018.ts
+#EXTINF:-1,TR:FILMBOX KOMEDI
+http://andrtviptv5.jan-beryan.giize.com/4017.ts
+#EXTINF:-1,TR:FILMBOX KORKU
+http://andrtviptv5.jan-beryan.giize.com/4016.ts
+#EXTINF:-1,TR:FILMBOX PREMIER
+http://andrtviptv5.jan-beryan.giize.com/4015.ts
+#EXTINF:-1,TR:FILMBOX PREMIER 2
+http://andrtviptv5.jan-beryan.giize.com/4014.ts
+#EXTINF:-1,TR:FILMBOX SCI-FI
+http://andrtviptv5.jan-beryan.giize.com/4317.ts
+#EXTINF:-1,TR:FILMBOX SPECIAL
+http://andrtviptv5.jan-beryan.giize.com/4013.ts
+#EXTINF:-1,TR:FILMBOX TURK
+http://andrtviptv5.jan-beryan.giize.com/4012.ts
+#EXTINF:-1,TR:FILMBOX YESILCAM
+http://andrtviptv5.jan-beryan.giize.com/4011.ts
+#EXTINF:-1,TR:Flash TV
+http://andrtviptv5.jan-beryan.giize.com/2312.ts
+#EXTINF:-1,TR:FOX CRIME
+http://andrtviptv5.jan-beryan.giize.com/5128.ts
+#EXTINF:-1,TR:FOX LIFE TV
+http://andrtviptv5.jan-beryan.giize.com/5127.ts
+#EXTINF:-1,TR:FOX TV HD
+http://andrtviptv5.jan-beryan.giize.com/4005.ts
+#EXTINF:-1,TR:GS TV
+http://andrtviptv5.jan-beryan.giize.com/4004.ts
+#EXTINF:-1,TR:HABERTURK *
+http://andrtviptv5.jan-beryan.giize.com/4003.ts
+#EXTINF:-1,TR:HALK TV
+http://andrtviptv5.jan-beryan.giize.com/4002.ts
+#EXTINF:-1,TR:HILAL TV
+http://andrtviptv5.jan-beryan.giize.com/4001.ts
+#EXTINF:-1,TR:HISTORY
+http://andrtviptv5.jan-beryan.giize.com/2311.ts
+#EXTINF:-1,TR:IDX & FOX CRIMI
+http://andrtviptv5.jan-beryan.giize.com/4000.ts
+#EXTINF:-1,TR:IDX HD
+http://andrtviptv5.jan-beryan.giize.com/5395.ts
+#EXTINF:-1,TR:IZ beIN TV HD
+http://andrtviptv5.jan-beryan.giize.com/3999.ts
+#EXTINF:-1,TR:KANAL 24
+http://andrtviptv5.jan-beryan.giize.com/2306.ts
+#EXTINF:-1,TR:KANAL 26
+http://andrtviptv5.jan-beryan.giize.com/2305.ts
+#EXTINF:-1,TR:KANAL 28
+http://andrtviptv5.jan-beryan.giize.com/2304.ts
+#EXTINF:-1,TR:KANAL 3
+http://andrtviptv5.jan-beryan.giize.com/3998.ts
+#EXTINF:-1,TR:KANAL 33
+http://andrtviptv5.jan-beryan.giize.com/3675.ts
+#EXTINF:-1,TR:KANAL 60
+http://andrtviptv5.jan-beryan.giize.com/2303.ts
+#EXTINF:-1,TR:KANAL 68
+http://andrtviptv5.jan-beryan.giize.com/4277.ts
+#EXTINF:-1,TR:KANAL 7
+http://andrtviptv5.jan-beryan.giize.com/2307.ts
+#EXTINF:-1,TR:KANAL 91
+http://andrtviptv5.jan-beryan.giize.com/2302.ts
+#EXTINF:-1,TR:Kanal 92
+http://andrtviptv5.jan-beryan.giize.com/2301.ts
+#EXTINF:-1,TR:Kanal A
+http://andrtviptv5.jan-beryan.giize.com/2300.ts
+#EXTINF:-1,TR:Kanal B
+http://andrtviptv5.jan-beryan.giize.com/3676.ts
+#EXTINF:-1,TR:KANAL C
+http://andrtviptv5.jan-beryan.giize.com/2299.ts
+#EXTINF:-1,TR:Kanal D HD
+http://andrtviptv5.jan-beryan.giize.com/2298.ts
+#EXTINF:-1,TR:KANAL T Kibris
+http://andrtviptv5.jan-beryan.giize.com/2297.ts
+#EXTINF:-1,TR:KANAL TEK
+http://andrtviptv5.jan-beryan.giize.com/3677.ts
+#EXTINF:-1,TR:KARS TV
+http://andrtviptv5.jan-beryan.giize.com/4922.ts
+#EXTINF:-1,TR:KEMAL SUNAL TV
+http://andrtviptv5.jan-beryan.giize.com/5126.ts
+#EXTINF:-1,TR:KON TV
+http://andrtviptv5.jan-beryan.giize.com/3997.ts
+#EXTINF:-1,TR:KRAL POP TV
+http://andrtviptv5.jan-beryan.giize.com/3996.ts
+#EXTINF:-1,TR:KRAL TV
+http://andrtviptv5.jan-beryan.giize.com/3995.ts
+#EXTINF:-1,TR:KRAL World TV
+http://andrtviptv5.jan-beryan.giize.com/4951.ts
+#EXTINF:-1,TR:LALEGUL TV
+http://andrtviptv5.jan-beryan.giize.com/3994.ts
+#EXTINF:-1,TR:LOCA 1 HD
+http://andrtviptv5.jan-beryan.giize.com/5394.ts
+#EXTINF:-1,TR:LOCA 2 HD
+http://andrtviptv5.jan-beryan.giize.com/5393.ts
+#EXTINF:-1,TR:LOCA 3 HD
+http://andrtviptv5.jan-beryan.giize.com/5392.ts
+#EXTINF:-1,TR:MAGICBOX 1 HD
+http://andrtviptv5.jan-beryan.giize.com/5391.ts
+#EXTINF:-1,TR:MAGICBOX 2 HD
+http://andrtviptv5.jan-beryan.giize.com/5390.ts
+#EXTINF:-1,TR:MAGICBOX 3 HD
+http://andrtviptv5.jan-beryan.giize.com/5389.ts
+#EXTINF:-1,TR:MAGICBOX 4 HD
+http://andrtviptv5.jan-beryan.giize.com/5388.ts
+#EXTINF:-1,TR:MAGICBOX 5 HD
+http://andrtviptv5.jan-beryan.giize.com/5387.ts
+#EXTINF:-1,TR:MAGICBOX ANIMASYON HD
+http://andrtviptv5.jan-beryan.giize.com/5386.ts
+#EXTINF:-1,TR:MAGICBOX COMEDY HD
+http://andrtviptv5.jan-beryan.giize.com/5385.ts
+#EXTINF:-1,TR:MAGICBOX DIZI HD
+http://andrtviptv5.jan-beryan.giize.com/5384.ts
+#EXTINF:-1,TR:MAGICBOX KORKU HD
+http://andrtviptv5.jan-beryan.giize.com/5383.ts
+#EXTINF:-1,TR:MAGICBOX WESTERN HD
+http://andrtviptv5.jan-beryan.giize.com/5382.ts
+#EXTINF:-1,TR:MAGICBOX YESILCAM HD
+http://andrtviptv5.jan-beryan.giize.com/5381.ts
+#EXTINF:-1,TR:MELTEM TV
+http://andrtviptv5.jan-beryan.giize.com/5125.ts
+#EXTINF:-1,TR:MINIKA COCUK
+http://andrtviptv5.jan-beryan.giize.com/3993.ts
+#EXTINF:-1,TR:MINIKA GO
+http://andrtviptv5.jan-beryan.giize.com/4270.ts
+#EXTINF:-1,TR:MOVIEMAX COMEDY
+http://andrtviptv5.jan-beryan.giize.com/5055.ts
+#EXTINF:-1,TR:MOVIEMAX FAMILY
+http://andrtviptv5.jan-beryan.giize.com/5054.ts
+#EXTINF:-1,TR:MOVIEMAX FESTIVAL
+http://andrtviptv5.jan-beryan.giize.com/5053.ts
+#EXTINF:-1,TR:MOVIEMAX OSCARS
+http://andrtviptv5.jan-beryan.giize.com/5052.ts
+#EXTINF:-1,TR:MOVIEMAX PREMIER 1
+http://andrtviptv5.jan-beryan.giize.com/5051.ts
+#EXTINF:-1,TR:MOVIEMAX PREMIER 2
+http://andrtviptv5.jan-beryan.giize.com/5050.ts
+#EXTINF:-1,TR:MOVIEMAX SPEED
+http://andrtviptv5.jan-beryan.giize.com/5049.ts
+#EXTINF:-1,TR:MOVIEMAX TURK
+http://andrtviptv5.jan-beryan.giize.com/5048.ts
+#EXTINF:-1,TR:MovieSmart Action HD
+http://andrtviptv5.jan-beryan.giize.com/4053.ts
+#EXTINF:-1,TR:MovieSmart Family HD
+http://andrtviptv5.jan-beryan.giize.com/4052.ts
+#EXTINF:-1,TR:MovieSmart Fest
+http://andrtviptv5.jan-beryan.giize.com/5047.ts
+#EXTINF:-1,TR:MovieSmart Gold 1 HD
+http://andrtviptv5.jan-beryan.giize.com/4051.ts
+#EXTINF:-1,TR:MovieSmart Gold 2 HD
+http://andrtviptv5.jan-beryan.giize.com/5046.ts
+#EXTINF:-1,TR:MovieSmart Platin 1 HD
+http://andrtviptv5.jan-beryan.giize.com/4050.ts
+#EXTINF:-1,TR:MovieSmart Platin 2 HD
+http://andrtviptv5.jan-beryan.giize.com/4049.ts
+#EXTINF:-1,TR:MovieSmart Premium 1 HD
+http://andrtviptv5.jan-beryan.giize.com/4048.ts
+#EXTINF:-1,TR:MovieSmart Premium 2 HD
+http://andrtviptv5.jan-beryan.giize.com/4047.ts
+#EXTINF:-1,TR:MovieSmart Turk
+http://andrtviptv5.jan-beryan.giize.com/4046.ts
+#EXTINF:-1,TR:NATIONAL GEO PEOPLE HD
+http://andrtviptv5.jan-beryan.giize.com/2309.ts
+#EXTINF:-1,TR:National Geographic
+http://andrtviptv5.jan-beryan.giize.com/2310.ts
+#EXTINF:-1,TR:NATIONAL WILD HD
+http://andrtviptv5.jan-beryan.giize.com/2308.ts
+#EXTINF:-1,TR:NICK JUNIOR
+http://andrtviptv5.jan-beryan.giize.com/3992.ts
+#EXTINF:-1,TR:NICKELODEON HD
+http://andrtviptv5.jan-beryan.giize.com/4269.ts
+#EXTINF:-1,TR:NTV HABER *
+http://andrtviptv5.jan-beryan.giize.com/3991.ts
+#EXTINF:-1,TR:NTV SPOR HD
+http://andrtviptv5.jan-beryan.giize.com/3990.ts
+#EXTINF:-1,TR:NUMBER ONE TURK TV
+http://andrtviptv5.jan-beryan.giize.com/3989.ts
+#EXTINF:-1,TR:OLAY TV
+http://andrtviptv5.jan-beryan.giize.com/3988.ts
+#EXTINF:-1,TR:PLANET COCUK
+http://andrtviptv5.jan-beryan.giize.com/4272.ts
+#EXTINF:-1,TR:PLANET Mutfak
+http://andrtviptv5.jan-beryan.giize.com/4949.ts
+#EXTINF:-1,TR:PLANET PEMBE
+http://andrtviptv5.jan-beryan.giize.com/3987.ts
+#EXTINF:-1,TR:PLANET TURK
+http://andrtviptv5.jan-beryan.giize.com/3986.ts
+#EXTINF:-1,TR:POWER TURK
+http://andrtviptv5.jan-beryan.giize.com/3985.ts
+#EXTINF:-1,TR:POWER TV HD
+http://andrtviptv5.jan-beryan.giize.com/5124.ts
+#EXTINF:-1,TR:S SPOR
+http://andrtviptv5.jan-beryan.giize.com/4921.ts
+#EXTINF:-1,TR:SALON 1 HD
+http://andrtviptv5.jan-beryan.giize.com/2273.ts
+#EXTINF:-1,TR:SALON_2_HD
+http://andrtviptv5.jan-beryan.giize.com/2399.ts
+#EXTINF:-1,TR:SALON_3_HD
+http://andrtviptv5.jan-beryan.giize.com/2272.ts
+#EXTINF:-1,TR:SEMERKAND TV HD
+http://andrtviptv5.jan-beryan.giize.com/3984.ts
+#EXTINF:-1,TR:SHOW MAX
+http://andrtviptv5.jan-beryan.giize.com/4727.ts
+#EXTINF:-1,TR:SHOW TV HD
+http://andrtviptv5.jan-beryan.giize.com/3983.ts
+#EXTINF:-1,TR:SINEMA GERILIM
+http://andrtviptv5.jan-beryan.giize.com/4043.ts
+#EXTINF:-1,TR:SINEMA KOMEDI 1
+http://andrtviptv5.jan-beryan.giize.com/4042.ts
+#EXTINF:-1,TR:SINEMA KOMEDI 2
+http://andrtviptv5.jan-beryan.giize.com/4041.ts
+#EXTINF:-1,TR:SINEMA KORKU
+http://andrtviptv5.jan-beryan.giize.com/4040.ts
+#EXTINF:-1,TR:SINEMA TURK
+http://andrtviptv5.jan-beryan.giize.com/4783.ts
+#EXTINF:-1,TR:SINEMA TURK 2
+http://andrtviptv5.jan-beryan.giize.com/4039.ts
+#EXTINF:-1,TR:SINEMA TV
+http://andrtviptv5.jan-beryan.giize.com/2275.ts
+#EXTINF:-1,TR:SINEMA TV 1001 HD
+http://andrtviptv5.jan-beryan.giize.com/3715.ts
+#EXTINF:-1,TR:SINEMA TV AILE HD
+http://andrtviptv5.jan-beryan.giize.com/3714.ts
+#EXTINF:-1,TR:SINEMA TV AKSIYON
+http://andrtviptv5.jan-beryan.giize.com/3713.ts
+#EXTINF:-1,TR:SINEMAX COMEDY HD
+http://andrtviptv5.jan-beryan.giize.com/5380.ts
+#EXTINF:-1,TR:SINEMAX FAMILY HD
+http://andrtviptv5.jan-beryan.giize.com/5123.ts
+#EXTINF:-1,TR:SINEMAX FEAR HD
+http://andrtviptv5.jan-beryan.giize.com/5122.ts
+#EXTINF:-1,TR:SINEMAX NOSTALGIA HD
+http://andrtviptv5.jan-beryan.giize.com/5379.ts
+#EXTINF:-1,TR:SINEMAX TURK HD
+http://andrtviptv5.jan-beryan.giize.com/5121.ts
+#EXTINF:-1,TR:SINETIVI
+http://andrtviptv5.jan-beryan.giize.com/4788.ts
+#EXTINF:-1,TR:SINETIVI 2
+http://andrtviptv5.jan-beryan.giize.com/4787.ts
+#EXTINF:-1,TR:SINETIVI 2 ADRENALIN
+http://andrtviptv5.jan-beryan.giize.com/4785.ts
+#EXTINF:-1,TR:SINETIVI 2 KARNAVAL
+http://andrtviptv5.jan-beryan.giize.com/5378.ts
+#EXTINF:-1,TR:SINETIVI ADRENALIN
+http://andrtviptv5.jan-beryan.giize.com/4786.ts
+#EXTINF:-1,TR:SINETIVI KARNAVAL
+http://andrtviptv5.jan-beryan.giize.com/4784.ts
+#EXTINF:-1,TR:SMART SPOR 1
+http://andrtviptv5.jan-beryan.giize.com/2270.ts
+#EXTINF:-1,TR:SMART SPOR 2
+http://andrtviptv5.jan-beryan.giize.com/2269.ts
+#EXTINF:-1,TR:SPORTS_TV
+http://andrtviptv5.jan-beryan.giize.com/2271.ts
+#EXTINF:-1,TR:SRT Sivas
+http://andrtviptv5.jan-beryan.giize.com/4948.ts
+#EXTINF:-1,TR:STAR TV HD
+http://andrtviptv5.jan-beryan.giize.com/2274.ts
+#EXTINF:-1,TR:TAY TV
+http://andrtviptv5.jan-beryan.giize.com/3712.ts
+#EXTINF:-1,TR:TEK RUMELI TV
+http://andrtviptv5.jan-beryan.giize.com/3709.ts
+#EXTINF:-1,TR:TELE 1
+http://andrtviptv5.jan-beryan.giize.com/3711.ts
+#EXTINF:-1,TR:TELEDUNYA INFO
+http://andrtviptv5.jan-beryan.giize.com/3710.ts
+#EXTINF:-1,TR:TEVE 2
+http://andrtviptv5.jan-beryan.giize.com/3708.ts
+#EXTINF:-1,TR:TGRT BELGESEL
+http://andrtviptv5.jan-beryan.giize.com/3707.ts
+#EXTINF:-1,TR:TGRT EU
+http://andrtviptv5.jan-beryan.giize.com/3706.ts
+#EXTINF:-1,TR:TGRT HABER
+http://andrtviptv5.jan-beryan.giize.com/3705.ts
+#EXTINF:-1,TR:TIVIBU SPOR 1
+http://andrtviptv5.jan-beryan.giize.com/2296.ts
+#EXTINF:-1,TR:TIVIBU SPOR 2
+http://andrtviptv5.jan-beryan.giize.com/2295.ts
+#EXTINF:-1,TR:TIVIBU SPOR 3
+http://andrtviptv5.jan-beryan.giize.com/2294.ts
+#EXTINF:-1,TR:TIVIBU SPOR 4
+http://andrtviptv5.jan-beryan.giize.com/2293.ts
+#EXTINF:-1,TR:TJK
+http://andrtviptv5.jan-beryan.giize.com/3704.ts
+#EXTINF:-1,TR:TLC TV
+http://andrtviptv5.jan-beryan.giize.com/3703.ts
+#EXTINF:-1,TR:TRT 1
+http://andrtviptv5.jan-beryan.giize.com/2291.ts
+#EXTINF:-1,TR:TRT ARAPCA
+http://andrtviptv5.jan-beryan.giize.com/2290.ts
+#EXTINF:-1,TR:TRT AVAZ
+http://andrtviptv5.jan-beryan.giize.com/2289.ts
+#EXTINF:-1,TR:TRT BELGESEL_HD
+http://andrtviptv5.jan-beryan.giize.com/2288.ts
+#EXTINF:-1,TR:TRT COCUK
+http://andrtviptv5.jan-beryan.giize.com/2287.ts
+#EXTINF:-1,TR:TRT DIYANET
+http://andrtviptv5.jan-beryan.giize.com/2286.ts
+#EXTINF:-1,TR:TRT HABER
+http://andrtviptv5.jan-beryan.giize.com/2285.ts
+#EXTINF:-1,TR:TRT KURDI
+http://andrtviptv5.jan-beryan.giize.com/2284.ts
+#EXTINF:-1,TR:TRT MUZIK
+http://andrtviptv5.jan-beryan.giize.com/2278.ts
+#EXTINF:-1,TR:TRT OKUL
+http://andrtviptv5.jan-beryan.giize.com/2283.ts
+#EXTINF:-1,TR:TRT SPOR
+http://andrtviptv5.jan-beryan.giize.com/2282.ts
+#EXTINF:-1,TR:TRT TURK
+http://andrtviptv5.jan-beryan.giize.com/2281.ts
+#EXTINF:-1,TR:TRT WORLD
+http://andrtviptv5.jan-beryan.giize.com/2280.ts
+#EXTINF:-1,TR:Turan TV
+http://andrtviptv5.jan-beryan.giize.com/4947.ts
+#EXTINF:-1,TR:TURKWOOD
+http://andrtviptv5.jan-beryan.giize.com/5294.ts
+#EXTINF:-1,TR:TV 1 KAYSERI
+http://andrtviptv5.jan-beryan.giize.com/3701.ts
+#EXTINF:-1,TR:TV 10
+http://andrtviptv5.jan-beryan.giize.com/4920.ts
+#EXTINF:-1,TR:TV 2 HD
+http://andrtviptv5.jan-beryan.giize.com/3981.ts
+#EXTINF:-1,TR:TV 2000
+http://andrtviptv5.jan-beryan.giize.com/3700.ts
+#EXTINF:-1,TR:TV 4
+http://andrtviptv5.jan-beryan.giize.com/3699.ts
+#EXTINF:-1,TR:TV 41
+http://andrtviptv5.jan-beryan.giize.com/3698.ts
+#EXTINF:-1,TR:TV 5
+http://andrtviptv5.jan-beryan.giize.com/3697.ts
+#EXTINF:-1,TR:TV 52 ORDU
+http://andrtviptv5.jan-beryan.giize.com/3696.ts
+#EXTINF:-1,TR:TV 6
+http://andrtviptv5.jan-beryan.giize.com/3695.ts
+#EXTINF:-1,TR:TV 8
+http://andrtviptv5.jan-beryan.giize.com/2292.ts
+#EXTINF:-1,TR:TV 8 INT
+http://andrtviptv5.jan-beryan.giize.com/3694.ts
+#EXTINF:-1,TR:TV 8.5
+http://andrtviptv5.jan-beryan.giize.com/4919.ts
+#EXTINF:-1,TR:TV DEN AYDIN
+http://andrtviptv5.jan-beryan.giize.com/3693.ts
+#EXTINF:-1,TR:TV EM
+http://andrtviptv5.jan-beryan.giize.com/3692.ts
+#EXTINF:-1,TR:TV KAYSERI
+http://andrtviptv5.jan-beryan.giize.com/3702.ts
+#EXTINF:-1,TR:TV NET HD
+http://andrtviptv5.jan-beryan.giize.com/3979.ts
+#EXTINF:-1,TR:TV T
+http://andrtviptv5.jan-beryan.giize.com/3691.ts
+#EXTINF:-1,TR:ULKE TV
+http://andrtviptv5.jan-beryan.giize.com/3978.ts
+#EXTINF:-1,TR:ULUSAL KANAL
+http://andrtviptv5.jan-beryan.giize.com/3977.ts
+#EXTINF:-1,TR:VATAN TV
+http://andrtviptv5.jan-beryan.giize.com/3976.ts
+#EXTINF:-1,TR:YABAN TV
+http://andrtviptv5.jan-beryan.giize.com/3975.ts
+#EXTINF:-1,TR:YASIN TV
+http://andrtviptv5.jan-beryan.giize.com/5428.ts
