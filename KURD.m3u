@@ -32,4 +32,61 @@ http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
 
-
+#EXTINF:-1,KR:ARTI TV
+http://andrtviptv5.jan-beryan.giize.com/4298.ts
+#EXTINF:-1,KR:CiHAN TV
+http://andrtviptv5.jan-beryan.giize.com/4918.ts
+#EXTINF:-1,KR:CIRA TV
+http://andrtviptv5.jan-beryan.giize.com/4297.ts
+#EXTINF:-1,KR:CNEW LINE
+http://andrtviptv5.jan-beryan.giize.com/4296.ts
+#EXTINF:-1,KR:GALI KURDISTAN
+http://andrtviptv5.jan-beryan.giize.com/4295.ts
+#EXTINF:-1,KR:KNN
+http://andrtviptv5.jan-beryan.giize.com/4917.ts
+#EXTINF:-1,KR:KOREK TV
+http://andrtviptv5.jan-beryan.giize.com/5448.ts
+#EXTINF:-1,KR:KURDISTAN TV
+http://andrtviptv5.jan-beryan.giize.com/4294.ts
+#EXTINF:-1,KR:KURDISTAN 24 TV
+http://andrtviptv5.jan-beryan.giize.com/5447.ts
+#EXTINF:-1,KR:KURDMAX
+http://andrtviptv5.jan-beryan.giize.com/4293.ts
+#EXTINF:-1,KR:KURDSAT
+http://andrtviptv5.jan-beryan.giize.com/4292.ts
+#EXTINF:-1,KR:KURDSAT NEWS
+http://andrtviptv5.jan-beryan.giize.com/4291.ts
+#EXTINF:-1,KR:LALISH
+http://andrtviptv5.jan-beryan.giize.com/4290.ts
+#EXTINF:-1,KR:Med Müzik
+http://andrtviptv5.jan-beryan.giize.com/4289.ts
+#EXTINF:-1,KR:NEWS CHANNEL
+http://andrtviptv5.jan-beryan.giize.com/4288.ts
+#EXTINF:-1,KR:NRT 1
+http://andrtviptv5.jan-beryan.giize.com/4287.ts
+#EXTINF:-1,KR:NRT 2
+http://andrtviptv5.jan-beryan.giize.com/4286.ts
+#EXTINF:-1,KR:RAKA TV
+http://andrtviptv5.jan-beryan.giize.com/4285.ts
+#EXTINF:-1,KR:Rega TV
+http://andrtviptv5.jan-beryan.giize.com/5178.ts
+#EXTINF:-1,KR:RONAHI TV
+http://andrtviptv5.jan-beryan.giize.com/4284.ts
+#EXTINF:-1,KR:RUDAW HD
+http://andrtviptv5.jan-beryan.giize.com/4283.ts
+#EXTINF:-1,KR:Speda TV
+http://andrtviptv5.jan-beryan.giize.com/4916.ts
+#EXTINF:-1,KR:Stêrk TV
+http://andrtviptv5.jan-beryan.giize.com/4282.ts
+#EXTINF:-1,KR:TV 10
+http://andrtviptv5.jan-beryan.giize.com/5177.ts
+#EXTINF:-1,KR:VIN TV HD
+http://andrtviptv5.jan-beryan.giize.com/5446.ts
+#EXTINF:-1,KR:WAAR
+http://andrtviptv5.jan-beryan.giize.com/4281.ts
+#EXTINF:-1,KR:WIN TV
+http://andrtviptv5.jan-beryan.giize.com/4280.ts
+#EXTINF:-1,KR:ZAGROS
+http://andrtviptv5.jan-beryan.giize.com/4279.ts
+#EXTINF:-1,KR:ZAROK TV
+http://andrtviptv5.jan-beryan.giize.com/4278.ts
