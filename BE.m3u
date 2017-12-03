@@ -3,35 +3,63 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",======BELGIUM=======
 http://www.lengua.com/anthems/Belgium.mp3
-#EXTINF:-1,BE:-LA-UNE
-http://andrtviptv.jan-beryan.giize.com/377.ts
-#EXTINF:-1,BE:-LA-DEUX
-http://andrtviptv.jan-beryan.giize.com/379.ts
-#EXTINF:-1,BE:-LA-TROIS
-http://andrtviptv.jan-beryan.giize.com/378.ts
-#EXTINF:-1,BE:-2BE-HD
-http://andrtviptv.jan-beryan.giize.com/713.ts
-#EXTINF:-1,BE:-Een
-http://andrtviptv.jan-beryan.giize.com/714.ts
-#EXTINF:-1,BE:-RTL-TVI
-http://andrtviptv.jan-beryan.giize.com/375.ts
-#EXTINF:-1,BE:-PLUG-RTL
-http://andrtviptv.jan-beryan.giize.com/376.ts
-#EXTINF:-1,BE:-CLUB-RTL
-http://andrtviptv.jan-beryan.giize.com/380.ts
-#EXTINF:-1,BE:-Vitaya
-http://andrtviptv.jan-beryan.giize.com/698.ts
-#EXTINF:-1,BE:-Vier
-http://andrtviptv.jan-beryan.giize.com/697.ts
-#EXTINF:-1,BE:_TV_OOST
-http://andrtviptv.jan-beryan.giize.com/3711.ts
-#EXTINF:-1,BE:_TVL
-http://andrtviptv.jan-beryan.giize.com/3710.ts
-#EXTINF:-1,BE:_Telesambre
-http://andrtviptv.jan-beryan.giize.com/3709.ts
-#EXTINF:-1,BE:_NRJ_Hits_TV
-http://andrtviptv.jan-beryan.giize.com/3708.ts
-#EXTINF:-1,BE:_Notele
-http://andrtviptv.jan-beryan.giize.com/3707.ts
-#EXTINF:-1,BE:_ATV
-http://andrtviptv.jan-beryan.giize.com/3706.ts
+#EXTINF:-1,BE:LA UNE HD
+http://andrtviptv5.jan-beryan.giize.com/2149.ts
+#EXTINF:-1,BE:LA DEUX
+http://andrtviptv5.jan-beryan.giize.com/2147.ts
+#EXTINF:-1,BE:LA TROIS
+http://andrtviptv5.jan-beryan.giize.com/2148.ts
+#EXTINF:-1,BE:ACHT
+http://andrtviptv5.jan-beryan.giize.com/2146.ts
+#EXTINF:-1,BE:ANTENNE CENTRE
+http://andrtviptv5.jan-beryan.giize.com/2267.ts
+#EXTINF:-1,BE:CANVAS HD
+http://andrtviptv5.jan-beryan.giize.com/2145.ts
+#EXTINF:-1,BE:CINEMA 1
+http://andrtviptv5.jan-beryan.giize.com/2143.ts
+#EXTINF:-1,BE:CINEMA 2
+http://andrtviptv5.jan-beryan.giize.com/2142.ts
+#EXTINF:-1,BE:CLUB RTL
+http://andrtviptv5.jan-beryan.giize.com/2144.ts
+#EXTINF:-1,BE:EEN HD
+http://andrtviptv5.jan-beryan.giize.com/2141.ts
+#EXTINF:-1,BE:NO TELE
+http://andrtviptv5.jan-beryan.giize.com/2266.ts
+#EXTINF:-1,BE:PLUG RTL
+http://andrtviptv5.jan-beryan.giize.com/2140.ts
+#EXTINF:-1,BE:RMZ-SERIE
+http://andrtviptv5.jan-beryan.giize.com/2139.ts
+#EXTINF:-1,BE:RTC LIEGE
+http://andrtviptv5.jan-beryan.giize.com/2265.ts
+#EXTINF:-1,BE:RTL TVI HD
+http://andrtviptv5.jan-beryan.giize.com/2138.ts
+#EXTINF:-1,BE:RTS Deux HD
+http://andrtviptv5.jan-beryan.giize.com/2136.ts
+#EXTINF:-1,BE:RTS Un HD
+http://andrtviptv5.jan-beryan.giize.com/2137.ts
+#EXTINF:-1,BE:SERIE
+http://andrtviptv5.jan-beryan.giize.com/2135.ts
+#EXTINF:-1,BE:TELE BIELINGUE
+http://andrtviptv5.jan-beryan.giize.com/2134.ts
+#EXTINF:-1,BE:TELE MB
+http://andrtviptv5.jan-beryan.giize.com/2264.ts
+#EXTINF:-1,BE:TELE SAMBRE
+http://andrtviptv5.jan-beryan.giize.com/2263.ts
+#EXTINF:-1,BE:TELE VESDRE
+http://andrtviptv5.jan-beryan.giize.com/2262.ts
+#EXTINF:-1,BE:TV LUXEMBOURG
+http://andrtviptv5.jan-beryan.giize.com/2261.ts
+#EXTINF:-1,BE:VIER
+http://andrtviptv5.jan-beryan.giize.com/2132.ts
+#EXTINF:-1,BE:VITAYA
+http://andrtviptv5.jan-beryan.giize.com/2133.ts
+#EXTINF:-1,BE:VOO SPORT 1
+http://andrtviptv5.jan-beryan.giize.com/2131.ts
+#EXTINF:-1,BE:VOO SPORT 2
+http://andrtviptv5.jan-beryan.giize.com/4144.ts
+#EXTINF:-1,BE:VOO SPORT 3
+http://andrtviptv5.jan-beryan.giize.com/4145.ts
+#EXTINF:-1,BE:VOO SPORT WORLD 1
+http://andrtviptv5.jan-beryan.giize.com/2130.ts
+#EXTINF:-1,BE:VTM HD
+http://andrtviptv5.jan-beryan.giize.com/2129.ts
