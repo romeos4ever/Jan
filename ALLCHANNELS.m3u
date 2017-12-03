@@ -40,191 +40,159 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwW1zQzAAAOAf5FxzhMQHH7AYxYbMdrdvpJV5adIGVc6P3%2fPwiX3WkArVkB%2b7RZFK0nb%2fCHqDr9QuO9ZdqwKSfBpJ0hUxp2dabvGt%2bvYWPiGMnizG72SS%2fgDS86XHOVPNTV63DvNWFhEpLIM6SGhi%2fgK%2fz5ZWS63dUybGu9fK4VWo02LlnGdWDwXdCNtlvSvqw0d80aLZyErKsNqzMjRm4B5bQUoZPsxl%2fBNNtPqHhYwgMExTR6GHdYgg0B0bQh1YtoPeLOJDBxyrw9VJw2LFInmBPuBD85Kr6%2f4DMDlQz%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", MBC SPORT 1HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jGyEdE8eKi4dAmlCOOtbtOWXYslZXz8nrMNPH5uTr%2bSovv9CQXjVrPUdBRbcS35vepFJ0%2feeK4%2bhZ%2b08itI%2bM3JFwgvK0ka2fKMWcaAchqre0CJwqvSZb49I24FQ4EMkzBFDWFKqFzbzVwYsWFrAJPJS9o2Sj143R8cZIqaOaeLm7I2H%2froXWYgY%2f3zngbua9oHMyn93NKPZWJRmImF4WzsnHQ6VA1SChVF0uzzSUIaAhLBCElAxUQzVctABBxf55qsEIb%2bx%2bT94eDxLr93InT9H3Iq3DT7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-
+#EXTINF:-1,AR:-MBC-1
+http://andrtviptv.jan-beryan.giize.com/820.ts
+#EXTINF:-1,AR:-MBC-2
+http://andrtviptv.jan-beryan.giize.com/187.ts
+#EXTINF:-1,AR:-MBC-3
+http://andrtviptv.jan-beryan.giize.com/188.ts
+#EXTINF:-1,AR:-MBC-4
+http://andrtviptv.jan-beryan.giize.com/189.ts
+#EXTINF:-1,AR:-MBC-ACTION
+http://andrtviptv.jan-beryan.giize.com/821.ts
+#EXTINF:-1,AR:-MBC-Bollywood
+http://andrtviptv.jan-beryan.giize.com/191.ts
+#EXTINF:-1,AR:-MBC-Drama
+http://andrtviptv.jan-beryan.giize.com/266.ts
+#EXTINF:-1,AR:-MBC-MASR
+http://andrtviptv.jan-beryan.giize.com/267.ts
+#EXTINF:-1,AR:-MBC-Masr-2
+http://andrtviptv.jan-beryan.giize.com/268.ts
+#EXTINF:-1,AR:-MBC-Max
+http://andrtviptv.jan-beryan.giize.com/269.ts
+#EXTINF:-1,AR:-Zee-Aflam
+http://andrtviptv.jan-beryan.giize.com/2180.ts
+#EXTINF:-1,AR:-ZEE_ALWAN
+http://andrtviptv.jan-beryan.giize.com/3177.ts
+#EXTINF:-1,AR:-MBC_ZEE_Aflam
+http://andrtviptv.jan-beryan.giize.com/3175.ts
+#EXTINF:-1,AR:-MBC_B4U_AFLAM
+http://andrtviptv.jan-beryan.giize.com/3174.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]يحتاج الى انترنت قوي=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,OSN: OSN NEWS
-http://andrtv-iptv4.jan-beryan.giize.com/8801.ts
-#EXTINF:-1,OSN: FRANCE 24
-http://andrtv-iptv4.jan-beryan.giize.com/6106.ts
-#EXTINF:-1,OSN: CNBC ARABIA
-http://andrtv-iptv4.jan-beryan.giize.com/6071.ts
-#EXTINF:-1,OSN: First
-http://andrtv-iptv4.jan-beryan.giize.com/8808.ts
-#EXTINF:-1,OSN: First HBO HD
-http://andrtv-iptv4.jan-beryan.giize.com/8595.ts
-#EXTINF:-1,OSN: First Comedy-HD
-http://andrtv-iptv4.jan-beryan.giize.com/8759.ts
-#EXTINF:-1,OSN: TLC HD
-http://andrtv-iptv4.jan-beryan.giize.com/8806.ts
-#EXTINF:-1,OSN: SyFy HD
-http://andrtv-iptv4.jan-beryan.giize.com/8807.ts
-#EXTINF:-1,OSN: BBC FIRST HD
-http://andrtv-iptv4.jan-beryan.giize.com/8794.ts
-#EXTINF:-1,OSN: MBC 4
-http://andrtv-iptv4.jan-beryan.giize.com/6128.ts
-#EXTINF:-1,OSN: MBC ACTION
-http://andrtv-iptv4.jan-beryan.giize.com/7227.ts
-#EXTINF:-1,OSN: STAR WORLD HD
-http://andrtv-iptv4.jan-beryan.giize.com/6322.ts
-#EXTINF:-1,OSN: Travel Channel HD
-http://andrtv-iptv4.jan-beryan.giize.com/8805.ts
-#EXTINF:-1,OSN: MBC 2
-http://andrtv-iptv4.jan-beryan.giize.com/6127.ts
-#EXTINF:-1,OSN: MBC MAX
-http://andrtv-iptv4.jan-beryan.giize.com/7225.ts
-#EXTINF:-1,OSN: MOVIES HD
-http://andrtv-iptv4.jan-beryan.giize.com/3036.ts
-#EXTINF:-1,OSN: MOVIES KIDS HD
-http://andrtv-iptv4.jan-beryan.giize.com/6323.ts
-#EXTINF:-1,OSN: MOVIES DRAMA HD
-http://andrtv-iptv4.jan-beryan.giize.com/3032.ts
-#EXTINF:-1,OSN: MOVIES ACTION HD
-http://andrtv-iptv4.jan-beryan.giize.com/3044.ts
-#EXTINF:-1,OSN: MOVIES COMEDY HD
-http://andrtv-iptv4.jan-beryan.giize.com/3034.ts
-#EXTINF:-1,OSN: MOVIES FESTIVAL HD
-http://andrtv-iptv4.jan-beryan.giize.com/3031.ts
-#EXTINF:-1,OSN: MOVIES ACTION 2 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3035.ts
-#EXTINF:-1,OSN: MOVIES COMEDY 2 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3033.ts
-#EXTINF:-1,OSN: MOVIES PREMIERE HD
-http://andrtv-iptv4.jan-beryan.giize.com/3030.ts
-#EXTINF:-1,OSN: MOVIES PREMIERE 2 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3029.ts
-#EXTINF:-1,OSN: MOVIES BOX-OFFICE 1 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3047.ts
-#EXTINF:-1,OSN: MOVIES BOX-OFFICE 2 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3046.ts
-#EXTINF:-1,OSN: MOVIES BOX-OFFICE 3 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3045.ts
-#EXTINF:-1,OSN: ON DEMAND 1 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3043.ts
-#EXTINF:-1,OSN: ON DEMAND 2 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3042.ts
-#EXTINF:-1,OSN: ON DEMAND 3 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3041.ts
-#EXTINF:-1,OSN: ON DEMAND EXTRA 1 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3040.ts
-#EXTINF:-1,OSN: ON DEMAND EXTRA 2 HD
-http://andrtv-iptv4.jan-beryan.giize.com/6324.ts
-#EXTINF:-1,OSN: ON DEMAND EXTRA 3 HD
-http://andrtv-iptv4.jan-beryan.giize.com/3038.ts
-#EXTINF:-1,OSN: STAR MOVIES HD
-http://andrtv-iptv4.jan-beryan.giize.com/3037.ts
-#EXTINF:-1,OSN: CINEMA 2
-http://andrtv-iptv4.jan-beryan.giize.com/8231.ts
-#EXTINF:-1,OSN: SPORTS 1HD
-http://andrtv-iptv4.jan-beryan.giize.com/8790.ts
-#EXTINF:-1,OSN: SPORTS 2HD
-http://andrtv-iptv4.jan-beryan.giize.com/8791.ts
-#EXTINF:-1,OSN: SPORTS 3HD
-http://andrtv-iptv4.jan-beryan.giize.com/8792.ts
-#EXTINF:-1,OSN: SPORTS 4HD
-http://andrtv-iptv4.jan-beryan.giize.com/8793.ts
-#EXTINF:-1,OSN: WWE
-http://andrtv-iptv4.jan-beryan.giize.com/8803.ts
-#EXTINF:-1,OSN: Fight
-http://andrtv-iptv4.jan-beryan.giize.com/8103.ts
-#EXTINF:-1,OSN: FIGHT NETWORK
-http://andrtv-iptv4.jan-beryan.giize.com/8802.ts
-#EXTINF:-1,OSN: ABU DHABI SPORT1
-http://andrtv-iptv4.jan-beryan.giize.com/7198.ts
-#EXTINF:-1,OSN: ABU DHABI SPORT2
-http://andrtv-iptv4.jan-beryan.giize.com/7199.ts
-#EXTINF:-1,OSN: ABU DHABI SPORT3
-http://andrtv-iptv4.jan-beryan.giize.com/7200.ts
-#EXTINF:-1,OSN: ABU DHABI SPORT4
-http://andrtv-iptv4.jan-beryan.giize.com/7201.ts
-#EXTINF:-1,OSN: ABU DHABI SPORT5
-http://andrtv-iptv4.jan-beryan.giize.com/7202.ts
-#EXTINF:-1,OSN: ANIMAL PLANET HD
-http://andrtv-iptv4.jan-beryan.giize.com/7919.ts
-#EXTINF:-1,OSN: Nat Geo HD
-http://andrtv-iptv4.jan-beryan.giize.com/8798.ts
-#EXTINF:-1,OSN: NGC PEOPLE HD
-http://andrtv-iptv4.jan-beryan.giize.com/8111.ts
-#EXTINF:-1,OSN: DISCOVERY CH
-http://andrtv-iptv4.jan-beryan.giize.com/8795.ts
-#EXTINF:-1,OSN: MBC Variety-HD
-http://andrtv-iptv4.jan-beryan.giize.com/7192.ts
-#EXTINF:-1,OSN: MBC DRAMA
-http://andrtv-iptv4.jan-beryan.giize.com/7197.ts
-#EXTINF:-1,OSN: YAHALA_HD
-http://andrtv-iptv4.jan-beryan.giize.com/7535.ts
-#EXTINF:-1,OSN: YAHALA_SHABAB
-http://andrtv-iptv4.jan-beryan.giize.com/7533.ts
-#EXTINF:-1,OSN: YAHALA CINE HD
-http://andrtv-iptv4.jan-beryan.giize.com/8230.ts
-#EXTINF:-1,OSN: ALYOUM
-http://andrtv-iptv4.jan-beryan.giize.com/7532.ts
-#EXTINF:-1,OSN: ART HEKAYAT 2
-http://andrtv-iptv4.jan-beryan.giize.com/6117.ts
-#EXTINF:-1,OSN: ART AFLAM 1
-http://andrtv-iptv4.jan-beryan.giize.com/6881.ts
-#EXTINF:-1,OSN: ART AFLAM 2
-http://andrtv-iptv4.jan-beryan.giize.com/6880.ts
-#EXTINF:-1,OSN: ART CINEMA
-http://andrtv-iptv4.jan-beryan.giize.com/8094.ts
-#EXTINF:-1,OSN: Nickelodeon HD
-http://andrtv-iptv4.jan-beryan.giize.com/8800.ts
-#EXTINF:-1,OSN: Disney XD
-http://andrtv-iptv4.jan-beryan.giize.com/8796.ts
-#EXTINF:-1,OSN: Mousalsalat
-http://andrtv-iptv4.jan-beryan.giize.com/8758.ts
-#EXTINF:-1,OSN: TRACE URBAN
-http://andrtv-iptv4.jan-beryan.giize.com/8804.ts
-#EXTINF:-1,OSN: MTV LIVE HD
-http://andrtv-iptv4.jan-beryan.giize.com/8797.ts
-#EXTINF:-1,OSN: MBC 3
-http://andrtv-iptv4.jan-beryan.giize.com/7226.ts
-#EXTINF:-1,OSN: MBC PRO SPORT1
-http://andrtv-iptv4.jan-beryan.giize.com/7224.ts
-#EXTINF:-1,OSN: MBC PRO SPORT 2
-http://andrtv-iptv4.jan-beryan.giize.com/7223.ts
-#EXTINF:-1,OSN: MBC PRO SPORT 3
-http://andrtv-iptv4.jan-beryan.giize.com/7222.ts
-#EXTINF:-1,OSN: ALKASS_SPORT_4_HD
-http://andrtv-iptv4.jan-beryan.giize.com/8107.ts
-#EXTINF:-1,OSN: ALKASS_SPORT_2_HD
-http://andrtv-iptv4.jan-beryan.giize.com/8105.ts
-#EXTINF:-1,OSN: ALKASS_SPORT_1_HD
-http://andrtv-iptv4.jan-beryan.giize.com/8104.ts
-#EXTINF:-1,OSN: B4U-Plus
-http://andrtv-iptv4.jan-beryan.giize.com/8235.ts
-#EXTINF:-1,OSN: Al Safwa
-http://andrtv-iptv4.jan-beryan.giize.com/9028.ts
-#EXTINF:-1,OSN: Fann
-http://andrtv-iptv4.jan-beryan.giize.com/9026.ts
-#EXTINF:-1,OSN: Fatafeat
-http://andrtv-iptv4.jan-beryan.giize.com/9025.ts
-#EXTINF:-1,OSN: Fine Living HD
-http://andrtv-iptv4.jan-beryan.giize.com/9023.ts
-#EXTINF:-1,OSN: Outdoor
-http://andrtv-iptv4.jan-beryan.giize.com/9027.ts
-#EXTINF:-1,OSN: E!
-http://andrtv-iptv4.jan-beryan.giize.com/11462.ts
-#EXTINF:-1,OSN: B4U-Aflam
-http://andrtv-iptv4.jan-beryan.giize.com/8234.ts
-#EXTINF:-1,OSN: Fox News HD
-http://andrtv-iptv4.jan-beryan.giize.com/11461.ts
-#EXTINF:-1,OSN: SeeVii BEELINK
-http://andrtv-iptv4.jan-beryan.giize.com/13761.ts
-#EXTINF:-1,OSN: SeeVii DRAMA
-http://andrtv-iptv4.jan-beryan.giize.com/13762.ts
-#EXTINF:-1,OSN: SeeVii SHAMIYA
-http://andrtv-iptv4.jan-beryan.giize.com/13764.ts
-#EXTINF:-1,OSN:SeeVii PREMIER
-http://andrtv-iptv4.jan-beryan.giize.com/13763.ts
-
+#EXTINF:-1,OSN:_ALYOUM
+http://andrtviptv.jan-beryan.giize.com/2632.ts
+#EXTINF:-1,OSN:_Animal_Planet
+http://andrtviptv.jan-beryan.giize.com/2635.ts
+#EXTINF:-1,OSN:_DISCOVERY_HD
+http://andrtviptv.jan-beryan.giize.com/2636.ts
+#EXTINF:-1,OSN:_Mousalsalat
+http://andrtviptv.jan-beryan.giize.com/2633.ts
+#EXTINF:-1,OSN:_Nat_Geo_Wild_HD
+http://andrtviptv.jan-beryan.giize.com/2637.ts
+#EXTINF:-1,OSN:_ORBIT_CINEMA_1
+http://andrtviptv.jan-beryan.giize.com/2728.ts
+#EXTINF:-1,OSN:_ORBIT_CINEMA_2
+http://andrtviptv.jan-beryan.giize.com/2729.ts
+#EXTINF:-1,OSN:-MOVIE-HD
+http://andrtviptv.jan-beryan.giize.com/908.ts
+#EXTINF:-1,OSN:-Movies-Action-HD
+http://andrtviptv.jan-beryan.giize.com/897.ts
+#EXTINF:-1,OSN:-Movies-Action2-HD
+http://andrtviptv.jan-beryan.giize.com/907.ts
+#EXTINF:-1,OSN:-Movies-Box-Office-1HD
+http://andrtviptv.jan-beryan.giize.com/900.ts
+#EXTINF:-1,OSN:-Movies-Box-Office-2HD
+http://andrtviptv.jan-beryan.giize.com/899.ts
+#EXTINF:-1,OSN:-Movies-Box-Office-3HD
+http://andrtviptv.jan-beryan.giize.com/898.ts
+#EXTINF:-1,OSN:-Movies-Comedy-HD
+http://andrtviptv.jan-beryan.giize.com/906.ts
+#EXTINF:-1,OSN:-Movies-Comedy-Plus2-HD
+http://andrtviptv.jan-beryan.giize.com/905.ts
+#EXTINF:-1,OSN:-Movies-Drama-HD
+http://andrtviptv.jan-beryan.giize.com/904.ts
+#EXTINF:-1,OSN:-Movies-Festival-HD
+http://andrtviptv.jan-beryan.giize.com/903.ts
+#EXTINF:-1,OSN:-MOVIES-KIDS-HD
+http://andrtviptv.jan-beryan.giize.com/989.ts
+#EXTINF:-1,OSN:-Movies-Premiere-HD
+http://andrtviptv.jan-beryan.giize.com/902.ts
+#EXTINF:-1,OSN:-Movies-Premiere-plus-2
+http://andrtviptv.jan-beryan.giize.com/901.ts
+#EXTINF:-1,OSN:-ON-DEMAND-1HD
+http://andrtviptv.jan-beryan.giize.com/896.ts
+#EXTINF:-1,OSN:-ON-DEMAND-2HD
+http://andrtviptv.jan-beryan.giize.com/895.ts
+#EXTINF:-1,OSN:-ON-DEMAND-3HD
+http://andrtviptv.jan-beryan.giize.com/894.ts
+#EXTINF:-1,OSN:-ON-DEMAND-EXTRA-1HD
+http://andrtviptv.jan-beryan.giize.com/893.ts
+#EXTINF:-1,OSN:-ON-DEMAND-EXTRA-3HD
+http://andrtviptv.jan-beryan.giize.com/891.ts
+#EXTINF:-1,OSN:-ON-DEMANDE-EXTRA-2-HD
+http://andrtviptv.jan-beryan.giize.com/988.ts
+#EXTINF:-1,OSN:-STAR-Movies-HD
+http://andrtviptv.jan-beryan.giize.com/890.ts
+#EXTINF:-1,OSN:-Yahala
+http://andrtviptv.jan-beryan.giize.com/911.ts
+#EXTINF:-1,OSN:-Yahala-Cinema
+http://andrtviptv.jan-beryan.giize.com/914.ts
+#EXTINF:-1,OSN:-Yahala-Drama
+http://andrtviptv.jan-beryan.giize.com/912.ts
+#EXTINF:-1,OSN:-Yahala-Shabab
+http://andrtviptv.jan-beryan.giize.com/913.ts
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+#EXTINF:-1,L.BEIN:SERIE.1.HD
+http://andrtviptv.jan-beryan.giize.com/6407.ts
+#EXTINF:-1,L.BEIN:FOX.MOVIES.HD
+http://andrtviptv.jan-beryan.giize.com/6404.ts
+#EXTINF:-1,L.BEIN:FATAFEAT.HD
+http://andrtviptv.jan-beryan.giize.com/6402.ts
+#EXTINF:-1,L.BEIN:DREAMWORKS.HD
+http://andrtviptv.jan-beryan.giize.com/6401.ts
+#EXTINF:-1,L.BEIN:BEIN.GURME
+http://andrtviptv.jan-beryan.giize.com/6403.ts
+#EXTINF:-1,L.BEIN.STAR.WORLD.HD
+http://andrtviptv.jan-beryan.giize.com/6400.ts
+#EXTINF:-1,L.BEIN.STAR.MOVIES.HD
+http://andrtviptv.jan-beryan.giize.com/6395.ts
+#EXTINF:-1,L.BEIN.OUTDOOR.HD
+http://andrtviptv.jan-beryan.giize.com/6417.ts
+#EXTINF:-1,L.BEIN.Nat.Geo.Wild.HD
+http://andrtviptv.jan-beryan.giize.com/6415.ts
+#EXTINF:-1,L.BEIN.JEEM.HD
+http://andrtviptv.jan-beryan.giize.com/6416.ts
+#EXTINF:-1,L.BEIN.FOX.HD
+http://andrtviptv.jan-beryan.giize.com/6414.ts
+#EXTINF:-1,L.BEIN.DISCOVRY.KIDS
+http://andrtviptv.jan-beryan.giize.com/6398.ts
+#EXTINF:-1,L.BEIN.Discovery.Sc.HD
+http://andrtviptv.jan-beryan.giize.com/6413.ts
+#EXTINF:-1,L.BEIN.Discovery.MAX.HD
+http://andrtviptv.jan-beryan.giize.com/6412.ts
+#EXTINF:-1,L.BEIN.DISCOVERY.LIFE.HD
+http://andrtviptv.jan-beryan.giize.com/6410.ts
+#EXTINF:-1,L.BEIN.BOX.OFFICE.HD
+http://andrtviptv.jan-beryan.giize.com/6409.ts
+#EXTINF:-1,L.BEIN.BOOMERANG
+http://andrtviptv.jan-beryan.giize.com/6397.ts
+#EXTINF:-1,L.BEIN.BE.JUNIOR
+http://andrtviptv.jan-beryan.giize.com/6396.ts
+#EXTINF:-1,L.BEIN.BARAEM.HD
+http://andrtviptv.jan-beryan.giize.com/6408.ts
+#EXTINF:-1,L.BEIN.Animal.Planet.HD
+http://andrtviptv.jan-beryan.giize.com/6411.ts
+#EXTINF:-1,L.BEIN.AMC.HD
+http://andrtviptv.jan-beryan.giize.com/6406.ts
+#EXTINF:-1,L.BEIN-NAT GEO PEAPLE
+http://andrtviptv.jan-beryan.giize.com/6399.ts
+#EXTINF:-1,L.BEIN-BABY.TV.HD
+http://andrtviptv.jan-beryan.giize.com/6405.ts
+#EXTINF:-1,AR:-BEIN-MOVIES-1-HD
+http://andrtviptv.jan-beryan.giize.com/43.ts
+#EXTINF:-1,AR:-BEIN-MOVIES-2-HD
+http://andrtviptv.jan-beryan.giize.com/44.ts
+#EXTINF:-1,AR:-BEIN-MOVIES-3-HD
+http://andrtviptv.jan-beryan.giize.com/45.ts
+#EXTINF:-1,AR:-BEIN-MOVIES-4-HD
+http://andrtviptv.jan-beryan.giize.com/46.ts
 #EXTINF:-1 tvg-logo="", BeIN Movies 1HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhhijAEOHAiJ0QqILZveKouClCA7Dh%2ff95bEPKdZ4vo%2f0%2b3Zv0e2MfWP%2fbfE3SHj37z2iLTAh5h9XiriRJQ04sV823esWs7tQEvNvl5DBw6wGTI%2bvB4pzqnkvTfbwf6ir0BMoUKzCyYpE3N%2bfbdQ%2bxSOCZhyr2kFud%2bfnTGPpuRwsFpwRCDpUvHravdWKmKGmScSVE%2fd3e1NzVibYnaR1%2fo8IvZ41J%2frToWWBbdbWd2bmoxUBGQdIySDHdZVumME6WD18orMpzFoMHk8S0HGIIjDi2H8A8NNJV%2f7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="", BeIN Movies 2HD
@@ -271,49 +239,18 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bL
 
 #EXTINF:-1 tvg-logo="https://files.elnashra.com/elnashrafan/imagine/pictures_360/1378375243_timthumb.php.jpg",========|||-ROTANA-|||========
 http://andrtviptv.jan-beryan.giize.com/1464.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Aflam HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3247.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Cinema
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3103.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Cinema HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3248.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Classic HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3249.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Khalijiah HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3250.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Masriah HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3251.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,AR: Rotana Music HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3252.ts
-
-#EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1467.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1468.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1469.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1470.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1471.ts
-#EXTVLCOPT:http-user-agent=tttttttiiii LibVLC/3.0.0-git
-
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+#EXTINF:-1,AR:-Rotana-Cinema
+http://andrtviptv.jan-beryan.giize.com/196.ts
+#EXTINF:-1,AR:-Rotana-Classic
+http://andrtviptv.jan-beryan.giize.com/195.ts
+#EXTINF:-1,AR:-ROTANA-CLIP
+http://andrtviptv.jan-beryan.giize.com/886.ts
+#EXTINF:-1,AR:-Rotana-Khaliji
+http://andrtviptv.jan-beryan.giize.com/197.ts
+#EXTINF:-1,AR:-Rotana-Massrya
+http://andrtviptv.jan-beryan.giize.com/194.ts
+#EXTINF:-1,AR:-Rotana-Music
+http://andrtviptv.jan-beryan.giize.com/193.ts
 
 
 
