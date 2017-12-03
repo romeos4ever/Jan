@@ -4,194 +4,313 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",======ITALY=======
 http://www.lengua.com/anthems/Italy.mp3
 
-
-#EXTINF:-1,========|||-SKY-ITALIA-|||========
-http://andrtviptv.jan-beryan.giize.com/605.ts
-#EXTINF:-1,IT:-Sky-Caccia-Pesca-HD
-http://andrtviptv.jan-beryan.giize.com/1650.ts
-#EXTINF:-1,IT:-SKY-CINEMA-1-HD
-http://andrtviptv.jan-beryan.giize.com/1692.ts
-#EXTINF:-1,IT:-Sky-Cinema-Classic-HD
-http://andrtviptv.jan-beryan.giize.com/1635.ts
-#EXTINF:-1,IT:-Sky-Cinema-Cult-HD
-http://andrtviptv.jan-beryan.giize.com/1691.ts
-#EXTINF:-1,IT:-Sky-Cinema-Hits
-http://andrtviptv.jan-beryan.giize.com/1694.ts
-#EXTINF:-1,IT:-Sky-Cinema-Max
-http://andrtviptv.jan-beryan.giize.com/1693.ts
-#EXTINF:-1,IT:-Sky-Cinema-Passion-HD
-http://andrtviptv.jan-beryan.giize.com/1634.ts
-#EXTINF:-1,IT:-SKY-History-HD
-http://andrtviptv.jan-beryan.giize.com/1647.ts
-#EXTINF:-1,IT:_Nat_GEOGRAPHIC_HD
-http://andrtviptv.jan-beryan.giize.com/1699.ts
-#EXTINF:-1,IT:-Sky-Sport-1
-http://andrtviptv.jan-beryan.giize.com/1695.ts
-#EXTINF:-1,IT:-Sky-Sport-3
-http://andrtviptv.jan-beryan.giize.com/1697.ts
-#EXTINF:-1,IT:-Sky-Sports-2-HD
-http://andrtviptv.jan-beryan.giize.com/1696.ts
-#EXTINF:-1,IT:-Sky-Tg-24
-http://andrtviptv.jan-beryan.giize.com/1698.ts
-#EXTINF:-1,IT:-Sky-Uno-HD
-http://andrtviptv.jan-beryan.giize.com/1630.ts
-#EXTINF:-1,IT:-Sky.Discovery.Channel.HD
-http://andrtviptv.jan-beryan.giize.com/1649.ts
-#EXTINF:-1,========|||-ITALIA-PREMIUM-|||========
-http://andrtviptv.jan-beryan.giize.com/1718.ts
-#EXTINF:-1,IT:-Premium-Action-HD
-http://andrtviptv.jan-beryan.giize.com/1646.ts
-#EXTINF:-1,IT:-Premium-Action+24HD
-http://andrtviptv.jan-beryan.giize.com/1690.ts
-#EXTINF:-1,IT:-Premium-Carton-Network-HD
-http://andrtviptv.jan-beryan.giize.com/1643.ts
-#EXTINF:-1,IT:-Premium-Cinema-2-HD
-http://andrtviptv.jan-beryan.giize.com/1644.ts
-#EXTINF:-1,IT:-PREMIUM-CINEMA-HD
-http://andrtviptv.jan-beryan.giize.com/1645.ts
-#EXTINF:-1,IT:-Premium-Cinema+24
-http://andrtviptv.jan-beryan.giize.com/1636.ts
-#EXTINF:-1,IT:-Premium-Comedy
-http://andrtviptv.jan-beryan.giize.com/1688.ts
-#EXTINF:-1,IT:-Premium-Crime-24
-http://andrtviptv.jan-beryan.giize.com/1638.ts
-#EXTINF:-1,IT:-Premium-Crime-HD
-http://andrtviptv.jan-beryan.giize.com/1637.ts
-#EXTINF:-1,IT:-PREMIUM-EMOTION
-http://andrtviptv.jan-beryan.giize.com/1641.ts
-#EXTINF:-1,IT:-PREMIUM-ENERGY
-http://andrtviptv.jan-beryan.giize.com/1640.ts
-#EXTINF:-1,IT:-Premium-Joy
-http://andrtviptv.jan-beryan.giize.com/1639.ts
-#EXTINF:-1,IT:-Premium-Stories
-http://andrtviptv.jan-beryan.giize.com/1685.ts
-#EXTINF:-1,IT:-Premium-Studio-Universal-HD
-http://andrtviptv.jan-beryan.giize.com/1642.ts
-#EXTINF:-1,========|||-ITALIA-PRIMAFILA-|||========
-http://andrtviptv.jan-beryan.giize.com/1719.ts
-#EXTINF:-1,IT:-PRIMAFILA-1-HD
-http://andrtviptv.jan-beryan.giize.com/1652.ts
-#EXTINF:-1,IT:-PRIMAFILA-2-HD
-http://andrtviptv.jan-beryan.giize.com/1653.ts
-#EXTINF:-1,IT:-PRIMAFILA-3-HD
-http://andrtviptv.jan-beryan.giize.com/1654.ts
-#EXTINF:-1,IT:-PRIMAFILA-4-HD
-http://andrtviptv.jan-beryan.giize.com/1655.ts
-#EXTINF:-1,IT:-PRIMAFILA-5-HD
-http://andrtviptv.jan-beryan.giize.com/1656.ts
-#EXTINF:-1,IT:-PRIMAFILA-7-HD
-http://andrtviptv.jan-beryan.giize.com/1657.ts
-#EXTINF:-1,IT:-PRIMAFILA-8-HD
-http://andrtviptv.jan-beryan.giize.com/1658.ts
-#EXTINF:-1,IT:-PRIMAFILA--9-HD
-http://andrtviptv.jan-beryan.giize.com/1659.ts
-#EXTINF:-1,IT:-PRIMAFILA-10-HD
-http://andrtviptv.jan-beryan.giize.com/1660.ts
-#EXTINF:-1,IT:-PRIMAFILA-11-HD
-http://andrtviptv.jan-beryan.giize.com/1661.ts
-#EXTINF:-1,IT:-PRIMAFILA-13-HD
-http://andrtviptv.jan-beryan.giize.com/1662.ts
-#EXTINF:-1,IT:-PRIMAFILA-15-HD
-http://andrtviptv.jan-beryan.giize.com/1663.ts
-#EXTINF:-1,IT:-PRIMAFILA-16-HD
-http://andrtviptv.jan-beryan.giize.com/1664.ts
-#EXTINF:-1,========|||-ITALIA-CINEMA-|||========
-http://andrtviptv.jan-beryan.giize.com/1720.ts
-#EXTINF:-1,IT:-Rai-1-HD
-http://andrtviptv.jan-beryan.giize.com/1622.ts
-#EXTINF:-1,IT:-RAI-2
-http://andrtviptv.jan-beryan.giize.com/1623.ts
-#EXTINF:-1,IT:-RAI-3
-http://andrtviptv.jan-beryan.giize.com/1624.ts
-#EXTINF:-1,IT:-RAI-5
-http://andrtviptv.jan-beryan.giize.com/1717.ts
-#EXTINF:-1,IT:-RAI-GULP
-http://andrtviptv.jan-beryan.giize.com/1716.ts
-#EXTINF:-1,IT:-Rai-Movie
-http://andrtviptv.jan-beryan.giize.com/1894.ts
-#EXTINF:-1,IT:-RAI-NEWS-24
-http://andrtviptv.jan-beryan.giize.com/1715.ts
-#EXTINF:-1,IT:-RAI-premium
-http://andrtviptv.jan-beryan.giize.com/1900.ts
-#EXTINF:-1,IT:-Rai-Scuola
-http://andrtviptv.jan-beryan.giize.com/1893.ts
-#EXTINF:-1,IT:-Rai-Sport-1
-http://andrtviptv.jan-beryan.giize.com/1628.ts
-#EXTINF:-1,IT:-Rai-Sport-2-HD
-http://andrtviptv.jan-beryan.giize.com/1629.ts
-#EXTINF:-1,IT:-Rai-Storia
-http://andrtviptv.jan-beryan.giize.com/1891.ts
-#EXTINF:-1,IT:-RAI-YOYO
-http://andrtviptv.jan-beryan.giize.com/1627.ts
-#EXTINF:-1,IT:-RSI-LA-2-HD
-http://andrtviptv.jan-beryan.giize.com/1631.ts
-#EXTINF:-1,IT:-RSI-La1-HD
-http://andrtviptv.jan-beryan.giize.com/1684.ts
-#EXTINF:-1,IT:-Canale-5
-http://andrtviptv.jan-beryan.giize.com/1633.ts
-#EXTINF:-1,IT:-Discovery
-http://andrtviptv.jan-beryan.giize.com/1700.ts
-#EXTINF:-1,IT:-Discovery-Sci-HD
-http://andrtviptv.jan-beryan.giize.com/1648.ts
-#EXTINF:-1,IT:-Italia-1
-http://andrtviptv.jan-beryan.giize.com/1632.ts
-#EXTINF:-1,IT:-ITALIA2
-http://andrtviptv.jan-beryan.giize.com/2323.ts
-#EXTINF:-1,IT:-NAT-GEO-PEOPLE-HD
-http://andrtviptv.jan-beryan.giize.com/1651.ts
-#EXTINF:-1,IT:_Sky_TG24
-http://andrtviptv.jan-beryan.giize.com/3669.ts
-#EXTINF:-1,IT:_RTV_38
-http://andrtviptv.jan-beryan.giize.com/3688.ts
-#EXTINF:-1,IT:_Rete_55
-http://andrtviptv.jan-beryan.giize.com/3686.ts
-#EXTINF:-1,IT:_Retesole
-http://andrtviptv.jan-beryan.giize.com/3687.ts
-#EXTINF:-1,IT:_Radio_Virgin_TV
-http://andrtviptv.jan-beryan.giize.com/3685.ts
-#EXTINF:-1,IT:_Radio_Taormina
-http://andrtviptv.jan-beryan.giize.com/3684.ts
-#EXTINF:-1,IT:_Radio_Monte_Carlo
-http://andrtviptv.jan-beryan.giize.com/3683.ts
-#EXTINF:-1,IT:_Radio_Italia_TV
-http://andrtviptv.jan-beryan.giize.com/3682.ts
-#EXTINF:-1,IT:_Radio_105_TV
-http://andrtviptv.jan-beryan.giize.com/3680.ts
-#EXTINF:-1,IT:_OttoFM_TV
-http://andrtviptv.jan-beryan.giize.com/3679.ts
-#EXTINF:-1,IT:_Orler_TV
-http://andrtviptv.jan-beryan.giize.com/3678.ts
-#EXTINF:-1,IT:_m20_TV
-http://andrtviptv.jan-beryan.giize.com/3677.ts
-#EXTINF:-1,IT:_History_Lab
-http://andrtviptv.jan-beryan.giize.com/3676.ts
-#EXTINF:-1,IT:_eTV_Marche
-http://andrtviptv.jan-beryan.giize.com/3675.ts
-#EXTINF:-1,IT:_Cremona_1
-http://andrtviptv.jan-beryan.giize.com/3674.ts
-#EXTINF:-1,IT:_Carina_TV
-http://andrtviptv.jan-beryan.giize.com/3672.ts
-#EXTINF:-1,IT:_Canale_10
-http://andrtviptv.jan-beryan.giize.com/3671.ts
-#EXTINF:-1,IT:_Alto_Adige_TV
-http://andrtviptv.jan-beryan.giize.com/3670.ts
-#EXTINF:-1,IT:_Video_Calabria
-http://andrtviptv.jan-beryan.giize.com/3705.ts
-#EXTINF:-1,IT:_Video_Brescia
-http://andrtviptv.jan-beryan.giize.com/3704.ts
-#EXTINF:-1,IT:_Videolina
-http://andrtviptv.jan-beryan.giize.com/3703.ts
-#EXTINF:-1,IT:_TV_Luna
-http://andrtviptv.jan-beryan.giize.com/3701.ts
-#EXTINF:-1,IT:_TVRS
-http://andrtviptv.jan-beryan.giize.com/3700.ts
-#EXTINF:-1,IT:_TSN
-http://andrtviptv.jan-beryan.giize.com/3698.ts
-#EXTINF:-1,IT:_Trentino_TV
-http://andrtviptv.jan-beryan.giize.com/3697.ts
-#EXTINF:-1,IT:_TeleStudio_Modena
-http://andrtviptv.jan-beryan.giize.com/3694.ts
-#EXTINF:-1,IT:_TeleArena
-http://andrtviptv.jan-beryan.giize.com/3691.ts
-#EXTINF:-1,IT:_SuperTV
-http://andrtviptv.jan-beryan.giize.com/3690.ts
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SKY IT HD CHANNELS ☆▆ ▅ ▄ ▂ ▁
+http://andrtviptv5.jan-beryan.giize.com/235.ts
+#EXTINF:-1,IT:PrimaFila 01HD
+http://andrtviptv5.jan-beryan.giize.com/552.ts
+#EXTINF:-1,IT:PrimaFila 02HD
+http://andrtviptv5.jan-beryan.giize.com/553.ts
+#EXTINF:-1,IT:PrimaFila 03HD
+http://andrtviptv5.jan-beryan.giize.com/554.ts
+#EXTINF:-1,IT:PrimaFila 04HD
+http://andrtviptv5.jan-beryan.giize.com/555.ts
+#EXTINF:-1,IT:PrimaFila 05HD
+http://andrtviptv5.jan-beryan.giize.com/556.ts
+#EXTINF:-1,IT:PrimaFila 06HD
+http://andrtviptv5.jan-beryan.giize.com/557.ts
+#EXTINF:-1,IT:PrimaFila 07HD
+http://andrtviptv5.jan-beryan.giize.com/558.ts
+#EXTINF:-1,IT:PrimaFila 08HD
+http://andrtviptv5.jan-beryan.giize.com/559.ts
+#EXTINF:-1,IT:PrimaFila 09HD
+http://andrtviptv5.jan-beryan.giize.com/560.ts
+#EXTINF:-1,IT:PrimaFila 10HD
+http://andrtviptv5.jan-beryan.giize.com/561.ts
+#EXTINF:-1,IT:PrimaFila 11HD
+http://andrtviptv5.jan-beryan.giize.com/562.ts
+#EXTINF:-1,IT:PrimaFila 12HD
+http://andrtviptv5.jan-beryan.giize.com/563.ts
+#EXTINF:-1,IT:PrimaFila 13HD
+http://andrtviptv5.jan-beryan.giize.com/564.ts
+#EXTINF:-1,IT:PrimaFila 14HD
+http://andrtviptv5.jan-beryan.giize.com/565.ts
+#EXTINF:-1,IT:PrimaFila 15HD
+http://andrtviptv5.jan-beryan.giize.com/566.ts
+#EXTINF:-1,IT:PrimaFila 16HD
+http://andrtviptv5.jan-beryan.giize.com/567.ts
+#EXTINF:-1,IT:PrimaFila 17HD
+http://andrtviptv5.jan-beryan.giize.com/568.ts
+#EXTINF:-1,IT:PrimaFila 18HD
+http://andrtviptv5.jan-beryan.giize.com/569.ts
+#EXTINF:-1,IT:PrimaFila 19HD
+http://andrtviptv5.jan-beryan.giize.com/570.ts
+#EXTINF:-1,IT:Alice
+http://andrtviptv5.jan-beryan.giize.com/4944.ts
+#EXTINF:-1,IT:Animal Planet
+http://andrtviptv5.jan-beryan.giize.com/1407.ts
+#EXTINF:-1,IT:Bike Channel
+http://andrtviptv5.jan-beryan.giize.com/5237.ts
+#EXTINF:-1,IT:Boing HD
+http://andrtviptv5.jan-beryan.giize.com/4209.ts
+#EXTINF:-1,IT:CACCIA E PESCA HD
+http://andrtviptv5.jan-beryan.giize.com/4208.ts
+#EXTINF:-1,IT:Canale 5 HD
+http://andrtviptv5.jan-beryan.giize.com/3919.ts
+#EXTINF:-1,IT:Canale 7 HD
+http://andrtviptv5.jan-beryan.giize.com/4318.ts
+#EXTINF:-1,IT:Cartonito HD
+http://andrtviptv5.jan-beryan.giize.com/4207.ts
+#EXTINF:-1,IT:Cartoon Network HD
+http://andrtviptv5.jan-beryan.giize.com/3918.ts
+#EXTINF:-1,IT:Dea Junior
+http://andrtviptv5.jan-beryan.giize.com/5236.ts
+#EXTINF:-1,IT:Discovery HD
+http://andrtviptv5.jan-beryan.giize.com/3917.ts
+#EXTINF:-1,IT:Discovery Giallo
+http://andrtviptv5.jan-beryan.giize.com/5080.ts
+#EXTINF:-1,IT:Discovery ID
+http://andrtviptv5.jan-beryan.giize.com/4332.ts
+#EXTINF:-1,IT:Discovery Sci HD
+http://andrtviptv5.jan-beryan.giize.com/1405.ts
+#EXTINF:-1,IT:Discovery Travel Living (T&L) HD
+http://andrtviptv5.jan-beryan.giize.com/3933.ts
+#EXTINF:-1,IT:Disney Channel HD
+http://andrtviptv5.jan-beryan.giize.com/3916.ts
+#EXTINF:-1,IT:Disney Junior HD
+http://andrtviptv5.jan-beryan.giize.com/3915.ts
+#EXTINF:-1,IT:Disney XD HD
+http://andrtviptv5.jan-beryan.giize.com/3914.ts
+#EXTINF:-1,IT:Discovery Focus HD
+http://andrtviptv5.jan-beryan.giize.com/4206.ts
+#EXTINF:-1,IT:Dmax HD
+http://andrtviptv5.jan-beryan.giize.com/1406.ts
+#EXTINF:-1,IT:E!
+http://andrtviptv5.jan-beryan.giize.com/5235.ts
+#EXTINF:-1,IT:Euronews (in Italiano) *
+http://andrtviptv5.jan-beryan.giize.com/5234.ts
+#EXTINF:-1,IT:Fine Living
+http://andrtviptv5.jan-beryan.giize.com/4943.ts
+#EXTINF:-1,IT:FOX
+http://andrtviptv5.jan-beryan.giize.com/251.ts
+#EXTINF:-1,IT:Fox Animation HD
+http://andrtviptv5.jan-beryan.giize.com/3913.ts
+#EXTINF:-1,IT:Fox Crime
+http://andrtviptv5.jan-beryan.giize.com/253.ts
+#EXTINF:-1,IT:Fox Life
+http://andrtviptv5.jan-beryan.giize.com/252.ts
+#EXTINF:-1,IT:FOX SPORTS
+http://andrtviptv5.jan-beryan.giize.com/242.ts
+#EXTINF:-1,IT:GALICIA AMERICA
+http://andrtviptv5.jan-beryan.giize.com/5081.ts
+#EXTINF:-1,IT:Gambero Rosso HD
+http://andrtviptv5.jan-beryan.giize.com/4942.ts
+#EXTINF:-1,IT:History Channel HD
+http://andrtviptv5.jan-beryan.giize.com/1404.ts
+#EXTINF:-1,IT:Inter Channel
+http://andrtviptv5.jan-beryan.giize.com/5097.ts
+#EXTINF:-1,IT:Juventus TV
+http://andrtviptv5.jan-beryan.giize.com/4946.ts
+#EXTINF:-1,IT:K2
+http://andrtviptv5.jan-beryan.giize.com/5079.ts
+#EXTINF:-1,IT:La 5 HD
+http://andrtviptv5.jan-beryan.giize.com/4205.ts
+#EXTINF:-1,IT:La 7 HD
+http://andrtviptv5.jan-beryan.giize.com/4204.ts
+#EXTINF:-1,IT:LA 7D
+http://andrtviptv5.jan-beryan.giize.com/5233.ts
+#EXTINF:-1,IT:Lazio Channel
+http://andrtviptv5.jan-beryan.giize.com/5096.ts
+#EXTINF:-1,IT:Marcopolo
+http://andrtviptv5.jan-beryan.giize.com/5232.ts
+#EXTINF:-1,IT:Mediaset 1 HD
+http://andrtviptv5.jan-beryan.giize.com/4203.ts
+#EXTINF:-1,IT:Mediaset 2 HD
+http://andrtviptv5.jan-beryan.giize.com/4202.ts
+#EXTINF:-1,IT:Mediaset Iris HD
+http://andrtviptv5.jan-beryan.giize.com/4941.ts
+#EXTINF:-1,IT:Mediaset Extra HD
+http://andrtviptv5.jan-beryan.giize.com/4201.ts
+#EXTINF:-1,IT:Mediaset Top Crime
+http://andrtviptv5.jan-beryan.giize.com/5095.ts
+#EXTINF:-1,IT:Milan Channel
+http://andrtviptv5.jan-beryan.giize.com/4945.ts
+#EXTINF:-1,IT:MilaNow *
+http://andrtviptv5.jan-beryan.giize.com/5110.ts
+#EXTINF:-1,IT:National Geo
+http://andrtviptv5.jan-beryan.giize.com/1094.ts
+#EXTINF:-1,IT:National Geo Peo HD
+http://andrtviptv5.jan-beryan.giize.com/3912.ts
+#EXTINF:-1,IT:Nat Geo Wild
+http://andrtviptv5.jan-beryan.giize.com/1095.ts
+#EXTINF:-1,IT:Premium Calcio 1
+http://andrtviptv5.jan-beryan.giize.com/1485.ts
+#EXTINF:-1,IT:Premium Calcio 2
+http://andrtviptv5.jan-beryan.giize.com/1484.ts
+#EXTINF:-1,IT:Premium Calcio 3
+http://andrtviptv5.jan-beryan.giize.com/1483.ts
+#EXTINF:-1,IT:Premium Calcio 4
+http://andrtviptv5.jan-beryan.giize.com/1482.ts
+#EXTINF:-1,IT:Premium Calcio 5
+http://andrtviptv5.jan-beryan.giize.com/1481.ts
+#EXTINF:-1,IT:Premium Calcio 6
+http://andrtviptv5.jan-beryan.giize.com/1480.ts
+#EXTINF:-1,IT:Premium EuroSport 1 HD
+http://andrtviptv5.jan-beryan.giize.com/4200.ts
+#EXTINF:-1,IT:Premium EuroSport 2 HD
+http://andrtviptv5.jan-beryan.giize.com/4199.ts
+#EXTINF:-1,IT:Premium Sport 1
+http://andrtviptv5.jan-beryan.giize.com/1487.ts
+#EXTINF:-1,IT:Premium Sport 2
+http://andrtviptv5.jan-beryan.giize.com/1486.ts
+#EXTINF:-1,IT:Premium Action
+http://andrtviptv5.jan-beryan.giize.com/1478.ts
+#EXTINF:-1,IT:Premium Action 24
+http://andrtviptv5.jan-beryan.giize.com/1477.ts
+#EXTINF:-1,IT:Premium Cinema
+http://andrtviptv5.jan-beryan.giize.com/1476.ts
+#EXTINF:-1,IT:Premium Cinema 2
+http://andrtviptv5.jan-beryan.giize.com/1475.ts
+#EXTINF:-1,IT:Premium Cinema 24
+http://andrtviptv5.jan-beryan.giize.com/1103.ts
+#EXTINF:-1,IT:Premium Cinema 2 24
+http://andrtviptv5.jan-beryan.giize.com/5564.ts
+#EXTINF:-1,IT:Premium Crime
+http://andrtviptv5.jan-beryan.giize.com/1473.ts
+#EXTINF:-1,IT:Premium Emotion
+http://andrtviptv5.jan-beryan.giize.com/1472.ts
+#EXTINF:-1,IT:Premium Joi
+http://andrtviptv5.jan-beryan.giize.com/1469.ts
+#EXTINF:-1,IT:Premium Joy 24
+http://andrtviptv5.jan-beryan.giize.com/1468.ts
+#EXTINF:-1,IT:Premium Comedy
+http://andrtviptv5.jan-beryan.giize.com/1102.ts
+#EXTINF:-1,IT:Premium Crime 24
+http://andrtviptv5.jan-beryan.giize.com/1101.ts
+#EXTINF:-1,IT:Premium Energy
+http://andrtviptv5.jan-beryan.giize.com/1100.ts
+#EXTINF:-1,IT:Premium Stories
+http://andrtviptv5.jan-beryan.giize.com/1099.ts
+#EXTINF:-1,IT:Premium Stories  24
+http://andrtviptv5.jan-beryan.giize.com/5231.ts
+#EXTINF:-1,IT:Premium Studio Universal
+http://andrtviptv5.jan-beryan.giize.com/1098.ts
+#EXTINF:-1,IT:Radio 105 TV
+http://andrtviptv5.jan-beryan.giize.com/5230.ts
+#EXTINF:-1,IT:Radio Italia TV
+http://andrtviptv5.jan-beryan.giize.com/5229.ts
+#EXTINF:-1,IT:Radio Montecarlo TV
+http://andrtviptv5.jan-beryan.giize.com/5228.ts
+#EXTINF:-1,IT:Rai 1 HD
+http://andrtviptv5.jan-beryan.giize.com/1403.ts
+#EXTINF:-1,IT:Rai 2 HD
+http://andrtviptv5.jan-beryan.giize.com/1402.ts
+#EXTINF:-1,IT:Rai 3 HD
+http://andrtviptv5.jan-beryan.giize.com/1401.ts
+#EXTINF:-1,IT:Rai 4 HD
+http://andrtviptv5.jan-beryan.giize.com/1400.ts
+#EXTINF:-1,IT:Rai 5 HD
+http://andrtviptv5.jan-beryan.giize.com/1399.ts
+#EXTINF:-1,IT:Rai Gulp
+http://andrtviptv5.jan-beryan.giize.com/1092.ts
+#EXTINF:-1,IT:Rai Movie
+http://andrtviptv5.jan-beryan.giize.com/1091.ts
+#EXTINF:-1,IT:Rai News 24
+http://andrtviptv5.jan-beryan.giize.com/1090.ts
+#EXTINF:-1,IT:Rai Premium
+http://andrtviptv5.jan-beryan.giize.com/1089.ts
+#EXTINF:-1,IT:Rai Scuola HD
+http://andrtviptv5.jan-beryan.giize.com/4198.ts
+#EXTINF:-1,IT:Rai Storia HD
+http://andrtviptv5.jan-beryan.giize.com/4197.ts
+#EXTINF:-1,IT:Rai Sport
+http://andrtviptv5.jan-beryan.giize.com/5227.ts
+#EXTINF:-1,IT:Rai Sport+
+http://andrtviptv5.jan-beryan.giize.com/1093.ts
+#EXTINF:-1,IT:Rai YoYo
+http://andrtviptv5.jan-beryan.giize.com/1088.ts
+#EXTINF:-1,IT:Realtime HD
+http://andrtviptv5.jan-beryan.giize.com/4940.ts
+#EXTINF:-1,IT:Rete 4
+http://andrtviptv5.jan-beryan.giize.com/1087.ts
+#EXTINF:-1,IT:RSI LA 1
+http://andrtviptv5.jan-beryan.giize.com/1096.ts
+#EXTINF:-1,IT:RSI LA 2
+http://andrtviptv5.jan-beryan.giize.com/1097.ts
+#EXTINF:-1,IT:Sky Atlantic HD
+http://andrtviptv5.jan-beryan.giize.com/4196.ts
+#EXTINF:-1,IT:Sky Calcio 1 HD
+http://andrtviptv5.jan-beryan.giize.com/5062.ts
+#EXTINF:-1,IT:Sky Calcio 2 HD
+http://andrtviptv5.jan-beryan.giize.com/5061.ts
+#EXTINF:-1,IT:Sky Calcio 3 HD
+http://andrtviptv5.jan-beryan.giize.com/5060.ts
+#EXTINF:-1,IT:Sky Calcio 4 HD
+http://andrtviptv5.jan-beryan.giize.com/5059.ts
+#EXTINF:-1,IT:Sky Calcio 5 HD
+http://andrtviptv5.jan-beryan.giize.com/5058.ts
+#EXTINF:-1,IT:Sky Calcio 6 HD
+http://andrtviptv5.jan-beryan.giize.com/5057.ts
+#EXTINF:-1,IT:Sky Cinema 1 HD
+http://andrtviptv5.jan-beryan.giize.com/243.ts
+#EXTINF:-1,IT:Sky Cinema 24 HD
+http://andrtviptv5.jan-beryan.giize.com/5226.ts
+#EXTINF:-1,IT:Sky Cinema Classic HD
+http://andrtviptv5.jan-beryan.giize.com/250.ts
+#EXTINF:-1,IT:Sky Cinema Comedy HD
+http://andrtviptv5.jan-beryan.giize.com/249.ts
+#EXTINF:-1,IT:Sky Cinema Cult HD
+http://andrtviptv5.jan-beryan.giize.com/248.ts
+#EXTINF:-1,IT:Sky Cinema Family HD
+http://andrtviptv5.jan-beryan.giize.com/247.ts
+#EXTINF:-1,IT:Sky Cinema Hits HD
+http://andrtviptv5.jan-beryan.giize.com/246.ts
+#EXTINF:-1,IT:Sky Cinema Max HD
+http://andrtviptv5.jan-beryan.giize.com/244.ts
+#EXTINF:-1,IT:Sky Cinema Passion HD
+http://andrtviptv5.jan-beryan.giize.com/245.ts
+#EXTINF:-1,IT:Sky Sports 1
+http://andrtviptv5.jan-beryan.giize.com/236.ts
+#EXTINF:-1,IT:Sky Sports 2
+http://andrtviptv5.jan-beryan.giize.com/237.ts
+#EXTINF:-1,IT:Sky Sports 3
+http://andrtviptv5.jan-beryan.giize.com/238.ts
+#EXTINF:-1,IT:Sky Sports 24
+http://andrtviptv5.jan-beryan.giize.com/239.ts
+#EXTINF:-1,IT:Sky Sports F1
+http://andrtviptv5.jan-beryan.giize.com/240.ts
+#EXTINF:-1,IT:Sky Sports MotoGP HD
+http://andrtviptv5.jan-beryan.giize.com/4939.ts
+#EXTINF:-1,IT:Sky Tg 24 HD
+http://andrtviptv5.jan-beryan.giize.com/4441.ts
+#EXTINF:-1,IT:Sky UNO
+http://andrtviptv5.jan-beryan.giize.com/254.ts
+#EXTINF:-1,IT:Sky Cielo HD
+http://andrtviptv5.jan-beryan.giize.com/3911.ts
+#EXTINF:-1,IT:Super Calcio
+http://andrtviptv5.jan-beryan.giize.com/241.ts
+#EXTINF:-1,IT:Super Tennis HD
+http://andrtviptv5.jan-beryan.giize.com/4938.ts
+#EXTINF:-1,IT:SportItalia
+http://andrtviptv5.jan-beryan.giize.com/5056.ts
+#EXTINF:-1,IT:Super!
+http://andrtviptv5.jan-beryan.giize.com/5078.ts
+#EXTINF:-1,IT:Tgcom 24
+http://andrtviptv5.jan-beryan.giize.com/5225.ts
+#EXTINF:-1,IT:Top Calcio 24 *
+http://andrtviptv5.jan-beryan.giize.com/5108.ts
+#EXTINF:-1,IT:Top Planet *
+http://andrtviptv5.jan-beryan.giize.com/5109.ts
+#EXTINF:-1,IT:Trentino Tv
+http://andrtviptv5.jan-beryan.giize.com/5077.ts
+#EXTINF:-1,IT:TSN
+http://andrtviptv5.jan-beryan.giize.com/5076.ts
+#EXTINF:-1,IT:TV 8
+http://andrtviptv5.jan-beryan.giize.com/5224.ts
+#EXTINF:-1,IT:TV2000
+http://andrtviptv5.jan-beryan.giize.com/5075.ts
+#EXTINF:-1,IT:TVRS
+http://andrtviptv5.jan-beryan.giize.com/5297.ts
+#EXTINF:-1,IT:Vgl Real
+http://andrtviptv5.jan-beryan.giize.com/5223.ts
+#EXTINF:-1,IT:Video Lina TG
+http://andrtviptv5.jan-beryan.giize.com/5222.ts
