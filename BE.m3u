@@ -3,163 +3,35 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",======BELGIUM=======
 http://www.lengua.com/anthems/Belgium.mp3
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: 2BE Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3051.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Acht Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3050.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Canvas Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3040.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Cinema 1
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3049.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Cinema 2
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3048.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Club RTL Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3033.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Een Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3047.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: EEN HD 1080P
-http://gmcllc.de:25461/live/აპი0/პარანდრო/759.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: La Deux Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3046.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: La Trois Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3041.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: La Une Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3043.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: PLUG RTL
-http://gmcllc.de:25461/live/აპი0/პარანდრო/2661.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Plug RTL Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3045.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Q2 HD 1080P
-http://gmcllc.de:25461/live/აპი0/პარანდრო/758.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: RTL TVI Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3044.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Vier Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3036.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: VIER HD 1080P
-http://gmcllc.de:25461/live/აპი0/პარანდრო/757.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: VIJF Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3042.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Vitaya Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3039.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: VITAYA HD 1080P
-http://gmcllc.de:25461/live/აპი0/პარანდრო/756.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: Voo Sport 1
-http://gmcllc.de:25461/live/აპი0/პარანდრო/812.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: VTM Belgium
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3034.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BE: VTM HD 1080P
-http://gmcllc.de:25461/live/აპი0/პარანდრო/755.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: BNT 1 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3031.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: BNT 2 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3030.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: BNT HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3021.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: bTV Action HD 1080
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3019.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: bTV HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3018.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: CineMax 1 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3029.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: CineMax 2 HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3028.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Destination
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3022.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Diema HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3027.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Diema Spor 1
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3026.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Diema Spor 2
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3025.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: EuroSport
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3024.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: EuroSport 2
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3023.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: FilmBox HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3003.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Folklor TV
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3004.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Food Network
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3016.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Fox Tv HD 1080
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3020.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: HBO 2 HD 1080
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3014.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: HBO 3 HD 1080
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3013.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Music Channel
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3012.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Nat Geo Wild HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3011.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: National Geographic
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3010.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: NICK JR
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3009.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Nova Sport
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3008.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Nova TV
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3007.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Planeta
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3006.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Planeta HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3015.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Tiankov Orient Folk
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3017.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Trace Sport Stars HD
-http://gmcllc.de:25461/live/აპი0/პარანდრო/205.ts
-#EXTVLCOPT:http-user-agent=EMVideoView-3.0.5-(30500)-/-Android-4.4.4-/-SM-G925F
-#EXTINF:-1,BG: Travel TV
-http://gmcllc.de:25461/live/აპი0/პარანდრო/3005.ts
-
+#EXTINF:-1,BE:-LA-UNE
+http://andrtviptv.jan-beryan.giize.com/377.ts
+#EXTINF:-1,BE:-LA-DEUX
+http://andrtviptv.jan-beryan.giize.com/379.ts
+#EXTINF:-1,BE:-LA-TROIS
+http://andrtviptv.jan-beryan.giize.com/378.ts
+#EXTINF:-1,BE:-2BE-HD
+http://andrtviptv.jan-beryan.giize.com/713.ts
+#EXTINF:-1,BE:-Een
+http://andrtviptv.jan-beryan.giize.com/714.ts
+#EXTINF:-1,BE:-RTL-TVI
+http://andrtviptv.jan-beryan.giize.com/375.ts
+#EXTINF:-1,BE:-PLUG-RTL
+http://andrtviptv.jan-beryan.giize.com/376.ts
+#EXTINF:-1,BE:-CLUB-RTL
+http://andrtviptv.jan-beryan.giize.com/380.ts
+#EXTINF:-1,BE:-Vitaya
+http://andrtviptv.jan-beryan.giize.com/698.ts
+#EXTINF:-1,BE:-Vier
+http://andrtviptv.jan-beryan.giize.com/697.ts
+#EXTINF:-1,BE:_TV_OOST
+http://andrtviptv.jan-beryan.giize.com/3711.ts
+#EXTINF:-1,BE:_TVL
+http://andrtviptv.jan-beryan.giize.com/3710.ts
+#EXTINF:-1,BE:_Telesambre
+http://andrtviptv.jan-beryan.giize.com/3709.ts
+#EXTINF:-1,BE:_NRJ_Hits_TV
+http://andrtviptv.jan-beryan.giize.com/3708.ts
+#EXTINF:-1,BE:_Notele
+http://andrtviptv.jan-beryan.giize.com/3707.ts
+#EXTINF:-1,BE:_ATV
+http://andrtviptv.jan-beryan.giize.com/3706.ts
