@@ -70,70 +70,80 @@ http://andrtviptv.jan-beryan.giize.com/3175.ts
 http://andrtviptv.jan-beryan.giize.com/3174.ts
 
 
-#EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]متوقف حاليا=========
+#EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,OSN:_ALYOUM
-http://andrtviptv.jan-beryan.giize.com/2632.ts
-#EXTINF:-1,OSN:_Animal_Planet
-http://andrtviptv.jan-beryan.giize.com/2635.ts
-#EXTINF:-1,OSN:_DISCOVERY_HD
-http://andrtviptv.jan-beryan.giize.com/2636.ts
-#EXTINF:-1,OSN:_Mousalsalat
-http://andrtviptv.jan-beryan.giize.com/2633.ts
-#EXTINF:-1,OSN:_Nat_Geo_Wild_HD
-http://andrtviptv.jan-beryan.giize.com/2637.ts
-#EXTINF:-1,OSN:_ORBIT_CINEMA_1
-http://andrtviptv.jan-beryan.giize.com/2728.ts
-#EXTINF:-1,OSN:_ORBIT_CINEMA_2
-http://andrtviptv.jan-beryan.giize.com/2729.ts
-#EXTINF:-1,OSN:-MOVIE-HD
-http://andrtviptv.jan-beryan.giize.com/908.ts
-#EXTINF:-1,OSN:-Movies-Action-HD
-http://andrtviptv.jan-beryan.giize.com/897.ts
-#EXTINF:-1,OSN:-Movies-Action2-HD
-http://andrtviptv.jan-beryan.giize.com/907.ts
-#EXTINF:-1,OSN:-Movies-Box-Office-1HD
-http://andrtviptv.jan-beryan.giize.com/900.ts
-#EXTINF:-1,OSN:-Movies-Box-Office-2HD
-http://andrtviptv.jan-beryan.giize.com/899.ts
-#EXTINF:-1,OSN:-Movies-Box-Office-3HD
-http://andrtviptv.jan-beryan.giize.com/898.ts
-#EXTINF:-1,OSN:-Movies-Comedy-HD
-http://andrtviptv.jan-beryan.giize.com/906.ts
-#EXTINF:-1,OSN:-Movies-Comedy-Plus2-HD
-http://andrtviptv.jan-beryan.giize.com/905.ts
-#EXTINF:-1,OSN:-Movies-Drama-HD
-http://andrtviptv.jan-beryan.giize.com/904.ts
-#EXTINF:-1,OSN:-Movies-Festival-HD
-http://andrtviptv.jan-beryan.giize.com/903.ts
-#EXTINF:-1,OSN:-MOVIES-KIDS-HD
-http://andrtviptv.jan-beryan.giize.com/989.ts
-#EXTINF:-1,OSN:-Movies-Premiere-HD
-http://andrtviptv.jan-beryan.giize.com/902.ts
-#EXTINF:-1,OSN:-Movies-Premiere-plus-2
-http://andrtviptv.jan-beryan.giize.com/901.ts
-#EXTINF:-1,OSN:-ON-DEMAND-1HD
-http://andrtviptv.jan-beryan.giize.com/896.ts
-#EXTINF:-1,OSN:-ON-DEMAND-2HD
-http://andrtviptv.jan-beryan.giize.com/895.ts
-#EXTINF:-1,OSN:-ON-DEMAND-3HD
-http://andrtviptv.jan-beryan.giize.com/894.ts
-#EXTINF:-1,OSN:-ON-DEMAND-EXTRA-1HD
-http://andrtviptv.jan-beryan.giize.com/893.ts
-#EXTINF:-1,OSN:-ON-DEMAND-EXTRA-3HD
-http://andrtviptv.jan-beryan.giize.com/891.ts
-#EXTINF:-1,OSN:-ON-DEMANDE-EXTRA-2-HD
-http://andrtviptv.jan-beryan.giize.com/988.ts
-#EXTINF:-1,OSN:-STAR-Movies-HD
-http://andrtviptv.jan-beryan.giize.com/890.ts
-#EXTINF:-1,OSN:-Yahala
-http://andrtviptv.jan-beryan.giize.com/911.ts
-#EXTINF:-1,OSN:-Yahala-Cinema
-http://andrtviptv.jan-beryan.giize.com/914.ts
-#EXTINF:-1,OSN:-Yahala-Drama
-http://andrtviptv.jan-beryan.giize.com/912.ts
-#EXTINF:-1,OSN:-Yahala-Shabab
-http://andrtviptv.jan-beryan.giize.com/913.ts
+
+#EXTINF:-1,OSN Yahala HD
+http://andrtviptv7.jan-beryan.giize.com/150.m3u8
+#EXTINF:-1,OSN Yahala Oula HD
+http://andrtviptv7.jan-beryan.giize.com/152.m3u8
+#EXTINF:-1,OSN Yahala Cinema HD
+http://andrtviptv7.jan-beryan.giize.com/5349.m3u8
+#EXTINF:-1,OSN Box Office 1 HD
+http://andrtviptv7.jan-beryan.giize.com/9385.m3u8
+#EXTINF:-1,OSN Movies HD
+http://andrtviptv7.jan-beryan.giize.com/248.m3u8
+#EXTINF:-1,OSN Movies Action HD
+http://andrtviptv7.jan-beryan.giize.com/139.m3u8
+#EXTINF:-1,OSN Movies Family HD
+http://andrtviptv7.jan-beryan.giize.com/5348.m3u8
+#EXTINF:-1,OSN Movies Festival HD
+http://andrtviptv7.jan-beryan.giize.com/5799.m3u8
+#EXTINF:-1,OSN Movies First HD
+http://andrtviptv7.jan-beryan.giize.com/3519.m3u8
+#EXTINF:-1,OSN Movies Thriller HD
+http://andrtviptv7.jan-beryan.giize.com/147.m3u8
+#EXTINF:-1,OSN Movies Comedy HD
+http://andrtviptv7.jan-beryan.giize.com/2152.m3u8
+#EXTINF:-1,OSN First HBO HD
+http://andrtviptv7.jan-beryan.giize.com/4056.m3u8
+#EXTINF:-1,OSN Series HD
+http://andrtviptv7.jan-beryan.giize.com/151.m3u8
+#EXTINF:-1,OSN Series First HD
+http://andrtviptv7.jan-beryan.giize.com/131.m3u8
+#EXTINF:-1,OSN Series Comedy HD
+http://andrtviptv7.jan-beryan.giize.com/7584.m3u8
+#EXTINF:-1,OSN Syfy HD
+http://andrtviptv7.jan-beryan.giize.com/9058.m3u8
+#EXTINF:-1,OSN Al Safwa
+http://andrtviptv7.jan-beryan.giize.com/7707.m3u8
+#EXTINF:-1,OSN Cinema 1 HD
+http://andrtviptv7.jan-beryan.giize.com/5888.m3u8
+#EXTINF:-1,OSN Star Movies HD
+http://andrtviptv7.jan-beryan.giize.com/7697.m3u8
+#EXTINF:-1,OSN Star World HD
+http://andrtviptv7.jan-beryan.giize.com/250.m3u8
+#EXTINF:-1,OSN H2 HD
+http://andrtviptv7.jan-beryan.giize.com/3240.m3u8
+#EXTINF:-1,OSN Discovery HD
+http://andrtviptv7.jan-beryan.giize.com/7701.m3u8
+#EXTINF:-1,OSN discovery SC HD
+http://andrtviptv7.jan-beryan.giize.com/1162.m3u8
+#EXTINF:-1,OSN Animal Planet HD
+http://andrtviptv7.jan-beryan.giize.com/2587.m3u8
+#EXTINF:-1,OSN Nat Geo HD
+http://andrtviptv7.jan-beryan.giize.com/8999.m3u8
+#EXTINF:-1,OSN Nat Geo Wild HD
+http://andrtviptv7.jan-beryan.giize.com/984.m3u8
+#EXTINF:-1,OSN Nat People HD
+http://andrtviptv7.jan-beryan.giize.com/2711.m3u8
+http://andrtviptv7.jan-beryan.giize.com/7585.m3u8
+#EXTINF:-1,My- Seevii Prime1 4K
+http://andrtviptv7.jan-beryan.giize.com/6894.m3u8
+#EXTINF:-1,My- Seevii Prime2 4K
+http://andrtviptv7.jan-beryan.giize.com/6896.m3u8
+#EXTINF:-1,My- Seevii Prime3 4K
+http://andrtviptv7.jan-beryan.giize.com/6895.m3u8
+#EXTINF:-1,My- Seevii Drama 4K
+http://andrtviptv7.jan-beryan.giize.com/6899.m3u8
+#EXTINF:-1,Ar- Seevii Al Ola 4K
+http://andrtviptv7.jan-beryan.giize.com/6898.m3u8
+#EXTINF:-1,My- Seevii BeeLink 4K
+http://andrtviptv7.jan-beryan.giize.com/6900.m3u8
+#EXTINF:-1,My- Seevii Shamiya 4K
+http://andrtviptv7.jan-beryan.giize.com/6897.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
