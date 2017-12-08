@@ -1,48 +1,72 @@
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS News" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS News
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1496.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS Global" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS Global
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1495.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1494.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1493.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1492.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1491.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1490.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1489.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1488.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1487.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1486.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1485.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1484.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1483.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 1HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1454.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 2HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1455.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 3HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1456.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 04HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1457.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 05HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1458.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 06HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1459.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 07HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1460.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 08HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1461.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 09HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1462.ts|user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 10HD Fr
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1463.ts|user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1494.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 2HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 2HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1493.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 3HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 3HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1492.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 4HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 4HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1491.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 5HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 5HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1490.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 6HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 6HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1489.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 7HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 7HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1488.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 8HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 8HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1487.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 9HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 9HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1486.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 10HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 10HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1485.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 11HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 11HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1484.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="beINSPORTS 12HD" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1483.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS Global" group-title="01-BeINSPORTS [AR]",BeINSPORTS Global
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1495.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS News" group-title="01-BeINSPORTS [AR]",BeINSPORTS News
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1496.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr" group-title="02-BeINSPORTS [FR]",BeINSPORTS 1HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1454.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" group-title="02-BeINSPORTS [FR]",BeINSPORTS 2HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1455.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" group-title="02-BeINSPORTS [FR]",BeINSPORTS 3HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1456.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 04HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 04HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1457.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 05HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 05HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1458.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 06HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 06HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1459.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 07HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 07HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1460.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 08HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 08HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1461.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 09HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 09HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1462.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="BeINMAX 10HD Fr" group-title="02-BeINSPORTS [FR]",BeINMAX 10HD Fr
+http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1463.ts
