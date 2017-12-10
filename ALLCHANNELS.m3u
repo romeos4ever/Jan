@@ -3,92 +3,18 @@
 #EXTINF:-1 tvg-logo="https://taiz-press.com/user_images/thumbs/06-11-17-54792397.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
-http://andrtviptv11.jan-beryan.giize.com/1278.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
-http://andrtviptv11.jan-beryan.giize.com/1279.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
-http://andrtviptv11.jan-beryan.giize.com/1280.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
-http://andrtviptv11.jan-beryan.giize.com/1281.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
-http://andrtviptv11.jan-beryan.giize.com/1283.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
-http://andrtviptv11.jan-beryan.giize.com/1282.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
-http://andrtviptv11.jan-beryan.giize.com/1286.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
-http://andrtviptv11.jan-beryan.giize.com/1287.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
-http://andrtviptv11.jan-beryan.giize.com/1289.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
-http://andrtviptv11.jan-beryan.giize.com/1284.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
-http://andrtviptv11.jan-beryan.giize.com/1285.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
-http://andrtviptv11.jan-beryan.giize.com/1292.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
-http://andrtviptv11.jan-beryan.giize.com/1290.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
-http://andrtviptv11.jan-beryan.giize.com/1291.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
-http://andrtviptv11.jan-beryan.giize.com/1288.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
-http://andrtviptv11.jan-beryan.giize.com/1296.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
-http://andrtviptv11.jan-beryan.giize.com/1295.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
-http://andrtviptv11.jan-beryan.giize.com/1294.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
-http://andrtviptv11.jan-beryan.giize.com/1293.ts
-
-#EXTINF:-1,AR:-MBC-1
-http://andrtviptv.jan-beryan.giize.com/820.ts
-#EXTINF:-1,AR:-MBC-2
-http://andrtviptv.jan-beryan.giize.com/187.ts
-#EXTINF:-1,AR:-MBC-3
-http://andrtviptv.jan-beryan.giize.com/188.ts
-#EXTINF:-1,AR:-MBC-4
-http://andrtviptv.jan-beryan.giize.com/189.ts
-#EXTINF:-1,AR:-MBC-ACTION
-http://andrtviptv.jan-beryan.giize.com/821.ts
-#EXTINF:-1,AR:-MBC-Bollywood
-http://andrtviptv.jan-beryan.giize.com/191.ts
-#EXTINF:-1,AR:-MBC-Drama
-http://andrtviptv.jan-beryan.giize.com/266.ts
-#EXTINF:-1,AR:-MBC-MASR
-http://andrtviptv.jan-beryan.giize.com/267.ts
-#EXTINF:-1,AR:-MBC-Masr-2
-http://andrtviptv.jan-beryan.giize.com/268.ts
-#EXTINF:-1,AR:-MBC-Max
-http://andrtviptv.jan-beryan.giize.com/269.ts
-#EXTINF:-1,AR:-Zee-Aflam
-http://andrtviptv.jan-beryan.giize.com/2180.ts
-#EXTINF:-1,AR:-ZEE_ALWAN
-http://andrtviptv.jan-beryan.giize.com/3177.ts
-#EXTINF:-1,AR:-MBC_ZEE_Aflam
-http://andrtviptv.jan-beryan.giize.com/3175.ts
-#EXTINF:-1,AR:-MBC_B4U_AFLAM
-http://andrtviptv.jan-beryan.giize.com/3174.ts
+#EXTINF:-1,|AR|MBC_1_HD
+http://andrtviptv3.jan-beryan.giize.com/3071.ts
+#EXTINF:-1,|AR|MBC_2_HD
+http://andrtviptv3.jan-beryan.giize.com/3070.ts
+#EXTINF:-1,|AR|MBC_3_HD
+http://andrtviptv3.jan-beryan.giize.com/3069.ts
+#EXTINF:-1,|AR|MBC_4_HD
+http://andrtviptv3.jan-beryan.giize.com/3068.ts
+#EXTINF:-1,|AR|MBC_Action_HD
+http://andrtviptv3.jan-beryan.giize.com/3067.ts
+#EXTINF:-1,|AR|MBC_Drama_HD
+http://andrtviptv3.jan-beryan.giize.com/3066.ts
 
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
