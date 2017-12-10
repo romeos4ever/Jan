@@ -4,193 +4,331 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",======ITALY=======
 http://www.lengua.com/anthems/Italy.mp3
 
-#EXTINF:-1,========|||-SKY-ITALIA-|||========
-http://andrtviptv.jan-beryan.giize.com/605.ts
-#EXTINF:-1,IT:-Sky-Caccia-Pesca-HD
-http://andrtviptv.jan-beryan.giize.com/1650.ts
-#EXTINF:-1,IT:-SKY-CINEMA-1-HD
-http://andrtviptv.jan-beryan.giize.com/1692.ts
-#EXTINF:-1,IT:-Sky-Cinema-Classic-HD
-http://andrtviptv.jan-beryan.giize.com/1635.ts
-#EXTINF:-1,IT:-Sky-Cinema-Cult-HD
-http://andrtviptv.jan-beryan.giize.com/1691.ts
-#EXTINF:-1,IT:-Sky-Cinema-Hits
-http://andrtviptv.jan-beryan.giize.com/1694.ts
-#EXTINF:-1,IT:-Sky-Cinema-Max
-http://andrtviptv.jan-beryan.giize.com/1693.ts
-#EXTINF:-1,IT:-Sky-Cinema-Passion-HD
-http://andrtviptv.jan-beryan.giize.com/1634.ts
-#EXTINF:-1,IT:-SKY-History-HD
-http://andrtviptv.jan-beryan.giize.com/1647.ts
-#EXTINF:-1,IT:_Nat_GEOGRAPHIC_HD
-http://andrtviptv.jan-beryan.giize.com/1699.ts
-#EXTINF:-1,IT:-Sky-Sport-1
-http://andrtviptv.jan-beryan.giize.com/1695.ts
-#EXTINF:-1,IT:-Sky-Sport-3
-http://andrtviptv.jan-beryan.giize.com/1697.ts
-#EXTINF:-1,IT:-Sky-Sports-2-HD
-http://andrtviptv.jan-beryan.giize.com/1696.ts
-#EXTINF:-1,IT:-Sky-Tg-24
-http://andrtviptv.jan-beryan.giize.com/1698.ts
-#EXTINF:-1,IT:-Sky-Uno-HD
-http://andrtviptv.jan-beryan.giize.com/1630.ts
-#EXTINF:-1,IT:-Sky.Discovery.Channel.HD
-http://andrtviptv.jan-beryan.giize.com/1649.ts
-#EXTINF:-1,========|||-ITALIA-PREMIUM-|||========
-http://andrtviptv.jan-beryan.giize.com/1718.ts
-#EXTINF:-1,IT:-Premium-Action-HD
-http://andrtviptv.jan-beryan.giize.com/1646.ts
-#EXTINF:-1,IT:-Premium-Action+24HD
-http://andrtviptv.jan-beryan.giize.com/1690.ts
-#EXTINF:-1,IT:-Premium-Carton-Network-HD
-http://andrtviptv.jan-beryan.giize.com/1643.ts
-#EXTINF:-1,IT:-Premium-Cinema-2-HD
-http://andrtviptv.jan-beryan.giize.com/1644.ts
-#EXTINF:-1,IT:-PREMIUM-CINEMA-HD
-http://andrtviptv.jan-beryan.giize.com/1645.ts
-#EXTINF:-1,IT:-Premium-Cinema+24
-http://andrtviptv.jan-beryan.giize.com/1636.ts
-#EXTINF:-1,IT:-Premium-Comedy
-http://andrtviptv.jan-beryan.giize.com/1688.ts
-#EXTINF:-1,IT:-Premium-Crime-24
-http://andrtviptv.jan-beryan.giize.com/1638.ts
-#EXTINF:-1,IT:-Premium-Crime-HD
-http://andrtviptv.jan-beryan.giize.com/1637.ts
-#EXTINF:-1,IT:-PREMIUM-EMOTION
-http://andrtviptv.jan-beryan.giize.com/1641.ts
-#EXTINF:-1,IT:-PREMIUM-ENERGY
-http://andrtviptv.jan-beryan.giize.com/1640.ts
-#EXTINF:-1,IT:-Premium-Joy
-http://andrtviptv.jan-beryan.giize.com/1639.ts
-#EXTINF:-1,IT:-Premium-Stories
-http://andrtviptv.jan-beryan.giize.com/1685.ts
-#EXTINF:-1,IT:-Premium-Studio-Universal-HD
-http://andrtviptv.jan-beryan.giize.com/1642.ts
-#EXTINF:-1,========|||-ITALIA-PRIMAFILA-|||========
-http://andrtviptv.jan-beryan.giize.com/1719.ts
-#EXTINF:-1,IT:-PRIMAFILA-1-HD
-http://andrtviptv.jan-beryan.giize.com/1652.ts
-#EXTINF:-1,IT:-PRIMAFILA-2-HD
-http://andrtviptv.jan-beryan.giize.com/1653.ts
-#EXTINF:-1,IT:-PRIMAFILA-3-HD
-http://andrtviptv.jan-beryan.giize.com/1654.ts
-#EXTINF:-1,IT:-PRIMAFILA-4-HD
-http://andrtviptv.jan-beryan.giize.com/1655.ts
-#EXTINF:-1,IT:-PRIMAFILA-5-HD
-http://andrtviptv.jan-beryan.giize.com/1656.ts
-#EXTINF:-1,IT:-PRIMAFILA-7-HD
-http://andrtviptv.jan-beryan.giize.com/1657.ts
-#EXTINF:-1,IT:-PRIMAFILA-8-HD
-http://andrtviptv.jan-beryan.giize.com/1658.ts
-#EXTINF:-1,IT:-PRIMAFILA--9-HD
-http://andrtviptv.jan-beryan.giize.com/1659.ts
-#EXTINF:-1,IT:-PRIMAFILA-10-HD
-http://andrtviptv.jan-beryan.giize.com/1660.ts
-#EXTINF:-1,IT:-PRIMAFILA-11-HD
-http://andrtviptv.jan-beryan.giize.com/1661.ts
-#EXTINF:-1,IT:-PRIMAFILA-13-HD
-http://andrtviptv.jan-beryan.giize.com/1662.ts
-#EXTINF:-1,IT:-PRIMAFILA-15-HD
-http://andrtviptv.jan-beryan.giize.com/1663.ts
-#EXTINF:-1,IT:-PRIMAFILA-16-HD
-http://andrtviptv.jan-beryan.giize.com/1664.ts
-#EXTINF:-1,========|||-ITALIA-CINEMA-|||========
-http://andrtviptv.jan-beryan.giize.com/1720.ts
-#EXTINF:-1,IT:-Rai-1-HD
-http://andrtviptv.jan-beryan.giize.com/1622.ts
-#EXTINF:-1,IT:-RAI-2
-http://andrtviptv.jan-beryan.giize.com/1623.ts
-#EXTINF:-1,IT:-RAI-3
-http://andrtviptv.jan-beryan.giize.com/1624.ts
-#EXTINF:-1,IT:-RAI-5
-http://andrtviptv.jan-beryan.giize.com/1717.ts
-#EXTINF:-1,IT:-RAI-GULP
-http://andrtviptv.jan-beryan.giize.com/1716.ts
-#EXTINF:-1,IT:-Rai-Movie
-http://andrtviptv.jan-beryan.giize.com/1894.ts
-#EXTINF:-1,IT:-RAI-NEWS-24
-http://andrtviptv.jan-beryan.giize.com/1715.ts
-#EXTINF:-1,IT:-RAI-premium
-http://andrtviptv.jan-beryan.giize.com/1900.ts
-#EXTINF:-1,IT:-Rai-Scuola
-http://andrtviptv.jan-beryan.giize.com/1893.ts
-#EXTINF:-1,IT:-Rai-Sport-1
-http://andrtviptv.jan-beryan.giize.com/1628.ts
-#EXTINF:-1,IT:-Rai-Sport-2-HD
-http://andrtviptv.jan-beryan.giize.com/1629.ts
-#EXTINF:-1,IT:-Rai-Storia
-http://andrtviptv.jan-beryan.giize.com/1891.ts
-#EXTINF:-1,IT:-RAI-YOYO
-http://andrtviptv.jan-beryan.giize.com/1627.ts
-#EXTINF:-1,IT:-RSI-LA-2-HD
-http://andrtviptv.jan-beryan.giize.com/1631.ts
-#EXTINF:-1,IT:-RSI-La1-HD
-http://andrtviptv.jan-beryan.giize.com/1684.ts
-#EXTINF:-1,IT:-Canale-5
-http://andrtviptv.jan-beryan.giize.com/1633.ts
-#EXTINF:-1,IT:-Discovery
-http://andrtviptv.jan-beryan.giize.com/1700.ts
-#EXTINF:-1,IT:-Discovery-Sci-HD
-http://andrtviptv.jan-beryan.giize.com/1648.ts
-#EXTINF:-1,IT:-Italia-1
-http://andrtviptv.jan-beryan.giize.com/1632.ts
-#EXTINF:-1,IT:-ITALIA2
-http://andrtviptv.jan-beryan.giize.com/2323.ts
-#EXTINF:-1,IT:-NAT-GEO-PEOPLE-HD
-http://andrtviptv.jan-beryan.giize.com/1651.ts
-#EXTINF:-1,IT:_Sky_TG24
-http://andrtviptv.jan-beryan.giize.com/3669.ts
-#EXTINF:-1,IT:_RTV_38
-http://andrtviptv.jan-beryan.giize.com/3688.ts
-#EXTINF:-1,IT:_Rete_55
-http://andrtviptv.jan-beryan.giize.com/3686.ts
-#EXTINF:-1,IT:_Retesole
-http://andrtviptv.jan-beryan.giize.com/3687.ts
-#EXTINF:-1,IT:_Radio_Virgin_TV
-http://andrtviptv.jan-beryan.giize.com/3685.ts
-#EXTINF:-1,IT:_Radio_Taormina
-http://andrtviptv.jan-beryan.giize.com/3684.ts
-#EXTINF:-1,IT:_Radio_Monte_Carlo
-http://andrtviptv.jan-beryan.giize.com/3683.ts
-#EXTINF:-1,IT:_Radio_Italia_TV
-http://andrtviptv.jan-beryan.giize.com/3682.ts
-#EXTINF:-1,IT:_Radio_105_TV
-http://andrtviptv.jan-beryan.giize.com/3680.ts
-#EXTINF:-1,IT:_OttoFM_TV
-http://andrtviptv.jan-beryan.giize.com/3679.ts
-#EXTINF:-1,IT:_Orler_TV
-http://andrtviptv.jan-beryan.giize.com/3678.ts
-#EXTINF:-1,IT:_m20_TV
-http://andrtviptv.jan-beryan.giize.com/3677.ts
-#EXTINF:-1,IT:_History_Lab
-http://andrtviptv.jan-beryan.giize.com/3676.ts
-#EXTINF:-1,IT:_eTV_Marche
-http://andrtviptv.jan-beryan.giize.com/3675.ts
-#EXTINF:-1,IT:_Cremona_1
-http://andrtviptv.jan-beryan.giize.com/3674.ts
-#EXTINF:-1,IT:_Carina_TV
-http://andrtviptv.jan-beryan.giize.com/3672.ts
-#EXTINF:-1,IT:_Canale_10
-http://andrtviptv.jan-beryan.giize.com/3671.ts
-#EXTINF:-1,IT:_Alto_Adige_TV
-http://andrtviptv.jan-beryan.giize.com/3670.ts
-#EXTINF:-1,IT:_Video_Calabria
-http://andrtviptv.jan-beryan.giize.com/3705.ts
-#EXTINF:-1,IT:_Video_Brescia
-http://andrtviptv.jan-beryan.giize.com/3704.ts
-#EXTINF:-1,IT:_Videolina
-http://andrtviptv.jan-beryan.giize.com/3703.ts
-#EXTINF:-1,IT:_TV_Luna
-http://andrtviptv.jan-beryan.giize.com/3701.ts
-#EXTINF:-1,IT:_TVRS
-http://andrtviptv.jan-beryan.giize.com/3700.ts
-#EXTINF:-1,IT:_TSN
-http://andrtviptv.jan-beryan.giize.com/3698.ts
-#EXTINF:-1,IT:_Trentino_TV
-http://andrtviptv.jan-beryan.giize.com/3697.ts
-#EXTINF:-1,IT:_TeleStudio_Modena
-http://andrtviptv.jan-beryan.giize.com/3694.ts
-#EXTINF:-1,IT:_TeleArena
-http://andrtviptv.jan-beryan.giize.com/3691.ts
-#EXTINF:-1,IT:_SuperTV
-http://andrtviptv.jan-beryan.giize.com/3690.ts
+#EXTINF:-1,|IT| RAI 1 HD
+http://biloiptv.jan-beryan.giize.com/1786.ts
+#EXTINF:-1,|IT| RAI 2 HD
+http://biloiptv.jan-beryan.giize.com/1787.ts
+#EXTINF:-1,|IT| RAI 3 HD
+http://biloiptv.jan-beryan.giize.com/1788.ts
+#EXTINF:-1,|IT| RAI 4 HD
+http://biloiptv.jan-beryan.giize.com/1789.ts
+#EXTINF:-1,|IT| RAI 5
+http://biloiptv.jan-beryan.giize.com/1790.ts
+#EXTINF:-1,|IT| RAI SCUOLA
+http://biloiptv.jan-beryan.giize.com/1794.ts
+#EXTINF:-1,|IT| RAI PREMIUM
+http://biloiptv.jan-beryan.giize.com/1792.ts
+#EXTINF:-1,|IT| RAI MOVIE
+http://biloiptv.jan-beryan.giize.com/1791.ts
+#EXTINF:-1,|IT| RAI GULP
+http://biloiptv.jan-beryan.giize.com/1795.ts
+#EXTINF:-1,|IT| RETE 4 HD
+http://biloiptv.jan-beryan.giize.com/2462.ts
+#EXTINF:-1,|IT| ITALIA 1 HD
+http://biloiptv.jan-beryan.giize.com/1798.ts
+#EXTINF:-1,|IT| ITALIA 1
+http://biloiptv.jan-beryan.giize.com/2070.ts
+#EXTINF:-1,|IT| LA 5
+http://biloiptv.jan-beryan.giize.com/1800.ts
+#EXTINF:-1,|IT| LA 7 HD
+http://biloiptv.jan-beryan.giize.com/1801.ts
+#EXTINF:-1,|IT| LA 7D HD
+http://biloiptv.jan-beryan.giize.com/2068.ts
+#EXTINF:-1,|IT| RSI LA 1 HD
+http://biloiptv.jan-beryan.giize.com/2463.ts
+#EXTINF:-1,|IT| RSI LA 2 HD
+http://biloiptv.jan-beryan.giize.com/2464.ts
+#EXTINF:-1,|IT| CANALE 5 HD
+http://biloiptv.jan-beryan.giize.com/1803.ts
+#EXTINF:-1,|IT| CANALE 7
+http://biloiptv.jan-beryan.giize.com/1802.ts
+#EXTINF:-1,|IT| NUVOLARI
+http://biloiptv.jan-beryan.giize.com/1804.ts
+#EXTINF:-1,|IT| TV 2000
+http://biloiptv.jan-beryan.giize.com/2049.ts
+#EXTINF:-1,------- IT Cinema -------
+http://biloiptv.jan-beryan.giize.com/4278.ts
+#EXTINF:-1,|IT| SKY CINEMA PASSION HD
+http://biloiptv.jan-beryan.giize.com/1642.ts
+#EXTINF:-1,|IT| SKY CINEMA COMEDY HD
+http://biloiptv.jan-beryan.giize.com/2094.ts
+#EXTINF:-1,|IT| SKY CINEMA MAX HD
+http://biloiptv.jan-beryan.giize.com/1643.ts
+#EXTINF:-1,|IT| SKY CINEMA HITS HD
+http://biloiptv.jan-beryan.giize.com/1641.ts
+#EXTINF:-1,|IT| SKY CINEMA FAMILY HD
+http://biloiptv.jan-beryan.giize.com/1645.ts
+#EXTINF:-1,|IT| CINEMA FAMILY+1 HD
+http://biloiptv.jan-beryan.giize.com/2473.ts
+#EXTINF:-1,|IT| SKY CINEMA CULT HD
+http://biloiptv.jan-beryan.giize.com/1646.ts
+#EXTINF:-1,|IT| SKY CINEMA CLASSIC HD
+http://biloiptv.jan-beryan.giize.com/1647.ts
+#EXTINF:-1,|IT| SKY CINEMA +24 HD
+http://biloiptv.jan-beryan.giize.com/3588.ts
+#EXTINF:-1,|IT| SKY CINEMA 1 HD
+http://biloiptv.jan-beryan.giize.com/1649.ts
+#EXTINF:-1,|IT| SKY CINEMA +1 HD
+http://biloiptv.jan-beryan.giize.com/3587.ts
+#EXTINF:-1,------- Intattenimento -------
+http://biloiptv.jan-beryan.giize.com/4279.ts
+#EXTINF:-1,|IT| SKY UNO HD
+http://biloiptv.jan-beryan.giize.com/2054.ts
+#EXTINF:-1,|IT| SKY ATLANTIC HD
+http://biloiptv.jan-beryan.giize.com/1650.ts
+#EXTINF:-1,|IT| FOX HD
+http://biloiptv.jan-beryan.giize.com/2077.ts
+#EXTINF:-1,|IT| FOX LIFE HD
+http://biloiptv.jan-beryan.giize.com/2075.ts
+#EXTINF:-1,|IT| FOX CRIME HD
+http://biloiptv.jan-beryan.giize.com/1652.ts
+#EXTINF:-1,|IT| FOX COMEDY HD
+http://biloiptv.jan-beryan.giize.com/1653.ts
+#EXTINF:-1,|IT| FOX ANIMATION HD
+http://biloiptv.jan-beryan.giize.com/1654.ts
+#EXTINF:-1,|IT| AXN HD
+http://biloiptv.jan-beryan.giize.com/2105.ts
+#EXTINF:-1,|IT| AXN SCI FI
+http://biloiptv.jan-beryan.giize.com/1657.ts
+#EXTINF:-1,|IT| REAL TIME
+http://biloiptv.jan-beryan.giize.com/2058.ts
+#EXTINF:-1,|IT| FRISBEE
+http://biloiptv.jan-beryan.giize.com/2074.ts
+#EXTINF:-1,|IT| ALICE
+http://biloiptv.jan-beryan.giize.com/2106.ts
+#EXTINF:-1,|IT| CIELO
+http://biloiptv.jan-beryan.giize.com/2095.ts
+#EXTINF:-1,|IT| M2O
+http://biloiptv.jan-beryan.giize.com/2065.ts
+#EXTINF:-1,|IT| PARAMOUNT CHANNEL
+http://biloiptv.jan-beryan.giize.com/3581.ts
+#EXTINF:-1,|IT| E! ENTERTAINMENT
+http://biloiptv.jan-beryan.giize.com/3589.ts
+#EXTINF:-1,|IT| GIALLO
+http://biloiptv.jan-beryan.giize.com/2072.ts
+#EXTINF:-1,|IT| GAMEBEROROSSO HD
+http://biloiptv.jan-beryan.giize.com/2073.ts
+#EXTINF:-1,------- IT Sports -------
+http://biloiptv.jan-beryan.giize.com/4276.ts
+#EXTINF:-1,|IT| SKY SPORTS 1 HD
+http://biloiptv.jan-beryan.giize.com/1493.ts
+#EXTINF:-1,|IT| SKY SPORTS 2 HD
+http://biloiptv.jan-beryan.giize.com/1494.ts
+#EXTINF:-1,|IT| SKY SPORTS 3 HD
+http://biloiptv.jan-beryan.giize.com/1495.ts
+#EXTINF:-1,|IT| FOX SPORTS HD
+http://biloiptv.jan-beryan.giize.com/1496.ts
+#EXTINF:-1,|IT| SKY SPORT MOTOGP HD
+http://biloiptv.jan-beryan.giize.com/1778.ts
+#EXTINF:-1,|IT| SKY SPORT F1 HD
+http://biloiptv.jan-beryan.giize.com/1637.ts
+#EXTINF:-1,|IT| SKY SPORT 24 HD
+http://biloiptv.jan-beryan.giize.com/1636.ts
+#EXTINF:-1,|IT| SUPER TENNIS HD
+http://biloiptv.jan-beryan.giize.com/1779.ts
+#EXTINF:-1,|IT| MILAN CHANNEL
+http://biloiptv.jan-beryan.giize.com/1662.ts
+#EXTINF:-1,|IT| JUVENTUS CHANNEL
+http://biloiptv.jan-beryan.giize.com/1663.ts
+#EXTINF:-1,|IT| EUROSPORT
+http://biloiptv.jan-beryan.giize.com/1809.ts
+#EXTINF:-1,|IT| EUROSPORT 2
+http://biloiptv.jan-beryan.giize.com/1810.ts
+#EXTINF:-1,|IT| RAI SPORT 1 HD
+http://biloiptv.jan-beryan.giize.com/2466.ts
+#EXTINF:-1,|IT| RAI SPORT 1
+http://biloiptv.jan-beryan.giize.com/1796.ts
+#EXTINF:-1,|IT| RAI SPORT 2
+http://biloiptv.jan-beryan.giize.com/1797.ts
+#EXTINF:-1,|IT| SPORT ITALIA
+http://biloiptv.jan-beryan.giize.com/1808.ts
+#EXTINF:-1,------- IT Calcio -------
+http://biloiptv.jan-beryan.giize.com/4277.ts
+#EXTINF:-1,|IT| SKY SUPER CALCIO HD
+http://biloiptv.jan-beryan.giize.com/1770.ts
+#EXTINF:-1,|IT| SKY CALCIO 1 HD
+http://biloiptv.jan-beryan.giize.com/1638.ts
+#EXTINF:-1,|IT| SKY CALCIO 2 HD
+http://biloiptv.jan-beryan.giize.com/1639.ts
+#EXTINF:-1,|IT| SKY CALCIO 3 HD
+http://biloiptv.jan-beryan.giize.com/1640.ts
+#EXTINF:-1,|IT| SKY CALCIO 4 HD
+http://biloiptv.jan-beryan.giize.com/1771.ts
+#EXTINF:-1,|IT| SKY CALCIO 5 HD
+http://biloiptv.jan-beryan.giize.com/1772.ts
+#EXTINF:-1,|IT| SKY CALCIO 6 HD
+http://biloiptv.jan-beryan.giize.com/1773.ts
+#EXTINF:-1,------- IT Bambini -------
+http://biloiptv.jan-beryan.giize.com/4281.ts
+#EXTINF:-1,|IT| CARTOON NETWORK
+http://biloiptv.jan-beryan.giize.com/2097.ts
+#EXTINF:-1,|IT| CARTONITOO
+http://biloiptv.jan-beryan.giize.com/2098.ts
+#EXTINF:-1,|IT| DISNEY XD
+http://biloiptv.jan-beryan.giize.com/2086.ts
+#EXTINF:-1,|IT| DISNEY JUNIOR
+http://biloiptv.jan-beryan.giize.com/2087.ts
+#EXTINF:-1,|IT| DISNEY CHANNEL
+http://biloiptv.jan-beryan.giize.com/2089.ts
+#EXTINF:-1,|IT| BOING
+http://biloiptv.jan-beryan.giize.com/2102.ts
+#EXTINF:-1,|IT| RAI YOYO
+http://biloiptv.jan-beryan.giize.com/1793.ts
+#EXTINF:-1,|IT| SUPER!
+http://biloiptv.jan-beryan.giize.com/2053.ts
+#EXTINF:-1,|IT| K2
+http://biloiptv.jan-beryan.giize.com/2069.ts
+#EXTINF:-1,------- Cultura E Documentari -------
+http://biloiptv.jan-beryan.giize.com/4280.ts
+#EXTINF:-1,|IT| DISCOVERY SCIENCE HD
+http://biloiptv.jan-beryan.giize.com/1655.ts
+#EXTINF:-1,|IT| DISCOVERY CHANNEL HD
+http://biloiptv.jan-beryan.giize.com/1656.ts
+#EXTINF:-1,|IT| DISCOVERY TRAVEL and LIVING HD
+http://biloiptv.jan-beryan.giize.com/2090.ts
+#EXTINF:-1,|IT| FOCUS
+http://biloiptv.jan-beryan.giize.com/2081.ts
+#EXTINF:-1,|IT| DMAX
+http://biloiptv.jan-beryan.giize.com/2084.ts
+#EXTINF:-1,|IT| NAT GEO HD
+http://biloiptv.jan-beryan.giize.com/1780.ts
+#EXTINF:-1,|IT| NAT GEO WILD HD
+http://biloiptv.jan-beryan.giize.com/1660.ts
+#EXTINF:-1,|IT| NAT GEO PEOPLE HD
+http://biloiptv.jan-beryan.giize.com/1659.ts
+#EXTINF:-1,|IT| ANIMAL PLANET
+http://biloiptv.jan-beryan.giize.com/1658.ts
+#EXTINF:-1,|IT| HISTORY CHANNEL
+http://biloiptv.jan-beryan.giize.com/1651.ts
+#EXTINF:-1,|IT| CI CRIME INV HD
+http://biloiptv.jan-beryan.giize.com/2096.ts
+#EXTINF:-1,|IT| MARCOPOLO
+http://biloiptv.jan-beryan.giize.com/3586.ts
+#EXTINF:-1,|IT| PESCA CACCIA
+http://biloiptv.jan-beryan.giize.com/2100.ts
+#EXTINF:-1,------- IT News -------
+http://biloiptv.jan-beryan.giize.com/4289.ts
+#EXTINF:-1,|IT| TGCOM 24
+http://biloiptv.jan-beryan.giize.com/2051.ts
+#EXTINF:-1,|IT| RAI NEWS 24
+http://biloiptv.jan-beryan.giize.com/2465.ts
+#EXTINF:-1,|IT| SKY TG 24 HD
+http://biloiptv.jan-beryan.giize.com/2055.ts
+#EXTINF:-1,------- IT Regional -------
+http://biloiptv.jan-beryan.giize.com/4290.ts
+#EXTINF:-1,|IT| TELECOLOR
+http://biloiptv.jan-beryan.giize.com/2052.ts
+#EXTINF:-1,|IT| VIDEOLINA
+http://biloiptv.jan-beryan.giize.com/3461.ts
+#EXTINF:-1,|IT| LUNA TV
+http://biloiptv.jan-beryan.giize.com/3460.ts
+#EXTINF:-1,|IT| VIDEO CALABRIA
+http://biloiptv.jan-beryan.giize.com/3604.ts
+#EXTINF:-1,------- IT Primafila -------
+http://biloiptv.jan-beryan.giize.com/4283.ts
+#EXTINF:-1,|IT| PRIMA FILA 1 HD
+http://biloiptv.jan-beryan.giize.com/1666.ts
+#EXTINF:-1,|IT| PRIMA FILA 2 HD
+http://biloiptv.jan-beryan.giize.com/1667.ts
+#EXTINF:-1,|IT| PRIMA FILA 3 HD
+http://biloiptv.jan-beryan.giize.com/1668.ts
+#EXTINF:-1,|IT| PRIMA FILA 4 HD
+http://biloiptv.jan-beryan.giize.com/1669.ts
+#EXTINF:-1,|IT| PRIMA FILA 5 HD
+http://biloiptv.jan-beryan.giize.com/1670.ts
+#EXTINF:-1,|IT| PRIMA FILA 6 HD
+http://biloiptv.jan-beryan.giize.com/1671.ts
+#EXTINF:-1,|IT| PRIMA FILA 7 HD
+http://biloiptv.jan-beryan.giize.com/1672.ts
+#EXTINF:-1,|IT| PRIMA FILA 8 HD
+http://biloiptv.jan-beryan.giize.com/1673.ts
+#EXTINF:-1,|IT| PRIMA FILA 9 HD
+http://biloiptv.jan-beryan.giize.com/1674.ts
+#EXTINF:-1,|IT| PRIMA FILA 10 HD
+http://biloiptv.jan-beryan.giize.com/1675.ts
+#EXTINF:-1,|IT| PRIMA FILA 11 HD
+http://biloiptv.jan-beryan.giize.com/1676.ts
+#EXTINF:-1,|IT| PRIMA FILA 12 HD
+http://biloiptv.jan-beryan.giize.com/1677.ts
+#EXTINF:-1,|IT| PRIMA FILA 13 HD
+http://biloiptv.jan-beryan.giize.com/1678.ts
+#EXTINF:-1,|IT| PRIMA FILA 14 HD
+http://biloiptv.jan-beryan.giize.com/1679.ts
+#EXTINF:-1,|IT| PRIMA FILA 15 HD
+http://biloiptv.jan-beryan.giize.com/1680.ts
+#EXTINF:-1,|IT| PRIMA FILA 16 HD
+http://biloiptv.jan-beryan.giize.com/3457.ts
+#EXTINF:-1,|IT| PRIMA FILA WWE
+http://biloiptv.jan-beryan.giize.com/2470.ts
+#EXTINF:-1,======== MEDIASET IT ========
+http://biloiptv.jan-beryan.giize.com/1742.ts
+#EXTINF:-1,------- Mediaset Premium Cinema -------
+http://biloiptv.jan-beryan.giize.com/4284.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA HD
+http://biloiptv.jan-beryan.giize.com/1702.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA 2 HD
+http://biloiptv.jan-beryan.giize.com/1781.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA +24
+http://biloiptv.jan-beryan.giize.com/1703.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA +2 24
+http://biloiptv.jan-beryan.giize.com/2474.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA ENERGY
+http://biloiptv.jan-beryan.giize.com/1697.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA EMOTION
+http://biloiptv.jan-beryan.giize.com/1698.ts
+#EXTINF:-1,|IT| PREMIUM CINEMA COMEDY
+http://biloiptv.jan-beryan.giize.com/1701.ts
+#EXTINF:-1,|IT| PREMIUM STUDIO UNIVERSAL
+http://biloiptv.jan-beryan.giize.com/1694.ts
+#EXTINF:-1,|IT| MEDIASET IRIS
+http://biloiptv.jan-beryan.giize.com/2071.ts
+#EXTINF:-1,------- Mediaset Premium Intrattenimento -------
+http://biloiptv.jan-beryan.giize.com/4285.ts
+#EXTINF:-1,|IT| PREMIUM ACTION HD
+http://biloiptv.jan-beryan.giize.com/1705.ts
+#EXTINF:-1,|IT| PREMIUM ACTION +24 HD
+http://biloiptv.jan-beryan.giize.com/3148.ts
+#EXTINF:-1,|IT| PREMIUM JOI HD
+http://biloiptv.jan-beryan.giize.com/1782.ts
+#EXTINF:-1,|IT| PREMIUM JOI + 24
+http://biloiptv.jan-beryan.giize.com/2468.ts
+#EXTINF:-1,|IT| PREMIUM STORIES
+http://biloiptv.jan-beryan.giize.com/1695.ts
+#EXTINF:-1,|IT| PREMIUM STORIES +24
+http://biloiptv.jan-beryan.giize.com/3605.ts
+#EXTINF:-1,|IT| PREMIUM CRIME HD
+http://biloiptv.jan-beryan.giize.com/1699.ts
+#EXTINF:-1,|IT| PREMIUM CRIME +24 HD
+http://biloiptv.jan-beryan.giize.com/1700.ts
+#EXTINF:-1,|IT| TOP CRIME
+http://biloiptv.jan-beryan.giize.com/2050.ts
+#EXTINF:-1,|IT| MEDIASET EXTRA
+http://biloiptv.jan-beryan.giize.com/1806.ts
+#EXTINF:-1,|IT| MEDIASET ITALIA 2
+http://biloiptv.jan-beryan.giize.com/1805.ts
+#EXTINF:-1,------- Mediaset Premium Bambini -------
+http://biloiptv.jan-beryan.giize.com/4286.ts
+#EXTINF:-1,|IT| PREMIUM DISENY JUNIOR
+http://biloiptv.jan-beryan.giize.com/1783.ts
+#EXTINF:-1,------- Mediaset Premium Sports -------
+http://biloiptv.jan-beryan.giize.com/4287.ts
+#EXTINF:-1,|IT| PREMIUM SPORT HD
+http://biloiptv.jan-beryan.giize.com/1696.ts
+#EXTINF:-1,|IT| PREMIUM SPORT 2 HD
+http://biloiptv.jan-beryan.giize.com/4291.ts
+#EXTINF:-1,------- Mediaset Premium Calcio -------
+http://biloiptv.jan-beryan.giize.com/4288.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO HD
+http://biloiptv.jan-beryan.giize.com/1785.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO 1 HD
+http://biloiptv.jan-beryan.giize.com/1706.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO 2 HD
+http://biloiptv.jan-beryan.giize.com/1704.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO 3
+http://biloiptv.jan-beryan.giize.com/1707.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO 4
+http://biloiptv.jan-beryan.giize.com/1708.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO 5
+http://biloiptv.jan-beryan.giize.com/1709.ts
+#EXTINF:-1,|IT| PREMIUM CALCIO 6
+http://biloiptv.jan-beryan.giize.com/1710.ts
