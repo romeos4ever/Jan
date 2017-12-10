@@ -3,307 +3,58 @@
 #EXTINF:-1 tvg-logo="https://taiz-press.com/user_images/thumbs/06-11-17-54792397.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 
-#EXTINF:-1,|AR|MBC_1_HD
-http://andrtviptv3.jan-beryan.giize.com/3071.ts
-#EXTINF:-1,|AR|MBC_2_HD
-http://andrtviptv3.jan-beryan.giize.com/3070.ts
-#EXTINF:-1,|AR|MBC_3_HD
-http://andrtviptv3.jan-beryan.giize.com/3069.ts
-#EXTINF:-1,|AR|MBC_4_HD
-http://andrtviptv3.jan-beryan.giize.com/3068.ts
-#EXTINF:-1,|AR|MBC_Action_HD
-http://andrtviptv3.jan-beryan.giize.com/3067.ts
-#EXTINF:-1,|AR|MBC_Drama_HD
-http://andrtviptv3.jan-beryan.giize.com/3066.ts
-
+#EXTINF:-1,|AR| MBC1
+http://biloiptv.jan-beryan.giize.com/1853.ts
+#EXTINF:-1,|AR| MBC 2
+http://biloiptv.jan-beryan.giize.com/1854.ts
+#EXTINF:-1,|AR| MBC 3
+http://biloiptv.jan-beryan.giize.com/1855.ts
+#EXTINF:-1,|AR| MBC 4
+http://biloiptv.jan-beryan.giize.com/1856.ts
+#EXTINF:-1,|AR| MBC MAX
+http://biloiptv.jan-beryan.giize.com/1857.ts
+#EXTINF:-1,|AR| MBC ACTION
+http://biloiptv.jan-beryan.giize.com/1862.ts
+#EXTINF:-1,|AR| MBC DRAMA
+http://biloiptv.jan-beryan.giize.com/1860.ts
+#EXTINF:-1,|AR| MBC MASR
+http://biloiptv.jan-beryan.giize.com/1858.ts
+#EXTINF:-1,|AR| MBC MASR 2
+http://biloiptv.jan-beryan.giize.com/1859.ts
+#EXTINF:-1,|AR| MBC PROSPORTS 1
+http://biloiptv.jan-beryan.giize.com/1997.ts
+#EXTINF:-1,|AR| MBC PROSPORTS 2
+http://biloiptv.jan-beryan.giize.com/1998.ts
+#EXTINF:-1,|AR| MBC PROSPORTS 3
+http://biloiptv.jan-beryan.giize.com/1999.ts
+#EXTINF:-1,|AR|  MBC PROSPORTS 4
+http://biloiptv.jan-beryan.giize.com/3067.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 2
+http://biloiptv.jan-beryan.giize.com/2529.ts
+#EXTINF:-1,|AR| MBC BOLLYWOOD
+http://biloiptv.jan-beryan.giize.com/1861.ts
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 1HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1297.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Officebox 2HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 2HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1298.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Officebox 3HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 3HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1299.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies HD" tvg-logo="" group-title="05-OSN [AR]",Movies HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1300.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies 2 HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1301.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Premiere" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1304.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Premiere 2" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere 2
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1305.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="" group-title="05-OSN [AR]",Movies Comedy HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1306.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1302.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Movies Action 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action 2 HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1303.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala HD" tvg-logo="" group-title="05-OSN [AR]",Yahala HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1309.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala Shabab HD" tvg-logo="" group-title="05-OSN [AR]",Yahala Shabab HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1311.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala DraHD" tvg-logo="" group-title="05-OSN [AR]",Yahala DraHD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1310.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Yahala CineHD" tvg-logo="" group-title="05-OSN [AR]",Yahala CineHD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1312.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Cine1HD" tvg-logo="" group-title="05-OSN [AR]",Cine1HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1313.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Cine2HD" tvg-logo="" group-title="05-OSN [AR]",Cine2HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1314.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Ondemend Extra HD" tvg-logo="" group-title="05-OSN [AR]",Ondemend Extra HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1308.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Ondemand HD" tvg-logo="" group-title="05-OSN [AR]",Ondemand HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1307.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii-Shamia" tvg-logo="" group-title="05-OSN [AR]",SeeVii-Shamia
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1317.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii DraHD." tvg-logo="" group-title="05-OSN [AR]",SeeVii DraHD.
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1315.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii Beelink HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Beelink HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1318.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Al oula HD
-http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1316.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN  Ya Hala! SHABAB HD
-http://217.160.107.173:25461/live/appsp/lispve02/3131.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN Disney Junior
-http://217.160.107.173:25461/live/appsp/lispve02/3130.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN ITV Choice
-http://217.160.107.173:25461/live/appsp/lispve02/3129.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN MOVIE COMEDY HD
-http://217.160.107.173:25461/live/appsp/lispve02/3128.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN MOVIES ACTION HD
-http://217.160.107.173:25461/live/appsp/lispve02/3127.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN Movies Drama
-http://217.160.107.173:25461/live/appsp/lispve02/3126.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
-http://217.160.107.173:25461/live/appsp/lispve02/3125.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,OSN Box OFFICE 3-HD
-http://217.160.107.173:25461/live/appsp/lispve02/3148.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR : OSN CRICKET HD
-http://217.160.107.173:25461/live/appsp/lispve02/3149.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN BBC First
-http://217.160.107.173:25461/live/appsp/lispve02/3233.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN CNN
-http://217.160.107.173:25461/live/appsp/lispve02/3210.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Discovery Family HD
-http://217.160.107.173:25461/live/appsp/lispve02/3151.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Discovery HD
-http://217.160.107.173:25461/live/appsp/lispve02/3186.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Discovery ID HD
-http://217.160.107.173:25461/live/appsp/lispve02/3185.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Discovery Science HD
-http://217.160.107.173:25461/live/appsp/lispve02/3184.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Disney Channel HD
-http://217.160.107.173:25461/live/appsp/lispve02/3240.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Disney HD
-http://217.160.107.173:25461/live/appsp/lispve02/3183.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Disney Junior
-http://217.160.107.173:25461/live/appsp/lispve02/3182.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Disney XD
-http://217.160.107.173:25461/live/appsp/lispve02/3181.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN DOCU BOX HD
-http://217.160.107.173:25461/live/appsp/lispve02/3209.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN FAST AND FUN BOX HD
-http://217.160.107.173:25461/live/appsp/lispve02/3208.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Fox News
-http://217.160.107.173:25461/live/appsp/lispve02/3163.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN HISTORY 2
-http://217.160.107.173:25461/live/appsp/lispve02/3207.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies 2 HD
-http://217.160.107.173:25461/live/appsp/lispve02/3180.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Action 2
-http://217.160.107.173:25461/live/appsp/lispve02/3179.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Action HD
-http://217.160.107.173:25461/live/appsp/lispve02/3178.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Comedy HD
-http://217.160.107.173:25461/live/appsp/lispve02/3177.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN MOVIES DRAMA 2
-http://217.160.107.173:25461/live/appsp/lispve02/3176.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Drama HD
-http://217.160.107.173:25461/live/appsp/lispve02/3175.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Family HD
-http://217.160.107.173:25461/live/appsp/lispve02/3174.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Festival HD
-http://217.160.107.173:25461/live/appsp/lispve02/3173.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies HD
-http://217.160.107.173:25461/live/appsp/lispve02/3172.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Kids HD
-http://217.160.107.173:25461/live/appsp/lispve02/3171.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Prem 2
-http://217.160.107.173:25461/live/appsp/lispve02/3170.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Movies Priemer HD
-http://217.160.107.173:25461/live/appsp/lispve02/3169.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN National Geo HD
-http://217.160.107.173:25461/live/appsp/lispve02/3168.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN National Geo People HD
-http://217.160.107.173:25461/live/appsp/lispve02/3167.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN National Geo Wild HD
-http://217.160.107.173:25461/live/appsp/lispve02/3152.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN NEWS HD
-http://217.160.107.173:25461/live/appsp/lispve02/3239.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Ten Cricket
-http://217.160.107.173:25461/live/appsp/lispve02/3234.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN Travel Channel HD
-http://217.160.107.173:25461/live/appsp/lispve02/3150.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: OSN YAHALA HD 2
-http://217.160.107.173:25461/live/appsp/lispve02/3206.ts
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein AMC HD
-http://217.160.107.173:25461/live/appsp/lispve02/3221.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Baby HD
-http://217.160.107.173:25461/live/appsp/lispve02/3220.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Baraem
-http://217.160.107.173:25461/live/appsp/lispve02/3219.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Dlife HD
-http://217.160.107.173:25461/live/appsp/lispve02/3218.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Dreamwork HD
-http://217.160.107.173:25461/live/appsp/lispve02/3217.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Extreme Sport HD
-http://217.160.107.173:25461/live/appsp/lispve02/3216.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Fatafeat HD
-http://217.160.107.173:25461/live/appsp/lispve02/3215.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein FOX HD
-http://217.160.107.173:25461/live/appsp/lispve02/3214.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Fox Movies HD
-http://217.160.107.173:25461/live/appsp/lispve02/3213.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Jeem HD
-http://217.160.107.173:25461/live/appsp/lispve02/3212.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein Junior HD
-http://217.160.107.173:25461/live/appsp/lispve02/3211.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: BeIN Movies 1HD
-http://217.160.107.173:25461/live/appsp/lispve02/3193.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: BeIN Movies 2HD
-http://217.160.107.173:25461/live/appsp/lispve02/3192.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: BeIN Movies 3HD
-http://217.160.107.173:25461/live/appsp/lispve02/3191.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: BeIN Movies 4HD
-http://217.160.107.173:25461/live/appsp/lispve02/3190.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: Bein NBA HD
-http://217.160.107.173:25461/live/appsp/lispve02/3223.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.56.100
-#EXTINF:-1,VIP AR: beIN Series 1 HD
-http://217.160.107.173:25461/live/appsp/lispve02/840.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
-http://andrtviptv11.jan-beryan.giize.com/1473.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
-http://andrtviptv11.jan-beryan.giize.com/1474.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
-http://andrtviptv11.jan-beryan.giize.com/1475.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
-http://andrtviptv11.jan-beryan.giize.com/1476.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
-http://andrtviptv11.jan-beryan.giize.com/1478.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
-http://andrtviptv11.jan-beryan.giize.com/1477.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
-http://andrtviptv11.jan-beryan.giize.com/1482.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
-http://andrtviptv11.jan-beryan.giize.com/1480.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
-http://andrtviptv11.jan-beryan.giize.com/1479.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
-http://andrtviptv11.jan-beryan.giize.com/1481.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BOING" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",BOING
-http://andrtviptv11.jan-beryan.giize.com/1409.ts
 
 
 #EXTINF:-1 tvg-logo="http://masr140.org/wp-content/uploads/2016/11/hqdefault-1-2.jpg",======ART [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+#EXTINF:-1,|AR| ART HEKAYAT
+http://biloiptv.jan-beryan.giize.com/1882.ts
+#EXTINF:-1,|AR| ART HEKAYAT 2
+http://biloiptv.jan-beryan.giize.com/1883.ts
+#EXTINF:-1,|AR| ART CINEMA
+http://biloiptv.jan-beryan.giize.com/1881.ts
+#EXTINF:-1,|AR| ART AFLAM 1
+http://biloiptv.jan-beryan.giize.com/1879.ts
+#EXTINF:-1,|AR| ART AFLAM 2
+http://biloiptv.jan-beryan.giize.com/1880.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
 http://andrtviptv11.jan-beryan.giize.com/1319.ts
@@ -319,33 +70,23 @@ http://andrtviptv11.jan-beryan.giize.com/1322.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
 http://andrtviptv11.jan-beryan.giize.com/1323.ts
-#EXTINF:-1,AR:-ART-Cinema
-http://andrtviptv.jan-beryan.giize.com/263.ts
-#EXTINF:-1,AR:-ART-Aflam1
-http://andrtviptv.jan-beryan.giize.com/261.ts
-#EXTINF:-1,AR:-ART-Aflam2
-http://andrtviptv.jan-beryan.giize.com/262.ts
-#EXTINF:-1,AR:-ART-Hekayat1
-http://andrtviptv.jan-beryan.giize.com/264.ts
-#EXTINF:-1,AR:-ART-Hekayat2
-http://andrtviptv.jan-beryan.giize.com/265.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://files.elnashra.com/elnashrafan/imagine/pictures_360/1378375243_timthumb.php.jpg",========|||-ROTANA-|||========
 http://andrtviptv.jan-beryan.giize.com/1464.ts
-#EXTINF:-1,AR:-Rotana-Cinema
-http://andrtviptv.jan-beryan.giize.com/196.ts
-#EXTINF:-1,AR:-Rotana-Classic
-http://andrtviptv.jan-beryan.giize.com/195.ts
-#EXTINF:-1,AR:-ROTANA-CLIP
-http://andrtviptv.jan-beryan.giize.com/886.ts
-#EXTINF:-1,AR:-Rotana-Khaliji
-http://andrtviptv.jan-beryan.giize.com/197.ts
-#EXTINF:-1,AR:-Rotana-Massrya
-http://andrtviptv.jan-beryan.giize.com/194.ts
-#EXTINF:-1,AR:-Rotana-Music
-http://andrtviptv.jan-beryan.giize.com/193.ts
+#EXTINF:-1,|AR| ROTANA MUSIC
+http://biloiptv.jan-beryan.giize.com/1867.ts
+#EXTINF:-1,|AR| ROTANA MASRIA
+http://biloiptv.jan-beryan.giize.com/1868.ts
+#EXTINF:-1,|AR| ROTANA KHALIJI
+http://biloiptv.jan-beryan.giize.com/1865.ts
+#EXTINF:-1,|AR| ROTANA CLIP
+http://biloiptv.jan-beryan.giize.com/1866.ts
+#EXTINF:-1,|AR| ROTANA CLASSIC
+http://biloiptv.jan-beryan.giize.com/1869.ts
+#EXTINF:-1,|AR| ROTANA CINEMA
+http://biloiptv.jan-beryan.giize.com/1870.ts
 
 
 
@@ -455,111 +196,57 @@ http://andrtviptv11.jan-beryan.giize.com/1332.ts
 
 #EXTINF:-1 tvg-logo="http://www.almountakhab.com/uploads/resized/drapeau_maroc.resized-600x300.jpg",=====MAROC [AR]=======
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="08-MAROC [AR]",Al-Aoula-Inter
-http://andrtviptv11.jan-beryan.giize.com/1382.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="2M-Monde" tvg-logo="" group-title="08-MAROC [AR]",2M-Monde
-http://andrtviptv11.jan-beryan.giize.com/1383.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Medi-1-TV" tvg-logo="" group-title="08-MAROC [AR]",Medi-1-TV
-http://andrtviptv11.jan-beryan.giize.com/1381.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al-Maghribia" tvg-logo="" group-title="08-MAROC [AR]",Al-Maghribia
-http://andrtviptv11.jan-beryan.giize.com/1384.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tele-Maroc" tvg-logo="" group-title="08-MAROC [AR]",Tele-Maroc
-http://andrtviptv11.jan-beryan.giize.com/1380.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tamazight" tvg-logo="" group-title="08-MAROC [AR]",Tamazight
-http://andrtviptv11.jan-beryan.giize.com/1385.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Arriadia" tvg-logo="" group-title="08-MAROC [AR]",Arriadia
-http://andrtviptv11.jan-beryan.giize.com/1388.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SUD24-TV" tvg-logo="" group-title="08-MAROC [AR]",SUD24-TV
-http://andrtviptv11.jan-beryan.giize.com/1389.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Assadisa" tvg-logo="" group-title="08-MAROC [AR]",Assadisa
-http://andrtviptv11.jan-beryan.giize.com/1387.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Arrabia" tvg-logo="" group-title="08-MAROC [AR]",Arrabia
-http://andrtviptv11.jan-beryan.giize.com/1386.ts
+#EXTINF:-1,|AR| AL AOULA MAROC HD
+http://biloiptv.jan-beryan.giize.com/1912.ts
+#EXTINF:-1,|AR| AL AOULA MAROC
+http://biloiptv.jan-beryan.giize.com/4648.ts
+#EXTINF:-1,|AR| AL MAGHRIBYA MAROC
+http://biloiptv.jan-beryan.giize.com/1934.ts
+#EXTINF:-1,|AR| 2M MONDE
+http://biloiptv.jan-beryan.giize.com/1913.ts
+#EXTINF:-1,|AR| MEDI 1 TV
+http://biloiptv.jan-beryan.giize.com/1909.ts
+#EXTINF:-1,|AR| TELE MAROC
+http://biloiptv.jan-beryan.giize.com/7497.ts
+#EXTINF:-1,|AR| ARRIADIA MAROC
+http://biloiptv.jan-beryan.giize.com/2743.ts
+#EXTINF:-1,|AR| ARRIADIA TNT
+http://biloiptv.jan-beryan.giize.com/11956.ts
+#EXTINF:-1,|AR| ARRIADIA HD LIVE
+http://biloiptv.jan-beryan.giize.com/11937.ts
+#EXTINF:-1,|AR| ASSADISSA
+http://biloiptv.jan-beryan.giize.com/1910.ts
+#EXTINF:-1,|AR| ARRABIAA MAROC
+http://biloiptv.jan-beryan.giize.com/3496.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="http://www.larousse.fr/encyclopedie/data/images/1009452-Drapeau_de_lAlg%C3%A9rie.jpg",=====ALGERIE [AR]========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Samira-Tv" tvg-logo="" group-title="09-ALGERIE [AR]",Samira-Tv
-http://andrtviptv11.jan-beryan.giize.com/1379.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Programme.National" tvg-logo="" group-title="09-ALGERIE [AR]",Programme.National
-http://andrtviptv11.jan-beryan.giize.com/1360.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Canal-Algerie" tvg-logo="" group-title="09-ALGERIE [AR]",Canal-Algerie
-http://andrtviptv11.jan-beryan.giize.com/1361.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Algeria 3" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 3
-http://andrtviptv11.jan-beryan.giize.com/1362.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Algeria 5" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 5
-http://andrtviptv11.jan-beryan.giize.com/1363.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Echorouk TV" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk TV
-http://andrtviptv11.jan-beryan.giize.com/1358.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Echorouk news" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk news
-http://andrtviptv11.jan-beryan.giize.com/1357.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Echorouk Benna" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk Benna
-http://andrtviptv11.jan-beryan.giize.com/1359.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Kbc Algeria" tvg-logo="" group-title="09-ALGERIE [AR]",Kbc Algeria
-http://andrtviptv11.jan-beryan.giize.com/1369.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Eljazairia-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Eljazairia-TV
-http://andrtviptv11.jan-beryan.giize.com/1372.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="EnnahLaki" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahLaki
-http://andrtviptv11.jan-beryan.giize.com/1365.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="EnnahTV" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahTV
-http://andrtviptv11.jan-beryan.giize.com/1364.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Elhaddaf-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Elhaddaf-TV
-http://andrtviptv11.jan-beryan.giize.com/1371.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Elbilad" tvg-logo="" group-title="09-ALGERIE [AR]",Elbilad
-http://andrtviptv11.jan-beryan.giize.com/1370.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Dzair TV" tvg-logo="" group-title="09-ALGERIE [AR]",Dzair TV
-http://andrtviptv11.jan-beryan.giize.com/1368.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Dzai News" tvg-logo="" group-title="09-ALGERIE [AR]",Dzai News
-http://andrtviptv11.jan-beryan.giize.com/1367.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Magharibia-1" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-1
-http://andrtviptv11.jan-beryan.giize.com/1373.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Magharibia-2" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-2
-http://andrtviptv11.jan-beryan.giize.com/1374.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Berbere-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-TV
-http://andrtviptv11.jan-beryan.giize.com/1376.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Berbere-Music" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Music
-http://andrtviptv11.jan-beryan.giize.com/1377.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Berbere-Jeuness" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Jeuness
-http://andrtviptv11.jan-beryan.giize.com/1378.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Beur-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Beur-TV
-http://andrtviptv11.jan-beryan.giize.com/1375.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BAHIA TV" tvg-logo="" group-title="09-ALGERIE [AR]",BAHIA TV
-http://andrtviptv11.jan-beryan.giize.com/1366.ts
+
+#EXTINF:-1,|AR| SAMIRA TV
+http://biloiptv.jan-beryan.giize.com/3372.ts
+#EXTINF:-1,|AR| SAMA TV
+http://biloiptv.jan-beryan.giize.com/3367.ts
+#EXTINF:-1,|AR| ENNAHAR ALGERIE
+http://biloiptv.jan-beryan.giize.com/1931.ts
+#EXTINF:-1,|AR| EL HADDAF
+http://biloiptv.jan-beryan.giize.com/1935.ts
+#EXTINF:-1,|AR| ECHOUROUK TV
+http://biloiptv.jan-beryan.giize.com/1939.ts
+#EXTINF:-1,|AR| ECHOUROUK NEWS
+http://biloiptv.jan-beryan.giize.com/3204.ts
+#EXTINF:-1,|AR| AL DJAZAIRIA
+http://biloiptv.jan-beryan.giize.com/3371.ts
+#EXTINF:-1,|AR| DZAIR TV
+http://biloiptv.jan-beryan.giize.com/3356.ts
+#EXTINF:-1,|AR| DZAIR NEWS
+http://biloiptv.jan-beryan.giize.com/3359.ts
+#EXTINF:-1,|AR| BEUR TV
+http://biloiptv.jan-beryan.giize.com/3358.ts
+#EXTINF:-1,|AR| ALRAI
+http://biloiptv.jan-beryan.giize.com/2261.ts
 
 
 
@@ -568,35 +255,22 @@ http://andrtviptv11.jan-beryan.giize.com/1366.ts
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
 
 
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tonesna" tvg-logo="" group-title="10-TUNISIE [AR]",Tonesna
-http://andrtviptv11.jan-beryan.giize.com/1349.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tunesia 1" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 1
-http://andrtviptv11.jan-beryan.giize.com/1347.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Tunesia 2" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 2
-http://andrtviptv11.jan-beryan.giize.com/1348.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Nessma" tvg-logo="" group-title="10-TUNISIE [AR]",Nessma
-http://andrtviptv11.jan-beryan.giize.com/1352.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Hannibal" tvg-logo="" group-title="10-TUNISIE [AR]",Hannibal
-http://andrtviptv11.jan-beryan.giize.com/1351.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Telvaza" tvg-logo="" group-title="10-TUNISIE [AR]",Telvaza
-http://andrtviptv11.jan-beryan.giize.com/1355.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Zitouna" tvg-logo="" group-title="10-TUNISIE [AR]",Zitouna
-http://andrtviptv11.jan-beryan.giize.com/1353.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="El-HiwEttounsi" tvg-logo="" group-title="10-TUNISIE [AR]",El-HiwEttounsi
-http://andrtviptv11.jan-beryan.giize.com/1350.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Attasiaa" tvg-logo="" group-title="10-TUNISIE [AR]",Attasiaa
-http://andrtviptv11.jan-beryan.giize.com/1354.ts
-
-
+#EXTINF:-1,|AR| TUNISIA 1
+http://biloiptv.jan-beryan.giize.com/2109.ts
+#EXTINF:-1,|AR| TUNISIA 2
+http://biloiptv.jan-beryan.giize.com/2110.ts
+#EXTINF:-1,|AR| NESSMA TV
+http://biloiptv.jan-beryan.giize.com/2112.ts
+#EXTINF:-1,|AR| HANNIBAL
+http://biloiptv.jan-beryan.giize.com/2113.ts
+#EXTINF:-1,|AR| TOUNESNA
+http://biloiptv.jan-beryan.giize.com/2111.ts
+#EXTINF:-1,|AR| El HIWAR ETTOUNSSI
+http://biloiptv.jan-beryan.giize.com/3370.ts
+#EXTINF:-1,|AR| TELEVZA TV
+http://biloiptv.jan-beryan.giize.com/3480.ts
+#EXTINF:-1,|AR| ATTASSI3A TV
+http://biloiptv.jan-beryan.giize.com/3481.ts
 
 
 
