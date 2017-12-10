@@ -4,75 +4,135 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",======NETHERLANDS=======
 http://www.lengua.com/anthems/Netherlands.mp3
 
-#EXTINF:-1,========|||-NEDERLAND-|||========
-http://andrtviptv.jan-beryan.giize.com/399.ts
-#EXTINF:-1,NL:-HBO-1
-http://andrtviptv.jan-beryan.giize.com/337.ts
-#EXTINF:-1,NL:-HBO-2
-http://andrtviptv.jan-beryan.giize.com/338.ts
-#EXTINF:-1,NL:-HBO-3
-http://andrtviptv.jan-beryan.giize.com/1512.ts
-#EXTINF:-1,NL:-NPO-1
-http://andrtviptv.jan-beryan.giize.com/340.ts
-#EXTINF:-1,NL:-NPO-2
-http://andrtviptv.jan-beryan.giize.com/341.ts
-#EXTINF:-1,NL:-NPO-3
-http://andrtviptv.jan-beryan.giize.com/342.ts
-#EXTINF:-1,NL:-RTL-4
-http://andrtviptv.jan-beryan.giize.com/343.ts
-#EXTINF:-1,NL:-RTL-5
-http://andrtviptv.jan-beryan.giize.com/344.ts
-#EXTINF:-1,NL:-SBS-6
-http://andrtviptv.jan-beryan.giize.com/347.ts
-#EXTINF:-1,NL:-RTL-7
-http://andrtviptv.jan-beryan.giize.com/345.ts
-#EXTINF:-1,NL:-RTL-8
-http://andrtviptv.jan-beryan.giize.com/346.ts
-#EXTINF:-1,NL:-SBS9
-http://andrtviptv.jan-beryan.giize.com/348.ts
-#EXTINF:-1,NL:-FOX
-http://andrtviptv.jan-beryan.giize.com/381.ts
-#EXTINF:-1,NL:-FILM-1-ACTION
-http://andrtviptv.jan-beryan.giize.com/353.ts
-#EXTINF:-1,NL:-FILM-1-PREMIER-HD
-http://andrtviptv.jan-beryan.giize.com/351.ts
-#EXTINF:-1,NL:-Film-1-Comedy
-http://andrtviptv.jan-beryan.giize.com/1511.ts
-#EXTINF:-1,NL:-FILM-1-SUNDANCE
-http://andrtviptv.jan-beryan.giize.com/350.ts
-#EXTINF:-1,NL:-FILM-1-COMEDY-KIDS
-http://andrtviptv.jan-beryan.giize.com/352.ts
-#EXTINF:-1,========|||-NEDERLAND-SPORTS-|||========
-http://andrtviptv.jan-beryan.giize.com/410.ts
-#EXTINF:-1,NL:-Ziggo-Sport-Select-HD
-http://andrtviptv.jan-beryan.giize.com/1524.ts
-#EXTINF:-1,NL:-Ziggo-Sport-Extra1
-http://andrtviptv.jan-beryan.giize.com/1520.ts
-#EXTINF:-1,NL:-Ziggo-Sport-Extra2
-http://andrtviptv.jan-beryan.giize.com/1521.ts
-#EXTINF:-1,NL:-Ziggo-Sport-Racing
-http://andrtviptv.jan-beryan.giize.com/1523.ts
-#EXTINF:-1,NL:-Ziggo-Sport-Golf
-http://andrtviptv.jan-beryan.giize.com/1522.ts
-#EXTINF:-1,NL:-FOX-SPORTS-1
-http://andrtviptv.jan-beryan.giize.com/382.ts
-#EXTINF:-1,NL:-FOX-SPORTS-2
-http://andrtviptv.jan-beryan.giize.com/383.ts
-#EXTINF:-1,NL:-FOX-SPORTS-3
-http://andrtviptv.jan-beryan.giize.com/384.ts
-#EXTINF:-1,NL:-Fox-Sports-4
-http://andrtviptv.jan-beryan.giize.com/1517.ts
-#EXTINF:-1,NL:-Fox-Sports-5
-http://andrtviptv.jan-beryan.giize.com/1518.ts
-#EXTINF:-1,NL:-Fox-Sports-6
-http://andrtviptv.jan-beryan.giize.com/1519.ts
-#EXTINF:-1,NL:-Veronica-DisneyXD-HD
-http://andrtviptv.jan-beryan.giize.com/1516.ts
-#EXTINF:-1,NL:_Comedy_Central
-http://andrtviptv.jan-beryan.giize.com/2626.ts
-#EXTINF:-1,NL:_Ziggo_Sport
-http://andrtviptv.jan-beryan.giize.com/2621.ts
-#EXTINF:-1,NL:_ZiggoSport_Voetbal
-http://andrtviptv.jan-beryan.giize.com/2622.ts
-#EXTINF:-1,NL:-NET5
-http://andrtviptv.jan-beryan.giize.com/2590.ts
+#EXTINF:-1,|NL| FOX SPORT 1 HD
+http://biloiptv.jan-beryan.giize.com/2250.ts
+#EXTINF:-1,|NL| FOX SPORT 2 HD
+http://biloiptv.jan-beryan.giize.com/2251.ts
+#EXTINF:-1,|NL| FOX SPORT 3
+http://biloiptv.jan-beryan.giize.com/2252.ts
+#EXTINF:-1,|NL| FOX SPORT 4
+http://biloiptv.jan-beryan.giize.com/2253.ts
+#EXTINF:-1,|NL| FOX SPORT 5
+http://biloiptv.jan-beryan.giize.com/2254.ts
+#EXTINF:-1,|NL| FOX SPORT 6
+http://biloiptv.jan-beryan.giize.com/3602.ts
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT
+http://biloiptv.jan-beryan.giize.com/2475.ts
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
+http://biloiptv.jan-beryan.giize.com/2476.ts
+#EXTINF:-1,|NL| ZIGGO SPORT GOLF
+http://biloiptv.jan-beryan.giize.com/2477.ts
+#EXTINF:-1,|NL| ZIGGO SPORT RACING
+http://biloiptv.jan-beryan.giize.com/2941.ts
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 1
+http://biloiptv.jan-beryan.giize.com/2940.ts
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 2
+http://biloiptv.jan-beryan.giize.com/3263.ts
+#EXTINF:-1,|NL| RTL 4
+http://biloiptv.jan-beryan.giize.com/2039.ts
+#EXTINF:-1,|NL| RTL 8
+http://biloiptv.jan-beryan.giize.com/2036.ts
+#EXTINF:-1,|NL| RTL 5
+http://biloiptv.jan-beryan.giize.com/2038.ts
+#EXTINF:-1,|NL| RTL 7
+http://biloiptv.jan-beryan.giize.com/2037.ts
+#EXTINF:-1,|NL| RTL Z
+http://biloiptv.jan-beryan.giize.com/2035.ts
+#EXTINF:-1,|NL| RTL LOUNGE
+http://biloiptv.jan-beryan.giize.com/4049.ts
+#EXTINF:-1,|NL| NPO 1 HD
+http://biloiptv.jan-beryan.giize.com/4653.ts
+#EXTINF:-1,|NL| NPO 1
+http://biloiptv.jan-beryan.giize.com/2032.ts
+#EXTINF:-1,|NL| NPO 2 HD
+http://biloiptv.jan-beryan.giize.com/4655.ts
+#EXTINF:-1,|NL| NPO 2
+http://biloiptv.jan-beryan.giize.com/2031.ts
+#EXTINF:-1,|NL| NPO 3 HD
+http://biloiptv.jan-beryan.giize.com/4656.ts
+#EXTINF:-1,|NL| NPO 3
+http://biloiptv.jan-beryan.giize.com/2030.ts
+#EXTINF:-1,|NL| NPO 101
+http://biloiptv.jan-beryan.giize.com/4654.ts
+#EXTINF:-1,|NL| NPO POLITIEK
+http://biloiptv.jan-beryan.giize.com/2033.ts
+#EXTINF:-1,|NL| NPO HUMOR TV
+http://biloiptv.jan-beryan.giize.com/2034.ts
+#EXTINF:-1,|NL| NPO ZAPP EXTRA
+http://biloiptv.jan-beryan.giize.com/3276.ts
+#EXTINF:-1,|NL| NET 5
+http://biloiptv.jan-beryan.giize.com/2048.ts
+#EXTINF:-1,|NL| HBO HD
+http://biloiptv.jan-beryan.giize.com/2042.ts
+#EXTINF:-1,|NL| HBO 2
+http://biloiptv.jan-beryan.giize.com/2041.ts
+#EXTINF:-1,|NL| HBO 3
+http://biloiptv.jan-beryan.giize.com/2040.ts
+#EXTINF:-1,|NL| FILM 1 SUNDANCE
+http://biloiptv.jan-beryan.giize.com/2043.ts
+#EXTINF:-1,|NL| FILM 1 SPOTLIGHT
+http://biloiptv.jan-beryan.giize.com/2047.ts
+#EXTINF:-1,|NL| FILM 1 PREMIERE
+http://biloiptv.jan-beryan.giize.com/2044.ts
+#EXTINF:-1,|NL| FILM 1 COMEDY
+http://biloiptv.jan-beryan.giize.com/2045.ts
+#EXTINF:-1,|NL| FILM 1 ACTION
+http://biloiptv.jan-beryan.giize.com/2046.ts
+#EXTINF:-1,|NL| FILM 1 DRAMA
+http://biloiptv.jan-beryan.giize.com/4591.ts
+#EXTINF:-1,|NL| SBS 6
+http://biloiptv.jan-beryan.giize.com/2944.ts
+#EXTINF:-1,|NL| SBS 9
+http://biloiptv.jan-beryan.giize.com/3306.ts
+#EXTINF:-1,|NL| RTV
+http://biloiptv.jan-beryan.giize.com/2945.ts
+#EXTINF:-1,|NL| RTV DRENTHE
+http://biloiptv.jan-beryan.giize.com/4587.ts
+#EXTINF:-1,|NL| OMROEP FRYSLAN TV
+http://biloiptv.jan-beryan.giize.com/2947.ts
+#EXTINF:-1,|NL| OMROEP ZEELAND
+http://biloiptv.jan-beryan.giize.com/3743.ts
+#EXTINF:-1,|NL| OMROEP BRABANT
+http://biloiptv.jan-beryan.giize.com/4589.ts
+#EXTINF:-1,|NL| EEN HD
+http://biloiptv.jan-beryan.giize.com/2948.ts
+#EXTINF:-1,|NL| AT5
+http://biloiptv.jan-beryan.giize.com/3723.ts
+#EXTINF:-1,|NL| CARTOON NETWORK
+http://biloiptv.jan-beryan.giize.com/3888.ts
+#EXTINF:-1,|NL| DISNEY CHANNEL
+http://biloiptv.jan-beryan.giize.com/2949.ts
+#EXTINF:-1,|NL| VERONICA/DISNEY XD
+http://biloiptv.jan-beryan.giize.com/3407.ts
+#EXTINF:-1,|NL| DISCOVERY CHANNEL
+http://biloiptv.jan-beryan.giize.com/2950.ts
+#EXTINF:-1,|NL| DISCOVERY ID
+http://biloiptv.jan-beryan.giize.com/4592.ts
+#EXTINF:-1,|NL| NATIONAL GEOGRAPHIC
+http://biloiptv.jan-beryan.giize.com/3303.ts
+#EXTINF:-1,|NL| CANVAS HD
+http://biloiptv.jan-beryan.giize.com/2943.ts
+#EXTINF:-1,|NL| HISTORY HD
+http://biloiptv.jan-beryan.giize.com/3265.ts
+#EXTINF:-1,|NL| FOX
+http://biloiptv.jan-beryan.giize.com/3266.ts
+#EXTINF:-1,|NL| 13TH STREET NL
+http://biloiptv.jan-beryan.giize.com/3267.ts
+#EXTINF:-1,|NL| TLC
+http://biloiptv.jan-beryan.giize.com/3305.ts
+#EXTINF:-1,|NL| SYFY
+http://biloiptv.jan-beryan.giize.com/3304.ts
+#EXTINF:-1,|NL| COMEDY CENTRAL
+http://biloiptv.jan-beryan.giize.com/3302.ts
+#EXTINF:-1,|NL| COMEDY CENTRAL EXTRA
+http://biloiptv.jan-beryan.giize.com/5105.ts
+#EXTINF:-1,|NL| COMEDY CENTRAL FAMILY
+http://biloiptv.jan-beryan.giize.com/5106.ts
+#EXTINF:-1,|NL| NICKTOONS
+http://biloiptv.jan-beryan.giize.com/3277.ts
+#EXTINF:-1,|NL| NICKELODEON
+http://biloiptv.jan-beryan.giize.com/4112.ts
+#EXTINF:-1,|NL| MTV
+http://biloiptv.jan-beryan.giize.com/3889.ts
+#EXTINF:-1,|NL| 24 KITCHEN
+http://biloiptv.jan-beryan.giize.com/4590.ts
