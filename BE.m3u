@@ -3,35 +3,31 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",======BELGIUM=======
 http://www.lengua.com/anthems/Belgium.mp3
-#EXTINF:-1,BE:-LA-UNE
-http://andrtviptv.jan-beryan.giize.com/377.ts
-#EXTINF:-1,BE:-LA-DEUX
-http://andrtviptv.jan-beryan.giize.com/379.ts
-#EXTINF:-1,BE:-LA-TROIS
-http://andrtviptv.jan-beryan.giize.com/378.ts
-#EXTINF:-1,BE:-2BE-HD
-http://andrtviptv.jan-beryan.giize.com/713.ts
-#EXTINF:-1,BE:-Een
-http://andrtviptv.jan-beryan.giize.com/714.ts
-#EXTINF:-1,BE:-RTL-TVI
-http://andrtviptv.jan-beryan.giize.com/375.ts
-#EXTINF:-1,BE:-PLUG-RTL
-http://andrtviptv.jan-beryan.giize.com/376.ts
-#EXTINF:-1,BE:-CLUB-RTL
-http://andrtviptv.jan-beryan.giize.com/380.ts
-#EXTINF:-1,BE:-Vitaya
-http://andrtviptv.jan-beryan.giize.com/698.ts
-#EXTINF:-1,BE:-Vier
-http://andrtviptv.jan-beryan.giize.com/697.ts
-#EXTINF:-1,BE:_TV_OOST
-http://andrtviptv.jan-beryan.giize.com/3711.ts
-#EXTINF:-1,BE:_TVL
-http://andrtviptv.jan-beryan.giize.com/3710.ts
-#EXTINF:-1,BE:_Telesambre
-http://andrtviptv.jan-beryan.giize.com/3709.ts
-#EXTINF:-1,BE:_NRJ_Hits_TV
-http://andrtviptv.jan-beryan.giize.com/3708.ts
-#EXTINF:-1,BE:_Notele
-http://andrtviptv.jan-beryan.giize.com/3707.ts
-#EXTINF:-1,BE:_ATV
-http://andrtviptv.jan-beryan.giize.com/3706.ts
+#EXTINF:-1,|BE| AB3
+http://biloiptv.jan-beryan.giize.com/3679.ts
+#EXTINF:-1,|BE| VOO SPORT 1
+http://biloiptv.jan-beryan.giize.com/3011.ts
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+http://biloiptv.jan-beryan.giize.com/3718.ts
+#EXTINF:-1,|BE| RTL TVI HD
+http://biloiptv.jan-beryan.giize.com/2189.ts
+#EXTINF:-1,|BE| PLUG RTL
+http://biloiptv.jan-beryan.giize.com/2190.ts
+#EXTINF:-1,|BE| LA UNE HD
+http://biloiptv.jan-beryan.giize.com/2191.ts
+#EXTINF:-1,|BE| LA TROIS
+http://biloiptv.jan-beryan.giize.com/2192.ts
+#EXTINF:-1,|BE| LA DEUX
+http://biloiptv.jan-beryan.giize.com/2193.ts
+#EXTINF:-1,|BE| CLUB RTL
+http://biloiptv.jan-beryan.giize.com/2188.ts
+#EXTINF:-1,|BE| VIJF
+http://biloiptv.jan-beryan.giize.com/3010.ts
+#EXTINF:-1,|BE| VTM
+http://biloiptv.jan-beryan.giize.com/3737.ts
+#EXTINF:-1,|BE| VIER HD
+http://biloiptv.jan-beryan.giize.com/3738.ts
+#EXTINF:-1,|BE| BE SERIE
+http://biloiptv.jan-beryan.giize.com/3173.ts
+#EXTINF:-1,|BE| BE CINE
+http://biloiptv.jan-beryan.giize.com/3174.ts
