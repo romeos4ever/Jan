@@ -160,64 +160,187 @@ http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1318.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Al oula HD
 http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1316.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN  Ya Hala! SHABAB HD
+http://217.160.107.173:25461/live/appsp/lispve02/3131.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN Disney Junior
+http://217.160.107.173:25461/live/appsp/lispve02/3130.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN ITV Choice
+http://217.160.107.173:25461/live/appsp/lispve02/3129.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN MOVIE COMEDY HD
+http://217.160.107.173:25461/live/appsp/lispve02/3128.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+http://217.160.107.173:25461/live/appsp/lispve02/3127.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN Movies Drama
+http://217.160.107.173:25461/live/appsp/lispve02/3126.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+http://217.160.107.173:25461/live/appsp/lispve02/3125.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,OSN Box OFFICE 3-HD
+http://217.160.107.173:25461/live/appsp/lispve02/3148.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR : OSN CRICKET HD
+http://217.160.107.173:25461/live/appsp/lispve02/3149.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN BBC First
+http://217.160.107.173:25461/live/appsp/lispve02/3233.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN CNN
+http://217.160.107.173:25461/live/appsp/lispve02/3210.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Discovery Family HD
+http://217.160.107.173:25461/live/appsp/lispve02/3151.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Discovery HD
+http://217.160.107.173:25461/live/appsp/lispve02/3186.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Discovery ID HD
+http://217.160.107.173:25461/live/appsp/lispve02/3185.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Discovery Science HD
+http://217.160.107.173:25461/live/appsp/lispve02/3184.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Disney Channel HD
+http://217.160.107.173:25461/live/appsp/lispve02/3240.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Disney HD
+http://217.160.107.173:25461/live/appsp/lispve02/3183.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Disney Junior
+http://217.160.107.173:25461/live/appsp/lispve02/3182.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Disney XD
+http://217.160.107.173:25461/live/appsp/lispve02/3181.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN DOCU BOX HD
+http://217.160.107.173:25461/live/appsp/lispve02/3209.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN FAST AND FUN BOX HD
+http://217.160.107.173:25461/live/appsp/lispve02/3208.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Fox News
+http://217.160.107.173:25461/live/appsp/lispve02/3163.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN HISTORY 2
+http://217.160.107.173:25461/live/appsp/lispve02/3207.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies 2 HD
+http://217.160.107.173:25461/live/appsp/lispve02/3180.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Action 2
+http://217.160.107.173:25461/live/appsp/lispve02/3179.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Action HD
+http://217.160.107.173:25461/live/appsp/lispve02/3178.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Comedy HD
+http://217.160.107.173:25461/live/appsp/lispve02/3177.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN MOVIES DRAMA 2
+http://217.160.107.173:25461/live/appsp/lispve02/3176.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Drama HD
+http://217.160.107.173:25461/live/appsp/lispve02/3175.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Family HD
+http://217.160.107.173:25461/live/appsp/lispve02/3174.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Festival HD
+http://217.160.107.173:25461/live/appsp/lispve02/3173.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies HD
+http://217.160.107.173:25461/live/appsp/lispve02/3172.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Kids HD
+http://217.160.107.173:25461/live/appsp/lispve02/3171.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Prem 2
+http://217.160.107.173:25461/live/appsp/lispve02/3170.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Movies Priemer HD
+http://217.160.107.173:25461/live/appsp/lispve02/3169.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN National Geo HD
+http://217.160.107.173:25461/live/appsp/lispve02/3168.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN National Geo People HD
+http://217.160.107.173:25461/live/appsp/lispve02/3167.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN National Geo Wild HD
+http://217.160.107.173:25461/live/appsp/lispve02/3152.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN NEWS HD
+http://217.160.107.173:25461/live/appsp/lispve02/3239.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Ten Cricket
+http://217.160.107.173:25461/live/appsp/lispve02/3234.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN Travel Channel HD
+http://217.160.107.173:25461/live/appsp/lispve02/3150.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: OSN YAHALA HD 2
+http://217.160.107.173:25461/live/appsp/lispve02/3206.ts
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,L.BEIN:SERIE.1.HD
-http://andrtviptv.jan-beryan.giize.com/6407.ts
-#EXTINF:-1,L.BEIN:FOX.MOVIES.HD
-http://andrtviptv.jan-beryan.giize.com/6404.ts
-#EXTINF:-1,L.BEIN:FATAFEAT.HD
-http://andrtviptv.jan-beryan.giize.com/6402.ts
-#EXTINF:-1,L.BEIN:DREAMWORKS.HD
-http://andrtviptv.jan-beryan.giize.com/6401.ts
-#EXTINF:-1,L.BEIN:BEIN.GURME
-http://andrtviptv.jan-beryan.giize.com/6403.ts
-#EXTINF:-1,L.BEIN.STAR.WORLD.HD
-http://andrtviptv.jan-beryan.giize.com/6400.ts
-#EXTINF:-1,L.BEIN.STAR.MOVIES.HD
-http://andrtviptv.jan-beryan.giize.com/6395.ts
-#EXTINF:-1,L.BEIN.OUTDOOR.HD
-http://andrtviptv.jan-beryan.giize.com/6417.ts
-#EXTINF:-1,L.BEIN.Nat.Geo.Wild.HD
-http://andrtviptv.jan-beryan.giize.com/6415.ts
-#EXTINF:-1,L.BEIN.JEEM.HD
-http://andrtviptv.jan-beryan.giize.com/6416.ts
-#EXTINF:-1,L.BEIN.FOX.HD
-http://andrtviptv.jan-beryan.giize.com/6414.ts
-#EXTINF:-1,L.BEIN.DISCOVRY.KIDS
-http://andrtviptv.jan-beryan.giize.com/6398.ts
-#EXTINF:-1,L.BEIN.Discovery.Sc.HD
-http://andrtviptv.jan-beryan.giize.com/6413.ts
-#EXTINF:-1,L.BEIN.Discovery.MAX.HD
-http://andrtviptv.jan-beryan.giize.com/6412.ts
-#EXTINF:-1,L.BEIN.DISCOVERY.LIFE.HD
-http://andrtviptv.jan-beryan.giize.com/6410.ts
-#EXTINF:-1,L.BEIN.BOX.OFFICE.HD
-http://andrtviptv.jan-beryan.giize.com/6409.ts
-#EXTINF:-1,L.BEIN.BOOMERANG
-http://andrtviptv.jan-beryan.giize.com/6397.ts
-#EXTINF:-1,L.BEIN.BE.JUNIOR
-http://andrtviptv.jan-beryan.giize.com/6396.ts
-#EXTINF:-1,L.BEIN.BARAEM.HD
-http://andrtviptv.jan-beryan.giize.com/6408.ts
-#EXTINF:-1,L.BEIN.Animal.Planet.HD
-http://andrtviptv.jan-beryan.giize.com/6411.ts
-#EXTINF:-1,L.BEIN.AMC.HD
-http://andrtviptv.jan-beryan.giize.com/6406.ts
-#EXTINF:-1,L.BEIN-NAT GEO PEAPLE
-http://andrtviptv.jan-beryan.giize.com/6399.ts
-#EXTINF:-1,L.BEIN-BABY.TV.HD
-http://andrtviptv.jan-beryan.giize.com/6405.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-1-HD
-http://andrtviptv.jan-beryan.giize.com/43.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-2-HD
-http://andrtviptv.jan-beryan.giize.com/44.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-3-HD
-http://andrtviptv.jan-beryan.giize.com/45.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-4-HD
-http://andrtviptv.jan-beryan.giize.com/46.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein AMC HD
+http://217.160.107.173:25461/live/appsp/lispve02/3221.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Baby HD
+http://217.160.107.173:25461/live/appsp/lispve02/3220.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Baraem
+http://217.160.107.173:25461/live/appsp/lispve02/3219.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Dlife HD
+http://217.160.107.173:25461/live/appsp/lispve02/3218.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Dreamwork HD
+http://217.160.107.173:25461/live/appsp/lispve02/3217.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Extreme Sport HD
+http://217.160.107.173:25461/live/appsp/lispve02/3216.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Fatafeat HD
+http://217.160.107.173:25461/live/appsp/lispve02/3215.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein FOX HD
+http://217.160.107.173:25461/live/appsp/lispve02/3214.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Fox Movies HD
+http://217.160.107.173:25461/live/appsp/lispve02/3213.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Jeem HD
+http://217.160.107.173:25461/live/appsp/lispve02/3212.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein Junior HD
+http://217.160.107.173:25461/live/appsp/lispve02/3211.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: BeIN Movies 1HD
+http://217.160.107.173:25461/live/appsp/lispve02/3193.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: BeIN Movies 2HD
+http://217.160.107.173:25461/live/appsp/lispve02/3192.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: BeIN Movies 3HD
+http://217.160.107.173:25461/live/appsp/lispve02/3191.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: BeIN Movies 4HD
+http://217.160.107.173:25461/live/appsp/lispve02/3190.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: Bein NBA HD
+http://217.160.107.173:25461/live/appsp/lispve02/3223.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.56.100
+#EXTINF:-1,VIP AR: beIN Series 1 HD
+http://217.160.107.173:25461/live/appsp/lispve02/840.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://andrtviptv11.jan-beryan.giize.com/1473.ts
