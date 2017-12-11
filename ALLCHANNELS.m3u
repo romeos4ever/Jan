@@ -1,189 +1,196 @@
 
 
-#EXTINF:-1 tvg-logo="https://taiz-press.com/user_images/thumbs/06-11-17-54792397.jpg",=======MBC [AR]=========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+#EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
+http://andrtviptv11.jan-beryan.giize.com/1278.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
+http://andrtviptv11.jan-beryan.giize.com/1279.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
+http://andrtviptv11.jan-beryan.giize.com/1280.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
+http://andrtviptv11.jan-beryan.giize.com/1281.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
+http://andrtviptv11.jan-beryan.giize.com/1283.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
+http://andrtviptv11.jan-beryan.giize.com/1282.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
+http://andrtviptv11.jan-beryan.giize.com/1286.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
+http://andrtviptv11.jan-beryan.giize.com/1287.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
+http://andrtviptv11.jan-beryan.giize.com/1289.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
+http://andrtviptv11.jan-beryan.giize.com/1284.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
+http://andrtviptv11.jan-beryan.giize.com/1285.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
+http://andrtviptv11.jan-beryan.giize.com/1292.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
+http://andrtviptv11.jan-beryan.giize.com/1290.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
+http://andrtviptv11.jan-beryan.giize.com/1291.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
+http://andrtviptv11.jan-beryan.giize.com/1288.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
+http://andrtviptv11.jan-beryan.giize.com/1296.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
+http://andrtviptv11.jan-beryan.giize.com/1295.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
+http://andrtviptv11.jan-beryan.giize.com/1294.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
+http://andrtviptv11.jan-beryan.giize.com/1293.ts
 
-#EXTINF:-1,|AR| MBC1
-http://biloiptv.jan-beryan.giize.com/1853.ts
-#EXTINF:-1,|AR| MBC 2
-http://biloiptv.jan-beryan.giize.com/1854.ts
-#EXTINF:-1,|AR| MBC 3
-http://biloiptv.jan-beryan.giize.com/1855.ts
-#EXTINF:-1,|AR| MBC 4
-http://biloiptv.jan-beryan.giize.com/1856.ts
-#EXTINF:-1,|AR| MBC MAX
-http://biloiptv.jan-beryan.giize.com/1857.ts
-#EXTINF:-1,|AR| MBC ACTION
-http://biloiptv.jan-beryan.giize.com/1862.ts
-#EXTINF:-1,|AR| MBC DRAMA
-http://biloiptv.jan-beryan.giize.com/1860.ts
-#EXTINF:-1,|AR| MBC MASR
-http://biloiptv.jan-beryan.giize.com/1858.ts
-#EXTINF:-1,|AR| MBC MASR 2
-http://biloiptv.jan-beryan.giize.com/1859.ts
-#EXTINF:-1,|AR| MBC PROSPORTS 1
-http://biloiptv.jan-beryan.giize.com/1997.ts
-#EXTINF:-1,|AR| MBC PROSPORTS 2
-http://biloiptv.jan-beryan.giize.com/1998.ts
-#EXTINF:-1,|AR| MBC PROSPORTS 3
-http://biloiptv.jan-beryan.giize.com/1999.ts
-#EXTINF:-1,|AR|  MBC PROSPORTS 4
-http://biloiptv.jan-beryan.giize.com/3067.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 2
-http://biloiptv.jan-beryan.giize.com/2529.ts
-#EXTINF:-1,|AR| MBC BOLLYWOOD
-http://biloiptv.jan-beryan.giize.com/1861.ts
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN  [AR]=========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/48822_images.jpg", Discovery Science HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwW23QjAAAOAf1HGs2YwPfdDMWyep5hbfrlxkXKHITj%2b%2b5xHH%2b7Nib61Waf%2f7go%2fYT9kuDBlnyDk020lQkml42Vo19DmRojmvg0L%2fu3YgUuv1JRuthVzvKVUvSX5koGpi1xBxng1y4qPAYd5AMF6LFakeWJ6W4QxS%2b9XzJ09qBA9wPbcm7ZfVNHjNKvphrVbuboE%2bHStY7nVy6BJCX7ASwczow%2fO7OOoDMXG%2fnW%2fCWLAXelH6XxS2TPAkm1hClDR9WG42H8%2fjSmqABFRdOpZW%2fMEEUgo1TSGOZSiIIKCYOkIKwLpJbMy2yASfQjshp7tb%2fZnZ%2b25641AzkrbLM%2fnM%2bU4G4VB5ruq47jxuvhpwVR07AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/54584_imgres.jpg", Nat Geo HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwVG3QjAAAOAfdI9zh43twYMsRiRRdN8olGgWok4%2f%2fn4f2QtWjULOVbHN8g4ndLyWNJqvKWN8d1bGoNYrk2H%2boZ%2fh3S7LKj6465me%2fY4OoBBtWiamErR0bAVqfHuwsCOLxp28%2b%2b1YOmkGx9kv3D6Zw%2bNZRVoch8nfbvVqs2khp%2bl1k1EZhOatYiOR%2b82%2b7tG7q6NEjTnI8qEKwh%2fbnmsfb07HGJmNB3bL4qlsskpHwNbhaVr8buso5syWh6Z4PrxIqQ3jyxGWL2EOueq%2bn%2fuL%2b0W6YlmKqkq6bWIJ6hBIRINQAkgjOkXrFSTgSzb%2b3Tr0j1lvRLRoWdcrGJiG8Q8lWmMiJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/82788_images.jpg", Discovery ID HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP6hgJIfLggYhemUpbK96qFbalaOlifPye8%2fD8HFT3fY3OdW3%2blDma2pQlQ7VNiORdnkC9lZK8OvqB%2bYp90Gq8ZU%2b2w55vxRgLRsf%2bsY%2bsSzuLnsd9ZNWwX6sZnu6w6Tc5PSQGGY5P41GyE8U41OTvvKWfiaVThEbfHWkSTJdAZG8UfpEqay7JZXvNKtbtWsKZUN%2fnTSFfwAxuQ1A08CtulON55mnZFWtQHA9fkYYddKO4cRxQoiGJbHuR0K8ECDen9m%2fvVExbDKxRqum6gn3HUhBGQCEmQgowTII9g7mIgCU%2bXMvOu%2fI8NAXVAXB1MbqFbf8D6hObDScBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/73991_imgres.jpg", Animal Planet HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhgCZCEHDxKhIkgLFM3kZkAobiDKlvHj%2b15eaPIyqM3WS%2fpHHURZLt%2fkxNXtHIaHWXUNOzzEFLu9KFE80ECriWl2lDpnNoLOVs6vPIqT%2fIZRwOss8rb3QdRZVaZLfJkHs41l8ndNDcMRkwvGnMlHmNDmZtQFCndYzKkr04g4fn7zj68M%2fZiOtZ9H7WlpL%2f5WFCfXnQnatbCV%2beQQQVymna8lGFpOWbWQGEEE%2b6pICOA9pk1ptsmdTavVp0%2f3baRz7n7xBqSB%2fUHEYsyybZ34a0eHBAKdYgh1gDAlG%2bS5kILPgiIlX0yJAntBIysyuZhKVp4rFU75aJFlKLX3drnQ%2feofKVXkHDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/48878_images.png", Osn Movies Drama HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANykmSgjAAAMAHTVFsCcjBQwApxRDZBW8IAkIim46G8vEzfW6Ind9HuLpSxgpkUpoE5afy87p3xXiDSEpCsT6ZCWfLOyTDvunIkRtBQi8t5T%2fPmZYHcJ78qfQvAB9xU%2fTq4jHZ9%2bRk6UbWUPWgSU49Pzb4hq51VPvDo2v%2f1xOvFh6Xl3anOuvf9b740PUyHx07pYxHVv4r%2bd1nF8Rt7Gbc4OYLD6PXdgo5s%2bAlohJG4llFSY448W0s521bKYN8z3q86MF2%2b2WgmGzUGSRkqhvOuy%2fUFctSVFXQHbQRgA4kwdAAECSoGboNdyYwpK91nTSYKTerWp88r%2bZTAsfIsyFN9Xu6XKWahPLUxFr9Bts%2fQjQONjsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/38942_imgres.jpg", ON Demande ExtraHD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANz8lygjAAANAPyjBlSYIcPAglYSkDEja9CbKIKEEMVMePb98fvKuX5Ne9cxAn5nO11y1gteNguhpLcFaOX30MWHbxcnUZy3AYaRsq5wcxWFfEbZV03hivXjB0fTLdUh5DKtDDPrQprOe%2bwiZINLlZVmcFajbeBZmbm8fSrjtdXiotiPPCe9ufmmi5t3LBJmvxo6Mb%2f9I8jCtPxiZSNCVKAuZT9ix%2b0Cl4E6GcVeMyyf6jr8t9plX0HQB6XrIACB9tatfmcLfdfqy551X4vI2KOxzraPdBumpZqqZJOtltJKhDWTIwhJKMsKF%2fI9uEhvyZD3Vqlrwm%2f4uS8A5PK4waCL8ANUSu883bQXcB8PFZbf8ApAJnCDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/63753_imgres.png", Osn ON Demande HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchgiZiEHDyxCQRYDrZVcOmE0CIoUEATGj%2fc9IRL%2f6mHnnks5n7Oqx5e2XId5nY9xUnTgUNbxA0l5TCv%2b5DfXMdpeZHbknaGVVgdOBuCEt5UJryxbyXj9Nfoggv%2biT%2fUEqMbSLkPsmYWVowDrXHus6orZUYDVuWPBc2pJhtShFC%2fHHTWXh7kBX3U6Oybl8nc5jWq6C4RYNLUHahpjN9B4yS6gnRsQrUNZTpwhzuSy8Rm1H%2fvG7sTxBIzt9s10%2bkfcu8xIMeYTbd6IaJalbTYKcQxdgQQChWIIFYAwJTbamZCCt373i%2b%2fp2HuzTlGePq94dzlb%2b45ZjXAZJvFpiEQ0JT%2fE234ANRS2bTsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/36308_imgres.png", Movies Action2 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqw1zAUPPQiVOSjl2pukhpF7hdXHn73h6sHrzs2y3Hmx98wXNOuSc2zaOjLyLxuhXXJjGNFhuX3nwZRGV0%2fOXro3NO8xqw46Gbkyd4v9pqWbViCToHWPYgjOQoFAwWT%2bHSKUAkKu7ZC05zVYinzZMp1hTZCLmqV0QMRVIfWmT%2bA%2fg46EkTDJUqz03fxpR%2f9gHntLi%2b2Ra9ShF2OlfRJy9Q8zFl6TSe6zph%2bOqxMI%2fMSpX0uk%2fuibze%2b29%2bNJLMewmF7y8rB%2bWJENQ4ZQVHa6KiIFAVEjCIkAE00xsbVFGvgRyropWePiEmUhZ02Do201kh22y4OXu260VKZ%2fq%2b7m%2frn5BwLUoTY7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/59495_imgres.jpg", Movies ActionHD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHUZQBEmIOHAgyClJhEBTJjUVB2ZRlkJSPn%2b6R33sQOuDGlup8slY%2b9HPxcJtSuXIGdZbUAyTdsdyY9aUjyUyGM7n%2ffZYkeUSTSJuxDV16iLfNaSNCmB9i98PLG97A9B3DZ7ETTieh7KTgaQlAtbIP61vGRPJCYb231yMq8lydlSDGbAnEVWq5twS2F7081%2b9ETaOCL8nheampKu0LlkolDDmzJG%2f0p9lUUFlFjoOL31XSWIymgdLGC03D%2bEZ9hsBun0W%2bnjXYRF%2bEVctSNU3GP%2bZWhhgCmegQygDpBO%2bQTSEB3%2f7q%2b5dYE%2fmt71T6qnD7foylYfwDivHzBCcBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/18713_imgres.png", Movies HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSgiAAANAPapxMEfLBB1FovZuhXd5qdZ0sMwkNHT9%2bz%2bFNiPIimknyjuHhyzv5El8sO5xfttDd4XKa4%2fp%2brzsJ0nUyp4dq2ElT%2bz2lA%2f%2bgLMmedyYEGYntyd7uGQ%2fPRnfbBLQhXpQWOiHnSY5RI65ioN0zoLvWly7zDNt8%2b%2bM0pLLUE63cXtNK5%2fsbbhu%2b%2fjuevGLDXhyyPsZt9p3PJc8DQTP1yUvQfdy2OiZJDHy6wgfm1k7D%2fQvl%2fcqGGyTI3ras5RE1RRvWc%2f6G6Oj05mIgzXE0XVcQtbcKQEBVTAiAohrQRK5BMDDVRYt5MD6iaRYhe%2f0Yn8rr%2bVBb1j9jBOSMJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/39215_imgres.png", Movies Premiere HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANyMdygkAAANAPyjBSli0HD1TpiIIQbpQgTVYYCKvjxyfv%2bPAiAHm%2fJF5gTUTb50NgYL52WdStucto6G49nLMpG4pHGegrXZ26S5NbhGMNUbE8757ZxHkRpVeHPB%2fgmZ5tVS%2f79NkrYbn4D3AY8%2b5CIzfnrYF5kiC9zi0t%2bH6EjpgqOLFcxfiuoHC1WT19UVgT2GwFL8btaccrFlZGhYCVdkxe0xbmKJnof8p1EjarkPpel1hVEkA9GiP03tY7s7%2fY%2fXj83NL3DCr1x1erpqeZ%2fZGRqGmiJHHIVDAHEOA5AgHgeBkSpMuGCgj%2fWQIkmYuKlvGyg9YpTEzp%2fCu2GsGnzHIqNRru%2b9AYHvOPf0KyRaY7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/73106_of1.png", BOXOffice 1 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPOsviMIx58DBqUIkh9zdH01TiRC5l%2bfj2turgL0%2bu2e1A46leHr0IBpbqsam%2bWldvJu0QceqFlsfTSzf7bNen%2fB3pZRXexKS%2b2EF7GMlUpMf8fMOD63cWzdAGL%2fy%2bZ4BFtG2ziZgLcryw%2bZEGsigPbCf3vYq1O7PD3%2bnpvBy3IE9LLlN%2bhnLnwthWKwxsqnxgvJyi1iFkO%2b5yZhbiA5Rt1I3N9jn7Cu%2fjiaIwyeKa%2f0PxXF1H%2bOFmfsSGsRZzT3hlN%2bPI8tkvT6sK5c1GVhQBWlgXAASSgDQABEnVENyqxARIWod331SBxyO3VxDA3tUUdRoYxhe3x%2be3JwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/95337_of2.png", BOXOffice 2 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSgiAAANAP2nG08PrgQ6hFmC6mmfXWtorjhUgzkenjOyfgxghXeUrLsQIJS4b9JbrSbqfm6BB6WAx3lrIbJ%2fkZlzCe2wXxf3uJ4C0nmZdtB9h1xQuLliDaOv3bPxZxWanSNwacZTefAy%2bnGJlMneaReRYEKMBh40wkhk9Gm2LKVSlHAem%2bI%2bF4se0Hb6oM6PPpbddmSuq2F0OU%2fKCiX7Wy04C9%2fGXF8oL0HvsLPz73UjubvxKc4ikiFU8aLNaz636CQ40v4tXWZKek1fX8May1560BUKztxlZ0S9cUx9R1RTNMx%2fKNAOqO9hlUgeXDWIEdLhtknjYs7PuN634BB8gjyicBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/12987_of3.jpg", BoxOffice 3 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwVG3QjAAAOAftOMQs7UHD%2bza1GnoMsXbRXFvYolKpx9%2fv28YPYomDKLC1J9WBZpoBdZNYOU6bqBYspZtw0aExtTOixnlKZVhHN1VYct3VE29MqQ7sorE9Ox5vTjvgPp5tUwtyXUu%2fDKgZl9fDioApTumW5d9%2b%2bebeTpWhp50D91e5rTgt5jwJEiXee3np799Ro7HCV1GsKnbi7xyWVdt9GupQsJ8MHcNFWgaaq%2ftY7AiXcB3dRAqf5M9tyHL7W9yfXeN43zwjZfqzi324GU2a93HxialpmVpmLlrDWJoaARBqBk2IvjL9j1IjI8nxJAdEOYdmuZXJcUhTe57x%2fkHW8WSnicBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/47163_imgres.jpg", History
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwUuOgjAAANADESKWQumCBVKECvLJSEV3g8U4FIEqUGI8%2fLxXFNWWi1V8%2bNIugNcoORubSzy24y%2flSUdGEdFisI%2fglN%2bqWm6s%2bdWzYMXgYJ3irSBhZdOiZf3eiLNp6h43tQHgp4Wh5LyE0186UBrhI5rixo9ycImvdzU%2f%2fUbIMPPjNWy0ocz9qINpd1C0EovNjFRF5duJ0Mzvd15ps2yzZXs2JQniT9L3T6xFV1JCMbzfYL4kQ4bkwjzTw2s9suYliHLd781p0kdJUuZU0ntk5tdCwPeBaepo7zk6RNDQsQ2hblg2RsQKdhAbX5mDWrBaafmT01cTqO6zGz3X%2fQez6da2JwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/24662_download.png", YA Hala Cinema
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwctygjAUANAP6jAESIC7YEF4aeRZa1R2UEFRISIFkfHje0539C%2fjsWB6tkVRPQfpuwv4W5h5in64f14Fca0W9tL7YDcVeIfr4DzyZFsp7Xz4UzR4gi94ki14tyUF64Jz0UTTntYxozF5VvIj6DF%2byb9sYnHNbvo0M%2fF6U4Vng7es7hzIqr2cUu%2bl2V93Hcs2RmKGQc77xRHMHDkvBQpPk4v2qbOOIy8Mq79ymI8dKaM6CVwxt1B6NNvEHYws0Xotv54t61M2zX3sfVO6PWFaQ%2f8hhuo4qqZJhm%2bbEjYwkkDHWEJEB8MlHsWAPpuRIiU80O9WhXJXsSmt3SyzrH%2bCD5ZGJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/81407_imgres.png", OSN YH Shabab HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHWRSBBEgOHoyYhEUZRGS5AW5EHJEBQcrHT7fL%2fgrwSdOCDB2s3lvxaiQ6ZjSPMPACNif%2boTBG4VJYk9XsTX6oYmty4%2f3Q13UpdqbEPbLTA31kyRCIscFBLik6xuZODRyZ%2f9UJoG8fxLtrjxN2jgTF9E5uc9nZxZn0YuRALnIgeNEIvj2wUfYXJ%2fCkL36yMsnn%2fcZ8%2f27C8sYqXQiDdk%2f7cfLaym0iJzoXWcBhON010KsxpwK2urMl43L5lc8r0SzK6fDq94%2f6%2bjUsfb3WIVQstsIKshBQiImQAgyTWLaxoYiAb2o47rpy20xql9Oic%2bDd45q6YmYwpWqbOJjVesfMQf%2bEy3%2fYIogEOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/86368_imgres.png", OSN Ya Hala Drama HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwd12giAAAOAH2vEIipAXXZDSj%2bZSckreudItNdEhZZ0eft9nNkL%2fiFMM%2fURGfia3dR7fK48Wa8XmkxXC4YtjfUkYyB3RBqxWTksI%2fNYOY%2fvYTTdgZvQ4Qz11YiCf2cr6O98fAHaFtYIUedGkAC%2fznV8UByz4R1Q9%2b8vWOwAGqDcmz6p01mFZ4Aa12VGOTxo0%2fu5kEj7OYxbePVwHUAd5P0B4s2J13V%2fhQsjDjZk59sdoEOVmouyc4pa1qavqPmAifCyX7%2fS14xHHfc7tY9tp9naI5XmWbRtkTRcGIggYLkbIAA52ie%2bwFXLB%2b3OSNqzTsO%2bAW9U60Wpuek3470AkeZm2LJAAKsXywZb%2fQfvGJTsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/48851_imgres.jpg", OSN Ya Hala HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqaRi8iDB0JWrU7TrbZ4w25XidYUdZl%2bfM%2fJykOvbVFV3cSVMKicZH2FsvsF0kkFPH8LN3CTltThMx%2frgB5ZXYIMsPnyULsFltauXWOz2q%2bom1OytnGgNghDogzZ7aFKerl1M23sm4ebWdrJWMKkKv%2fZvd6QiTePs%2fBFRGRLJ%2bCywfHzYUjz%2bIcSGYR%2fTibQ2OIgf0VjpLVd%2f1wMyjfFIE%2briKPKj%2boXP2TLBc1e481YM%2b6guIK7lJNtvz1rn9T9NMUTytWRBG9CIecQIZ0Kx9IxxUBnJsY6ICajHvFdzMCb37jykGWOKSqjKh%2bK4xcID7b9AaAGMWUnAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/453_88805_imgres.jpg", OSN Starworld HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHUZQMBEIOHkgAjSLFoixHlTUJoIKDUD7ebigFt087B13xAAZ3Xqfax8j807N5ZmC1w41KrMa3sQf7sqhh1CwjG3zfcF1htS8ytLjal8IOhKMhO4jXvEr5s3CTZFhYj3iDLqi%2bjq2qMJ3S8h48ODBzdisMICirzE3Uxcd3yCO9IyYsPATe3nmP84NjPsE9m4QWFms%2fnoDaZ%2bmaIKlWr%2f%2fTdEymiuzS2aTYy6KkFjtWpVRxqAqaE8fWdvttXpUd43h86LSjZz5%2bdagSomqaDF3LlAEEiowMAGRFNxC0dQcDpHzPQinxNH3YbZmHeAmtmizHWqJ%2b3mBWkLc4hMlqNEEsXbY%2fEiehqDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/46789_download.png", OSN StarMovie HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwVG3QjAAAOAfdI%2fT2oY89FBDMcZYijdx0kJyI5fTj7%2ffR2ieiZ7f7UcTSagyPGehv%2foTvhO8SDfUzMerdhY5OdZ9DHbxO43110KuWrOHAYW89%2bToXd4eysxuCQJE6WUQf7Icark2i6R5nA1%2fw9NjX818fFiy6k4ev8Zyid9%2bIdRXWd0Tss4xPsKnVThny2G39JBPSyWJFm2uPWKL%2fKw%2bVRmlEarbkALMsPGEh1%2fVdedUCgLtyQ3NZAhPo30jjYvRtN1%2byRzANgNoFOsuksPhq%2bqQEIiQotu7jYJ1DBRDw1gBqmbopmrtsQG%2bl7vW3qyEfwpM2QQJTDxvV9K5zpwaszMwf%2bDS0szQA779B8DeBWQ7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/43499_download.png", OSN Cinema1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchhjSAw5cCCAS0tYlYI3AgKigCValvHj%2bx65ZSVPmnJz9QLwYHa5R2D3NxOt7nAnZsetWeacNMcb043MQ6SBUxCQ4%2fptLdfZGbyD209BTHo%2fW1ZQrpr4lRuVxmDGh%2bnHBvVBODA6rdXvyifZ%2bIVxDzp09Nv67o5Nu5Fx8DCNaXDj%2bNmtabsrY3Yu4gxGh6Gv6uRq7UMjzaP9uQeCnusFt9OzgEVVeji68CZnnDq2G0H8211udiVnqXl81PWPeC7hnR8D9lLlKyiTDybQNKGqKmRnaAoiCCh0i5AC8JYSC9sMUfDx3VRAkVAh07eZRLwYt51V6fo%2fca6dQicBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/87714_download.png", OSN Cinema2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwUtygjAAANADdZghmA9ZsFAQgjYJKCmWHWJBMFAo8hnHw%2fe94VD8rXraxUd8Zs%2fCW%2fxkrsSkRPV7355vAMBQFkqoqJkWz%2frhknDeXsNE8IQ0NDHDj9oTEsYTULl0C75h4oSbqXNX23Z9s6Yl69qWDrqGTZxmbozGOjTLvh2oGlYPj2vPpaksftPJKX8o8UyTJbyTL3Z7dJ%2buvEZTKQOvj5qn5Lt9mo1DEEeYz6i723x8HbNDk1U499Np5pid5lcQ9JXjvGMANFsC3wYI7Y1j%2bUbEcl1rszGIv7UNSKBpUAyhYSJMiYf2O0jN96DbbHzpLUMIZLZevn8vl3xxnH%2bfNDH8JwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/27457_x.jpg", Bein Movies 1 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANzNu2QkAAANAPallhhjEPPZgkl8mtxqWXs6hDERIKq48%2fZ3%2fANunJA3Q3AeqU%2fV4tw1VkW20DzSQS6E4oPvZARKg5rr4a3eU5u1LnZPuDMdX13M6vR%2f2L0qnX%2fTZ1bP%2bStELee4rqdufKPJpKdRtV%2bc4LQ8cCjBd2CDMAnt3FXu5Vqg3d3BMcVRbfSyKCucGb6ekmF9vyaDLNYhaoM%2fNkNHmj9wzIK%2brZfng%2fwuU6DjFrIkwsRf4%2flDDRSTC9sviqGFEi%2bf5m8w3TQg9ehXZAP0XheOlXQuJ2KwLAIV1VOIggz2EZQo6XZIw0aUcg5r%2bf%2bE0uD1DOCg2HN6MkHiDNwVl%2fJ%2btsHcDRmJf1FfGVqG7%2bAO6tEWI7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/55922_images.png", Bein Movies 2 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsizMjMFDD8jtSEXJ5S1C5BINGauPP3s%2fLky9BNgxha9bF80c%2bgnlpGfqZPOgd6BZFuJXG9XunmoqcH%2bvN9rmt%2fX1zs6MeiCA12rvKp4gE9VxWSDxWTHNnM%2b5YJFRS%2bD%2b1PfEpkh4OVyFAuTh1SBjW%2fZ5Nzy0Y2S5%2fDs1umlksDpp596W5favEMYhanoIYlOZb%2bZnOvZ%2b6XbZR5GFJuqd1nllHh3j6SvF4JINs7Ya%2bWEKC4DVLKg347vb%2fQ6%2bnX506ovylVaQLX%2biBHQdQMhKpiqzSEI8q2CEWF7EirQXDQ0p%2fC88px6%2b29Z7q4ewFdKFTiS5kau1BnLMJJsjD1ycdCnn5rt%2f9OxMhTsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/56580_x.jpg", Bein Movies 3 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwV3XQjAAAOAf1HE2jLWLLixfheW1RO40RfRBJDr9%2bPd5Th%2fUxGmosdRAcYug8F%2f%2bF5T3Lqz2B5gMqNsjirxMXITG38GMicANswdFX7amdpPHj8FKr3mQLStshdzke2qee4DsHTv5G4del47VJcQJyYKeCjM63uTk6ZzHum95llDEDoLCEHwOxv5ozK%2fmPbk24NlCiTbRqPvfUZ8vAFwSs%2bo3jy6%2bp9fWpUz84SffkmxCsW94QxCs5y6fWKHaSdCHolytfjq3IIW0SpjX7Xbn4qdhZb1WVFXCtrGUEEZQIjpCEtR0gk3NoojAX8G4K0OcD3FdCzePeI5CGnG1qkv8EiV4Wh6AUcx6Zqz%2bAZ9Ennw7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/30709_x.jpg", Bein Movies 4 HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPOssiw0weehi5jMp1cn2TkshEJqrVx5%2b9VxOyjNGBJTlO3rj2b1%2fypJHHn0oe3SoO4ouUUq76ueW8HPNC3%2f1ZFUU0dKFDqB0Hk%2buKaU0YK2dNvAcdxvDdJkZUGpp7bFz9%2bwEQsznD4dAEvDUNDlr7YcfG5Lfp9eTTctzlXX2eM6s4R6KxHjKnGr2Z0iZ2F2cFwN7vr2IQweNwOiRBdRoKaOc1WzVlUhfFsufVx6Q9vPsIhq8eiN8G4s3mF%2fPRBtsy%2fdxjkF0g%2b6lI3m5lAARk4bWgIEUSNKgogqRCDRmqqSua9Et4fXtIZCfTnjGyEKSXo7zoYdDgvGuWd66FB8aC3PuTNv8O1DvaOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/50853_imgres.jpg", beIN Series HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwUuOgjAAANADNcQO9GMXLAQKWomKFhV2IpVQhxHUAUo8vO%2bdWpTLxkubouPro76xJr4HOV%2bZQvYye0Sv2mcZZKI8a%2flUvWo300l3Db7vDai4NtMxuWQCKe%2b40%2bJxNWbUcM9V%2bRZgvVDdfOZPoOk2usSQDoaIwz1lb0HtUI%2fb%2bncZ5LM%2f1u5fiU1UAM5E9jcW%2bQcQT%2bAWmbJ%2bFiomaqX%2fQT%2fJXT7uTOVcV%2fbTqKESuRkbR%2bLhchmGbX3Si5Ivs2KWOpXrfhKSHUIU0Sj5ccLgvPxgavu%2b7TgWDRdzC1EELUYQsiAmjAaYe4jBz8MDc0BQl%2fKk2sawrXE9BoPrfgG6mG7SJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/54097_download.jpg", Art Aflam 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANzEuOgjAAANADEZLSH7BwUWBgAhFEq1SW8mm0iHxESuLhZ94BHhlTiiRndTmvRIQu6vM09e4iiN%2baMqf6jIXxqFTt%2b1vSJAc43yw45ZRDY8Pj%2b5iJZw2qOa%2bHsW8VSZkxyrxDgSbN43gGiyUpj1vNthyyo6UPVzk8SbtkihODB0A7myi6JnCujteueth%2bkzXm1VCkXkNuSZe0kVXsH7lE8eJItZ2nRr9WSzegKD9ArGd8YBHsLmxi9xMzAgnoa%2blPbLf7LijT3L%2f3kWIK1a%2fhS2zo%2bxAh0w6ZY2IbA9OlGJuAUNcOyI%2bHXfCF%2bhrpyfD6UIm9bYu5RFn23%2f0Bqkd3oScBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/87549_download.jpg", Art Aflam 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANzMuWgiAAANAP8ngyxNeihYFU1pSRTsouLc0plSI0OX18cz%2fgXuWQ5VRM4xWVKg8uvkJA0Gbgo93jvXs4V6W8g%2f5JJtoDG5EIlKzcMGSE8e46jvT51uJmHQP8qneL7eIWjju2Vlv6StKjiz1WhoRHLJedxorWPEh3mVC7mRvBlqe1tTxfnlCGCfj7iSftcVWpuLWRR9JfrurHJouVgO3kRjfk3vRIS0hdTFtvOEcos4aKv%2bzVLkzkadlGXdTti6R887oRF382%2b%2bDbOjPTAG9ghkvB%2fI%2flAISAaeoO8V0dOtDQPRtC3bBsz8FWMIee8QF5WeWg0AaQnhY9uXNRIf%2b%2f%2bwKAkaCVJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/4101_images.jpg", beIN-Baraem
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwdGyQkAAANAPMmb3tnbZBw9kl5IYG8nLncglotJG0%2fj4e07HclmLAuCISMRe7NY5eb6HH6P8znWGw4dFhwkrqXD%2bYCahHeGXAHaXY4aGBsFnAA7BVs7tMN0h9x4RGAOuzFar%2b17H9kyQqnq%2fT0q6aousPrtn0Y6olw5Ir9zxBtQbuzPxDeGG28iilcNBmslayqa4huVmbIcgeX0ZAUly960UbPKi%2f8TXrR5OtLlH02iTS3xSyuw4dsZz1%2ffEjXl0mU1z0YVX7u3DI2nCX%2bn9qAvWV%2bv1CiFV55aharoGVUo0TYWYUN3BzNYoXHjN3GNF3fUtuRAY51D43rM2zX%2fwgfSHJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/51244_images.jpg", beIN-jeem
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZBIpsHD8QlXaX0hr7sKOltEa0s2unH7znKG53SHEw7gJoweQxuuNdWkkH7GE2xvq7Gblc22cG3r3zTCVbd%2bn7Nmz7PanIP2mDB64tgc7YigVN%2f405mTEvbJ00pPi5Df04Kd9H4UasXTuch%2bTb%2fEA8UXsxJ0ASGXLagnGt9Cmkf3a%2br655Nyskct72DWZ6SxCU8hnmP6ej7w82M4%2fEZV7UeVf1DhEBzd2d8WwwiK%2b8cv96eN0h6pp60LetDocaefEheB7W27Z%2fLB2GdUt0wVOzbXyrEEKjEhFAFyCTYRZ4DCfi4G6mIyFgfQPFLBC%2bhQsQltax%2fJb2kqicBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/48984_images.jpg", beIN-Fatafeat
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANy82SgiAAAOAH2nFkEEIOHlQy3NT%2bNLVbtQauaTihpdPD7373DyRsTHcy1fFwPO%2bVBtVA5RqPlGoun1GMhOtuengv1cmvux0x85qoV7FqoAmsKTFh8Mok3ES7fDtx%2b21nhanfcJ7x5Hocq0bfc%2fR%2fLXSdTNWSFxeNCKzqhxW3tfLw11eF72E2BIoNzH7s496yHxOZz5BHgdf5LCUzmPkNly2nyeE77MvDIgzJBenhuqZzm3HU0E548dhHtVhd5W%2b5dIXjfIzTWCfHWyVPWz%2bwC%2fTBBPo%2btCyDBK5tIIKAQRcIGQAvKGF46SEKPiNP%2b07vL6OH8qZvJ%2fFkpXQd5w%2bDFgpZJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/63292_1123.png", Seevii Shamiya HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHpSgWA4GDBwKiyBoFkblMSVCBkKDiIFo%2bfrpfvTZSBBvRzp%2bjzWmcn9U6lctt1aBx6E%2bcNs1bznK2u7n1fu953XgmAREpv3NqiUe4pijpNu%2fiwW924jmsJnxije9P4KkO5tWX0xhftI1I9B6Dz4jF%2btAAPW4jeXLZjQy66JgW3omoV%2bh0%2f8GmUsLoHIPMuIRySbUkatSZreRw4u3uWFW8n9aHiKGr8%2fH%2bciMkgR45duWryYGDEDiPMsns5fKb%2bsdOKbiZvxQDl7%2fRV0ea42iLhYQ825QggopkGRBKim5YyNVXGFrKN027ioPRwkHfEi0ohr0bZ%2bbLmrewOLX9JnEC42mJdqRs%2bQ%2fzzcfaOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/64237_1132.png", Seevii Drama HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANydu2QkAAANAPalnGZZh58BDDYSLK7ehNiVyGEkWrjz9nv24c6mRs1dxJM9qUUZwU59x7Br%2fBvlv2SbCBM6FgWCazf97CtWydbTUjP0M9FTIjFECeeo1F7LM11k5kVlIBV6SYVEfErOPJP%2bL6cp9Yy9xHTkrhknhvms79NJDUA%2f2OLXrtD7XH40eQJNUB%2bYr3wzexe8pQYTI6HqFRjKBr2GwP%2fKk1%2fn%2fqxTCI8jVlGHb8tbPPhvsq%2bMhhbBXG%2flV9Dm9N%2b94G%2f%2fa27PHuPqur5O%2b%2bUBUNQ5QkTrW2iJNVGXBYkWUOQAWrBJq6jMF3cfRZpGpezserSORuE6frUmnaH2tNNTwnAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/18970_Logo_final-01.png", Seevii Beelink HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwV3XQjAAAOAf5DgNs81FF5ohr4%2flpDndhXotJR2lcfrxPU8%2bJIthqKPsLVCHc95a%2bJH9pX1J2OmUlc9cakSN6QSVd1UmJvQtAjOM21eFDK2p2KHX8toWZ4qfQfTazWC1V%2bl4hwTV1WWoDu5i9qLOPa881jHZTEpEtFs1icOXx6sxQZ9hMbkUat2wELUZ2tY3su5UFYmSLL%2fJm8plzGk3U%2b6xsOQADUaRsrhkC9zJOjh21X7ZcougYtjyjz%2fz6Bz9r9dfmRVWKWpfb%2fQP4lD%2f2tik1LQsHfsu0SGGQHcQhDqwkYM9m22gA77tIag%2bF7q37gxB5gq3mUaQwHGW1xjZHjeatynC6xBf2PoHlf7pHjsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/77675_512x512bb.jpg", Seevii Alola HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHUZSRhCUHDmyCgqAiy%2bSmgAJDWGQImvLx013KP2y0MRX4EyxDsszO0YCpJxymu%2fRyT91uEylZmr7HQ5zGip9Bb5ZYhJt3tmNDzs4EmxhJ0HtPY9YQnz4ez%2bBFWHEuatq5IYbkBOOH4fNsMtXWrT%2bAC8p1y1PZsY9F7m6nELfVCoRNqN0KcIlnYuewWum5OVk2p%2bEvtOrML3nF%2bqJdgrjC5jiXRtsnGroNifZM%2bmjvLGY58NbrpmX%2fKdiq69%2fDNhTv4VVdL4pMKG6%2bsipZlgShqO4MTUQqAiJWEBKBrGDVlh0TYfC9dCSAf%2f1xCkhs1zl1CXlFhq7%2fA%2bN%2bvRgnAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwV13QzAYAOAf1ONI9U1w0QufG6Wi09HLEG1sRdcV4fjxfZ4HGI8bzTkijY236Hu%2bVq6FpKbS89Z%2bgac1Im%2bbTiY8sJ7EjlKgbRjGJKnp5cIqUTrF6M61aWSiT9HIVDYhdQglLJHMwO%2b6g14bm7qkCyQkURlOccQpWj7i1vL8%2f3TzqKRow%2fvdx%2bQXR%2bL28o6yUFlctuwqhqxJ%2bF82HQ7VNQuCC%2flazl1%2f6nUZBK%2b8IxtYxcC1p8aMqqTzsbC3K9Y1x9F2O0X3LUMBHZBiEgAFYWLqLvZsMNFKnMAqwn5eGD%2fB7nMsYj79TPv9G8vN9NIPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/48851_imgres.jpg", OSN Ya Hala HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkYqIfLQB9e4rRSleNsdNivb1nV1zfj4nmNled%2flWoZhc1OSmW2%2bVCsSEsbL%2bBDO15IOZFmpAf4xPxW77iZKG4%2bKO%2fp6c1F4XHfoT%2fhlxIgRBZsNInOLaGetL3S6Zk2MMz5PEsB1uAI2htIt%2bwmoI8h0EYs1Dbk1FHPKCL%2f3T1olrLwGKNWrb8J2yNkvbHmlRxSrQoGeeu%2bNXaOPvnhqheBWgLpsssFR9lMOwxY%2fcpVO%2b9IfGlZtW4VQxp5pyAgjIBMdIRloOsGO5lqIgKMdU28VVSdQwT8XYG7jKy%2fM8%2fkNIr42cQ8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/73106_of1.png", BOXOffice 1 HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUuOgjAAANADGSJIoXbhQrQgUKpADZ%2fNhALyGSWj4FgaDu97gygFaggyBowoe%2fxlwSOFlQ8ESUbuzR83n0dnfkLa6O26gysc5%2fZ44V4g1y8n2Wi3N5uu2MwK87x%2fXWFp8qKkoli1AT9d8ajDNHyV22I7yXtI%2b9j3Jekr%2bjxZ9akNu6MLpG8Zb%2bL80wrUljzID4%2banP%2bOWphrfWpgtBIajpyxqMVlP9E5qBg%2fuyTyPMcberYgPtks%2b1GTe6d3tq8sBtwcDhtdV6C93yoAAlVBJgCKapgIHg1sAaQuJU1EcpuSWObOrTdDVnsDaXa7LzirLF0PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/95337_of2.png", BOXOffice 2 HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPMkQsXeTgoVBB2WSIgMMVyg5VJy1C%2fPh5z6qeHz9p7TXvrrWDeDgSxQusJEFNFdR2ds7dhzvzt12Kfl1kmjJGuyCjbqpQBpQqyTgi8HqukznsvX0syh7xWATG%2fjzlcbUksVznqBbDn3gly6V84ygzmwNguMX%2b6yi9asg530iX33Yp%2bynCjyh6b%2fW92XAVG6Hjz9vn6oRRd6H9DTwaOndsEXS7w%2fEXqW8T%2bVsr6e0RgAO32vcXEWDbwDA04tCjBgnUNRNDqOkIm4ShswVN%2fdubckCpnYRHec%2fdqVVYOrvldPoHkP%2f0NA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/12987_of3.jpg", BoxOffice 3 HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtyRDAAANAP6hhE3B72gRXE0lJL8LbGpXVXqYbx8T2nt61wEwCP4oDSM3%2b36qgDLWMytMXQ0AZMeDbAFQxl%2f8jKio7kgFszL1OKX4R6DPmGkKfUTcS%2bXTSRFKt5dGvvT9lyrB5OEvvDgimG7Vdz7pEEeQrbjHX%2bPNvxpIlz%2fSbXDi1flRvt%2fK%2f%2fkKaeeEnMPCMUpyKsHFzlZt2GgZYgrGz4zw9ZRUE6Eh%2bBkjVX8vSOTXNUs0b2VrvqJavgfgeSxKm2oXFQhQKnKxBygqzoqiUjE%2brC9TNa%2b2l2OR%2fkAem%2fC%2bGJPi3jdvsHbgyPNg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/18713_imgres.png", Movies HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAvchrPsOiCxKtMvaW6wxA1VKqczuT4%2bLmXDJstDm1Jdtp9JxVhXmMyCQ226kHX9mnz216VIblpUbWN7JTJey%2b%2fTmnD3mrIi2dVkiXP7BIF3NhNsUDzJ2eM%2baZTptxvCh6TOr48f1b98Ye45Wi0a91w%2fwqnEeMxJKPMYQDwzXIJE4P%2bQScNiTiqQZ9JcMbxxVrLrFPrOxmzLHpHgJbhy00qkfpg93RSHWlKFqvqOYedOUH%2bOVQoISTJsgAdUxcUqADB0BRFAKpmQKzalmKAg7WYNdu1a%2b75MCweneV85eb5%2fA93LbuKDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/59495_imgres.jpg", Movies ActionHD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAYAOAH6pgGP0kuekGVKFYrWz3cOSzpDsrWefrw%2b33DzXaMbhasDc2NCtsi8S4mqUXav6IruMtccw56k1CS7VFOxIiw41uBUlQlGh6yHr5TpRsnEcf1ZYyt9bjeZM3gGWcGOW7P49%2bU95lgrKooHJ0QnuLOikvnnvW768RJf3itsce5IsvgiFMwtSfLvj7nborgndVsTtSxLWz%2bMKyhWZ7zguGKDD%2b1N36hBk2df85W%2fkUFaWjpSvoako%2bGlf1eUVUJ2waRAAOSqA4gIU2n2NIOJlD0cb3iN5kwjn6Yud189102OFq52%2f0DCjHfFA8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/36308_imgres.png", Movies Action2 HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhi2JCSHHoDESFhKlEW5gYKAVqi1oowf73tdvdWRSJ%2fzjR8VcNsSb5OE9xZIx70nCzUCRoU7%2b3%2flDrrfSkW1Ln1NmIhLAjYy0Q3hSczcZnzJlAv9FB0blgkFDz4FEXD88w%2fMD33gncyQvMgScn%2fx2xpplK7trrid22u0Xg97WFq%2f9RFbWbRr%2b4hUc63EeakN%2f%2fhUssGAkd2KhhVKPz3KYeonK7jwlKMxw%2b8q28lesGKMS9N9rrZvaJueZ1qWaq8crAIb6CpBAKg6RMSmkLmA6G8Z5NII9%2fOzb4rHwXVYEvEm1tCIU9GiaxLzrrp0ebc449cHe96Y1iMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/63753_imgres.png", Osn ON Demande HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAANzk1ygjAYANADOQwYPghZdAEJEPlpAbWAOzASWolStRUcD2%2ffCZ73GYiW33mRyt5v2wPLaC9NVWfTrD%2b%2b1IkUALiiamWLuPHpUSLKel%2fYXQY%2fu5zETa5uBFoWhWhdVlPx20V15Wa2CNdYjYl3nrduvCkYThXsTezt8%2bTSL%2bb1UDp16OdL5%2fYdRRR8Jxm7oxq54Iu7NTUsN3DCMiJ6jAs5TDq6zpXBnVXR2pLNC5Gshou6Kv0pqLuL1fY0BZf57nyYTwsjSpFpajhwHQ0wGBqxATTDsglmlu8BMZ4DDzqSGsuyOpw3KRE8ac6ohJrL98d%2fQx%2fzP%2bQu5SGE69sLVWvqPSMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/73991_imgres.jpg", Animal Planet HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMQwhJAQWXZDwiwUslY%2bww4IgokbQFjMevu9dMwbDbkF49lNKxSVfdoRWr1le5Yq1ld7Nqs%2bYdJPfecdky73hpqQw5%2feLPna%2fzEu8R2U0p3LHB7Yven6o643WWaOwhsvJEnp3bMIuqnFeerHLkohlQ321JyXU2%2b0QTX4bnsn044whv4mNp1dfeQEXbCyuTNcyVcYKBPNaxa94Orf9UesZ9RMoFzLHzy42QPSGpQ7iT2ahoikmM%2fp7YwIZg4ahEt%2bxVEQQUG0TIRVg0yYu9iiywTv4bs6BcHjN2zpYnkAcHnex3dv%2bU3utORWOEjp5dpCbE%2fj4B%2fZ2DPkjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/82788_images.jpg", Discovery ID HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMsYlETz0AWWla1Xd15u6ZCfoEtVifHzPkRhaHxEg6bXmvm2O8zcLM3ueV3fJ%2bikuSZTT%2f6rAdjwWbVOxizOUwOkb%2bd7snOmGbid3mdGFxmCIInHQxsj%2bg%2bGFLdEys7tnhCwksXYrVrW9CtxYJHqq5Ig6LyYFATbtcnrSvxSbXwrKMiH0W6BR%2fxY%2fXp5rPoMtoAlV2S0fh%2b4tLROgVFg17xfvddmNrBMON3lXK8vOJJ5ChlP5UFTZsmQAeNUxNB6qUOR1BCEvKkhXz4ptQl08SOFHtQkj5FU2yKkQrBPujdPpA52Rm%2bkPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 
 
+
+
+#EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
+http://andrtviptv11.jan-beryan.giize.com/1473.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
+http://andrtviptv11.jan-beryan.giize.com/1474.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
+http://andrtviptv11.jan-beryan.giize.com/1475.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
+http://andrtviptv11.jan-beryan.giize.com/1476.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
+http://andrtviptv11.jan-beryan.giize.com/1478.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
+http://andrtviptv11.jan-beryan.giize.com/1477.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
+http://andrtviptv11.jan-beryan.giize.com/1482.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
+http://andrtviptv11.jan-beryan.giize.com/1480.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
+http://andrtviptv11.jan-beryan.giize.com/1479.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
+http://andrtviptv11.jan-beryan.giize.com/1481.ts
 
 
 #EXTINF:-1 tvg-logo="http://masr140.org/wp-content/uploads/2016/11/hqdefault-1-2.jpg",======ART [AR]========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,|AR| ART HEKAYAT
-http://biloiptv.jan-beryan.giize.com/1882.ts
-#EXTINF:-1,|AR| ART HEKAYAT 2
-http://biloiptv.jan-beryan.giize.com/1883.ts
-#EXTINF:-1,|AR| ART CINEMA
-http://biloiptv.jan-beryan.giize.com/1881.ts
-#EXTINF:-1,|AR| ART AFLAM 1
-http://biloiptv.jan-beryan.giize.com/1879.ts
-#EXTINF:-1,|AR| ART AFLAM 2
-http://biloiptv.jan-beryan.giize.com/1880.ts
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
+#EXTINF:-1 tvg-ID="" tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
 http://andrtviptv11.jan-beryan.giize.com/1319.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
+#EXTINF:-1 tvg-ID="" tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
 http://andrtviptv11.jan-beryan.giize.com/1320.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
+#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
 http://andrtviptv11.jan-beryan.giize.com/1321.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
+#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
 http://andrtviptv11.jan-beryan.giize.com/1322.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
 http://andrtviptv11.jan-beryan.giize.com/1323.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://files.elnashra.com/elnashrafan/imagine/pictures_360/1378375243_timthumb.php.jpg",========|||-ROTANA-|||========
-http://andrtviptv.jan-beryan.giize.com/1464.ts
-#EXTINF:-1,|AR| ROTANA MUSIC
-http://biloiptv.jan-beryan.giize.com/1867.ts
-#EXTINF:-1,|AR| ROTANA MASRIA
-http://biloiptv.jan-beryan.giize.com/1868.ts
-#EXTINF:-1,|AR| ROTANA KHALIJI
-http://biloiptv.jan-beryan.giize.com/1865.ts
-#EXTINF:-1,|AR| ROTANA CLIP
-http://biloiptv.jan-beryan.giize.com/1866.ts
-#EXTINF:-1,|AR| ROTANA CLASSIC
-http://biloiptv.jan-beryan.giize.com/1869.ts
-#EXTINF:-1,|AR| ROTANA CINEMA
-http://biloiptv.jan-beryan.giize.com/1870.ts
+#EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
+http://andrtviptv11.jan-beryan.giize.com/1467.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
+http://andrtviptv11.jan-beryan.giize.com/1468.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
+http://andrtviptv11.jan-beryan.giize.com/1469.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
+http://andrtviptv11.jan-beryan.giize.com/1470.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
+http://andrtviptv11.jan-beryan.giize.com/1471.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/02/15/09/33/news-636978_960_720.jpg",=====NEWS [AR]========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
 http://andrtviptv11.jan-beryan.giize.com/1324.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alarabiyia" tvg-logo="" group-title="",Alarabiyia
+#EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia" tvg-logo="" group-title="",Alarabiyia
 http://andrtviptv11.jan-beryan.giize.com/1325.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alhadath" tvg-logo="" group-title="",Alhadath
+#EXTINF:-1 tvg-ID="" tvg-name="Alhadath" tvg-logo="" group-title="",Alhadath
 http://andrtviptv11.jan-beryan.giize.com/1326.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="" group-title="",Al Ekhbariya
+#EXTINF:-1 tvg-ID="" tvg-name="Al Ekhbariya" tvg-logo="" group-title="",Al Ekhbariya
 http://andrtviptv11.jan-beryan.giize.com/1328.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BBC" tvg-logo="" group-title="",BBC
+#EXTINF:-1 tvg-ID="" tvg-name="BBC" tvg-logo="" group-title="",BBC
 http://andrtviptv11.jan-beryan.giize.com/1331.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="" group-title="",Skynews
+#EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" group-title="",Skynews
 http://andrtviptv11.jan-beryan.giize.com/1327.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CN Arabia" tvg-logo="" group-title="12-ENFANTS [AR]",CN Arabia
+http://andrtviptv11.jan-beryan.giize.com/1335.ts
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
@@ -196,28 +203,28 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.missionislam.com/discover/digrf/understandislam.jpg",=====ISLAM [AR]========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alrahma" tvg-logo="" group-title="12-ENFANTS [AR]",Alrahma
-http://andrtviptv11.jan-beryan.giize.com/1343.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alnas" tvg-logo="" group-title="12-ENFANTS [AR]",Alnas
-http://andrtviptv11.jan-beryan.giize.com/1344.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Majd Quran" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Quran
-http://andrtviptv11.jan-beryan.giize.com/1340.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Majd Hadith" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Hadith
-http://andrtviptv11.jan-beryan.giize.com/1341.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Al Majd" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd
+#EXTINF:-1 tvg-ID="" tvg-name="Al Majd" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd
 http://andrtviptv11.jan-beryan.giize.com/1342.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Alresalah" tvg-logo="" group-title="12-ENFANTS [AR]",Alresalah
+#EXTINF:-1 tvg-ID="" tvg-name="Alresalah" tvg-logo="" group-title="12-ENFANTS [AR]",Alresalah
 http://andrtviptv11.jan-beryan.giize.com/1346.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="IQRAA" tvg-logo="" group-title="12-ENFANTS [AR]",IQRAA
+#EXTINF:-1 tvg-ID="" tvg-name="Al Majd Quran" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Quran
+http://andrtviptv11.jan-beryan.giize.com/1340.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Majd Hadith" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Hadith
+http://andrtviptv11.jan-beryan.giize.com/1341.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="IQRAA" tvg-logo="" group-title="12-ENFANTS [AR]",IQRAA
 http://andrtviptv11.jan-beryan.giize.com/1345.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alrahma" tvg-logo="" group-title="12-ENFANTS [AR]",Alrahma
+http://andrtviptv11.jan-beryan.giize.com/1343.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alnas" tvg-logo="" group-title="12-ENFANTS [AR]",Alnas
+http://andrtviptv11.jan-beryan.giize.com/1344.ts
 #EXTINF:-1,Wesal
 http://live.noorlive.com:1935/wesal/wesal1/gmswf.m3u8?v=1558393494
 #EXTINF:-1,Aljameela_tv
@@ -234,116 +241,179 @@ http://m.live.net.sa:1935/live/ayat/gmswf.m3u8?v=1558393494
 
 
 #EXTINF:-1 tvg-logo="http://www.pleumeurbodou.com/IMG/jpg/enfants.jpg",=====ENFANTS [AR]=======
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CN Arabia" tvg-logo="" group-title="12-ENFANTS [AR]",CN Arabia
-http://andrtviptv11.jan-beryan.giize.com/1335.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Baraeem" tvg-logo="" group-title="12-ENFANTS [AR]",Baraeem
+#EXTINF:-1 tvg-ID="" tvg-name="Baraeem" tvg-logo="" group-title="12-ENFANTS [AR]",Baraeem
 http://andrtviptv11.jan-beryan.giize.com/1337.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Toyour ElJannah" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour ElJannah
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour ElJannah" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour ElJannah
 http://andrtviptv11.jan-beryan.giize.com/1338.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Toyour Baby" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour Baby
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour Baby" tvg-logo="" group-title="12-ENFANTS [AR]",Toyour Baby
 http://andrtviptv11.jan-beryan.giize.com/1339.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Space Toon" tvg-logo="" group-title="12-ENFANTS [AR]",Space Toon
+#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" tvg-logo="" group-title="12-ENFANTS [AR]",Space Toon
 http://andrtviptv11.jan-beryan.giize.com/1336.ts
 
 
 
 #EXTINF:-1 tvg-logo="http://www.2gzr.com/uploads/2014/07/documentary-2.jpg",=====DOCUMENTARY [AR]=======
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Quest-Arabia" tvg-logo="" group-title="",Quest-Arabia
+#EXTINF:-1 tvg-ID="" tvg-name="Quest-Arabia" tvg-logo="" group-title="",Quest-Arabia
 http://andrtviptv11.jan-beryan.giize.com/1334.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="",National Geo-Abudhabi
+#EXTINF:-1 tvg-ID="" tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="",National Geo-Abudhabi
 http://andrtviptv11.jan-beryan.giize.com/1333.ts
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Aljazeera Doc" tvg-logo="" group-title="",Aljazeera Doc
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera Doc" tvg-logo="" group-title="",Aljazeera Doc
 http://andrtviptv11.jan-beryan.giize.com/1332.ts
 
 
 
+
 #EXTINF:-1 tvg-logo="http://www.almountakhab.com/uploads/resized/drapeau_maroc.resized-600x300.jpg",=====MAROC [AR]=======
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-#EXTINF:-1,|AR| AL AOULA MAROC HD
-http://biloiptv.jan-beryan.giize.com/1912.ts
-#EXTINF:-1,|AR| AL AOULA MAROC
-http://biloiptv.jan-beryan.giize.com/4648.ts
-#EXTINF:-1,|AR| AL MAGHRIBYA MAROC
-http://biloiptv.jan-beryan.giize.com/1934.ts
-#EXTINF:-1,|AR| 2M MONDE
-http://biloiptv.jan-beryan.giize.com/1913.ts
-#EXTINF:-1,|AR| MEDI 1 TV
-http://biloiptv.jan-beryan.giize.com/1909.ts
-#EXTINF:-1,|AR| TELE MAROC
-http://biloiptv.jan-beryan.giize.com/7497.ts
-#EXTINF:-1,|AR| ARRIADIA MAROC
-http://biloiptv.jan-beryan.giize.com/2743.ts
-#EXTINF:-1,|AR| ARRIADIA TNT
-http://biloiptv.jan-beryan.giize.com/11956.ts
-#EXTINF:-1,|AR| ARRIADIA HD LIVE
-http://biloiptv.jan-beryan.giize.com/11937.ts
-#EXTINF:-1,|AR| ASSADISSA
-http://biloiptv.jan-beryan.giize.com/1910.ts
-#EXTINF:-1,|AR| ARRABIAA MAROC
-http://biloiptv.jan-beryan.giize.com/3496.ts
-
-
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="08-MAROC [AR]",Al-Aoula-Inter
+http://andrtviptv11.jan-beryan.giize.com/1382.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="2M-Monde" tvg-logo="" group-title="08-MAROC [AR]",2M-Monde
+http://andrtviptv11.jan-beryan.giize.com/1383.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Medi-1-TV" tvg-logo="" group-title="08-MAROC [AR]",Medi-1-TV
+http://andrtviptv11.jan-beryan.giize.com/1381.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Maghribia" tvg-logo="" group-title="08-MAROC [AR]",Al-Maghribia
+http://andrtviptv11.jan-beryan.giize.com/1384.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tele-Maroc" tvg-logo="" group-title="08-MAROC [AR]",Tele-Maroc
+http://andrtviptv11.jan-beryan.giize.com/1380.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tamazight" tvg-logo="" group-title="08-MAROC [AR]",Tamazight
+http://andrtviptv11.jan-beryan.giize.com/1385.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Arriadia" tvg-logo="" group-title="08-MAROC [AR]",Arriadia
+http://andrtviptv11.jan-beryan.giize.com/1388.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SUD24-TV" tvg-logo="" group-title="08-MAROC [AR]",SUD24-TV
+http://andrtviptv11.jan-beryan.giize.com/1389.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Assadisa" tvg-logo="" group-title="08-MAROC [AR]",Assadisa
+http://andrtviptv11.jan-beryan.giize.com/1387.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Arrabia" tvg-logo="" group-title="08-MAROC [AR]",Arrabia
+http://andrtviptv11.jan-beryan.giize.com/1386.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.larousse.fr/encyclopedie/data/images/1009452-Drapeau_de_lAlg%C3%A9rie.jpg",=====ALGERIE [AR]========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
-
-#EXTINF:-1,|AR| SAMIRA TV
-http://biloiptv.jan-beryan.giize.com/3372.ts
-#EXTINF:-1,|AR| SAMA TV
-http://biloiptv.jan-beryan.giize.com/3367.ts
-#EXTINF:-1,|AR| ENNAHAR ALGERIE
-http://biloiptv.jan-beryan.giize.com/1931.ts
-#EXTINF:-1,|AR| EL HADDAF
-http://biloiptv.jan-beryan.giize.com/1935.ts
-#EXTINF:-1,|AR| ECHOUROUK TV
-http://biloiptv.jan-beryan.giize.com/1939.ts
-#EXTINF:-1,|AR| ECHOUROUK NEWS
-http://biloiptv.jan-beryan.giize.com/3204.ts
-#EXTINF:-1,|AR| AL DJAZAIRIA
-http://biloiptv.jan-beryan.giize.com/3371.ts
-#EXTINF:-1,|AR| DZAIR TV
-http://biloiptv.jan-beryan.giize.com/3356.ts
-#EXTINF:-1,|AR| DZAIR NEWS
-http://biloiptv.jan-beryan.giize.com/3359.ts
-#EXTINF:-1,|AR| BEUR TV
-http://biloiptv.jan-beryan.giize.com/3358.ts
-#EXTINF:-1,|AR| ALRAI
-http://biloiptv.jan-beryan.giize.com/2261.ts
-
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Samira-Tv" tvg-logo="" group-title="09-ALGERIE [AR]",Samira-Tv
+http://andrtviptv11.jan-beryan.giize.com/1379.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Programme.National" tvg-logo="" group-title="09-ALGERIE [AR]",Programme.National
+http://andrtviptv11.jan-beryan.giize.com/1360.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Canal-Algerie" tvg-logo="" group-title="09-ALGERIE [AR]",Canal-Algerie
+http://andrtviptv11.jan-beryan.giize.com/1361.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Algeria 3" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 3
+http://andrtviptv11.jan-beryan.giize.com/1362.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Algeria 5" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 5
+http://andrtviptv11.jan-beryan.giize.com/1363.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk TV" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk TV
+http://andrtviptv11.jan-beryan.giize.com/1358.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk news" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk news
+http://andrtviptv11.jan-beryan.giize.com/1357.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Echorouk Benna" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk Benna
+http://andrtviptv11.jan-beryan.giize.com/1359.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Kbc Algeria" tvg-logo="" group-title="09-ALGERIE [AR]",Kbc Algeria
+http://andrtviptv11.jan-beryan.giize.com/1369.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Eljazairia-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Eljazairia-TV
+http://andrtviptv11.jan-beryan.giize.com/1372.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="EnnahLaki" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahLaki
+http://andrtviptv11.jan-beryan.giize.com/1365.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="EnnahTV" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahTV
+http://andrtviptv11.jan-beryan.giize.com/1364.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Elhaddaf-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Elhaddaf-TV
+http://andrtviptv11.jan-beryan.giize.com/1371.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Elbilad" tvg-logo="" group-title="09-ALGERIE [AR]",Elbilad
+http://andrtviptv11.jan-beryan.giize.com/1370.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Dzair TV" tvg-logo="" group-title="09-ALGERIE [AR]",Dzair TV
+http://andrtviptv11.jan-beryan.giize.com/1368.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Dzai News" tvg-logo="" group-title="09-ALGERIE [AR]",Dzai News
+http://andrtviptv11.jan-beryan.giize.com/1367.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Magharibia-1" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-1
+http://andrtviptv11.jan-beryan.giize.com/1373.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Magharibia-2" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-2
+http://andrtviptv11.jan-beryan.giize.com/1374.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-TV
+http://andrtviptv11.jan-beryan.giize.com/1376.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere-Music" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Music
+http://andrtviptv11.jan-beryan.giize.com/1377.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Berbere-Jeuness" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Jeuness
+http://andrtviptv11.jan-beryan.giize.com/1378.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Beur-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Beur-TV
+http://andrtviptv11.jan-beryan.giize.com/1375.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BAHIA TV" tvg-logo="" group-title="09-ALGERIE [AR]",BAHIA TV
+http://andrtviptv11.jan-beryan.giize.com/1366.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.psychologytoday.com/sites/default/files/blogs/1023/2009/11/34753-78991.jpg",=====TUNISIE [AR]========
-http://rmd.primatv.club:8899/live/PrimaIPTV.FB/7xY44JHVgX/1472.ts
+http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tonesna" tvg-logo="" group-title="10-TUNISIE [AR]",Tonesna
+http://andrtviptv11.jan-beryan.giize.com/1349.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 1
+http://andrtviptv11.jan-beryan.giize.com/1347.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 2" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 2
+http://andrtviptv11.jan-beryan.giize.com/1348.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Nessma" tvg-logo="" group-title="10-TUNISIE [AR]",Nessma
+http://andrtviptv11.jan-beryan.giize.com/1352.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hannibal" tvg-logo="" group-title="10-TUNISIE [AR]",Hannibal
+http://andrtviptv11.jan-beryan.giize.com/1351.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Telvaza" tvg-logo="" group-title="10-TUNISIE [AR]",Telvaza
+http://andrtviptv11.jan-beryan.giize.com/1355.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Zitouna" tvg-logo="" group-title="10-TUNISIE [AR]",Zitouna
+http://andrtviptv11.jan-beryan.giize.com/1353.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="El-HiwEttounsi" tvg-logo="" group-title="10-TUNISIE [AR]",El-HiwEttounsi
+http://andrtviptv11.jan-beryan.giize.com/1350.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Attasiaa" tvg-logo="" group-title="10-TUNISIE [AR]",Attasiaa
+http://andrtviptv11.jan-beryan.giize.com/1354.ts
+#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Janoubia" tvg-logo="" group-title="10-TUNISIE [AR]",Al-Janoubia
+http://andrtviptv11.jan-beryan.giize.com/1356.ts
 
 
-#EXTINF:-1,|AR| TUNISIA 1
-http://biloiptv.jan-beryan.giize.com/2109.ts
-#EXTINF:-1,|AR| TUNISIA 2
-http://biloiptv.jan-beryan.giize.com/2110.ts
-#EXTINF:-1,|AR| NESSMA TV
-http://biloiptv.jan-beryan.giize.com/2112.ts
-#EXTINF:-1,|AR| HANNIBAL
-http://biloiptv.jan-beryan.giize.com/2113.ts
-#EXTINF:-1,|AR| TOUNESNA
-http://biloiptv.jan-beryan.giize.com/2111.ts
-#EXTINF:-1,|AR| El HIWAR ETTOUNSSI
-http://biloiptv.jan-beryan.giize.com/3370.ts
-#EXTINF:-1,|AR| TELEVZA TV
-http://biloiptv.jan-beryan.giize.com/3480.ts
-#EXTINF:-1,|AR| ATTASSI3A TV
-http://biloiptv.jan-beryan.giize.com/3481.ts
 
 
 
