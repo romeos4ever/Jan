@@ -5,304 +5,63 @@
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/animaux_fr.jpg", FR-ANIMUX
+httphost://$http-raw=http://69.30.251.42:25461/1/2/789.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalplus_fr_cinema.jpg", FR-CANAL CINEMA
+httphost://$http-raw=http://69.30.251.42:25461/1/2/791.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalplus_fr_decale.jpg", FR-CANAL DECALE
+httphost://$http-raw=http://69.30.251.42:25461/1/2/792.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalplus_fr_family.jpg", FR-CANAL FAMILY
+httphost://$http-raw=http://69.30.251.42:25461/1/2/794.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv1.png", FR-CANAL PPV 1
+httphost://$http-raw=http://69.30.251.42:25461/1/2/796.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv2.png", FR-CANAL PPV 2
+httphost://$http-raw=http://69.30.251.42:25461/1/2/797.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv3.png", FR-CANAL PPV3 /
+httphost://$http-raw=http://69.30.251.42:25461/1/2/799.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv4.png", FR-CANAL PPV4
+httphost://$http-raw=http://69.30.251.42:25461/1/2/800.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv5.png", FR-CANAL PPV5
+httphost://$http-raw=http://69.30.251.42:25461/1/2/801.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv6.png", FR-CANAL PPV6
+httphost://$http-raw=http://69.30.251.42:25461/1/2/802.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv7.png", FR-CANAL PPV7
+httphost://$http-raw=http://69.30.251.42:25461/1/2/803.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv8.png", FR-CANAL PPV8
+httphost://$http-raw=http://69.30.251.42:25461/1/2/804.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv9.png", FR-CANAL PPV9
+httphost://$http-raw=http://69.30.251.42:25461/1/2/805.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalppv10.png", FR-CANAL PPV10
+httphost://$http-raw=http://69.30.251.42:25461/1/2/798.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/chasse_et_peche.jpg", FR-CHASSE E PECHE
+httphost://$http-raw=http://69.30.251.42:25461/1/2/807.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalplus_fr_cine_plus_classic.jpg", FR-CINE CLASSIC
+httphost://$http-raw=http://69.30.251.42:25461/1/2/809.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/canalplus_fr_cine_plus_famiz.jpg", FR-CINE FAMIZ
+httphost://$http-raw=http://69.30.251.42:25461/1/2/810.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/cine_polar.jpg", FR-CINE FX
+httphost://$http-raw=http://69.30.251.42:25461/1/2/812.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/discovery_science_global.jpg", FR-DISCOVERY SCIENCE
+httphost://$http-raw=http://69.30.251.42:25461/1/2/814.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/discovery_global_us.jpg", FR-DISCOVERY
+httphost://$http-raw=http://69.30.251.42:25461/1/2/813.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/france2.jpg", FR-FRANCE 2
+httphost://$http-raw=http://69.30.251.42:25461/1/2/817.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/france3.jpg", FR-FRANCE 3
+httphost://$http-raw=http://69.30.251.42:25461/1/2/818.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/france5.jpg", FR-FRANCE 5
+httphost://$http-raw=http://69.30.251.42:25461/1/2/819.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/nat_geo_us.jpg", FR-NAT GEO CHANNEL
+httphost://$http-raw=http://69.30.251.42:25461/1/2/824.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/nat_geo_wild_us.jpg", FR-NAT GEO WILD
+httphost://$http-raw=http://69.30.251.42:25461/1/2/825.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/nrj_fr_12.jpg", FR-NRJ12
+httphost://$http-raw=http://69.30.251.42:25461/1/2/827.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/planete_plus_crime_investigation.jpg", FR-PLANETE PLUS CI
+httphost://$http-raw=http://69.30.251.42:25461/1/2/832.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/planete_plus.jpg", FR-PLANETE PLUS
+httphost://$http-raw=http://69.30.251.42:25461/1/2/831.m3u8$http-refferer=http://geostreamz.com/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net/logo/w9_fr_hd.jpg", FR-W9 HD
+httphost://$http-raw=http://69.30.251.42:25461/1/2/862.m3u8$http-refferer=http://geostreamz.com/
 
-#EXTINF:-1,------- FR Généraliste -------
-http://biloiptv.jan-beryan.giize.com/4304.ts
-#EXTINF:-1,|FR| TF1 HD
-http://biloiptv.jan-beryan.giize.com/2129.ts
-#EXTINF:-1,|FR| M6 HD
-http://biloiptv.jan-beryan.giize.com/2135.ts
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://biloiptv.jan-beryan.giize.com/2130.ts
-#EXTINF:-1,|FR| FRANCE 3
-http://biloiptv.jan-beryan.giize.com/2131.ts
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://biloiptv.jan-beryan.giize.com/2132.ts
-#EXTINF:-1,|FR| FRANCE 5
-http://biloiptv.jan-beryan.giize.com/2133.ts
-#EXTINF:-1,|FR| FRANCE O
-http://biloiptv.jan-beryan.giize.com/2134.ts
-#EXTINF:-1,|FR| 6TER HD
-http://biloiptv.jan-beryan.giize.com/2153.ts
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://biloiptv.jan-beryan.giize.com/2744.ts
-#EXTINF:-1,|FR| TV BREIZH
-http://biloiptv.jan-beryan.giize.com/3012.ts
-#EXTINF:-1,|FR| HD1
-http://biloiptv.jan-beryan.giize.com/2283.ts
-#EXTINF:-1,|FR| NRJ12 HD
-http://biloiptv.jan-beryan.giize.com/2275.ts
-#EXTINF:-1,|FR| ARTE HD
-http://biloiptv.jan-beryan.giize.com/2138.ts
-#EXTINF:-1,|FR| TV5 MONDE EUROPE
-http://biloiptv.jan-beryan.giize.com/2277.ts
-#EXTINF:-1,|FR| MIRABELLE TV
-http://biloiptv.jan-beryan.giize.com/3916.ts
-#EXTINF:-1,|FR| ALSACE 20
-http://biloiptv.jan-beryan.giize.com/3909.ts
-#EXTINF:-1,|FR| KTO
-http://biloiptv.jan-beryan.giize.com/4353.ts
-#EXTINF:-1,|FR| LA CHAINE NORMANDE
-http://biloiptv.jan-beryan.giize.com/2206.ts
-#EXTINF:-1,------- FR Cinema ------
-http://biloiptv.jan-beryan.giize.com/4305.ts
-#EXTINF:-1,|FR| CANAL+ HD
-http://biloiptv.jan-beryan.giize.com/2139.ts
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-http://biloiptv.jan-beryan.giize.com/2140.ts
-#EXTINF:-1,|FR| CANAL+ DECALE HD
-http://biloiptv.jan-beryan.giize.com/2217.ts
-#EXTINF:-1,|FR| CANAL+ FAMILY HD
-http://biloiptv.jan-beryan.giize.com/2141.ts
-#EXTINF:-1,|FR| CANAL+ SERIES
-http://biloiptv.jan-beryan.giize.com/2142.ts
-#EXTINF:-1,|FR| CINE+ FRISSON HD
-http://biloiptv.jan-beryan.giize.com/2216.ts
-#EXTINF:-1,|FR| CINE+ EMOTION
-http://biloiptv.jan-beryan.giize.com/2145.ts
-#EXTINF:-1,|FR| CINE+ PREMIER HD
-http://biloiptv.jan-beryan.giize.com/2144.ts
-#EXTINF:-1,|FR| CINE+ CLASSIC HD
-http://biloiptv.jan-beryan.giize.com/2746.ts
-#EXTINF:-1,|FR| CINE+ FAMIZ
-http://biloiptv.jan-beryan.giize.com/2146.ts
-#EXTINF:-1,|FR| CINE POLAR
-http://biloiptv.jan-beryan.giize.com/2210.ts
-#EXTINF:-1,|FR| CINE FX
-http://biloiptv.jan-beryan.giize.com/2211.ts
-#EXTINF:-1,|FR| OCS MAX HD
-http://biloiptv.jan-beryan.giize.com/2148.ts
-#EXTINF:-1,|FR| OCS CHOC HD
-http://biloiptv.jan-beryan.giize.com/2147.ts
-#EXTINF:-1,|FR| OCS CITY
-http://biloiptv.jan-beryan.giize.com/3042.ts
-#EXTINF:-1,|FR| OCS GEANT
-http://biloiptv.jan-beryan.giize.com/2295.ts
-#EXTINF:-1,|FR| TCM CINEMA
-http://biloiptv.jan-beryan.giize.com/3599.ts
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
-http://biloiptv.jan-beryan.giize.com/2214.ts
-#EXTINF:-1,|FR| BET HD
-http://biloiptv.jan-beryan.giize.com/4319.ts
-#EXTINF:-1,------- FR Sport ------
-http://biloiptv.jan-beryan.giize.com/4306.ts
-#EXTINF:-1,|FR| SFR SPORT 1
-http://biloiptv.jan-beryan.giize.com/3652.ts
-#EXTINF:-1,|FR| SFR SPORT 2
-http://biloiptv.jan-beryan.giize.com/3653.ts
-#EXTINF:-1,|FR| SFR SPORT 3
-http://biloiptv.jan-beryan.giize.com/3654.ts
-#EXTINF:-1,|FR| SFR SPORT 5
-http://biloiptv.jan-beryan.giize.com/3806.ts
-#EXTINF:-1,|FR| BeIN SPORT 1 HD
-http://biloiptv.jan-beryan.giize.com/2172.ts
-#EXTINF:-1,|FR| BeIN SPORT 2 HD
-http://biloiptv.jan-beryan.giize.com/2173.ts
-#EXTINF:-1,|FR| BeIN SPORT 3 HD
-http://biloiptv.jan-beryan.giize.com/2174.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 4
-http://biloiptv.jan-beryan.giize.com/3643.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 5
-http://biloiptv.jan-beryan.giize.com/3644.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 6
-http://biloiptv.jan-beryan.giize.com/3645.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 7
-http://biloiptv.jan-beryan.giize.com/3646.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 8
-http://biloiptv.jan-beryan.giize.com/4272.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 9
-http://biloiptv.jan-beryan.giize.com/4273.ts
-#EXTINF:-1,|FR| BEIN SPORT MAX 10
-http://biloiptv.jan-beryan.giize.com/4271.ts
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://biloiptv.jan-beryan.giize.com/2143.ts
-#EXTINF:-1,|FR| FOOT 24/24
-http://biloiptv.jan-beryan.giize.com/2186.ts
-#EXTINF:-1,|FR| EUROSPORT
-http://biloiptv.jan-beryan.giize.com/2175.ts
-#EXTINF:-1,|FR| EUROSPORT 2
-http://biloiptv.jan-beryan.giize.com/2176.ts
-#EXTINF:-1,|FR| AB MOTEUR
-http://biloiptv.jan-beryan.giize.com/3543.ts
-#EXTINF:-1,|FR| L'EQUIPE21 HD
-http://biloiptv.jan-beryan.giize.com/2208.ts
-#EXTINF:-1,|FR| EQUIDIA LIVE HD
-http://biloiptv.jan-beryan.giize.com/2290.ts
-#EXTINF:-1,|FR| EQUIDIA LIFE HD
-http://biloiptv.jan-beryan.giize.com/3648.ts
-#EXTINF:-1,|FR| BFM SPORT
-http://biloiptv.jan-beryan.giize.com/4218.ts
-#EXTINF:-1,|FR| INFO SPORT
-http://biloiptv.jan-beryan.giize.com/2207.ts
-#EXTINF:-1,|FR| GOLF+ HD
-http://biloiptv.jan-beryan.giize.com/2294.ts
-#EXTINF:-1,|FR| OLTV
-http://biloiptv.jan-beryan.giize.com/2293.ts
-#EXTINF:-1,------- FR Culture ET Découverte ------
-http://biloiptv.jan-beryan.giize.com/4307.ts
-#EXTINF:-1,|FR| DISCOVERY
-http://biloiptv.jan-beryan.giize.com/3044.ts
-#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
-http://biloiptv.jan-beryan.giize.com/2156.ts
-#EXTINF:-1,|FR| NAT GEO HD
-http://biloiptv.jan-beryan.giize.com/2154.ts
-#EXTINF:-1,|FR| NAT GEO WILD
-http://biloiptv.jan-beryan.giize.com/2155.ts
-#EXTINF:-1,|FR| PLANETE+ HD
-http://biloiptv.jan-beryan.giize.com/2157.ts
-#EXTINF:-1,|FR| PLANETE  C.I HD
-http://biloiptv.jan-beryan.giize.com/2158.ts
-#EXTINF:-1,|FR| PLANETE+ AE
-http://biloiptv.jan-beryan.giize.com/2280.ts
-#EXTINF:-1,|FR| SEASONS
-http://biloiptv.jan-beryan.giize.com/3655.ts
-#EXTINF:-1,|FR| HISTOIRE
-http://biloiptv.jan-beryan.giize.com/2273.ts
-#EXTINF:-1,|FR| TOUTE L'HISTOIRE
-http://biloiptv.jan-beryan.giize.com/2284.ts
-#EXTINF:-1,|FR| SCIENCES ET VIE TV
-http://biloiptv.jan-beryan.giize.com/2159.ts
-#EXTINF:-1,|FR| TREK HD
-http://biloiptv.jan-beryan.giize.com/3915.ts
-#EXTINF:-1,|FR| USHUAIA
-http://biloiptv.jan-beryan.giize.com/2162.ts
-#EXTINF:-1,|FR| VOYAGE HD
-http://biloiptv.jan-beryan.giize.com/2213.ts
-#EXTINF:-1,|FR| RMC DECOUVERTE HD 24
-http://biloiptv.jan-beryan.giize.com/3041.ts
-#EXTINF:-1,|FR| ANIMAUX
-http://biloiptv.jan-beryan.giize.com/2160.ts
-#EXTINF:-1,|FR| CHASSE ET PECHE
-http://biloiptv.jan-beryan.giize.com/2161.ts
-#EXTINF:-1,------- FR Information ------
-http://biloiptv.jan-beryan.giize.com/4308.ts
-#EXTINF:-1,|FR| BFM TV
-http://biloiptv.jan-beryan.giize.com/2180.ts
-#EXTINF:-1,|FR| ITELE
-http://biloiptv.jan-beryan.giize.com/2209.ts
-#EXTINF:-1,|FR| LCI HD
-http://biloiptv.jan-beryan.giize.com/3477.ts
-#EXTINF:-1,|FR| LCP
-http://biloiptv.jan-beryan.giize.com/2274.ts
-#EXTINF:-1,|FR| EURONEWS
-http://biloiptv.jan-beryan.giize.com/2178.ts
-#EXTINF:-1,|FR| FRANCE 24
-http://biloiptv.jan-beryan.giize.com/2177.ts
-#EXTINF:-1,------- FR Séries et Divertissement ------
-http://biloiptv.jan-beryan.giize.com/4309.ts
-#EXTINF:-1,|FR| 13eme RUE
-http://biloiptv.jan-beryan.giize.com/2289.ts
-#EXTINF:-1,|FR| C8 HD
-http://biloiptv.jan-beryan.giize.com/2298.ts
-#EXTINF:-1,|FR| C STAR
-http://biloiptv.jan-beryan.giize.com/2282.ts
-#EXTINF:-1,|FR| SERIE CLUB HD
-http://biloiptv.jan-beryan.giize.com/2281.ts
-#EXTINF:-1,|FR| COMEDIE +
-http://biloiptv.jan-beryan.giize.com/2745.ts
-#EXTINF:-1,|FR| TEVA HD
-http://biloiptv.jan-beryan.giize.com/2276.ts
-#EXTINF:-1,|FR| E! ENTERTAINMENT
-http://biloiptv.jan-beryan.giize.com/2215.ts
-#EXTINF:-1,|FR| W9
-http://biloiptv.jan-beryan.giize.com/2136.ts
-#EXTINF:-1,|FR| WEO HD
-http://biloiptv.jan-beryan.giize.com/2292.ts
-#EXTINF:-1,|FR| GAME ONE
-http://biloiptv.jan-beryan.giize.com/3647.ts
-#EXTINF:-1,|FR| TMC
-http://biloiptv.jan-beryan.giize.com/2137.ts
-#EXTINF:-1,|FR| CHERIE 25
-http://biloiptv.jan-beryan.giize.com/3046.ts
-#EXTINF:-1,|FR| AB1
-http://biloiptv.jan-beryan.giize.com/3542.ts
-#EXTINF:-1,|FR| ACTION
-http://biloiptv.jan-beryan.giize.com/2212.ts
-#EXTINF:-1,|FR| RTL 9 HD
-http://biloiptv.jan-beryan.giize.com/2288.ts
-#EXTINF:-1,|FR| SYFY
-http://biloiptv.jan-beryan.giize.com/2149.ts
-#EXTINF:-1,|FR| NUMERO 23
-http://biloiptv.jan-beryan.giize.com/3185.ts
-#EXTINF:-1,|FR| NT1 HD
-http://biloiptv.jan-beryan.giize.com/2151.ts
-#EXTINF:-1,|FR| ENORME TV
-http://biloiptv.jan-beryan.giize.com/3911.ts
-#EXTINF:-1,|FR| GONG BASE
-http://biloiptv.jan-beryan.giize.com/3912.ts
-#EXTINF:-1,|FR| ELLE GIRL
-http://biloiptv.jan-beryan.giize.com/4352.ts
-#EXTINF:-1,------- FR Enfants ------
-http://biloiptv.jan-beryan.giize.com/4311.ts
-#EXTINF:-1,|FR| TÉLÉTOON + HD
-http://biloiptv.jan-beryan.giize.com/2166.ts
-#EXTINF:-1,|FR| TÉLÉTOON +1 HD
-http://biloiptv.jan-beryan.giize.com/4351.ts
-#EXTINF:-1,|FR| GULLI HD
-http://biloiptv.jan-beryan.giize.com/2164.ts
-#EXTINF:-1,|FR| TIJI
-http://biloiptv.jan-beryan.giize.com/2170.ts
-#EXTINF:-1,|FR| PIWI+
-http://biloiptv.jan-beryan.giize.com/2296.ts
-#EXTINF:-1,|FR| MANGAS
-http://biloiptv.jan-beryan.giize.com/2169.ts
-#EXTINF:-1,|FR| DISNEY CINEMA
-http://biloiptv.jan-beryan.giize.com/2297.ts
-#EXTINF:-1,|FR| DISNEY CHANNEL
-http://biloiptv.jan-beryan.giize.com/3649.ts
-#EXTINF:-1,|FR| DISNEY CHANNEL+ 1
-http://biloiptv.jan-beryan.giize.com/3650.ts
-#EXTINF:-1,|FR| DISNEY XD HD
-http://biloiptv.jan-beryan.giize.com/2163.ts
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://biloiptv.jan-beryan.giize.com/2167.ts
-#EXTINF:-1,|FR| CARTON NETWORK HD
-http://biloiptv.jan-beryan.giize.com/2168.ts
-#EXTINF:-1,|FR| NICKLODEON JUNIOR
-http://biloiptv.jan-beryan.giize.com/3479.ts
-#EXTINF:-1,|FR| NICKELODEON 4TEEN
-http://biloiptv.jan-beryan.giize.com/3914.ts
-#EXTINF:-1,|FR| BOOMERANG HD
-http://biloiptv.jan-beryan.giize.com/2171.ts
-#EXTINF:-1,|FR| BABY TV
-http://biloiptv.jan-beryan.giize.com/3910.ts
-#EXTINF:-1,|FR| BOING
-http://biloiptv.jan-beryan.giize.com/3063.ts
-#EXTINF:-1,|FR| CANAL J
-http://biloiptv.jan-beryan.giize.com/2165.ts
-#EXTINF:-1,------- FR Musique ------
-http://biloiptv.jan-beryan.giize.com/4310.ts
-#EXTINF:-1,|FR| MCM
-http://biloiptv.jan-beryan.giize.com/3651.ts
-#EXTINF:-1,|FR| M6 MUSIC
-http://biloiptv.jan-beryan.giize.com/2181.ts
-#EXTINF:-1,|FR| NRJ HITS
-http://biloiptv.jan-beryan.giize.com/4320.ts
-#EXTINF:-1,------- FR PPV -------
-http://biloiptv.jan-beryan.giize.com/4321.ts
-#EXTINF:-1,|FR| CANAL PLAY 01
-http://biloiptv.jan-beryan.giize.com/4322.ts
-#EXTINF:-1,|FR| CANAL PLAY 02
-http://biloiptv.jan-beryan.giize.com/4323.ts
-#EXTINF:-1,|FR| CANAL PLAY 03
-http://biloiptv.jan-beryan.giize.com/4324.ts
-#EXTINF:-1,|FR| CANAL PLAY 04
-http://biloiptv.jan-beryan.giize.com/4325.ts
-#EXTINF:-1,|FR| CANAL PLAY 05
-http://biloiptv.jan-beryan.giize.com/4326.ts
-#EXTINF:-1,|FR| A LA CARTE 1
-http://biloiptv.jan-beryan.giize.com/2299.ts
-#EXTINF:-1,|FR| A LA CARTE 2
-http://biloiptv.jan-beryan.giize.com/2300.ts
-#EXTINF:-1,|FR| A LA CARTE 3
-http://biloiptv.jan-beryan.giize.com/2301.ts
-#EXTINF:-1,|FR| A LA CARTE 4
-http://biloiptv.jan-beryan.giize.com/2302.ts
-#EXTINF:-1,|FR| A LA CARTE 5
-http://biloiptv.jan-beryan.giize.com/2303.ts
-#EXTINF:-1,|FR| A LA CARTE 6
-http://biloiptv.jan-beryan.giize.com/2747.ts
-#EXTINF:-1,|FR| A LA CARTE 7
-http://biloiptv.jan-beryan.giize.com/2748.ts
-#EXTINF:-1,|FR| A LA CARTE 8
-http://biloiptv.jan-beryan.giize.com/2749.ts
