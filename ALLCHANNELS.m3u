@@ -2,26 +2,26 @@
 
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTINF:-1,AR-MBC1
-http://192.161.187.216:8080/live/jan/beryan/263.ts
-#EXTINF:-1,AR-MBC-2
-http://192.161.187.216:8080/live/jan/beryan/264.ts
-#EXTINF:-1,AR-MBC3
-http://192.161.187.216:8080/live/jan/beryan/265.ts
-#EXTINF:-1,AR-MBC4
-http://192.161.187.216:8080/live/jan/beryan/266.ts
-#EXTINF:-1,AR-MBCAction
-http://192.161.187.216:8080/live/jan/beryan/267.ts
-#EXTINF:-1,AR-MBCMax
-http://192.161.187.216:8080/live/jan/beryan/272.ts
-#EXTINF:-1,AR-MBCDrama
-http://192.161.187.216:8080/live/jan/beryan/271.ts
-#EXTINF:-1,AR-MBCMasr
-http://192.161.187.216:8080/live/jan/beryan/269.ts
-#EXTINF:-1,AR-MBC-masr-2
-http://192.161.187.216:8080/live/jan/beryan/270.ts
-#EXTINF:-1,AR-MBC-Bollywood
-http://192.161.187.216:8080/live/jan/beryan/268.ts
+#EXTINF:-1,MBC 1 HD
+http://192.161.187.216:8080/live/jan/beryan/325.ts
+#EXTINF:-1,MBC 2 hd
+http://192.161.187.216:8080/live/jan/beryan/326.ts
+#EXTINF:-1,MBC 3 HD
+http://192.161.187.216:8080/live/jan/beryan/327.ts
+#EXTINF:-1,MBC 4 HD
+http://192.161.187.216:8080/live/jan/beryan/328.ts
+#EXTINF:-1,MBC Action HD
+http://192.161.187.216:8080/live/jan/beryan/331.ts
+#EXTINF:-1,MBC Drama HD
+http://192.161.187.216:8080/live/jan/beryan/329.ts
+#EXTINF:-1,MBC plus Drama HD
+http://192.161.187.216:8080/live/jan/beryan/330.ts
+#EXTINF:-1,MBC MAX HD
+http://192.161.187.216:8080/live/jan/beryan/332.ts
+#EXTINF:-1,MBC Variety HD
+http://192.161.187.216:8080/live/jan/beryan/333.ts
+
+
 
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
@@ -84,72 +84,26 @@ http://andrtviptv11.jan-beryan.giize.com/1293.ts
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTINF:-1,OSn-WWE
-http://192.161.187.216:8080/live/jan/beryan/305.ts
-#EXTINF:-1,AR-OsnMoviesKids
-http://192.161.187.216:8080/live/jan/beryan/292.ts
-#EXTINF:-1,AR-OSN-YH-Shabab-HD
-http://192.161.187.216:8080/live/jan/beryan/279.ts
-#EXTINF:-1,AR-OSN-Ya-Hala-Drama-HD
-http://192.161.187.216:8080/live/jan/beryan/280.ts
-#EXTINF:-1,AR-OSN-YA-Hala-Cinema
-http://192.161.187.216:8080/live/jan/beryan/278.ts
-#EXTINF:-1,AR-OSN-Ya-Hala
-http://192.161.187.216:8080/live/jan/beryan/281.ts
-#EXTINF:-1,AR-OSN-Starworld
-http://192.161.187.216:8080/live/jan/beryan/303.ts
-#EXTINF:-1,AR-OSN-StarMovie-HD
-http://192.161.187.216:8080/live/jan/beryan/302.ts
-#EXTINF:-1,AR-OSN-StarGold-HD
-http://192.161.187.216:8080/live/jan/beryan/304.ts
-#EXTINF:-1,AR-OSN-NatGeoWild
-http://192.161.187.216:8080/live/jan/beryan/296.ts
-#EXTINF:-1,AR-OSN-NatGeoPeople
-http://192.161.187.216:8080/live/jan/beryan/298.ts
-#EXTINF:-1,AR-OSN-NatGeoHD
-http://192.161.187.216:8080/live/jan/beryan/297.ts
-#EXTINF:-1,AR-OSN-MoviesDrama
-http://192.161.187.216:8080/live/jan/beryan/289.ts
-#EXTINF:-1,AR-OSN-MoviesComedy
-http://192.161.187.216:8080/live/jan/beryan/291.ts
-#EXTINF:-1,AR-OSN-Movies-Premiere2-HD
-http://192.161.187.216:8080/live/jan/beryan/287.ts
-#EXTINF:-1,AR-OSN-Movies-Premiere-HD
-http://192.161.187.216:8080/live/jan/beryan/286.ts
-#EXTINF:-1,AR-OSN-Movies-HD
-http://192.161.187.216:8080/live/jan/beryan/282.ts
-#EXTINF:-1,AR-OSN-Movies-Festival
-http://192.161.187.216:8080/live/jan/beryan/293.ts
-#EXTINF:-1,AR-OSN-Movies-ActionHD
-http://192.161.187.216:8080/live/jan/beryan/284.ts
-#EXTINF:-1,AR-OSN-Movies-2
-http://192.161.187.216:8080/live/jan/beryan/283.ts
-#EXTINF:-1,AR-OSN-Movies Action2HD
-http://192.161.187.216:8080/live/jan/beryan/285.ts
-#EXTINF:-1,AR-OSN-History
-http://192.161.187.216:8080/live/jan/beryan/300.ts
-#EXTINF:-1,AR-OSN-FirstComedyHD
-http://192.161.187.216:8080/live/jan/beryan/288.ts
-#EXTINF:-1,AR-OSN-First HD
-http://192.161.187.216:8080/live/jan/beryan/301.ts
-#EXTINF:-1,AR-OSN-DiscoveryScienceHD
-http://192.161.187.216:8080/live/jan/beryan/295.ts
-#EXTINF:-1,AR-OSN-Discovery
-http://192.161.187.216:8080/live/jan/beryan/294.ts
-#EXTINF:-1,AR-OSN-Cinema2
-http://192.161.187.216:8080/live/jan/beryan/277.ts
-#EXTINF:-1,AR-OSN-Cinema1
-http://192.161.187.216:8080/live/jan/beryan/276.ts
-#EXTINF:-1,AR-OSN-BoxOffice3
-http://192.161.187.216:8080/live/jan/beryan/275.ts
-#EXTINF:-1,AR-OSN-BoxOffice2
-http://192.161.187.216:8080/live/jan/beryan/274.ts
-#EXTINF:-1,AR-OSN-BoxOffice1
-http://192.161.187.216:8080/live/jan/beryan/273.ts
-#EXTINF:-1,AR-OSN-AnimalPlanetHD
-http://192.161.187.216:8080/live/jan/beryan/299.ts
-#EXTINF:-1,AR-ON-Demande
-http://192.161.187.216:8080/live/jan/beryan/290.ts
+http://192.161.187.216:8080/movie/jan/beryan/5.mkv
+#EXTINF:-1,OSN Yahala HD
+http://192.161.187.216:8080/live/jan/beryan/334.ts
+#EXTINF:-1,OSN Yahala First 2 HD
+http://192.161.187.216:8080/live/jan/beryan/336.ts
+#EXTINF:-1,OSN Yahala First
+http://192.161.187.216:8080/live/jan/beryan/335.ts
+#EXTINF:-1,OSN Yahala Cinema HD
+http://192.161.187.216:8080/live/jan/beryan/337.ts
+#EXTINF:-1,OSN Movies Premiere HD
+http://192.161.187.216:8080/live/jan/beryan/343.ts
+#EXTINF:-1,OSN MOVIES KIDS HD
+http://192.161.187.216:8080/live/jan/beryan/346.ts
+#EXTINF:-1,OSN Movies HD
+http://192.161.187.216:8080/live/jan/beryan/344.ts
+#EXTINF:-1,OSN Movies Comedy HD
+http://192.161.187.216:8080/live/jan/beryan/349.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
