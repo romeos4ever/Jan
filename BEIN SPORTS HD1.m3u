@@ -1,30 +1,34 @@
 
-#EXTINF:-1,beINSPORTNews
-http://192.161.187.216:8080/live/jan/beryan/236.ts
-#EXTINF:-1,BeinSports1
-http://192.161.187.216:8080/live/jan/beryan/247.ts
-#EXTINF:-1,BeinSports2
-http://192.161.187.216:8080/live/jan/beryan/248.ts
-#EXTINF:-1,BeinSports3
-http://192.161.187.216:8080/live/jan/beryan/249.ts
-#EXTINF:-1,BeinSports4
-http://192.161.187.216:8080/live/jan/beryan/250.ts
-#EXTINF:-1,BeinSports5
-http://192.161.187.216:8080/live/jan/beryan/251.ts
-#EXTINF:-1,BeinSports6
-http://192.161.187.216:8080/live/jan/beryan/252.ts
-#EXTINF:-1,BeinSports7
-http://192.161.187.216:8080/live/jan/beryan/253.ts
-#EXTINF:-1,BeinSports8
-http://192.161.187.216:8080/live/jan/beryan/254.ts
-#EXTINF:-1,BeinSports9
-http://192.161.187.216:8080/live/jan/beryan/255.ts
-#EXTINF:-1,BeinSports10
-http://192.161.187.216:8080/live/jan/beryan/256.ts
-#EXTINF:-1,beinsports11
-http://192.161.187.216:8080/live/jan/beryan/257.ts
-#EXTINF:-1,beinsports12
-http://192.161.187.216:8080/live/jan/beryan/258.ts
+#EXTINF:-1,BeIN sport news
+http://192.161.187.216:8080/live/jan/beryan/311.ts
+#EXTINF:-1,Bein sport Globale HD
+http://192.161.187.216:8080/live/jan/beryan/312.ts
+#EXTINF:-1,BeiN sport 1 HD
+http://192.161.187.216:8080/live/jan/beryan/313.ts
+#EXTINF:-1,BeIN sport 2 HD
+http://192.161.187.216:8080/live/jan/beryan/314.ts
+#EXTINF:-1,Bein sports 3 HD
+http://192.161.187.216:8080/live/jan/beryan/315.ts
+#EXTINF:-1,Bein sports 4 HD
+http://192.161.187.216:8080/live/jan/beryan/316.ts
+#EXTINF:-1,BeIN Sport 5 HD
+http://192.161.187.216:8080/live/jan/beryan/317.ts
+#EXTINF:-1,Bein sports 6 HD
+http://192.161.187.216:8080/live/jan/beryan/318.ts
+#EXTINF:-1,Bein sports 7 HD
+http://192.161.187.216:8080/live/jan/beryan/319.ts
+#EXTINF:-1,Bein sports 8 HD
+http://192.161.187.216:8080/live/jan/beryan/320.ts
+#EXTINF:-1,Bein sports 9 HD
+http://192.161.187.216:8080/live/jan/beryan/321.ts
+#EXTINF:-1,Bein sports 10 HD
+http://192.161.187.216:8080/live/jan/beryan/322.ts
+#EXTINF:-1,Bein sport 11 HD
+http://192.161.187.216:8080/live/jan/beryan/323.ts
+#EXTINF:-1,BeIN sport 12 HD
+http://192.161.187.216:8080/live/jan/beryan/324.ts
+
+
 
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
