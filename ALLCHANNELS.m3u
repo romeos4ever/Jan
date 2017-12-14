@@ -3,29 +3,26 @@
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
 
-
 #EXTINF:-1,NileSat:AR:MBC_1
-http://192.161.187.216:8000/jan/beryan/188.ch
-#EXTINF:-1,NileSat:AR:MBC2
-http://192.161.187.216:8000/jan/beryan/189.ch
-#EXTINF:-1,NileSat:AR:MBC_3
-http://192.161.187.216:8000/jan/beryan/190.ch
-#EXTINF:-1,NileSat:AR:MBC-4
-http://192.161.187.216:8000/jan/beryan/191.ch
+http://192.161.187.216:8080/live/jan/beryan/46.ts
 #EXTINF:-1,NileSat:AR:MBC_Drama
-http://192.161.187.216:8000/jan/beryan/195.ch
-#EXTINF:-1,:OSN-MBC DRAMA
-http://192.161.187.216:8000/jan/beryan/196.ch
-#EXTINF:-1,NileSat:AR:MBC_MASR
-http://192.161.187.216:8000/jan/beryan/197.ch
-#EXTINF:-1,NileSat:AR:MBC_Masr2
-http://192.161.187.216:8000/jan/beryan/198.ch
+http://192.161.187.216:8080/live/jan/beryan/53.ts
+#EXTINF:-1,NileSat:AR:MBC2
+http://192.161.187.216:8080/live/jan/beryan/47.ts
+#EXTINF:-1,NileSat:AR:MBC_3
+http://192.161.187.216:8080/live/jan/beryan/48.ts
+#EXTINF:-1,NileSat:AR:MBC-4
+http://192.161.187.216:8080/live/jan/beryan/49.ts
 #EXTINF:-1,NileSat:AR:MBC-MAX
-http://192.161.187.216:8000/jan/beryan/192.ch
+http://192.161.187.216:8080/live/jan/beryan/50.ts
 #EXTINF:-1,NileSat:AR:MBC_ACTION
-http://192.161.187.216:8000/jan/beryan/193.ch
+http://192.161.187.216:8080/live/jan/beryan/51.ts
 #EXTINF:-1,NileSat:AR:MBC_Bollywood
-http://192.161.187.216:8000/jan/beryan/194.ch
+http://192.161.187.216:8080/live/jan/beryan/52.ts
+#EXTINF:-1,NileSat:AR:MBC_MASR
+http://192.161.187.216:8080/live/jan/beryan/55.ts
+#EXTINF:-1,NileSat:AR:MBC_Masr2
+http://192.161.187.216:8080/live/jan/beryan/56.ts
 
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
