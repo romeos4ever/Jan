@@ -1,24 +1,24 @@
 
-#EXTINF:-1,:BeinSport_1_HD
-http://192.161.187.216:8000/jan/beryan/161.ch
-#EXTINF:-1,:BeinSport_2_HD
-http://192.161.187.216:8000/jan/beryan/162.ch
-#EXTINF:-1,:BeinSport_3_HD
-http://192.161.187.216:8000/jan/beryan/163.ch
-#EXTINF:-1,:BeinSport_4_HD
-http://192.161.187.216:8000/jan/beryan/164.ch
-#EXTINF:-1,:BeinSport_5_HD
-http://192.161.187.216:8000/jan/beryan/165.ch
-#EXTINF:-1,:BeinSport_6_HD
-http://192.161.187.216:8000/jan/beryan/166.ch
-#EXTINF:-1,:BeinSport_7_HD
-http://192.161.187.216:8000/jan/beryan/167.ch
-#EXTINF:-1,:BeinSport_8_HD
-http://192.161.187.216:8000/jan/beryan/168.ch
-#EXTINF:-1,:BeinSport_9_HD
-http://192.161.187.216:8000/jan/beryan/169.ch
-#EXTINF:-1,:BeinSport_10_HD
-http://192.161.187.216:8000/jan/beryan/170.ch
+#EXTINF:-1,:BEIN SPORTS-1--HD
+http://192.161.187.216:8080/live/jan/beryan/9.ts
+#EXTINF:-1,:BEIN SPORTS-2--HD
+http://192.161.187.216:8080/live/jan/beryan/10.ts
+#EXTINF:-1,:BEIN SPORTS-3--HD
+http://192.161.187.216:8080/live/jan/beryan/11.ts
+#EXTINF:-1,:BEIN SPORTS-4--HD
+http://192.161.187.216:8080/live/jan/beryan/12.ts
+#EXTINF:-1,:BEIN SPORTS-5--HD
+http://192.161.187.216:8080/live/jan/beryan/13.ts
+#EXTINF:-1,:BEIN SPORTS-6--HD
+http://192.161.187.216:8080/live/jan/beryan/14.ts
+#EXTINF:-1,:BEIN SPORTS-7--HD
+http://192.161.187.216:8080/live/jan/beryan/15.ts
+#EXTINF:-1,:BEIN SPORTS-8--HD
+http://192.161.187.216:8080/live/jan/beryan/16.ts
+#EXTINF:-1,:BEIN SPORTS-9--HD
+http://192.161.187.216:8080/live/jan/beryan/17.ts
+#EXTINF:-1,:BEIN SPORTS-10-HD
+http://192.161.187.216:8080/live/jan/beryan/18.ts
 
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
