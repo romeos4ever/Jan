@@ -1,5 +1,30 @@
 #EXTINF:-1,======BEIN SD Group==========
 http://spgss.gcdn.co/bn-sp-1-hd/playlist.m3u8
+
+#EXTINF:-1,:BEINSPORT_1SD
+http://192.161.187.216:8000/jan/beryan/171.ch
+#EXTINF:-1,:BEINSPORT_2SD
+http://192.161.187.216:8000/jan/beryan/172.ch
+#EXTINF:-1,:BEINSPORT_3SD
+http://192.161.187.216:8000/jan/beryan/173.ch
+#EXTINF:-1,:BEINSPORT_4SD
+http://192.161.187.216:8000/jan/beryan/174.ch
+#EXTINF:-1,:BEINSPORT_5SD
+http://192.161.187.216:8000/jan/beryan/175.ch
+#EXTINF:-1,:BEINSPORT_6SD
+http://192.161.187.216:8000/jan/beryan/176.ch
+#EXTINF:-1,:BEINSPORT_7SD
+http://192.161.187.216:8000/jan/beryan/177.ch
+#EXTINF:-1,:BEINSPORT_8SD
+http://192.161.187.216:8000/jan/beryan/178.ch
+#EXTINF:-1,:BEINSPORT_9SD
+http://192.161.187.216:8000/jan/beryan/179.ch
+#EXTINF:-1,:BEINSPORT_10SD
+http://192.161.187.216:8000/jan/beryan/180.ch
+#EXTINF:-1,:BEINSPORT_11SD
+http://192.161.187.216:8000/jan/beryan/181.ch
+#EXTINF:-1,:BEINSPORT_12SD
+http://192.161.187.216:8000/jan/beryan/182.ch
 #EXTINF:-1,bein sport 1
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2Jyby5hZGNhLnN0L3N0cmVhbS5waHA%2FaWQ9MTg2ODkmd2lkdGg9ODAwJmhlaWdodD02MDAmc3RyZXRjaGluZz11bmlmb3JtJnA9MSRodHRwLXJlZmZlcmVyPWh0dHA6Ly9zaG93c3BvcnQtdHYuY29tL2VtYmVkcGxheWVyLnBocD9jaD1iZWluMSZzZXJ2ZXI9MQ%3D%3D
 #EXTINF:-1,bein sport 2
