@@ -1,3 +1,25 @@
+
+#EXTINF:-1,:BeinSport_1_HD
+http://192.161.187.216:8000/jan/beryan/161.ch
+#EXTINF:-1,:BeinSport_2_HD
+http://192.161.187.216:8000/jan/beryan/162.ch
+#EXTINF:-1,:BeinSport_3_HD
+http://192.161.187.216:8000/jan/beryan/163.ch
+#EXTINF:-1,:BeinSport_4_HD
+http://192.161.187.216:8000/jan/beryan/164.ch
+#EXTINF:-1,:BeinSport_5_HD
+http://192.161.187.216:8000/jan/beryan/165.ch
+#EXTINF:-1,:BeinSport_6_HD
+http://192.161.187.216:8000/jan/beryan/166.ch
+#EXTINF:-1,:BeinSport_7_HD
+http://192.161.187.216:8000/jan/beryan/167.ch
+#EXTINF:-1,:BeinSport_8_HD
+http://192.161.187.216:8000/jan/beryan/168.ch
+#EXTINF:-1,:BeinSport_9_HD
+http://192.161.187.216:8000/jan/beryan/169.ch
+#EXTINF:-1,:BeinSport_10_HD
+http://192.161.187.216:8000/jan/beryan/170.ch
+
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
 http://tv.primatv.club:8899/live/beststariptv/37VEkFiuax/1494.ts
