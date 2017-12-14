@@ -1,21 +1,23 @@
 #EXTM3U
 #EXTINF:-1,========|||-BEIN-SPORTS HD-|||========
 http://andrtviptv.jan-beryan.giize.com/401.ts
-#EXTINF:-1,BEIN SPORTS-1--HD
-http://192.161.187.216:8000/jan/beryan/274.ch
-#EXTINF:-1,:BEIN SPORTS-2--HD
-http://192.161.187.216:8000/jan/beryan/152.ch
-#EXTINF:-1,:BEIN SPORTS-3--HD
-http://192.161.187.216:8000/jan/beryan/153.ch
-#EXTINF:-1,:BEIN SPORTS-5--HD
-http://192.161.187.216:8000/jan/beryan/155.ch
-#EXTINF:-1,:BEIN SPORTS-6--HD
-http://192.161.187.216:8000/jan/beryan/156.ch
-#EXTINF:-1,:BEIN SPORTS-7--HD
-http://192.161.187.216:8000/jan/beryan/157.ch
-#EXTINF:-1,:BEIN SPORTS-8--HD
-http://192.161.187.216:8000/jan/beryan/158.ch
-#EXTINF:-1,:BEIN SPORTS-9--HD
-http://192.161.187.216:8000/jan/beryan/159.ch
-#EXTINF:-1,:BEIN SPORTS-10-HD
-http://192.161.187.216:8000/jan/beryan/160.ch
+#EXTINF:-1,:BeinSport_1_HD
+http://192.161.187.216:8080/live/jan/beryan/19.ts
+#EXTINF:-1,:BeinSport_2_HD
+http://192.161.187.216:8080/live/jan/beryan/20.ts
+#EXTINF:-1,:BeinSport_3_HD
+http://192.161.187.216:8080/live/jan/beryan/21.ts
+#EXTINF:-1,:BeinSport_4_HD
+http://192.161.187.216:8080/live/jan/beryan/22.ts
+#EXTINF:-1,:BeinSport_5_HD
+http://192.161.187.216:8080/live/jan/beryan/23.ts
+#EXTINF:-1,:BeinSport_6_HD
+http://192.161.187.216:8080/live/jan/beryan/24.ts
+#EXTINF:-1,:BeinSport_7_HD
+http://192.161.187.216:8080/live/jan/beryan/25.ts
+#EXTINF:-1,:BeinSport_8_HD
+http://192.161.187.216:8080/live/jan/beryan/26.ts
+#EXTINF:-1,:BeinSport_9_HD
+http://192.161.187.216:8080/live/jan/beryan/27.ts
+#EXTINF:-1,:BeinSport_10_HD
+http://192.161.187.216:8080/live/jan/beryan/28.ts
