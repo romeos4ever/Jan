@@ -1,22 +1,22 @@
 
-#EXTINF:-1,AR | beIN Sports News FHD
-http://192.161.187.216:8080/live/jan/beryan/170.tss
-#EXTINF:-1,beIN Sports 1HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/171.ts
-#EXTINF:-1,beIN Sports 2HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/173.ts
-#EXTINF:-1,beIN Sports 3HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/175.ts
-#EXTINF:-1,beIN Sports 4HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/177.ts
-#EXTINF:-1,beIN Sports 5HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/179.ts
-#EXTINF:-1,beIN Sports 6HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/181.ts
-#EXTINF:-1,beIN Sports 7HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/183.ts
-#EXTINF:-1,beIN Sports 8HD 1080p
-http://192.161.187.216:8080/live/jan/beryan/185.ts
+#EXTINF:-1,BEIN NEWS
+http://192.161.187.216:8080/live/jan/beryan/209.ts
+#EXTINF:-1,BEIN1
+http://192.161.187.216:8080/live/jan/beryan/200.ts
+#EXTINF:-1,BEIN2
+http://192.161.187.216:8080/live/jan/beryan/201.ts
+#EXTINF:-1,BEIN3
+http://192.161.187.216:8080/live/jan/beryan/202.ts
+#EXTINF:-1,BEIN4
+http://192.161.187.216:8080/live/jan/beryan/203.ts
+#EXTINF:-1,BEIN5
+http://192.161.187.216:8080/live/jan/beryan/204.ts
+#EXTINF:-1,BEIN6
+http://192.161.187.216:8080/live/jan/beryan/207.ts
+#EXTINF:-1,BEIN7
+http://192.161.187.216:8080/live/jan/beryan/206.ts
+#EXTINF:-1,BEIN8
+http://192.161.187.216:8080/live/jan/beryan/208.ts
 
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
