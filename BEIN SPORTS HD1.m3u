@@ -1,22 +1,30 @@
 
-#EXTINF:-1,BEIN NEWS
-http://192.161.187.216:8080/live/jan/beryan/209.ts
-#EXTINF:-1,BEIN1
-http://192.161.187.216:8080/live/jan/beryan/200.ts
-#EXTINF:-1,BEIN2
-http://192.161.187.216:8080/live/jan/beryan/201.ts
-#EXTINF:-1,BEIN3
-http://192.161.187.216:8080/live/jan/beryan/202.ts
-#EXTINF:-1,BEIN4
-http://192.161.187.216:8080/live/jan/beryan/203.ts
-#EXTINF:-1,BEIN5
-http://192.161.187.216:8080/live/jan/beryan/204.ts
-#EXTINF:-1,BEIN6
-http://192.161.187.216:8080/live/jan/beryan/207.ts
-#EXTINF:-1,BEIN7
-http://192.161.187.216:8080/live/jan/beryan/206.ts
-#EXTINF:-1,BEIN8
-http://192.161.187.216:8080/live/jan/beryan/208.ts
+#EXTINF:-1,beINSPORTNews
+http://192.161.187.216:8080/live/jan/beryan/236.ts
+#EXTINF:-1,BeinSports1
+http://192.161.187.216:8080/live/jan/beryan/247.ts
+#EXTINF:-1,BeinSports2
+http://192.161.187.216:8080/live/jan/beryan/248.ts
+#EXTINF:-1,BeinSports3
+http://192.161.187.216:8080/live/jan/beryan/249.ts
+#EXTINF:-1,BeinSports4
+http://192.161.187.216:8080/live/jan/beryan/250.ts
+#EXTINF:-1,BeinSports5
+http://192.161.187.216:8080/live/jan/beryan/251.ts
+#EXTINF:-1,BeinSports6
+http://192.161.187.216:8080/live/jan/beryan/252.ts
+#EXTINF:-1,BeinSports7
+http://192.161.187.216:8080/live/jan/beryan/253.ts
+#EXTINF:-1,BeinSports8
+http://192.161.187.216:8080/live/jan/beryan/254.ts
+#EXTINF:-1,BeinSports9
+http://192.161.187.216:8080/live/jan/beryan/255.ts
+#EXTINF:-1,BeinSports10
+http://192.161.187.216:8080/live/jan/beryan/256.ts
+#EXTINF:-1,beinsports11
+http://192.161.187.216:8080/live/jan/beryan/257.ts
+#EXTINF:-1,beinsports12
+http://192.161.187.216:8080/live/jan/beryan/258.ts
 
 #EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
