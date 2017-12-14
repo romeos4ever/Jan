@@ -1,61 +1,21 @@
 #EXTM3U
 #EXTINF:-1,========|||-BEIN-SPORTS HD-|||========
 http://andrtviptv.jan-beryan.giize.com/401.ts
-#EXTINF:-1,beinHD-SPORTS- News
-http://andrtviptv.jan-beryan.giize.com/4173.ts
-#EXTINF:-1,beinHD SPORTS HD
-http://andrtviptv.jan-beryan.giize.com/4174.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-1HD
-http://andrtviptv.jan-beryan.giize.com/24.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-2-HD
-http://andrtviptv.jan-beryan.giize.com/717.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-3-HD
-http://andrtviptv.jan-beryan.giize.com/26.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-4-HD
-http://andrtviptv.jan-beryan.giize.com/27.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-5-HD
-http://andrtviptv.jan-beryan.giize.com/28.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-6-HD
-http://andrtviptv.jan-beryan.giize.com/29.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-7-HD
-http://andrtviptv.jan-beryan.giize.com/818.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-8-HD
-http://andrtviptv.jan-beryan.giize.com/31.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-9-HD
-http://andrtviptv.jan-beryan.giize.com/32.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-10-HD
-http://andrtviptv.jan-beryan.giize.com/33.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-11-HD
-http://andrtviptv.jan-beryan.giize.com/34.ts
-#EXTINF:-1,AR:-BEIN-SPORTS-12-HD
-http://andrtviptv.jan-beryan.giize.com/35.ts
-#EXTINF:-1,beinHD Sports HD13
-http://andrtviptv.jan-beryan.giize.com/4199.ts
-#EXTINF:-1,beinHD Sports HD14
-http://andrtviptv.jan-beryan.giize.com/4200.ts
-#EXTINF:-1,beinHD Sports HD15
-http://andrtviptv.jan-beryan.giize.com/4201.ts
-#EXTINF:-1,beinHD Sports HD16
-http://andrtviptv.jan-beryan.giize.com/4202.ts
-#EXTINF:-1,--|LOCAL-BEINSPORTS|--
-http://andrtviptv.jan-beryan.giize.com/4172.ts
-#EXTINF:-1,beIN-SPORTS-1HD
-http://andrtviptv.jan-beryan.giize.com/4176.ts
-#EXTINF:-1,BeinHD-Sports-HD2
-http://andrtviptv.jan-beryan.giize.com/4177.ts
-#EXTINF:-1,beinHD-Sports-HD3
-http://andrtviptv.jan-beryan.giize.com/4179.ts
-#EXTINF:-1,beinHD-Sports-HD4
-http://andrtviptv.jan-beryan.giize.com/4181.ts
-#EXTINF:-1,beinHD-Sports-HD5
-http://andrtviptv.jan-beryan.giize.com/4183.ts
-#EXTINF:-1,beinHD-Sports-HD6
-http://andrtviptv.jan-beryan.giize.com/4185.ts
-#EXTINF:-1,beinHD-Sports-HD7
-http://andrtviptv.jan-beryan.giize.com/4187.ts
-#EXTINF:-1,beinHD-Sports-HD8
-http://andrtviptv.jan-beryan.giize.com/4189.ts
-#EXTINF:-1,beinHD-Sports-HD9
-http://andrtviptv.jan-beryan.giize.com/4191.ts
-#EXTINF:-1,beinHD-Sports-HD10
-http://andrtviptv.jan-beryan.giize.com/4193.ts
+#EXTINF:-1,BEIN SPORTS-1--HD
+http://192.161.187.216:8000/jan/beryan/274.ch
+#EXTINF:-1,:BEIN SPORTS-2--HD
+http://192.161.187.216:8000/jan/beryan/152.ch
+#EXTINF:-1,:BEIN SPORTS-3--HD
+http://192.161.187.216:8000/jan/beryan/153.ch
+#EXTINF:-1,:BEIN SPORTS-5--HD
+http://192.161.187.216:8000/jan/beryan/155.ch
+#EXTINF:-1,:BEIN SPORTS-6--HD
+http://192.161.187.216:8000/jan/beryan/156.ch
+#EXTINF:-1,:BEIN SPORTS-7--HD
+http://192.161.187.216:8000/jan/beryan/157.ch
+#EXTINF:-1,:BEIN SPORTS-8--HD
+http://192.161.187.216:8000/jan/beryan/158.ch
+#EXTINF:-1,:BEIN SPORTS-9--HD
+http://192.161.187.216:8000/jan/beryan/159.ch
+#EXTINF:-1,:BEIN SPORTS-10-HD
+http://192.161.187.216:8000/jan/beryan/160.ch
