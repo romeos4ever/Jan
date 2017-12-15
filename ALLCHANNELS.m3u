@@ -20,66 +20,65 @@ http://192.161.187.216:8080/live/jan/beryan/330.ts
 http://192.161.187.216:8080/live/jan/beryan/332.ts
 #EXTINF:-1,MBC Variety HD
 http://192.161.187.216:8080/live/jan/beryan/333.ts
-
-
-
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
 http://andrtviptv11.jan-beryan.giize.com/1278.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="" group-title="07-MBC [AR]",MBC 2
 http://andrtviptv11.jan-beryan.giize.com/1279.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="" group-title="07-MBC [AR]",MBC 3
 http://andrtviptv11.jan-beryan.giize.com/1280.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="" group-title="07-MBC [AR]",MBC 4
 http://andrtviptv11.jan-beryan.giize.com/1281.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="" group-title="07-MBC [AR]",MBC MAX
 http://andrtviptv11.jan-beryan.giize.com/1283.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION" tvg-logo="" group-title="07-MBC [AR]",MBC ACTION
 http://andrtviptv11.jan-beryan.giize.com/1282.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA
 http://andrtviptv11.jan-beryan.giize.com/1286.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC DRAMA HD" tvg-logo="" group-title="07-MBC [AR]",MBC DRAMA HD
 http://andrtviptv11.jan-beryan.giize.com/1287.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC BOLLYWOOD" tvg-logo="" group-title="07-MBC [AR]",MBC BOLLYWOOD
 http://andrtviptv11.jan-beryan.giize.com/1289.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 1" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 1
 http://andrtviptv11.jan-beryan.giize.com/1284.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC MASR 2" tvg-logo="" group-title="07-MBC [AR]",MBC MASR 2
 http://andrtviptv11.jan-beryan.giize.com/1285.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC B4U AFLAM" tvg-logo="" group-title="07-MBC [AR]",MBC B4U AFLAM
 http://andrtviptv11.jan-beryan.giize.com/1292.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Alwan
 http://andrtviptv11.jan-beryan.giize.com/1290.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC ZEE Aflam" tvg-logo="" group-title="07-MBC [AR]",MBC ZEE Aflam
 http://andrtviptv11.jan-beryan.giize.com/1291.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC VARIETY HD" tvg-logo="" group-title="07-MBC [AR]",MBC VARIETY HD
 http://andrtviptv11.jan-beryan.giize.com/1288.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 4HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 4HD
 http://andrtviptv11.jan-beryan.giize.com/1296.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 3HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 3HD
 http://andrtviptv11.jan-beryan.giize.com/1295.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 2HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 2HD
 http://andrtviptv11.jan-beryan.giize.com/1294.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC SPORT 1HD" tvg-logo="" group-title="07-MBC [AR]",MBC SPORT 1HD
 http://andrtviptv11.jan-beryan.giize.com/1293.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
@@ -107,53 +106,53 @@ http://192.161.187.216:8080/live/jan/beryan/349.ts
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://andrtviptv11.jan-beryan.giize.com/1473.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
 http://andrtviptv11.jan-beryan.giize.com/1474.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
 http://andrtviptv11.jan-beryan.giize.com/1475.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
 http://andrtviptv11.jan-beryan.giize.com/1476.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
 http://andrtviptv11.jan-beryan.giize.com/1478.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
 http://andrtviptv11.jan-beryan.giize.com/1477.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
 http://andrtviptv11.jan-beryan.giize.com/1482.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
 http://andrtviptv11.jan-beryan.giize.com/1480.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
 http://andrtviptv11.jan-beryan.giize.com/1479.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
 http://andrtviptv11.jan-beryan.giize.com/1481.ts
 
 
 #EXTINF:-1 tvg-logo="http://masr140.org/wp-content/uploads/2016/11/hqdefault-1-2.jpg",======ART [AR]========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
 http://andrtviptv11.jan-beryan.giize.com/1319.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
 http://andrtviptv11.jan-beryan.giize.com/1320.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
 http://andrtviptv11.jan-beryan.giize.com/1321.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
 http://andrtviptv11.jan-beryan.giize.com/1322.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
 http://andrtviptv11.jan-beryan.giize.com/1323.ts
 
@@ -161,23 +160,22 @@ http://andrtviptv11.jan-beryan.giize.com/1323.ts
 
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 1HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 1HD
 http://andrtviptv11.jan-beryan.giize.com/1467.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 2HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 2HD
 http://andrtviptv11.jan-beryan.giize.com/1468.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 3HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 3HD
 http://andrtviptv11.jan-beryan.giize.com/1469.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 4HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 4HD
 http://andrtviptv11.jan-beryan.giize.com/1470.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 5HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 5HD
 http://andrtviptv11.jan-beryan.giize.com/1471.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
-
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AD Sports 6HD" tvg-logo="" group-title="04-AD SPORTS [AR]",AD Sports 6HD
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
 
@@ -186,33 +184,39 @@ http://andrtviptv11.jan-beryan.giize.com/1472.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/02/15/09/33/news-636978_960_720.jpg",=====NEWS [AR]========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
 http://andrtviptv11.jan-beryan.giize.com/1324.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia" tvg-logo="" group-title="",Alarabiyia
 http://andrtviptv11.jan-beryan.giize.com/1325.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Alhadath" tvg-logo="" group-title="",Alhadath
 http://andrtviptv11.jan-beryan.giize.com/1326.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Ekhbariya" tvg-logo="" group-title="",Al Ekhbariya
 http://andrtviptv11.jan-beryan.giize.com/1328.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BBC" tvg-logo="" group-title="",BBC
 http://andrtviptv11.jan-beryan.giize.com/1331.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" group-title="",Skynews
 http://andrtviptv11.jan-beryan.giize.com/1327.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="CN Arabia" tvg-logo="" group-title="12-ENFANTS [AR]",CN Arabia
 http://andrtviptv11.jan-beryan.giize.com/1335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index783.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia" tvg-logo="" group-title="",Alarabiyia
+http://live.alarabiya.net/alarabiya/myStream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alhadath" tvg-logo="" group-title="",Alhadath
+http://live.alhadath.net/hadath/myStream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BBC" tvg-logo="" group-title="",BBC
+http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/manifest.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" group-title="",Skynews
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/playlist.m3u8
 
 
 
@@ -220,25 +224,25 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.missionislam.com/discover/digrf/understandislam.jpg",=====ISLAM [AR]========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Majd" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd
 http://andrtviptv11.jan-beryan.giize.com/1342.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Alresalah" tvg-logo="" group-title="12-ENFANTS [AR]",Alresalah
 http://andrtviptv11.jan-beryan.giize.com/1346.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Majd Quran" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Quran
 http://andrtviptv11.jan-beryan.giize.com/1340.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Majd Hadith" tvg-logo="" group-title="12-ENFANTS [AR]",Al Majd Hadith
 http://andrtviptv11.jan-beryan.giize.com/1341.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="IQRAA" tvg-logo="" group-title="12-ENFANTS [AR]",IQRAA
 http://andrtviptv11.jan-beryan.giize.com/1345.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Alrahma" tvg-logo="" group-title="12-ENFANTS [AR]",Alrahma
 http://andrtviptv11.jan-beryan.giize.com/1343.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Alnas" tvg-logo="" group-title="12-ENFANTS [AR]",Alnas
 http://andrtviptv11.jan-beryan.giize.com/1344.ts
 #EXTINF:-1,Wesal
@@ -275,13 +279,13 @@ http://andrtviptv11.jan-beryan.giize.com/1336.ts
 
 #EXTINF:-1 tvg-logo="http://www.2gzr.com/uploads/2014/07/documentary-2.jpg",=====DOCUMENTARY [AR]=======
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Quest-Arabia" tvg-logo="" group-title="",Quest-Arabia
 http://andrtviptv11.jan-beryan.giize.com/1334.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="",National Geo-Abudhabi
 http://andrtviptv11.jan-beryan.giize.com/1333.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aljazeera Doc" tvg-logo="" group-title="",Aljazeera Doc
 http://andrtviptv11.jan-beryan.giize.com/1332.ts
 
@@ -290,107 +294,109 @@ http://andrtviptv11.jan-beryan.giize.com/1332.ts
 
 #EXTINF:-1 tvg-logo="http://www.almountakhab.com/uploads/resized/drapeau_maroc.resized-600x300.jpg",=====MAROC [AR]=======
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="08-MAROC [AR]",Al-Aoula-Inter
 http://andrtviptv11.jan-beryan.giize.com/1382.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="2M-Monde" tvg-logo="" group-title="08-MAROC [AR]",2M-Monde
 http://andrtviptv11.jan-beryan.giize.com/1383.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Medi-1-TV" tvg-logo="" group-title="08-MAROC [AR]",Medi-1-TV
 http://andrtviptv11.jan-beryan.giize.com/1381.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al-Maghribia" tvg-logo="" group-title="08-MAROC [AR]",Al-Maghribia
 http://andrtviptv11.jan-beryan.giize.com/1384.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tele-Maroc" tvg-logo="" group-title="08-MAROC [AR]",Tele-Maroc
 http://andrtviptv11.jan-beryan.giize.com/1380.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tamazight" tvg-logo="" group-title="08-MAROC [AR]",Tamazight
 http://andrtviptv11.jan-beryan.giize.com/1385.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Arriadia" tvg-logo="" group-title="08-MAROC [AR]",Arriadia
 http://andrtviptv11.jan-beryan.giize.com/1388.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="SUD24-TV" tvg-logo="" group-title="08-MAROC [AR]",SUD24-TV
 http://andrtviptv11.jan-beryan.giize.com/1389.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Assadisa" tvg-logo="" group-title="08-MAROC [AR]",Assadisa
 http://andrtviptv11.jan-beryan.giize.com/1387.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Arrabia" tvg-logo="" group-title="08-MAROC [AR]",Arrabia
 http://andrtviptv11.jan-beryan.giize.com/1386.ts
 
 
+
+
 #EXTINF:-1 tvg-logo="http://www.larousse.fr/encyclopedie/data/images/1009452-Drapeau_de_lAlg%C3%A9rie.jpg",=====ALGERIE [AR]========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Samira-Tv" tvg-logo="" group-title="09-ALGERIE [AR]",Samira-Tv
 http://andrtviptv11.jan-beryan.giize.com/1379.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Programme.National" tvg-logo="" group-title="09-ALGERIE [AR]",Programme.National
 http://andrtviptv11.jan-beryan.giize.com/1360.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Canal-Algerie" tvg-logo="" group-title="09-ALGERIE [AR]",Canal-Algerie
 http://andrtviptv11.jan-beryan.giize.com/1361.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Algeria 3" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 3
 http://andrtviptv11.jan-beryan.giize.com/1362.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Algeria 5" tvg-logo="" group-title="09-ALGERIE [AR]",Algeria 5
 http://andrtviptv11.jan-beryan.giize.com/1363.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Echorouk TV" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk TV
 http://andrtviptv11.jan-beryan.giize.com/1358.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Echorouk news" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk news
 http://andrtviptv11.jan-beryan.giize.com/1357.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Echorouk Benna" tvg-logo="" group-title="09-ALGERIE [AR]",Echorouk Benna
 http://andrtviptv11.jan-beryan.giize.com/1359.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Kbc Algeria" tvg-logo="" group-title="09-ALGERIE [AR]",Kbc Algeria
 http://andrtviptv11.jan-beryan.giize.com/1369.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Eljazairia-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Eljazairia-TV
 http://andrtviptv11.jan-beryan.giize.com/1372.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="EnnahLaki" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahLaki
 http://andrtviptv11.jan-beryan.giize.com/1365.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="EnnahTV" tvg-logo="" group-title="09-ALGERIE [AR]",EnnahTV
 http://andrtviptv11.jan-beryan.giize.com/1364.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Elhaddaf-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Elhaddaf-TV
 http://andrtviptv11.jan-beryan.giize.com/1371.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Elbilad" tvg-logo="" group-title="09-ALGERIE [AR]",Elbilad
 http://andrtviptv11.jan-beryan.giize.com/1370.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Dzair TV" tvg-logo="" group-title="09-ALGERIE [AR]",Dzair TV
 http://andrtviptv11.jan-beryan.giize.com/1368.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Dzai News" tvg-logo="" group-title="09-ALGERIE [AR]",Dzai News
 http://andrtviptv11.jan-beryan.giize.com/1367.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Magharibia-1" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-1
 http://andrtviptv11.jan-beryan.giize.com/1373.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Magharibia-2" tvg-logo="" group-title="09-ALGERIE [AR]",Al Magharibia-2
 http://andrtviptv11.jan-beryan.giize.com/1374.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Berbere-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-TV
 http://andrtviptv11.jan-beryan.giize.com/1376.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Berbere-Music" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Music
 http://andrtviptv11.jan-beryan.giize.com/1377.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Berbere-Jeuness" tvg-logo="" group-title="09-ALGERIE [AR]",Berbere-Jeuness
 http://andrtviptv11.jan-beryan.giize.com/1378.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Beur-TV" tvg-logo="" group-title="09-ALGERIE [AR]",Beur-TV
 http://andrtviptv11.jan-beryan.giize.com/1375.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BAHIA TV" tvg-logo="" group-title="09-ALGERIE [AR]",BAHIA TV
 http://andrtviptv11.jan-beryan.giize.com/1366.ts
 
@@ -398,36 +404,39 @@ http://andrtviptv11.jan-beryan.giize.com/1366.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.psychologytoday.com/sites/default/files/blogs/1023/2009/11/34753-78991.jpg",=====TUNISIE [AR]========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tonesna" tvg-logo="" group-title="10-TUNISIE [AR]",Tonesna
 http://andrtviptv11.jan-beryan.giize.com/1349.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 1
 http://andrtviptv11.jan-beryan.giize.com/1347.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tunesia 2" tvg-logo="" group-title="10-TUNISIE [AR]",Tunesia 2
 http://andrtviptv11.jan-beryan.giize.com/1348.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Nessma" tvg-logo="" group-title="10-TUNISIE [AR]",Nessma
 http://andrtviptv11.jan-beryan.giize.com/1352.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Hannibal" tvg-logo="" group-title="10-TUNISIE [AR]",Hannibal
 http://andrtviptv11.jan-beryan.giize.com/1351.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Telvaza" tvg-logo="" group-title="10-TUNISIE [AR]",Telvaza
 http://andrtviptv11.jan-beryan.giize.com/1355.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Zitouna" tvg-logo="" group-title="10-TUNISIE [AR]",Zitouna
 http://andrtviptv11.jan-beryan.giize.com/1353.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="El-HiwEttounsi" tvg-logo="" group-title="10-TUNISIE [AR]",El-HiwEttounsi
 http://andrtviptv11.jan-beryan.giize.com/1350.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Attasiaa" tvg-logo="" group-title="10-TUNISIE [AR]",Attasiaa
 http://andrtviptv11.jan-beryan.giize.com/1354.ts
-#EXTVLCOPT:http-user-agent=gggvvv LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al-Janoubia" tvg-logo="" group-title="10-TUNISIE [AR]",Al-Janoubia
 http://andrtviptv11.jan-beryan.giize.com/1356.ts
+
+
+
 
 
 
