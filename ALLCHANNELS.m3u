@@ -3,23 +3,23 @@
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTINF:-1,MBC 1 HD
-http://192.161.187.216:8080/live/jan/beryan/325.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/325.ts
 #EXTINF:-1,MBC 2 hd
-http://192.161.187.216:8080/live/jan/beryan/326.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/326.ts
 #EXTINF:-1,MBC 3 HD
-http://192.161.187.216:8080/live/jan/beryan/327.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/327.ts
 #EXTINF:-1,MBC 4 HD
-http://192.161.187.216:8080/live/jan/beryan/328.ts
-#EXTINF:-1,MBC Action HD
-http://192.161.187.216:8080/live/jan/beryan/331.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/328.ts
 #EXTINF:-1,MBC Drama HD
-http://192.161.187.216:8080/live/jan/beryan/329.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/329.ts
 #EXTINF:-1,MBC plus Drama HD
-http://192.161.187.216:8080/live/jan/beryan/330.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/330.ts
+#EXTINF:-1,MBC Action HD
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/331.ts
 #EXTINF:-1,MBC MAX HD
-http://192.161.187.216:8080/live/jan/beryan/332.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/332.ts
 #EXTINF:-1,MBC Variety HD
-http://192.161.187.216:8080/live/jan/beryan/333.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/333.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
 http://andrtviptv11.jan-beryan.giize.com/1278.ts
@@ -83,29 +83,36 @@ http://andrtviptv11.jan-beryan.giize.com/1293.ts
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-http://192.161.187.216:8080/movie/jan/beryan/5.mkv
 #EXTINF:-1,OSN Yahala HD
-http://192.161.187.216:8080/live/jan/beryan/334.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/334.ts
 #EXTINF:-1,OSN Yahala First 2 HD
-http://192.161.187.216:8080/live/jan/beryan/336.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/336.ts
 #EXTINF:-1,OSN Yahala First
-http://192.161.187.216:8080/live/jan/beryan/335.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/335.ts
 #EXTINF:-1,OSN Yahala Cinema HD
-http://192.161.187.216:8080/live/jan/beryan/337.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/337.ts
 #EXTINF:-1,OSN Movies Premiere HD
-http://192.161.187.216:8080/live/jan/beryan/343.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/343.ts
 #EXTINF:-1,OSN MOVIES KIDS HD
-http://192.161.187.216:8080/live/jan/beryan/346.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/346.ts
 #EXTINF:-1,OSN Movies HD
-http://192.161.187.216:8080/live/jan/beryan/344.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/344.ts
 #EXTINF:-1,OSN Movies Comedy HD
-http://192.161.187.216:8080/live/jan/beryan/349.ts
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/349.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
+#EXTINF:-1,BeIN Movies HD1
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/339.ts
+#EXTINF:-1,BeIN Movies 2 HD
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/340.ts
+#EXTINF:-1,BeIN Movies HD3
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/341.ts
+#EXTINF:-1,BeIN Movies 4 HD
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/342.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://andrtviptv11.jan-beryan.giize.com/1473.ts
@@ -157,6 +164,23 @@ http://andrtviptv11.jan-beryan.giize.com/1322.ts
 http://andrtviptv11.jan-beryan.giize.com/1323.ts
 
 
+#EXTINF:-1,*******Rotana*******
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/547.ts
+#EXTINF:-1,Rotana Khaligi
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/548.ts
+#EXTINF:-1,Rotana Drama
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/551.ts
+#EXTINF:-1,Rotana Classic
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/552.ts
+#EXTINF:-1,Rotana CINMA
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/549.ts
+#EXTINF:-1,Rotana Aflam
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/550.ts
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
@@ -184,6 +208,22 @@ http://andrtviptv11.jan-beryan.giize.com/1472.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/02/15/09/33/news-636978_960_720.jpg",=====NEWS [AR]========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
+
+#EXTINF:-1,BBC
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/557.ts
+#EXTINF:-1,Alarabiyia
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/564.ts
+#EXTINF:-1,Alhadath
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/556.ts
+#EXTINF:-1,Aljazeera
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/562.ts
+#EXTINF:-1,NRT
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/567.ts
+#EXTINF:-1,ANN
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/140.ts
+#EXTINF:-1,Al Hiwar
+http://192.161.187.216:8080/live/www.free-worldiptv.com/janberyan/566.ts
+
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="",Aljazeera
 http://andrtviptv11.jan-beryan.giize.com/1324.ts
