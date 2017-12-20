@@ -2,23 +2,24 @@
 
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-
-#EXTINF:-1,AR-MBC1
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/91.ts
-#EXTINF:-1,AR-MBC-2
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/92.ts
-#EXTINF:-1,AR-MBC3
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/93.ts
-#EXTINF:-1,AR-MBC4
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/94.ts
-#EXTINF:-1,AR-MBCDrama
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/99.ts
-#EXTINF:-1,AR-MBCAction
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/95.ts
-#EXTINF:-1,AR-MBCMasr
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/97.ts
-#EXTINF:-1,AR-MBC-masr-2
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/98.ts
+#EXTINF:-1,MBC 1
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1031.ts
+#EXTINF:-1,MBC 2
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1032.ts
+#EXTINF:-1,MBC 3
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1033.ts
+#EXTINF:-1,MBC 4
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1034.ts
+#EXTINF:-1,MBC DRAMA
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1037.ts
+#EXTINF:-1,MBC DRAMA HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1038.ts
+#EXTINF:-1,MBC ACTION
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1036.ts
+#EXTINF:-1,MBC MAX
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1035.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1039.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
 http://andrtviptv11.jan-beryan.giize.com/1278.ts
@@ -82,76 +83,59 @@ http://andrtviptv11.jan-beryan.giize.com/1293.ts
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTINF:-1,OSN:YAHALA Shabab
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/270.ts
-#EXTINF:-1,OSN:WWE HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/275.ts
-#EXTINF:-1,OSN:STAR WORLD HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/272.ts
-#EXTINF:-1,OSN:On Demand Sci-Fi
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/277.ts
-#EXTINF:-1,OSN:On Demand Horror
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/278.ts
-#EXTINF:-1,OSN:Fox Movie HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/274.ts
-#EXTINF:-1,OSN Yahala hd
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/269.ts
-#EXTINF:-1,OSN FIRST HBO
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/271.ts
-#EXTINF:-1,OSN FIGHT HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/273.ts
-#EXTINF:-1,OSN E!
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/276.ts
-#EXTINF:-1,OSN WWE
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/232.ts
-#EXTINF:-1,OSN MOVIES 2
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/231.ts
-#EXTINF:-1,ART2
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/230.ts
-#EXTINF:-1,ART1
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/229.ts
+#EXTINF:-1,OSN: ON DEMAND EXTRA 3 HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1061.ts
+#EXTINF:-1,OSN: On Demand Extra 1
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1060.ts
+#EXTINF:-1,OSN: ON DEMAND 3 HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1059.ts
+#EXTINF:-1,OSN: ON DEMAND 2 HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1058.ts
+#EXTINF:-1,OSN: ON DEMAND 1 HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1057.ts
+#EXTINF:-1,OSN: MOVIES PREMIERE HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1063.ts
+#EXTINF:-1,OSN: Movies Premiere 2HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1062.ts
+#EXTINF:-1,OSN: MOVIES ACTION HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1067.ts
+#EXTINF:-1,OSN: Movies 2 HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1065.ts
+#EXTINF:-1,OSN: BOXOFFICE 2
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1056.ts
+#EXTINF:-1,OSN: Box Office 1
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1055.ts
+#EXTINF:-1,OSN: Action 2
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1054.ts
+#EXTINF:-1,OSN: Action
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1053.ts
+#EXTINF:-1,OSN:  Ya Hala Shabab
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1052.ts
+#EXTINF:-1,OSN:  Ya Hala Drama
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1051.ts
+#EXTINF:-1,OSN:  Ya Hala Cinema
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1050.ts
+#EXTINF:-1,OSN:  Ya Hala 2
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1049.ts
+#EXTINF:-1,OSN:  Ya Hala
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1048.ts
+#EXTINF:-1,OSN:  WWE HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1047.ts
+#EXTINF:-1,OSN:  FX HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1045.ts
+#EXTINF:-1,OSN:  Fox Movies HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1044.ts
+#EXTINF:-1,OSN:  Comedy Central HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1043.ts
+#EXTINF:-1,OSN:  Cinema 2
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1042.ts
+#EXTINF:-1,OSN:  Cinema 1
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1041.ts
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-#EXTINF:-1,BEIN:SERIE.1.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/385.ts
-#EXTINF:-1,BEIN:FOX.MOVIES.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/386.ts
-#EXTINF:-1,BEIN:FATAFEAT.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/387.ts
-#EXTINF:-1,BEIN.STAR.WORLD.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/390.ts
-#EXTINF:-1,BEIN.STAR.MOVIES.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/391.ts
-#EXTINF:-1,BEIN.OUTDOOR.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/392.ts
-#EXTINF:-1,BEIN.Nat.Geo.Wild.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/393.ts
-#EXTINF:-1,BEIN.JEEM.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/394.ts
-#EXTINF:-1,BEIN.FOX.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/395.ts
-#EXTINF:-1,BEIN.Discovery.Sc.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/396.ts
-#EXTINF:-1,BEIN.BOX.OFFICE.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/399.ts
-#EXTINF:-1,BEIN.BOOMERANG
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/400.ts
-#EXTINF:-1,BEIN.BE.JUNIOR
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/401.ts
-#EXTINF:-1,BEIN.BARAEM.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/402.ts
-#EXTINF:-1,BEIN.Animal.Planet.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/403.ts
-#EXTINF:-1,BEIN.AMC.HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/404.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-3-HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/409.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-2-HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/408.ts
-#EXTINF:-1,AR:-BEIN-MOVIES-1-HD
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/407.ts
+
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://andrtviptv11.jan-beryan.giize.com/1473.ts
