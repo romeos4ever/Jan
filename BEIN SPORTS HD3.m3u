@@ -1,23 +1,27 @@
 #EXTM3U
 #EXTINF:-1,========|||-BEIN-SPORTS HD-|||========
 http://andrtviptv.jan-beryan.giize.com/401.ts
-#EXTINF:-1,AR | beIN Sports 1 FHD
-http://192.161.187.216:8080/live/jan/beryan/172.ts
-#EXTINF:-1,AR | beIN Sports 2 FHD
-http://192.161.187.216:8080/live/jan/beryan/174.ts
-#EXTINF:-1,AR | beIN Sports 3 FHD
-http://192.161.187.216:8080/live/jan/beryan/176.ts
-#EXTINF:-1,AR | beIN Sports 4 FHD
-http://192.161.187.216:8080/live/jan/beryan/178.ts
-#EXTINF:-1,AR | beIN Sports 5 FHD
-http://192.161.187.216:8080/live/jan/beryan/180.ts
-#EXTINF:-1,AR | beIN Sports 6 FHD
-http://192.161.187.216:8080/live/jan/beryan/182.ts
-#EXTINF:-1,AR | beIN Sports 7 FHD
-http://192.161.187.216:8080/live/jan/beryan/184.ts
-#EXTINF:-1,AR | beIN Sports 8 FHD
-http://192.161.187.216:8080/live/jan/beryan/186.ts
-#EXTINF:-1,AR | beIN Sports 9 FHD
-http://192.161.187.216:8080/live/jan/beryan/187.ts
-#EXTINF:-1,AR | beIN Sports 10 FHD
-http://192.161.187.216:8080/live/jan/beryan/188.ts
+#EXTINF:-1,BeINSPORTS News
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/996.ts
+#EXTINF:-1,BeINSPORTS Global
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/997.ts
+#EXTINF:-1,BeINSPORTS 1HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/998.ts
+#EXTINF:-1,BeINSPORTS 2HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/999.ts
+#EXTINF:-1,BeINSPORTS 3HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1000.ts
+#EXTINF:-1,BeINSPORTS 4HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1001.ts
+#EXTINF:-1,BeINSPORTS 5HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1002.ts
+#EXTINF:-1,BeINSPORTS 6HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1003.ts
+#EXTINF:-1,BeINSPORTS 7HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1004.ts
+#EXTINF:-1,BeINSPORTS 8HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1005.ts
+#EXTINF:-1,BeINSPORTS 9HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1006.ts
+#EXTINF:-1,BeINSPORTS 10HD
+http://185.186.244.80:8080/live/www.janberyan.com/beryan/1007.ts
