@@ -1,21 +1,29 @@
 
-#EXTINF:-1,BEIN SPORTS 1 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1069.ts
-#EXTINF:-1,BEIN SPORTS 2 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1070.ts
-#EXTINF:-1,BEIN SPORTS 3 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1071.ts
-#EXTINF:-1,BEIN SPORTS 4 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1072.ts
-#EXTINF:-1,BEIN SPORTS 5 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1073.ts
-#EXTINF:-1,BEIN SPORTS 6 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1074.ts
-#EXTINF:-1,BEIN SPORTS 7 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1075.ts
-#EXTINF:-1,BEIN SPORTS 8 HD.
-http://185.186.244.80:8080/live/www.janberyan.com/beryan/1076.ts
-
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/995.ts
+#EXTINF:-1,BeINSPORTS News
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/996.ts
+#EXTINF:-1,BeINSPORTS Global
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/997.ts
+#EXTINF:-1,BeINSPORTS 1HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/998.ts
+#EXTINF:-1,BeINSPORTS 2HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/999.ts
+#EXTINF:-1,BeINSPORTS 3HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1000.ts
+#EXTINF:-1,BeINSPORTS 4HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1001.ts
+#EXTINF:-1,BeINSPORTS 5HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1002.ts
+#EXTINF:-1,BeINSPORTS 6HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1003.ts
+#EXTINF:-1,BeINSPORTS 7HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1004.ts
+#EXTINF:-1,BeINSPORTS 8HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1005.ts
+#EXTINF:-1,BeINSPORTS 9HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1006.ts
+#EXTINF:-1,BeINSPORTS 10HD
+http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1007.ts
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
