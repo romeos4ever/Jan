@@ -2,22 +2,27 @@
 
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
+
+
 #EXTINF:-1,MBC 1
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1031.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1031.ts
 #EXTINF:-1,MBC 2
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1032.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1032.ts
 #EXTINF:-1,MBC 3
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1033.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1033.ts
 #EXTINF:-1,MBC 4
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1034.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1034.ts
 #EXTINF:-1,MBC ACTION
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1036.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1036.ts
 #EXTINF:-1,MBC DRAMA
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1037.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1037.ts
 #EXTINF:-1,MBC DRAMA HD
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1038.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1038.ts
 #EXTINF:-1,MBC MAX
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1035.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1035.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1039.ts
+
 #EXTINF:-1,MBC BOLLYWOOD
 http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1039.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -84,29 +89,32 @@ http://andrtviptv11.jan-beryan.giize.com/1293.ts
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
 #EXTINF:-1,OSN Cinema 1
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1129.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1129.ts
 #EXTINF:-1,OSN Cinema 2
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1130.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1130.ts
 #EXTINF:-1,OSN:ART AFLAM 1
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1126.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1126.ts
 #EXTINF:-1,OSN:ART AFLAM 2
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1127.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1127.ts
 #EXTINF:-1,osn yahalahd
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1128.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1128.ts
 #EXTINF:-1,OSN FOX ACTION HD
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1137.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1137.ts
 #EXTINF:-1,OSN:Fox Movie HD
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1133.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1133.ts
 #EXTINF:-1,OSN:On Demand Horror
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1136.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1136.ts
 #EXTINF:-1,OSN:STAR WORLD HD
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1132.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1132.ts
 #EXTINF:-1,OSN E!
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1135.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1135.ts
 #EXTINF:-1,OSN FIRST HBO
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1131.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1131.ts
 #EXTINF:-1,OSN:WWE HD
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1134.ts
+http://185.186.244.80:8080/live/www.janberyan..com/jano/1134.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
