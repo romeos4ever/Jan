@@ -1,23 +1,5 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
+#EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV coming soon ~
 http://www.lengua.com/anthems/Spain.mp3
-
-#EXTINF:-1,ES:Real_Madrid
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1024.ts
-#EXTINF:-1,ES:FOX_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1014.ts
-#EXTINF:-1,ES:Movistar_TOROS
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1017.ts
-#EXTINF:-1,ES:Movistar_SERIES
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1016.ts
-#EXTINF:-1,ES:Movistar_ESTRENOS
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1019.ts
-#EXTINF:-1,ES:Movistar_DEPORTES
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1018.ts
-#EXTINF:-1,ES:Movistar_COMIDEA
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1023.ts
-#EXTINF:-1,ES:Barca_TV
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1025.ts
-
