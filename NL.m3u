@@ -3,32 +3,7 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",======NETHERLANDS=======
 http://www.lengua.com/anthems/Netherlands.mp3
-#EXTINF:-1,NL:Ziggo_Sport_Extra_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/931.ts
-#EXTINF:-1,NL:SBS_9
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/937.ts
-#EXTINF:-1,NL:RTL_7
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/940.ts
-#EXTINF:-1,NL:RTL_4
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/938.ts
-#EXTINF:-1,NL:NPO_2
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/923.ts
-#EXTINF:-1,NL:NPO_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/922.ts
-#EXTINF:-1,NL:NET_5
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/935.ts
-#EXTINF:-1,NL:NATIONAL_GEOGRAPHIC
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/941.ts
-#EXTINF:-1,NL:HBO_2
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/925.ts
-#EXTINF:-1,NL:HBO_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/924.ts
-#EXTINF:-1,NL:Fox_Sports_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/926.ts
-#EXTINF:-1,NL:Fox_Sports_2
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/762.ts
-#EXTINF:-1,NL:FILM_1_COMEDY
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/764.ts
+
 #EXTM3U
 #EXTINF:-1,Film1 Premiere FHD 1080
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/762.m3u8$http-refferer=http://localhost
