@@ -110,12 +110,41 @@ http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1135.ts
 http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1130.ts
 #EXTINF:-1,OSN Cinema 1
 http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1129.ts
+#EXTINF:-1,Star-Movies
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1446.ts
+#EXTINF:-1,OSN-Musalsalat
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1447.ts
+#EXTINF:-1,OSN-Movies-Premiere2
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1460.ts
+#EXTINF:-1,OSN-Movies-Premiere
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1459.ts
+#EXTINF:-1,OSN-Movies-First
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1458.ts
+#EXTINF:-1,OSN-Movies-Festival
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1456.ts
+#EXTINF:-1,OSN-Movies-Drama
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1461.ts
+#EXTINF:-1,OSN-Movies-Comedy
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1457.ts
+#EXTINF:-1,OSN-Movies-Action2
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1455.ts
+#EXTINF:-1,OSN MOVIES+2
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1454.ts
+#EXTINF:-1,OSN MOVIES
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1453.ts
 
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://andrtviptv11.jan-beryan.giize.com/1472.ts
-
+#EXTINF:-1,BEIN MOVES1
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1449.ts
+#EXTINF:-1,BEIN MOVES2
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1450.ts
+#EXTINF:-1,BEIN MOVES3
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1451.ts
+#EXTINF:-1,BEIN MOVES4
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1452.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://andrtviptv11.jan-beryan.giize.com/1473.ts
