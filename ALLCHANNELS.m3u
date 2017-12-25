@@ -232,7 +232,16 @@ http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/ma
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/playlist.m3u8
-
+#EXTINF:-1,Sky News Arabia
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1144.ts
+#EXTINF:-1,Alsharqiya News
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1145.ts
+#EXTINF:-1,Al Jazeera News
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1141.ts
+#EXTINF:-1,Al Hadath News
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1143.ts
+#EXTINF:-1,Al Arabiya News
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1142.ts
 
 
 
