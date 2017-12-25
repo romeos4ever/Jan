@@ -147,6 +147,8 @@ http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1450.ts
 http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1451.ts
 #EXTINF:-1,BEIN MOVES4
 http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1452.ts
+#EXTINF:-1,Bein_Series_2
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1463.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://andrtviptv11.jan-beryan.giize.com/1473.ts
