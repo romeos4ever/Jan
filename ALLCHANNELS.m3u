@@ -200,7 +200,20 @@ http://andrtviptv11.jan-beryan.giize.com/1322.ts
 http://andrtviptv11.jan-beryan.giize.com/1323.ts
 
 
-
+#EXTINF:-1,========ROTANA=========
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1470.ts
+#EXTINF:-1,Rotana_Music
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1465.ts
+#EXTINF:-1,Rotana_Clip
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1464.ts
+#EXTINF:-1,Rotana_cinema_Egy
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1468.ts
+#EXTINF:-1,Rotana_Cinema
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1466.ts
+#EXTINF:-1,Rotana_Aflam
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1467.ts
+#EXTINF:-1,Rotana Drama
+http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1469.ts
 
 
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
