@@ -1,26 +1,22 @@
 
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1472.ts
-#EXTINF:-1,MBC 1
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1031.ts
-#EXTINF:-1,MBC 2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1032.ts
-#EXTINF:-1,MBC 3
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1033.ts
-#EXTINF:-1,MBC 4
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1034.ts
-#EXTINF:-1,MBC ACTION
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1036.ts
-#EXTINF:-1,MBC BOLLYWOOD
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1039.ts
-#EXTINF:-1,MBC DRAMA
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1037.ts
-#EXTINF:-1,MBC DRAMA HD
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1038.ts
-#EXTINF:-1,MBC MAX
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1035.ts
-#EXTINF:-1,CBC DRAMA
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1471.ts
+#EXTINF:-1,**MBC 1
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1543.ts
+#EXTINF:-1,**MBC 2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1544.ts
+#EXTINF:-1,**MBC 3
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1545.ts
+#EXTINF:-1,**MBC 4
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1546.ts
+#EXTINF:-1,**MBC Drama
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1549.ts
+#EXTINF:-1,**MBC ACTION
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1548.ts
+#EXTINF:-1,**MBC Max
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1547.ts
+#EXTINF:-1,**MBC BOLLYWOOD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1550.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="" group-title="07-MBC [AR]",MBC 1
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1278.ts
@@ -84,72 +80,56 @@ http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1293.ts
 
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1472.ts
-#EXTINF:-1,Star-Movies
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1446.ts
-#EXTINF:-1,OSN:WWE HD
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1134.ts
-#EXTINF:-1,OSN:STAR WORLD HD
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1132.ts
-#EXTINF:-1,OSN:On Demand Horror
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1136.ts
-#EXTINF:-1,OSN:Fox Movie HD
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1133.ts
-#EXTINF:-1,OSN:ART AFLAM 2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1127.ts
-#EXTINF:-1,OSN:ART AFLAM 1
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1126.ts
-#EXTINF:-1,OSN-Musalsalat2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1447.ts
-#EXTINF:-1,OSN-Musalsalat1
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1480.ts
-#EXTINF:-1,OSN-Movies-Premiere2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1460.ts
-#EXTINF:-1,OSN-Movies-Premiere
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1459.ts
-#EXTINF:-1,OSN-Movies-First
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1458.ts
-#EXTINF:-1,OSN-Movies-Festival
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1456.ts
-#EXTINF:-1,OSN-Movies-Drama
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1461.ts
-#EXTINF:-1,OSN-Movies-Comedy
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1457.ts
-#EXTINF:-1,OSN-Movies-Action2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1455.ts
-#EXTINF:-1,osn yahalahd
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1128.ts
-#EXTINF:-1,OSN MOVIES+2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1454.ts
-#EXTINF:-1,OSN MOVIES
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1453.ts
-#EXTINF:-1,OSN FOX ACTION HD
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1137.ts
-#EXTINF:-1,OSN FIRST HBO
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1131.ts
-#EXTINF:-1,OSN E!
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1135.ts
-#EXTINF:-1,OSN Cinema 2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1130.ts
-#EXTINF:-1,OSN Cinema 1
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1129.ts
+#EXTINF:-1,**Star-Movies
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1552.ts
+#EXTINF:-1,**OSN_Fox-Movies
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1553.ts
+#EXTINF:-1,**OSN-Musalsalat
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1567.ts
+#EXTINF:-1,**OSN-MoviesHD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1554.ts
+#EXTINF:-1,**OSN-Movies2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1555.ts
+#EXTINF:-1,**OSN-Movies-Premiere2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1563.ts
+#EXTINF:-1,**OSN-Movies-Premiere
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1562.ts
+#EXTINF:-1,**OSN-Movies-First
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1561.ts
+#EXTINF:-1,**OSN-Movies-Festival
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1558.ts
+#EXTINF:-1,**OSN-Movies-Family
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1559.ts
+#EXTINF:-1,**OSN-Movies-Drama
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1564.ts
+#EXTINF:-1,**OSN-Movies-Comedy
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1560.ts
+#EXTINF:-1,**OSN-Movies-Action2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1557.ts
+#EXTINF:-1,**OSN-Movies-Action
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1556.ts
+#EXTINF:-1,**OSN-Cinema2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1566.ts
+#EXTINF:-1,**OSN-Cinema1
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1565.ts
+#EXTINF:-1,**ART-Hekayat2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1569.ts
+#EXTINF:-1,**ART-Hekayat1
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1568.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1472.ts
-#EXTINF:-1,Bein_Series_2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1463.ts
-#EXTINF:-1,beIN_Drama
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1462.ts
-#EXTINF:-1,BEIN MOVES4
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1452.ts
-#EXTINF:-1,BEIN MOVES3
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1451.ts
-#EXTINF:-1,BEIN MOVES2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1450.ts
-#EXTINF:-1,BEIN MOVES1
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1449.ts
+#EXTINF:-1,**BEIN MOVES4
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1571.ts
+#EXTINF:-1,**BEIN MOVES3
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1572.ts
+#EXTINF:-1,**BEIN MOVES2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1573.ts
+#EXTINF:-1,**BEIN MOVES1
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1574.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1473.ts
@@ -203,18 +183,18 @@ http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1323.ts
 
 #EXTINF:-1,========ROTANA=========
 http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1470.ts
-#EXTINF:-1,Rotana_Music
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1465.ts
-#EXTINF:-1,Rotana_Clip
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1464.ts
-#EXTINF:-1,Rotana_cinema_Egy
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1468.ts
-#EXTINF:-1,Rotana_Cinema
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1466.ts
-#EXTINF:-1,Rotana_Aflam
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1467.ts
-#EXTINF:-1,Rotana Drama
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1469.ts
+#EXTINF:-1,**Rotana_Music
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1576.ts
+#EXTINF:-1,**Rotana_Clip
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1577.ts
+#EXTINF:-1,**Rotana_Cinema
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1579.ts
+#EXTINF:-1,**Rotana-Khalijia
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1578.ts
+#EXTINF:-1,**Rotana-Classic
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1580.ts
+#EXTINF:-1,**Rotana Drama
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1581.ts
 
 
 #EXTINF:-1 tvg-logo="http://frequencyme.com/wp-content/uploads/1-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-abu-dhabi-sports.png",=====AD SPORTS [AR]=========
