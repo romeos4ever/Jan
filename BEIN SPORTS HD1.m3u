@@ -16,7 +16,6 @@ http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1497.ts
 #EXTINF:-1,Bein 8
 http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1498.ts
 
-
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
 http://rmd.primatv.club:8899/live/kytxlgdsjkfjj/AsErzB8D7L/1494.ts
