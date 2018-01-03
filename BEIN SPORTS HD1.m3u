@@ -1,20 +1,23 @@
-
-#EXTINF:-1,Bein 1
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1491.ts
-#EXTINF:-1,Bein 2
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1492.ts
-#EXTINF:-1,Bein 3
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1493.ts
-#EXTINF:-1,Bein 4
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1494.ts
-#EXTINF:-1,Bein 5
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1495.ts
-#EXTINF:-1,Bein 6
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1496.ts
-#EXTINF:-1,Bein 7
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1497.ts
-#EXTINF:-1,Bein 8
-http://185.186.244.80:8080/live/AndrTVIPTV/AndrTVBYJanBeryan/1498.ts
+#EXTINF:-1,BeINSPORTS 1HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/998.ts
+#EXTINF:-1,BeINSPORTS 2HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/999.ts
+#EXTINF:-1,BeINSPORTS 3HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1000.ts
+#EXTINF:-1,BeINSPORTS 4HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1001.ts
+#EXTINF:-1,BeINSPORTS 5HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1002.ts
+#EXTINF:-1,BeINSPORTS 6HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1003.ts
+#EXTINF:-1,BeINSPORTS 7HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1004.ts
+#EXTINF:-1,BeINSPORTS 8HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1005.ts
+#EXTINF:-1,BeINSPORTS 9HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1006.ts
+#EXTINF:-1,BeINSPORTS 10HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1007.ts
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
