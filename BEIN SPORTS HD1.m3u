@@ -1,4 +1,9 @@
-
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,TEST2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1676.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,TEST3
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1677.ts
 #EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,BeINSPORTS News
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/996.ts
