@@ -122,6 +122,54 @@ http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1769.ts
 #EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,OSN-ALYawm
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1772.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:YAHALA SHABAB HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1797.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:YAHALA DRAMA HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1796.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:YAHALA Cinema HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1795.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:On Demand Extra 3 HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1794.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:On Demand Extra 2 HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1793.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:On Demand Extra 1 HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1792.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:ON DEMAND 3 HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1791.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:ON DEMAND 2 HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1790.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:BOXOFFICE 3
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1788.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:BOXOFFICE 2
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1787.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:BOXOFFICE 1
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1786.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,AR:SeeVii Shamiya HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1801.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,AR:SeeVii Drama HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1800.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,AR:SeeVii Beelink HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1799.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,AR:SeeVii Al ola HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1798.ts
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
