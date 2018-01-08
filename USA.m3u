@@ -1,9 +1,496 @@
 
-#EXTINF:-1, ======USA=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
+
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,=======>   USA   <=======
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1121.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,UK: 5USA
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1242.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: USA Network HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1118.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : AMC HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/968.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : BYU TV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/969.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : CARTOON NETWORK
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/970.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : CBSN HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/971.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : CNBC
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/972.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : DISCCOVERY HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/973.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : DW
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/974.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Fight HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/975.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Fox HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/965.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : FXX
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/976.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : HBO Comedy
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/977.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : HBO East
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/978.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : HBO HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/979.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : HBO Signature
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/980.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : HBO Zone
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/981.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : NBA SD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/982.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : NBA TV HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/983.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : NFL Network 1080i
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/967.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : NFL REDZONE SD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/966.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Showtime 2
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/984.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : SHOWTIME HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/985.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Showtime West
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/986.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Starz Cinema
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/987.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Starz Comedy
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/988.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Starz East
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/989.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Starz Encore
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/990.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA : Tennis Channel HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/991.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 1
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1014.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 2
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1013.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 3
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1012.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 4
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1011.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 5
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1010.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 6
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1009.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 7
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1008.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 8
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1007.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | (SD)NFL: 9
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1006.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | A&E HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1015.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | Amazing Discoveries HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1016.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | ESPN
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1017.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NBC XTRA 1 720P
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1018.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NBC XTRA 2 720P
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1019.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NBC XTRA 3 720P
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1020.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NBC XTRA 4 720P
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1021.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NBC XTRA 5 720P
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1022.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NBCSN HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/10.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | NFL Network HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1023.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | PAC-12 Arizona
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1024.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1025.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1026.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | PAC-12 Oregon
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1027.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | PAC-12 Washington
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1028.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | Poker Central
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1029.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | TLC HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1030.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | Versus HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1031.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA | WWE HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1032.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA ABC HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/992.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA ABC NEWS HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/993.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA BRAVO HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/994.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA CBS
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/995.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA COMEDY CENTRAL HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/996.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA CW HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/997.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA ESPN HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/998.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA FOX NEWS HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/999.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA HISTORY HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1000.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA Investigation Discovery
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1001.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA NBC Golf
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1002.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA Network (US)
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1003.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA SYFY HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1004.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA TNT HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1005.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1077.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Bloomberg Europe
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1074.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Bloomberg TV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1054.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: BNN
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1073.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Boomerang
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1072.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: C-Span 1
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1078.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: C-Span 2
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1079.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: C-Span 3
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1080.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: CAPITAL TV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1052.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Channel 11
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1051.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Church Channel
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1050.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1081.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Cinemax East HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1071.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Cinemax MoreMax
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1070.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: CNN HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/9.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: CNN US HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1039.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: CW11
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1069.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Discovery HD Showcase
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1068.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: ESPN 2
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1082.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: ESPN News US HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1038.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: ESPN U HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1037.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: FASHION ONE HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1067.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Fine Living
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1066.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: FIX TV HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1049.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: FOX 43
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1083.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Fox Deportes HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1058.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Fox Soccer Plus HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1057.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: FUEL HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1065.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: HGTV HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1064.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: HSN YT LIVE 1080p HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1053.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: ION Television East HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1036.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Lifetime Movie Network HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1035.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: MBL HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1085.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Mello TV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1048.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: MLB Network
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1086.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: MSG HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1034.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: MSNBC HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1087.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: MTV Rocks
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1063.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: MY9 TV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1047.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NBC
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1059.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 1 UHD (16/17SEASON)
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1088.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 2 UHD (16/17SEASON)
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1089.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 3 UHD (16/17SEASON)
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1090.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 4 UHD (16/17SEASON)
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1091.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NFL Network 1
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1075.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NHL Network
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/13.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: NICKELODEN HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1076.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1046.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Offical Olympic Channel
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1092.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: OUTDOOR CHANNEL HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1062.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: P.B.S Kids
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1045.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: PAG HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1093.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: SEC Network
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1094.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Smile Of A Child
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1061.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: TBS HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1095.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: THE FLORIDA CHANNEL
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1044.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: VH1 Classic
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1060.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: WEATHERNATION
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1043.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: WGN America HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1033.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: WGN News Chicago
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1042.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: Yes Network
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1041.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA: YTV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1040.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA:CA | TSN 1*
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/15.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA:CA | TSN 2
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/16.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA:CA | TSN 3*
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/17.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA:CA | TSN 4 HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/18.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,USA:CA | TSN 5*
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/19.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: AFN MOVIE
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1097.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: AFN NEWS
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1098.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1099.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: AFN PRIME PACIFIC
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1100.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: AFN PULSE
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1101.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: AFN SPECTRUM
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1102.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1103.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: Cinemax ActionMax East
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1104.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: Cinemax East
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1105.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: Discovery Science HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1106.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: DIY Network
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1107.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: Food Network HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1108.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: FOXX HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1109.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: FX HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1110.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: H2
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1111.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: HALLMARK
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1112.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: HIFI
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1113.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: MelloTV
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1119.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: National Geographic
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1114.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: NICKELODEN HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1115.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: SPIKE HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1116.ts
+#EXTVLCOPT:http-user-agent=SxcuViz0h
+#EXTINF:-1,US: STARZ EDGE HD
+http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1117.ts
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
