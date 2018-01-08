@@ -90,6 +90,15 @@ http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1293.ts
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1472.ts
 
 #EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:Nat Geo Wild
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1803.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:Discovery Channel HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1804.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,AR:BeIN FOX Action Movie HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1805.ts
+#EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,OSN-MoviesHD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1757.ts
 #EXTVLCOPT:http-user-agent=janberyann
@@ -174,6 +183,9 @@ http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1798.ts
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/FFreeToptele/dgFRukCb90/1472.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN DRAMA HD
+http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1802.ts
 #EXTINF:-1,**BEIN MOVES4
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1640.ts
 #EXTVLCOPT:http-user-agent=janberyann
