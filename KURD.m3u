@@ -1,12 +1,69 @@
 
 
-
-#EXTINF:-1, ======KURDISTAN=======
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
 http://www.lengua.com/anthems/Kurdistan.mp3
 
+
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KR: Ishtar TV
+http://217.160.107.173:25461/live/appsp/lispve02/3259.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: Denge Tv
+http://217.160.107.173:25461/live/appsp/lispve02/715.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: Kurdistan Tv
+http://217.160.107.173:25461/live/appsp/lispve02/714.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: KurdMax TV
+http://217.160.107.173:25461/live/appsp/lispve02/713.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: KURDSAT HD
+http://217.160.107.173:25461/live/appsp/lispve02/712.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: Med MÃ¼zik
+http://217.160.107.173:25461/live/appsp/lispve02/711.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: MED MUZA
+http://217.160.107.173:25461/live/appsp/lispve02/710.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: MED NUCE
+http://217.160.107.173:25461/live/appsp/lispve02/709.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: MED Nuce TV
+http://217.160.107.173:25461/live/appsp/lispve02/708.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: NEWROZ TV
+http://217.160.107.173:25461/live/appsp/lispve02/707.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: NRT 2
+http://217.160.107.173:25461/live/appsp/lispve02/706.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: NRT HD
+http://217.160.107.173:25461/live/appsp/lispve02/705.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: OZGUR GUN TV
+http://217.160.107.173:25461/live/appsp/lispve02/704.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: Ronahi
+http://217.160.107.173:25461/live/appsp/lispve02/703.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: RUDAW HD
+http://217.160.107.173:25461/live/appsp/lispve02/702.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: STERK TV
+http://217.160.107.173:25461/live/appsp/lispve02/701.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: STERK ZINDI
+http://217.160.107.173:25461/live/appsp/lispve02/700.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: TRT kurdi
+http://217.160.107.173:25461/live/appsp/lispve02/699.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: TV10
+http://217.160.107.173:25461/live/appsp/lispve02/698.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KRD: ZAGROS
+http://217.160.107.173:25461/live/appsp/lispve02/697.ts
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
 http://84.244.187.12:1935/live/livestream/playlist.m3u8
@@ -31,62 +88,3 @@ http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
-
-#EXTINF:-1,KR:ARTI TV
-http://andrtviptv5.jan-beryan.giize.com/4298.ts
-#EXTINF:-1,KR:CiHAN TV
-http://andrtviptv5.jan-beryan.giize.com/4918.ts
-#EXTINF:-1,KR:CIRA TV
-http://andrtviptv5.jan-beryan.giize.com/4297.ts
-#EXTINF:-1,KR:CNEW LINE
-http://andrtviptv5.jan-beryan.giize.com/4296.ts
-#EXTINF:-1,KR:GALI KURDISTAN
-http://andrtviptv5.jan-beryan.giize.com/4295.ts
-#EXTINF:-1,KR:KNN
-http://andrtviptv5.jan-beryan.giize.com/4917.ts
-#EXTINF:-1,KR:KOREK TV
-http://andrtviptv5.jan-beryan.giize.com/5448.ts
-#EXTINF:-1,KR:KURDISTAN TV
-http://andrtviptv5.jan-beryan.giize.com/4294.ts
-#EXTINF:-1,KR:KURDISTAN 24 TV
-http://andrtviptv5.jan-beryan.giize.com/5447.ts
-#EXTINF:-1,KR:KURDMAX
-http://andrtviptv5.jan-beryan.giize.com/4293.ts
-#EXTINF:-1,KR:KURDSAT
-http://andrtviptv5.jan-beryan.giize.com/4292.ts
-#EXTINF:-1,KR:KURDSAT NEWS
-http://andrtviptv5.jan-beryan.giize.com/4291.ts
-#EXTINF:-1,KR:LALISH
-http://andrtviptv5.jan-beryan.giize.com/4290.ts
-#EXTINF:-1,KR:Med Müzik
-http://andrtviptv5.jan-beryan.giize.com/4289.ts
-#EXTINF:-1,KR:NEWS CHANNEL
-http://andrtviptv5.jan-beryan.giize.com/4288.ts
-#EXTINF:-1,KR:NRT 1
-http://andrtviptv5.jan-beryan.giize.com/4287.ts
-#EXTINF:-1,KR:NRT 2
-http://andrtviptv5.jan-beryan.giize.com/4286.ts
-#EXTINF:-1,KR:RAKA TV
-http://andrtviptv5.jan-beryan.giize.com/4285.ts
-#EXTINF:-1,KR:Rega TV
-http://andrtviptv5.jan-beryan.giize.com/5178.ts
-#EXTINF:-1,KR:RONAHI TV
-http://andrtviptv5.jan-beryan.giize.com/4284.ts
-#EXTINF:-1,KR:RUDAW HD
-http://andrtviptv5.jan-beryan.giize.com/4283.ts
-#EXTINF:-1,KR:Speda TV
-http://andrtviptv5.jan-beryan.giize.com/4916.ts
-#EXTINF:-1,KR:Stêrk TV
-http://andrtviptv5.jan-beryan.giize.com/4282.ts
-#EXTINF:-1,KR:TV 10
-http://andrtviptv5.jan-beryan.giize.com/5177.ts
-#EXTINF:-1,KR:VIN TV HD
-http://andrtviptv5.jan-beryan.giize.com/5446.ts
-#EXTINF:-1,KR:WAAR
-http://andrtviptv5.jan-beryan.giize.com/4281.ts
-#EXTINF:-1,KR:WIN TV
-http://andrtviptv5.jan-beryan.giize.com/4280.ts
-#EXTINF:-1,KR:ZAGROS
-http://andrtviptv5.jan-beryan.giize.com/4279.ts
-#EXTINF:-1,KR:ZAROK TV
-http://andrtviptv5.jan-beryan.giize.com/4278.ts
