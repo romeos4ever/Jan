@@ -3,454 +3,796 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",======UK=======
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: 3e
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1248.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: 5Star
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1249.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Alibi
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1250.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: AMC FROM BT
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1240.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Animal Planet   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1251.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: At The Races
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1252.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BBC ALBA
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1239.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BBC Parliament
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1238.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BBC TWO HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1253.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BBC World News
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1315.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BBC4 HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1254.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BET
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1237.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: BritishMuslim
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1236.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Cartoon Network
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1264.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Cartoonito
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1211.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Cbeebies
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1201.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Challenge   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1265.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Channel 4
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1235.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Channel 4 HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1234.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: CHANNEL 5
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1233.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: CHANNEL 5 FHD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1232.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Chelsea FC
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1266.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: CNBC Europe
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1231.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Comedy Central Extra   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1267.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Crime & Investigiation
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1245.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Crime investigation  1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1268.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Discovery   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1269.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Discovery History  1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1270.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Discovery Science  1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1271.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Disney Channel   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1272.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Disney XD   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1273.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: E!
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1274.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: E!    1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1275.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Food Network
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1276.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Food Network  1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1277.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: FOX News
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1230.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Golf Channel
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1212.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Good Food
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1278.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: H2
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1194.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: HBO 1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1316.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: HBO 2
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1317.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: History
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1200.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: History  1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1279.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Home&Health   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1280.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Horror Channel   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1281.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ID
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1247.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ID   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1282.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Inspiration
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1229.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Investigation Discovery
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1228.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ITV ENCORE
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1227.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ITV1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/5.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ITV2
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/6.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ITV3
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/7.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: ITV4
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/8.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: KERRANG
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1226.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: KISS UK
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1225.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: LFC TV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1283.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Magic
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1199.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Movies 4 Men
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1224.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: MTV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1198.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: MTV   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1284.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: MUTV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1285.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Nat Geo Wild
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1286.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: NATGEO WILD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1193.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: National Geographic
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1195.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Nick Jnr Too
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1287.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Nick Jr  1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1288.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Nickelodeon
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1289.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Nickelodeon   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1290.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: QUEST
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1223.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Racing UK
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1292.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Real Lives
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1222.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: RTE One
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1293.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: RTE Two
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1294.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Scuzz
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1197.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: SMASH HITS
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1220.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Sony Channel
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1218.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Sony Chnl   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1303.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Sony Movie
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1219.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Syfy   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1304.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: TCM
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1196.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Tiny Pop   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1305.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: TLC
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1306.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: TLC   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1307.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: TLC   2
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1308.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Travel Channel
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1309.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: True Movies 2
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1310.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Universal   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1311.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: VH1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1312.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: VICELAND
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1217.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: VIVA
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1192.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: W   1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1313.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK: Watch
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1216.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK:4Seven
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1314.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK:TLC - IRELAND
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1319.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK:True Movies 1
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1320.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK:VIP Cartoon network HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1241.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,VIP UK: HBO HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1214.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,VIP UK: MTV LIVE HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1213.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Animal Planet
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1172.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Chelsea TV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1173.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : CNN
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1174.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Comedy Central
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1175.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Dave
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1176.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Eden
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1177.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : FOX
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1178.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Life time
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1179.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Living UK
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1180.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Manchester United TV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1181.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : More 4
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1182.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Mototrs TV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1183.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Nat Geo Graphic
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1184.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK : Yesterday
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1191.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | BBC World News
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1127.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | boomerang
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1128.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Boxnation
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1129.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | CBS Action
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1130.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | CBS Drama
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1131.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | CBS reality
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1132.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | DISCOVERY
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1133.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Discovery History
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1134.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Discovery Science
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1135.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Discovery Shed
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1136.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Discovery Turbo
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1137.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Disney
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1138.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Disney Junior
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1139.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Disney XD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1140.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | DMax
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1141.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Drama
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1142.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | E!
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1143.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | E4
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1144.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Film 4
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1145.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | gold
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1146.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Good Food
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1147.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Home & Health
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1148.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Irish Tv
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1149.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | ITV be
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1150.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | London Live
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1151.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Nick Jr
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1152.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Nicktoons
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1153.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Syfy
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1169.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | Tiny POP
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1170.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK | UTV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1171.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,BE: PLUG RTL
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/422.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK Baby TV
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1122.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK BBC ONE HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1123.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK BBC Three HD
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1124.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK CBBC
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1125.ts
-#EXTVLCOPT:http-user-agent=u7f
-#EXTINF:-1,UK Pick
-http://163.172.89.151:1234/live/iptvrestream.net/wC5Qtu9Zbl/1126.ts
 
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Animal Planet
+http://217.160.107.173:25461/live/appsp/lispve02/1198.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Chelsea TV
+http://217.160.107.173:25461/live/appsp/lispve02/1199.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : CNN
+http://217.160.107.173:25461/live/appsp/lispve02/1200.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Comedy Central
+http://217.160.107.173:25461/live/appsp/lispve02/1201.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Dave
+http://217.160.107.173:25461/live/appsp/lispve02/1202.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Eden
+http://217.160.107.173:25461/live/appsp/lispve02/1203.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : FOX
+http://217.160.107.173:25461/live/appsp/lispve02/1204.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Life time
+http://217.160.107.173:25461/live/appsp/lispve02/1205.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Living UK
+http://217.160.107.173:25461/live/appsp/lispve02/1206.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Manchester United TV
+http://217.160.107.173:25461/live/appsp/lispve02/1207.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : More 4
+http://217.160.107.173:25461/live/appsp/lispve02/1208.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Mototrs TV
+http://217.160.107.173:25461/live/appsp/lispve02/1209.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Nat Geo Graphic
+http://217.160.107.173:25461/live/appsp/lispve02/1210.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Sky Arts
+http://217.160.107.173:25461/live/appsp/lispve02/1211.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : SKY Atlantic HD
+http://217.160.107.173:25461/live/appsp/lispve02/1212.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Sky Movies Drama
+http://217.160.107.173:25461/live/appsp/lispve02/1213.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : SKY One
+http://217.160.107.173:25461/live/appsp/lispve02/1214.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Sky Sport 1 SD
+http://217.160.107.173:25461/live/appsp/lispve02/1215.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Sky Sport F1 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1216.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK : Yesterday
+http://217.160.107.173:25461/live/appsp/lispve02/1217.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | BBC World News
+http://217.160.107.173:25461/live/appsp/lispve02/1149.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | boomerang
+http://217.160.107.173:25461/live/appsp/lispve02/1150.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Boxnation
+http://217.160.107.173:25461/live/appsp/lispve02/1151.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | BT Sport 1 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1152.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | BT Sport 2 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1153.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | BT Sport ESPN
+http://217.160.107.173:25461/live/appsp/lispve02/1154.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | BT Sport Europe HD
+http://217.160.107.173:25461/live/appsp/lispve02/1155.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | CBS Action
+http://217.160.107.173:25461/live/appsp/lispve02/1156.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | CBS Drama
+http://217.160.107.173:25461/live/appsp/lispve02/1157.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | CBS reality
+http://217.160.107.173:25461/live/appsp/lispve02/1158.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | DISCOVERY
+http://217.160.107.173:25461/live/appsp/lispve02/1159.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Discovery History
+http://217.160.107.173:25461/live/appsp/lispve02/1160.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Discovery Science
+http://217.160.107.173:25461/live/appsp/lispve02/1161.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Discovery Shed
+http://217.160.107.173:25461/live/appsp/lispve02/1162.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Discovery Turbo
+http://217.160.107.173:25461/live/appsp/lispve02/1163.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Disney
+http://217.160.107.173:25461/live/appsp/lispve02/1164.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Disney Junior
+http://217.160.107.173:25461/live/appsp/lispve02/1165.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Disney XD
+http://217.160.107.173:25461/live/appsp/lispve02/1166.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | DMax
+http://217.160.107.173:25461/live/appsp/lispve02/1167.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Drama
+http://217.160.107.173:25461/live/appsp/lispve02/1168.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | E!
+http://217.160.107.173:25461/live/appsp/lispve02/1169.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | E4
+http://217.160.107.173:25461/live/appsp/lispve02/1170.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Film 4
+http://217.160.107.173:25461/live/appsp/lispve02/1171.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | gold
+http://217.160.107.173:25461/live/appsp/lispve02/1172.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Good Food
+http://217.160.107.173:25461/live/appsp/lispve02/1173.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Home & Health
+http://217.160.107.173:25461/live/appsp/lispve02/1174.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Irish Tv
+http://217.160.107.173:25461/live/appsp/lispve02/1175.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | ITV be
+http://217.160.107.173:25461/live/appsp/lispve02/1176.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | London Live
+http://217.160.107.173:25461/live/appsp/lispve02/1177.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Nick Jr
+http://217.160.107.173:25461/live/appsp/lispve02/1178.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Nicktoons
+http://217.160.107.173:25461/live/appsp/lispve02/1179.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movie Sci-Fi
+http://217.160.107.173:25461/live/appsp/lispve02/1180.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Action
+http://217.160.107.173:25461/live/appsp/lispve02/1181.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Comedy
+http://217.160.107.173:25461/live/appsp/lispve02/1182.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Disney
+http://217.160.107.173:25461/live/appsp/lispve02/1183.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Family
+http://217.160.107.173:25461/live/appsp/lispve02/1184.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Greats
+http://217.160.107.173:25461/live/appsp/lispve02/1185.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Premiere
+http://217.160.107.173:25461/live/appsp/lispve02/1186.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Showcase
+http://217.160.107.173:25461/live/appsp/lispve02/1187.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Movies Thriller
+http://217.160.107.173:25461/live/appsp/lispve02/1188.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Sport 2 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1189.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Sport 3 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1190.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Sport 4 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1191.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Sport 5 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1192.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Sport News
+http://217.160.107.173:25461/live/appsp/lispve02/1193.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Sky Sports 1 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1194.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Syfy
+http://217.160.107.173:25461/live/appsp/lispve02/1195.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | Tiny POP
+http://217.160.107.173:25461/live/appsp/lispve02/1196.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK | UTV
+http://217.160.107.173:25461/live/appsp/lispve02/1197.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK Baby TV
+http://217.160.107.173:25461/live/appsp/lispve02/1144.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK BBC ONE HD
+http://217.160.107.173:25461/live/appsp/lispve02/1145.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK BBC Three HD
+http://217.160.107.173:25461/live/appsp/lispve02/1146.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK CBBC
+http://217.160.107.173:25461/live/appsp/lispve02/1147.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK Pick
+http://217.160.107.173:25461/live/appsp/lispve02/1148.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: 3e
+http://217.160.107.173:25461/live/appsp/lispve02/1288.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: 5Star
+http://217.160.107.173:25461/live/appsp/lispve02/1289.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: 5USA
+http://217.160.107.173:25461/live/appsp/lispve02/1282.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Alibi
+http://217.160.107.173:25461/live/appsp/lispve02/1290.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Amc
+http://217.160.107.173:25461/live/appsp/lispve02/28.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: AMC FROM BT
+http://217.160.107.173:25461/live/appsp/lispve02/1280.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Animal Planet   1
+http://217.160.107.173:25461/live/appsp/lispve02/1291.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: At The Races
+http://217.160.107.173:25461/live/appsp/lispve02/1292.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC 3 FHD
+http://217.160.107.173:25461/live/appsp/lispve02/627.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC ALBA
+http://217.160.107.173:25461/live/appsp/lispve02/1279.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC ONE SD
+http://217.160.107.173:25461/live/appsp/lispve02/72.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC Parliament
+http://217.160.107.173:25461/live/appsp/lispve02/1278.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC TWO HD
+http://217.160.107.173:25461/live/appsp/lispve02/1293.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC World News
+http://217.160.107.173:25461/live/appsp/lispve02/1368.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BBC4 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1294.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BET
+http://217.160.107.173:25461/live/appsp/lispve02/1277.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://217.160.107.173:25461/live/appsp/lispve02/60.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BOX OFFICE HD 2
+http://217.160.107.173:25461/live/appsp/lispve02/59.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BOX OFFICE HD 3
+http://217.160.107.173:25461/live/appsp/lispve02/58.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BOX OFFICE HD 4
+http://217.160.107.173:25461/live/appsp/lispve02/57.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BritishMuslim
+http://217.160.107.173:25461/live/appsp/lispve02/1276.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport 1 backup
+http://217.160.107.173:25461/live/appsp/lispve02/94.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport 3 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1286.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport 3 SD
+http://217.160.107.173:25461/live/appsp/lispve02/1295.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Extra 1
+http://217.160.107.173:25461/live/appsp/lispve02/1296.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Extra 2
+http://217.160.107.173:25461/live/appsp/lispve02/1297.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Extra 3
+http://217.160.107.173:25461/live/appsp/lispve02/1298.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Extra 4
+http://217.160.107.173:25461/live/appsp/lispve02/1299.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Extra 5
+http://217.160.107.173:25461/live/appsp/lispve02/1300.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Mosaic
+http://217.160.107.173:25461/live/appsp/lispve02/1301.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://217.160.107.173:25461/live/appsp/lispve02/1302.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: BT Sports 2 SD
+http://217.160.107.173:25461/live/appsp/lispve02/1303.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Capital TV
+http://217.160.107.173:25461/live/appsp/lispve02/752.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Cartoon Network
+http://217.160.107.173:25461/live/appsp/lispve02/1304.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Cartoonito
+http://217.160.107.173:25461/live/appsp/lispve02/1237.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Cbeebies
+http://217.160.107.173:25461/live/appsp/lispve02/1227.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://217.160.107.173:25461/live/appsp/lispve02/838.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Challenge   1
+http://217.160.107.173:25461/live/appsp/lispve02/1305.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Channel 4
+http://217.160.107.173:25461/live/appsp/lispve02/1275.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Channel 4 HD
+http://217.160.107.173:25461/live/appsp/lispve02/1274.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: CHANNEL 5
+http://217.160.107.173:25461/live/appsp/lispve02/1273.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://217.160.107.173:25461/live/appsp/lispve02/1272.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Channel AKA
+http://217.160.107.173:25461/live/appsp/lispve02/2.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Chelsea FC
+http://217.160.107.173:25461/live/appsp/lispve02/1306.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Citv
+http://217.160.107.173:25461/live/appsp/lispve02/844.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Clubland
+http://217.160.107.173:25461/live/appsp/lispve02/847.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: CNBC Europe
+http://217.160.107.173:25461/live/appsp/lispve02/1271.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: CNN FHD
+http://217.160.107.173:25461/live/appsp/lispve02/751.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Comedy Central Extra   1
+http://217.160.107.173:25461/live/appsp/lispve02/1307.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Crime & Investigiation
+http://217.160.107.173:25461/live/appsp/lispve02/1285.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Crime investigation  1
+http://217.160.107.173:25461/live/appsp/lispve02/1308.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Discovery   1
+http://217.160.107.173:25461/live/appsp/lispve02/1309.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Discovery History  1
+http://217.160.107.173:25461/live/appsp/lispve02/1310.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Discovery Science  1
+http://217.160.107.173:25461/live/appsp/lispve02/1311.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Disney Channel   1
+http://217.160.107.173:25461/live/appsp/lispve02/1312.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Disney XD   1
+http://217.160.107.173:25461/live/appsp/lispve02/1313.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: E!
+http://217.160.107.173:25461/live/appsp/lispve02/1314.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: E!    1
+http://217.160.107.173:25461/live/appsp/lispve02/1315.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Eir Sports1
+http://217.160.107.173:25461/live/appsp/lispve02/1316.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Eir Sports2
+http://217.160.107.173:25461/live/appsp/lispve02/1317.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Euronews
+http://217.160.107.173:25461/live/appsp/lispve02/206.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Eurosport 1
+http://217.160.107.173:25461/live/appsp/lispve02/1318.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://217.160.107.173:25461/live/appsp/lispve02/832.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Eurosport 2
+http://217.160.107.173:25461/live/appsp/lispve02/1319.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://217.160.107.173:25461/live/appsp/lispve02/833.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Food Network
+http://217.160.107.173:25461/live/appsp/lispve02/1320.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Food Network  1
+http://217.160.107.173:25461/live/appsp/lispve02/1321.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: FOX News
+http://217.160.107.173:25461/live/appsp/lispve02/1270.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Golf Channel
+http://217.160.107.173:25461/live/appsp/lispve02/1238.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Good Food
+http://217.160.107.173:25461/live/appsp/lispve02/1322.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: H2
+http://217.160.107.173:25461/live/appsp/lispve02/1220.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: HBO 1
+http://217.160.107.173:25461/live/appsp/lispve02/1369.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: HBO 2
+http://217.160.107.173:25461/live/appsp/lispve02/1370.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Heart TV
+http://217.160.107.173:25461/live/appsp/lispve02/845.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: History
+http://217.160.107.173:25461/live/appsp/lispve02/1226.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: History  1
+http://217.160.107.173:25461/live/appsp/lispve02/1323.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Home&Health   1
+http://217.160.107.173:25461/live/appsp/lispve02/1324.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Horror Channel   1
+http://217.160.107.173:25461/live/appsp/lispve02/1325.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ID
+http://217.160.107.173:25461/live/appsp/lispve02/1287.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ID   1
+http://217.160.107.173:25461/live/appsp/lispve02/1326.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Inspiration
+http://217.160.107.173:25461/live/appsp/lispve02/1269.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Investigation Discovery
+http://217.160.107.173:25461/live/appsp/lispve02/1268.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Islam Channel
+http://217.160.107.173:25461/live/appsp/lispve02/42.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV  1
+http://217.160.107.173:25461/live/appsp/lispve02/216.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV 2 FHD
+http://217.160.107.173:25461/live/appsp/lispve02/750.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV 3 FHD 1080
+http://217.160.107.173:25461/live/appsp/lispve02/749.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV 4 FHD 1080
+http://217.160.107.173:25461/live/appsp/lispve02/748.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV BOX OFFICE PPV
+http://217.160.107.173:25461/live/appsp/lispve02/22.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV ENCORE
+http://217.160.107.173:25461/live/appsp/lispve02/1267.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV1
+http://217.160.107.173:25461/live/appsp/lispve02/1327.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV2
+http://217.160.107.173:25461/live/appsp/lispve02/1328.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV2  1
+http://217.160.107.173:25461/live/appsp/lispve02/215.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV3
+http://217.160.107.173:25461/live/appsp/lispve02/1329.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV3   1
+http://217.160.107.173:25461/live/appsp/lispve02/214.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV4
+http://217.160.107.173:25461/live/appsp/lispve02/1330.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: ITV4  1
+http://217.160.107.173:25461/live/appsp/lispve02/213.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: KERRANG
+http://217.160.107.173:25461/live/appsp/lispve02/1266.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: KISS UK
+http://217.160.107.173:25461/live/appsp/lispve02/1265.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: LFC TV
+http://217.160.107.173:25461/live/appsp/lispve02/1331.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: LFC TV HD
+http://217.160.107.173:25461/live/appsp/lispve02/626.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Magic
+http://217.160.107.173:25461/live/appsp/lispve02/1225.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Movies 4 Men
+http://217.160.107.173:25461/live/appsp/lispve02/1264.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: MTV
+http://217.160.107.173:25461/live/appsp/lispve02/1224.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: MTV   1
+http://217.160.107.173:25461/live/appsp/lispve02/1332.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: MTV Base HD
+http://217.160.107.173:25461/live/appsp/lispve02/1.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: MUTV
+http://217.160.107.173:25461/live/appsp/lispve02/1333.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: MUTV Backup
+http://217.160.107.173:25461/live/appsp/lispve02/835.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: MUTV FHD
+http://217.160.107.173:25461/live/appsp/lispve02/625.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Nat Geo Wild
+http://217.160.107.173:25461/live/appsp/lispve02/1334.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: NATGEO WILD
+http://217.160.107.173:25461/live/appsp/lispve02/1219.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: National Geographic
+http://217.160.107.173:25461/live/appsp/lispve02/1221.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Nick Jr  1
+http://217.160.107.173:25461/live/appsp/lispve02/1336.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Nick Jr Too
+http://217.160.107.173:25461/live/appsp/lispve02/1335.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Nickelodeon
+http://217.160.107.173:25461/live/appsp/lispve02/1337.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Nickelodeon   1
+http://217.160.107.173:25461/live/appsp/lispve02/1338.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Peace TV
+http://217.160.107.173:25461/live/appsp/lispve02/41.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Premier Sports HD
+http://217.160.107.173:25461/live/appsp/lispve02/1283.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://217.160.107.173:25461/live/appsp/lispve02/1339.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: QUEST
+http://217.160.107.173:25461/live/appsp/lispve02/1263.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Racing UK
+http://217.160.107.173:25461/live/appsp/lispve02/1340.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: RANGERS FC TV (matchtime)
+http://217.160.107.173:25461/live/appsp/lispve02/837.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Real Lives
+http://217.160.107.173:25461/live/appsp/lispve02/1262.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: RTE JUNIOR
+http://217.160.107.173:25461/live/appsp/lispve02/212.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: RTE News Now
+http://217.160.107.173:25461/live/appsp/lispve02/211.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: RTE One
+http://217.160.107.173:25461/live/appsp/lispve02/1341.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: RTE Two
+http://217.160.107.173:25461/live/appsp/lispve02/1342.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SATENTA SPORT
+http://217.160.107.173:25461/live/appsp/lispve02/1343.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Scuzz
+http://217.160.107.173:25461/live/appsp/lispve02/1223.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Setanta Sports 1
+http://217.160.107.173:25461/live/appsp/lispve02/1344.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Atlantic  1
+http://217.160.107.173:25461/live/appsp/lispve02/1345.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://217.160.107.173:25461/live/appsp/lispve02/1236.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://217.160.107.173:25461/live/appsp/lispve02/1235.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://217.160.107.173:25461/live/appsp/lispve02/1234.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://217.160.107.173:25461/live/appsp/lispve02/1233.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://217.160.107.173:25461/live/appsp/lispve02/1232.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://217.160.107.173:25461/live/appsp/lispve02/1231.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Hits
+http://217.160.107.173:25461/live/appsp/lispve02/182.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Premier HD
+http://217.160.107.173:25461/live/appsp/lispve02/1230.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Premiere  1
+http://217.160.107.173:25461/live/appsp/lispve02/1346.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://217.160.107.173:25461/live/appsp/lispve02/1229.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://217.160.107.173:25461/live/appsp/lispve02/1228.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Living  1
+http://217.160.107.173:25461/live/appsp/lispve02/1347.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Movies Select HD
+http://217.160.107.173:25461/live/appsp/lispve02/1348.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY NEWS
+http://217.160.107.173:25461/live/appsp/lispve02/1261.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY NEWS HD
+http://217.160.107.173:25461/live/appsp/lispve02/1255.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://217.160.107.173:25461/live/appsp/lispve02/14.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Sport Football HD
+http://217.160.107.173:25461/live/appsp/lispve02/13.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY SPORTS 1
+http://217.160.107.173:25461/live/appsp/lispve02/1349.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY SPORTS 2
+http://217.160.107.173:25461/live/appsp/lispve02/1350.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY SPORTS 3
+http://217.160.107.173:25461/live/appsp/lispve02/1351.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY SPORTS 4
+http://217.160.107.173:25461/live/appsp/lispve02/1352.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SKY SPORTS 5
+http://217.160.107.173:25461/live/appsp/lispve02/1353.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Sports Mix
+http://217.160.107.173:25461/live/appsp/lispve02/1284.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sky Two
+http://217.160.107.173:25461/live/appsp/lispve02/1354.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SkySpBoxOff (PPV Events Only)
+http://217.160.107.173:25461/live/appsp/lispve02/1355.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: SMASH HITS
+http://217.160.107.173:25461/live/appsp/lispve02/1260.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sony Channel
+http://217.160.107.173:25461/live/appsp/lispve02/1258.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sony Chnl   1
+http://217.160.107.173:25461/live/appsp/lispve02/1356.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Sony Movie
+http://217.160.107.173:25461/live/appsp/lispve02/1259.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: STV FHD
+http://217.160.107.173:25461/live/appsp/lispve02/624.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Syfy   1
+http://217.160.107.173:25461/live/appsp/lispve02/1357.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TCM
+http://217.160.107.173:25461/live/appsp/lispve02/1222.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TG4
+http://217.160.107.173:25461/live/appsp/lispve02/325.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Tiny Pop   1
+http://217.160.107.173:25461/live/appsp/lispve02/1358.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TLC
+http://217.160.107.173:25461/live/appsp/lispve02/1359.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TLC   1
+http://217.160.107.173:25461/live/appsp/lispve02/1360.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TLC   2
+http://217.160.107.173:25461/live/appsp/lispve02/1361.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Travel Channel
+http://217.160.107.173:25461/live/appsp/lispve02/1362.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: True Movies 2
+http://217.160.107.173:25461/live/appsp/lispve02/1363.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TV ONE HD
+http://217.160.107.173:25461/live/appsp/lispve02/630.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: TV3
+http://217.160.107.173:25461/live/appsp/lispve02/210.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Universal   1
+http://217.160.107.173:25461/live/appsp/lispve02/1364.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: VH1
+http://217.160.107.173:25461/live/appsp/lispve02/1365.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: VICELAND
+http://217.160.107.173:25461/live/appsp/lispve02/1257.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: VIVA
+http://217.160.107.173:25461/live/appsp/lispve02/1218.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: W   1
+http://217.160.107.173:25461/live/appsp/lispve02/1366.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK: Watch
+http://217.160.107.173:25461/live/appsp/lispve02/1256.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK:4Seven
+http://217.160.107.173:25461/live/appsp/lispve02/1367.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK:Sky Movies Modern
+http://217.160.107.173:25461/live/appsp/lispve02/1371.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK:TLC - IRELAND
+http://217.160.107.173:25461/live/appsp/lispve02/1372.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK:True Movies 1
+http://217.160.107.173:25461/live/appsp/lispve02/1373.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UK:VIP Cartoon network HD
+http://217.160.107.173:25461/live/appsp/lispve02/1281.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: Futbol 1
+http://217.160.107.173:25461/live/appsp/lispve02/1642.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: Futbol 1HD
+http://217.160.107.173:25461/live/appsp/lispve02/1643.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: Futbol 2
+http://217.160.107.173:25461/live/appsp/lispve02/1644.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: Futbol 2HD
+http://217.160.107.173:25461/live/appsp/lispve02/1645.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: Sport 1
+http://217.160.107.173:25461/live/appsp/lispve02/1646.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: Sport 2
+http://217.160.107.173:25461/live/appsp/lispve02/1647.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UKR: TRK Ukrania HD
+http://217.160.107.173:25461/live/appsp/lispve02/1648.ts
 
 #EXTM3U
 #EXTINF:-1,5USA
