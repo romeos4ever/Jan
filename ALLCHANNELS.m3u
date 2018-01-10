@@ -90,13 +90,13 @@ http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1293.ts
 http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1472.ts
 
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:Nat Geo Wild
+#EXTINF:-1,OSN E!
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1803.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:Discovery Channel HD
+#EXTINF:-1,OSN FIRST HBO
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1804.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,AR:BeIN FOX Action Movie HD
+#EXTINF:-1,OSN FOX ACTION HD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1805.ts
 #EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,OSN-MoviesHD
@@ -132,37 +132,37 @@ http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1769.ts
 #EXTINF:-1,OSN-ALYawm
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1772.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:YAHALA SHABAB HD
+#EXTINF:-1,WWE HD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1797.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:YAHALA DRAMA HD
+#EXTINF:-1,OSN:YAHALA HD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1796.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:YAHALA Cinema HD
+#EXTINF:-1,OSN:On Demand Horror
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1795.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:On Demand Extra 3 HD
+#EXTINF:-1,FOX MOVIE HD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1794.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:On Demand Extra 2 HD
+#EXTINF:-1,OSN MOVIES+2 THRILLER
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1793.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:On Demand Extra 1 HD
+#EXTINF:-1,OSN:STAR WORLD HD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1792.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:ON DEMAND 3 HD
+#EXTINF:-1,ART-Hekayat1
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1791.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:ON DEMAND 2 HD
+#EXTINF:-1,ART-Hekayat2
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1790.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:BOXOFFICE 3
+#EXTINF:-1,BEIN BARAEM
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1788.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:BOXOFFICE 2
+#EXTINF:-1,OSN-Movies-Family
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1787.ts
 #EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,OSN:BOXOFFICE 1
+#EXTINF:-1,OSN MOVIES KIDS
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1786.ts
 #EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,AR:SeeVii Shamiya HD
@@ -176,7 +176,6 @@ http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1799.ts
 #EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,AR:SeeVii Al ola HD
 http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1798.ts
-
 
 
 
