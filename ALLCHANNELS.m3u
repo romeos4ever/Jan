@@ -95,6 +95,21 @@ http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1472.ts
 #EXTINF:-1,Star-Movies
 http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/35.ts
 #EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,Yahala HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/76.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,WWE HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/77.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN:On Demand Horror
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/80.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN FIRST HBO
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/78.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,OSN E!
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/79.ts
+#EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,OSN-Musalsalat
 http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/51.ts
 #EXTVLCOPT:http-user-agent=janberyann
