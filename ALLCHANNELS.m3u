@@ -176,7 +176,9 @@ http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/53.ts
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://rmd.primatv.club:8899/live/Troy.TV/umeivaJr9t/1472.ts
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/34.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN DRAMA HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/81.ts
 #EXTVLCOPT:http-user-agent=janberyann
 #EXTINF:-1,BEIN MOVES1
 http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/30.ts
