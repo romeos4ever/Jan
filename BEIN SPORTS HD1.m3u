@@ -1,44 +1,31 @@
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,TEST2
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1676.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,TEST3
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1677.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS News
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/996.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS Global
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/997.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 1HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/998.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 2HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/999.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 3HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1000.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 4HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1001.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 5HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1002.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 6HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1003.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 7HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1004.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 8HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1005.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 9HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1006.ts
-#EXTVLCOPT:http-user-agent=janberyann
-#EXTINF:-1,BeINSPORTS 10HD
-http://185.186.244.80:8080/live/www.janberyan.com--/AndrTVIPTV/1007.ts
 
+#EXTINF:-1,BEIN SPORTS 1HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/4.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 2HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/5.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 3HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/6.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 4HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/7.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 5HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/8.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 6HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/9.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 7HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/10.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 8HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/11.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 9HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/12.ts
+#EXTVLCOPT:http-user-agent=janberyann
+#EXTINF:-1,BEIN SPORTS 10HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/13.ts
 
