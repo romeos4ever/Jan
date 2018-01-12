@@ -3,7 +3,57 @@
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV coming soon ~
 http://www.lengua.com/anthems/Spain.mp3
-
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,ES : coming soon
-http://217.160.107.173:25461/live/appsp/lispve02/1558.ts
+#EXTINF:-1,ES: AMC HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3004.ts
+#EXTINF:-1,ES: Barca TV
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3034.ts
+#EXTINF:-1,ES: Canal  Accion HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2988.ts
+#EXTINF:-1,ES: Canal  Comedia HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2987.ts
+#EXTINF:-1,ES: Canal  Dcine HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2986.ts
+#EXTINF:-1,ES: Canal  Deportes HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3028.ts
+#EXTINF:-1,ES: Canal  Estrenos HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2985.ts
+#EXTINF:-1,ES: Canal  Futbol HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3027.ts
+#EXTINF:-1,ES: Canal  Series
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2984.ts
+#EXTINF:-1,ES: Canal Panda
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2989.ts
+#EXTINF:-1,ES: Comedy Central
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3000.ts
+#EXTINF:-1,ES: Cosmo
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3022.ts
+#EXTINF:-1,ES: Energy
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3018.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3017.ts
+#EXTINF:-1,ES: Fox Life HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2997.ts
+#EXTINF:-1,ES: Hollywood HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2996.ts
+#EXTINF:-1,ES: LA 1 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2966.ts
+#EXTINF:-1,ES: LA 2 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2967.ts
+#EXTINF:-1,ES: LTC
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3015.ts
+#EXTINF:-1,ES: Movistar F1 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3014.ts
+#EXTINF:-1,ES: MTV
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3012.ts
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3010.ts
+#EXTINF:-1,ES: Non Stop People
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3008.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2995.ts
+#EXTINF:-1,ES: TCM HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2993.ts
+#EXTINF:-1,ES: TeleCinco HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2971.ts
+#EXTINF:-1,ES: TNT HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2992.ts
