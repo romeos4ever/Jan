@@ -4,7 +4,67 @@
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",======TURKEY  coming soon=======
 http://www.lengua.com/anthems/Turkey.mp3
-
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,coming soon
-http://217.160.107.173:25461/live/appsp/lispve02/1376.ts
+#EXTINF:-1,TR: A Haber HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3835.ts
+#EXTINF:-1,TR: A Spor HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3893.ts
+#EXTINF:-1,TR: ATV HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3820.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3831.ts
+#EXTINF:-1,TR: Cartoon Network
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3871.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3839.ts
+#EXTINF:-1,TR: Flash TV HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3833.ts
+#EXTINF:-1,TR: Fox HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3823.ts
+#EXTINF:-1,TR: Haber Turk HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3837.ts
+#EXTINF:-1,TR: Kanal 7 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3844.ts
+#EXTINF:-1,TR: Kanal D HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3828.ts
+#EXTINF:-1,TR: KRAL POP TV
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4279.ts
+#EXTINF:-1,TR: Minika Cocuk
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3873.ts
+#EXTINF:-1,TR: Minika Go
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3872.ts
+#EXTINF:-1,TR: Moviesmart Premium 2 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3878.ts
+#EXTINF:-1,TR: Moviesmart Premium HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3877.ts
+#EXTINF:-1,TR: Moviesmart Turk HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3879.ts
+#EXTINF:-1,TR: NTV HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3841.ts
+#EXTINF:-1,TR: Show Max
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3815.ts
+#EXTINF:-1,TR: Show TV HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3813.ts
+#EXTINF:-1,TR: Star TV HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3817.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3891.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3892.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3848.ts
+#EXTINF:-1,TR: TRT Belgesel HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3861.ts
+#EXTINF:-1,TR: TRT Cocuk HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3859.ts
+#EXTINF:-1,TR: TRT Haber HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3857.ts
+#EXTINF:-1,TR: TRT Muzik HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3855.ts
+#EXTINF:-1,TR: TRT Okul HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3854.ts
+#EXTINF:-1,TR: TRT Turk HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3850.ts
+#EXTINF:-1,TR: TRT World HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3852.ts
+#EXTINF:-1,TR: TV8 HD
+http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3825.ts
