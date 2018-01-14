@@ -4,60 +4,148 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",======ITALY=======
 http://www.lengua.com/anthems/Italy.mp3
 
-
-#EXTINF:-1,IT: Canale 5 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2951.ts
-#EXTINF:-1,IT: Fox Life
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2946.ts
-#EXTINF:-1,IT: Italia 1
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2943.ts
-#EXTINF:-1,IT: Italia 2
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2944.ts
-#EXTINF:-1,IT: Premium Cinema  24
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2962.ts
-#EXTINF:-1,IT: Premium Cinema 2
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2961.ts
-#EXTINF:-1,IT: Premium Cinema 2  24
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2960.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2931.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2932.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2933.ts
-#EXTINF:-1,IT: Rai 4
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2934.ts
-#EXTINF:-1,IT: Rai 5
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2935.ts
-#EXTINF:-1,IT: Rai Gulp
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2930.ts
-#EXTINF:-1,IT: Rai Movie
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2929.ts
-#EXTINF:-1,IT: Rai News 24
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2928.ts
-#EXTINF:-1,IT: Rai Premium
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2939.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2937.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2938.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2936.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2957.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2958.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2955.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2956.ts
-#EXTINF:-1,IT: Sky Cinema Max
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2954.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2959.ts
-#EXTINF:-1,IT: Sky Cinema Uno HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2953.ts
-
+#EXTINF:-1,[IT] Sportitalia
+http://bigiptv.ovh:8000/live/75806293/75806293/7985.m3u8
+#EXTINF:-1,[IT] Sky Uno HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7957.m3u8
+#EXTINF:-1,[IT] SKY TG 24
+http://bigiptv.ovh:8000/live/75806293/75806293/7958.m3u8
+#EXTINF:-1,[IT] Sky Sport F1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7984.m3u8
+#EXTINF:-1,[IT] SKY SPORT 3
+http://bigiptv.ovh:8000/live/75806293/75806293/7983.m3u8
+#EXTINF:-1,[IT] Sky Sport 24
+http://bigiptv.ovh:8000/live/75806293/75806293/7987.m3u8
+#EXTINF:-1,[IT] SKY SPORT 2
+http://bigiptv.ovh:8000/live/75806293/75806293/7982.m3u8
+#EXTINF:-1,[IT] SKY SPORT 1
+http://bigiptv.ovh:8000/live/75806293/75806293/7981.m3u8
+#EXTINF:-1,[IT] Sky Primafila1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7990.m3u8
+#EXTINF:-1,[IT] Sky Primafila 8
+http://bigiptv.ovh:8000/live/75806293/75806293/7997.m3u8
+#EXTINF:-1,[IT] Sky Primafila 6 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7995.m3u8
+#EXTINF:-1,[IT] Sky Primafila 3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7992.m3u8
+#EXTINF:-1,[IT] Sky Primafila 10
+http://bigiptv.ovh:8000/live/75806293/75806293/7998.m3u8
+#EXTINF:-1,[IT] Sky Moto GP
+http://bigiptv.ovh:8000/live/75806293/75806293/7988.m3u8
+#EXTINF:-1,[IT] Sky Crime & Investigation
+http://bigiptv.ovh:8000/live/75806293/75806293/7966.m3u8
+#EXTINF:-1,[IT] Sky Cinema Uno
+http://bigiptv.ovh:8000/live/75806293/75806293/7959.m3u8
+#EXTINF:-1,[IT] Sky Cinema Passion HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7967.m3u8
+#EXTINF:-1,[IT] Sky Cinema Max HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7960.m3u8
+#EXTINF:-1,[IT] Sky Cinema Hits HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7968.m3u8
+#EXTINF:-1,[IT] Sky Cinema Family HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7969.m3u8
+#EXTINF:-1,[IT] Sky Cinema Comedy HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7961.m3u8
+#EXTINF:-1,[IT] Sky Cinema Classic HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7962.m3u8
+#EXTINF:-1,[IT] SKY Cinema  24
+http://bigiptv.ovh:8000/live/75806293/75806293/7963.m3u8
+#EXTINF:-1,[IT] Sky Cinema  1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7964.m3u8
+#EXTINF:-1,[IT] SKY Atlantic HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7965.m3u8
+#EXTINF:-1,[IT] RSI LA 2
+http://bigiptv.ovh:8000/live/75806293/75806293/7925.m3u8
+#EXTINF:-1,[IT] RSI LA 1
+http://bigiptv.ovh:8000/live/75806293/75806293/7924.m3u8
+#EXTINF:-1,[IT] Rete 4 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7931.m3u8
+#EXTINF:-1,[IT] Rai YoYo
+http://bigiptv.ovh:8000/live/75806293/75806293/7936.m3u8
+#EXTINF:-1,[IT] Rai Sport 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7938.m3u8
+#EXTINF:-1,[IT] Rai Sport 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7937.m3u8
+#EXTINF:-1,[IT] Rai Premium
+http://bigiptv.ovh:8000/live/75806293/75806293/7939.m3u8
+#EXTINF:-1,[IT] Rai Movie
+http://bigiptv.ovh:8000/live/75806293/75806293/7940.m3u8
+#EXTINF:-1,[IT] Rai 5 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7930.m3u8
+#EXTINF:-1,[IT][VIP] RAI 4 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7929.m3u8
+#EXTINF:-1,[IT][VIP] RAI 3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7928.m3u8
+#EXTINF:-1,[IT][VIP] RAI 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7927.m3u8
+#EXTINF:-1,[IT][VIP] RAI 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7926.m3u8
+#EXTINF:-1,[IT] Primafila 7
+http://bigiptv.ovh:8000/live/75806293/75806293/7996.m3u8
+#EXTINF:-1,[IT] Primafila 5
+http://bigiptv.ovh:8000/live/75806293/75806293/7994.m3u8
+#EXTINF:-1,[IT] Primafila 4
+http://bigiptv.ovh:8000/live/75806293/75806293/7993.m3u8
+#EXTINF:-1,[IT] Primafila 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7991.m3u8
+#EXTINF:-1,[IT] Premium Studio Universal
+http://bigiptv.ovh:8000/live/75806293/75806293/7974.m3u8
+#EXTINF:-1,[IT] Premium Stories
+http://bigiptv.ovh:8000/live/75806293/75806293/7975.m3u8
+#EXTINF:-1,[IT] Premium Joy
+http://bigiptv.ovh:8000/live/75806293/75806293/7970.m3u8
+#EXTINF:-1,[IT] Premium Energy
+http://bigiptv.ovh:8000/live/75806293/75806293/7976.m3u8
+#EXTINF:-1,[IT] Premium Emotion
+http://bigiptv.ovh:8000/live/75806293/75806293/7971.m3u8
+#EXTINF:-1,[IT] Premium Crime 24
+http://bigiptv.ovh:8000/live/75806293/75806293/7977.m3u8
+#EXTINF:-1,[IT] Premium Comedy
+http://bigiptv.ovh:8000/live/75806293/75806293/7978.m3u8
+#EXTINF:-1,[IT] Premium Cinema HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7972.m3u8
+#EXTINF:-1,[IT] Premium Cinema 24
+http://bigiptv.ovh:8000/live/75806293/75806293/7979.m3u8
+#EXTINF:-1,[IT] Premium Cinema 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7973.m3u8
+#EXTINF:-1,[IT] Premium Action +24
+http://bigiptv.ovh:8000/live/75806293/75806293/7980.m3u8
+#EXTINF:-1,[IT] National Geographic HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7948.m3u8
+#EXTINF:-1,[IT] NatGeo Wild HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7949.m3u8
+#EXTINF:-1,[IT] Nat Geo People HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7950.m3u8
+#EXTINF:-1,[IT] LA 7 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7933.m3u8
+#EXTINF:-1,[IT] Italia 2
+http://bigiptv.ovh:8000/live/75806293/75806293/7935.m3u8
+#EXTINF:-1,[IT] Italia 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7934.m3u8
+#EXTINF:-1,[IT] History Channel
+http://bigiptv.ovh:8000/live/75806293/75806293/7951.m3u8
+#EXTINF:-1,[IT] Fox Sports HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7943.m3u8
+#EXTINF:-1,[IT] Fox Life HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7941.m3u8
+#EXTINF:-1,[IT] Fox HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7942.m3u8
+#EXTINF:-1,[IT] Fox Crime
+http://bigiptv.ovh:8000/live/75806293/75806293/7944.m3u8
+#EXTINF:-1,[IT] Fox Comedy HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7945.m3u8
+#EXTINF:-1,[IT] Fox Animation
+http://bigiptv.ovh:8000/live/75806293/75806293/7946.m3u8
+#EXTINF:-1,[IT] EuroSport 2
+http://bigiptv.ovh:8000/live/75806293/75806293/7952.m3u8
+#EXTINF:-1,[IT] EuroSport 1
+http://bigiptv.ovh:8000/live/75806293/75806293/7953.m3u8
+#EXTINF:-1,[IT] Dmax HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7954.m3u8
+#EXTINF:-1,[IT] Discovery Science HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7947.m3u8
+#EXTINF:-1,[IT] Canal 5 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/7932.m3u8
 #EXTM3U
 #EXTINF:-1,Animal Planet
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/824.m3u8$http-refferer=http://localhost
