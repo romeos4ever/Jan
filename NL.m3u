@@ -3,59 +3,110 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",======NETHERLANDS=======
 http://www.lengua.com/anthems/Netherlands.mp3
-#EXTM3U
-#EXTINF:-1,SBS 6 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/680.ts
-#EXTINF:-1,RTL 4 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/679.ts
-#EXTINF:-1,VERONICA HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/280.ts
-#EXTINF:-1,SBS 9 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/277.ts
-#EXTINF:-1,RTL 8 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/268.ts
-#EXTINF:-1,RTL 7 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/270.ts
-#EXTINF:-1,RTL 5 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/273.ts
-#EXTINF:-1,NPO 3 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/266.ts
-#EXTINF:-1,NPO 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/262.ts
-#EXTINF:-1,Nickelodeon HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/299.ts
-#EXTINF:-1,NET 5 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/281.ts
-#EXTINF:-1,Fox Sport 6 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/364.ts
-#EXTINF:-1,Fox Sport 5 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/363.ts
-#EXTINF:-1,Film 1 Drama HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/282.ts
-#EXTINF:-1,Film 1 Premiere HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/284.ts
-#EXTINF:-1,Film 1 Action HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/288.ts
-#EXTINF:-1,Fox Sport 4 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/362.ts
-#EXTINF:-1,Comedy Central HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/352.ts
-#EXTINF:-1,24 Kitchen HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/397.ts
-#EXTINF:-1,TLC
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/314.ts
-#EXTINF:-1,Fox Sport 3 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/303.ts
-#EXTINF:-1,Fox Sport 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/302.ts
-#EXTINF:-1,Fox Sport 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/301.ts
-#EXTINF:-1,Film 1 Comedy
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/286.ts
-#EXTINF:-1,Nat Geo HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/335.ts
-
-
+#EXTINF:-1,NL:  Rtl Lounge
+http://bigiptv.ovh:8000/live/75806293/75806293/9816.m3u8
+#EXTINF:-1,NL: 24 Kitchen HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9813.m3u8
+#EXTINF:-1,NL: Cartoon Network
+http://bigiptv.ovh:8000/live/75806293/75806293/9792.m3u8
+#EXTINF:-1,NL: Comedy Central
+http://bigiptv.ovh:8000/live/75806293/75806293/9781.m3u8
+#EXTINF:-1,NL: Comedy Central extra
+http://bigiptv.ovh:8000/live/75806293/75806293/9782.m3u8
+#EXTINF:-1,NL: Crime & Investigation
+http://bigiptv.ovh:8000/live/75806293/75806293/9783.m3u8
+#EXTINF:-1,NL: Discovery
+http://bigiptv.ovh:8000/live/75806293/75806293/9811.m3u8
+#EXTINF:-1,NL: Disney Channel HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9791.m3u8
+#EXTINF:-1,NL: Disney Junior
+http://bigiptv.ovh:8000/live/75806293/75806293/9786.m3u8
+#EXTINF:-1,NL: E! entertainement HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9777.m3u8
+#EXTINF:-1,NL: Film 1 Action
+http://bigiptv.ovh:8000/live/75806293/75806293/9797.m3u8
+#EXTINF:-1,NL: Film 1 Comedy
+http://bigiptv.ovh:8000/live/75806293/75806293/9794.m3u8
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9798.m3u8
+#EXTINF:-1,NL: Film 1 Spotlight
+http://bigiptv.ovh:8000/live/75806293/75806293/9795.m3u8
+#EXTINF:-1,NL: Film 1 Sundance
+http://bigiptv.ovh:8000/live/75806293/75806293/9796.m3u8
+#EXTINF:-1,NL: FOX HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9812.m3u8
+#EXTINF:-1,NL: Fox Sport 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9805.m3u8
+#EXTINF:-1,NL: Fox Sports 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9804.m3u8
+#EXTINF:-1,NL: Fox Sports 3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9803.m3u8
+#EXTINF:-1,NL: Fox Sports 4 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9802.m3u8
+#EXTINF:-1,NL: Fox Sports 5 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9801.m3u8
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9800.m3u8
+#EXTINF:-1,NL: Ketnet HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9787.m3u8
+#EXTINF:-1,NL: MTV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9778.m3u8
+#EXTINF:-1,NL: Nat Geo Wild NL
+http://bigiptv.ovh:8000/live/75806293/75806293/9810.m3u8
+#EXTINF:-1,NL: National Geographic HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9784.m3u8
+#EXTINF:-1,NL: Net5 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9818.m3u8
+#EXTINF:-1,NL: Nick Jr
+http://bigiptv.ovh:8000/live/75806293/75806293/9789.m3u8
+#EXTINF:-1,NL: NICK JUNIOR HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9788.m3u8
+#EXTINF:-1,NL: NICK TOONS
+http://bigiptv.ovh:8000/live/75806293/75806293/9785.m3u8
+#EXTINF:-1,NL: Nickelodeon
+http://bigiptv.ovh:8000/live/75806293/75806293/9793.m3u8
+#EXTINF:-1,NL: Nicktoons
+http://bigiptv.ovh:8000/live/75806293/75806293/9790.m3u8
+#EXTINF:-1,NL: NPO 1HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9827.m3u8
+#EXTINF:-1,NL: NPO 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9826.m3u8
+#EXTINF:-1,NL: NPO 3HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9825.m3u8
+#EXTINF:-1,NL: Omroep Brabant
+http://bigiptv.ovh:8000/live/75806293/75806293/9779.m3u8
+#EXTINF:-1,NL: RTL 4
+http://bigiptv.ovh:8000/live/75806293/75806293/9824.m3u8
+#EXTINF:-1,NL: RTL 5
+http://bigiptv.ovh:8000/live/75806293/75806293/9823.m3u8
+#EXTINF:-1,NL: RTL 7
+http://bigiptv.ovh:8000/live/75806293/75806293/9821.m3u8
+#EXTINF:-1,NL: RTL 8
+http://bigiptv.ovh:8000/live/75806293/75806293/9820.m3u8
+#EXTINF:-1,NL: RTL Z
+http://bigiptv.ovh:8000/live/75806293/75806293/9815.m3u8
+#EXTINF:-1,NL: RTV
+http://bigiptv.ovh:8000/live/75806293/75806293/9780.m3u8
+#EXTINF:-1,NL: RTV Drenthe
+http://bigiptv.ovh:8000/live/75806293/75806293/9776.m3u8
+#EXTINF:-1,NL: SBS 6 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9822.m3u8
+#EXTINF:-1,NL: SBS 9
+http://bigiptv.ovh:8000/live/75806293/75806293/9819.m3u8
+#EXTINF:-1,NL: SyFy
+http://bigiptv.ovh:8000/live/75806293/75806293/9799.m3u8
+#EXTINF:-1,NL: TLC
+http://bigiptv.ovh:8000/live/75806293/75806293/9814.m3u8
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://bigiptv.ovh:8000/live/75806293/75806293/9806.m3u8
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://bigiptv.ovh:8000/live/75806293/75806293/9807.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9808.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://bigiptv.ovh:8000/live/75806293/75806293/9809.m3u8
+#EXTINF:-1,NL: Veronica Disney XD
+http://bigiptv.ovh:8000/live/75806293/75806293/9817.m3u8
 #EXTM3U
 #EXTINF:-1,Film1 Premiere FHD 1080
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/762.m3u8$http-refferer=http://localhost
