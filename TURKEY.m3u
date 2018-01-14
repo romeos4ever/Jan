@@ -4,67 +4,223 @@
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",======TURKEY  coming soon=======
 http://www.lengua.com/anthems/Turkey.mp3
-#EXTINF:-1,TR: A Haber HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3835.ts
-#EXTINF:-1,TR: A Spor HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3893.ts
-#EXTINF:-1,TR: ATV HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3820.ts
-#EXTINF:-1,TR: Beyaz TV HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3831.ts
-#EXTINF:-1,TR: Cartoon Network
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3871.ts
-#EXTINF:-1,TR: CNN Turk HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3839.ts
-#EXTINF:-1,TR: Flash TV HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3833.ts
-#EXTINF:-1,TR: Fox HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3823.ts
-#EXTINF:-1,TR: Haber Turk HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3837.ts
-#EXTINF:-1,TR: Kanal 7 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3844.ts
-#EXTINF:-1,TR: Kanal D HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3828.ts
-#EXTINF:-1,TR: KRAL POP TV
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/4279.ts
-#EXTINF:-1,TR: Minika Cocuk
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3873.ts
-#EXTINF:-1,TR: Minika Go
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3872.ts
-#EXTINF:-1,TR: Moviesmart Premium 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3878.ts
-#EXTINF:-1,TR: Moviesmart Premium HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3877.ts
-#EXTINF:-1,TR: Moviesmart Turk HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3879.ts
-#EXTINF:-1,TR: NTV HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3841.ts
-#EXTINF:-1,TR: Show Max
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3815.ts
-#EXTINF:-1,TR: Show TV HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3813.ts
-#EXTINF:-1,TR: Star TV HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3817.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3891.ts
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3892.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3848.ts
-#EXTINF:-1,TR: TRT Belgesel HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3861.ts
-#EXTINF:-1,TR: TRT Cocuk HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3859.ts
-#EXTINF:-1,TR: TRT Haber HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3857.ts
-#EXTINF:-1,TR: TRT Muzik HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3855.ts
-#EXTINF:-1,TR: TRT Okul HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3854.ts
-#EXTINF:-1,TR: TRT Turk HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3850.ts
-#EXTINF:-1,TR: TRT World HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3852.ts
-#EXTINF:-1,TR: TV8 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3825.ts
+#EXTINF:-1,[TR] DOST TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9122.m3u8
+#EXTINF:-1,[TR] YABAN TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9162.m3u8
+#EXTINF:-1,[TR] VIZYON TURK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9160.m3u8
+#EXTINF:-1,[TR] ULUSAL KANAL [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9133.m3u8
+#EXTINF:-1,[TR] ULKE TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9145.m3u8
+#EXTINF:-1,[TR] TVNET HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9144.m3u8
+#EXTINF:-1,[TR] TV8.5
+http://bigiptv.ovh:8000/live/75806293/75806293/9076.m3u8
+#EXTINF:-1,[TR] TV 4
+http://bigiptv.ovh:8000/live/75806293/75806293/9175.m3u8
+#EXTINF:-1,[TR] TURKMAX HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9088.m3u8
+#EXTINF:-1,[TR] TRTBELGESEL HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9063.m3u8
+#EXTINF:-1,[TR] TRT WORLD  HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9141.m3u8
+#EXTINF:-1,[TR] TRT SPOR HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9059.m3u8
+#EXTINF:-1,[TR] TRT MUZIK HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9191.m3u8
+#EXTINF:-1,[TR] TRT HABER HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9062.m3u8
+#EXTINF:-1,[TR] TRT DINAYET [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9058.m3u8
+#EXTINF:-1,[TR] TRT COCUK HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9219.m3u8
+#EXTINF:-1,[TR] TRT Ã‡OCUK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9171.m3u8
+#EXTINF:-1,[TR] TRT AVAZ [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9055.m3u8
+#EXTINF:-1,[TR] TRT 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9054.m3u8
+#EXTINF:-1,[TR] TLC HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9090.m3u8
+#EXTINF:-1,[TR] TJK TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9217.m3u8
+#EXTINF:-1,[TR] TIVIBUSPORT 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9199.m3u8
+#EXTINF:-1,[TR] TIVIBUSPOR-3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9200.m3u8
+#EXTINF:-1,[TR] TIVIBU SPOR 4 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9201.m3u8
+#EXTINF:-1,[TR] TIVIBU SPOR 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9197.m3u8
+#EXTINF:-1,[TR] TGRT HABER HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9143.m3u8
+#EXTINF:-1,[TR] TEVE HD 2 [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9080.m3u8
+#EXTINF:-1,[TR] TELE 1 TV [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9221.m3u8
+#EXTINF:-1,[TR] TEK RUMELi TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9113.m3u8
+#EXTINF:-1,[TR] TAY TV [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9216.m3u8
+#EXTINF:-1,[TR] STAR HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9065.m3u8
+#EXTINF:-1,[TR] SPORTS TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9204.m3u8
+#EXTINF:-1,[TR] SMART SPOR HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9202.m3u8
+#EXTINF:-1,[TR] SKY NEWS [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9223.m3u8
+#EXTINF:-1,[TR] SHOW TV HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9067.m3u8
+#EXTINF:-1,[TR] SEMERKAND TV HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9114.m3u8
+#EXTINF:-1,[TR] REHBER TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9120.m3u8
+#EXTINF:-1,[TR] POWER TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9189.m3u8
+#EXTINF:-1,[TR] POWER TURK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9190.m3u8
+#EXTINF:-1,[TR] PLANET TURK
+http://bigiptv.ovh:8000/live/75806293/75806293/9091.m3u8
+#EXTINF:-1,[TR] PLANET Ã‡OCUK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9174.m3u8
+#EXTINF:-1,[TR] NTV SPORT HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9206.m3u8
+#EXTINF:-1,[TR] NTV HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9137.m3u8
+#EXTINF:-1,[TR] NR1 TURK HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9186.m3u8
+#EXTINF:-1,[TR] NR1 HD [  L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9185.m3u8
+#EXTINF:-1,[TR] NICKELODEON HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9169.m3u8
+#EXTINF:-1,[TR] NICK JR
+http://bigiptv.ovh:8000/live/75806293/75806293/9168.m3u8
+#EXTINF:-1,[TR] NATIONAL GEOGRAPHIC HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9153.m3u8
+#EXTINF:-1,[TR] NAT GEO WILD HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9152.m3u8
+#EXTINF:-1,[TR] MyZen TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9178.m3u8
+#EXTINF:-1,[TR] MOVIEMAX TURK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9095.m3u8
+#EXTINF:-1,[TR] MINIKA GO HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9172.m3u8
+#EXTINF:-1,[TR] MINIKA Ã‡OCUK
+http://bigiptv.ovh:8000/live/75806293/75806293/9173.m3u8
+#EXTINF:-1,[TR] MESAJ TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9119.m3u8
+#EXTINF:-1,[TR] MAKiNE TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9180.m3u8
+#EXTINF:-1,[TR] LALEGUL TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9115.m3u8
+#EXTINF:-1,[TR] KRAL WORLD TV [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9183.m3u8
+#EXTINF:-1,[TR] KRAL TV [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9181.m3u8
+#EXTINF:-1,[TR] KRAL TV POP [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9182.m3u8
+#EXTINF:-1,[TR] KON TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9117.m3u8
+#EXTINF:-1,[TR] KANAL D HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9070.m3u8
+#EXTINF:-1,[TR] KANAL A HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9085.m3u8
+#EXTINF:-1,[TR] KANAL 7 HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9084.m3u8
+#EXTINF:-1,[TR] KANAL 24 [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9146.m3u8
+#EXTINF:-1,[TR] IDX HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9218.m3u8
+#EXTINF:-1,[TR] HISTORY HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9154.m3u8
+#EXTINF:-1,[TR] HALK TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9132.m3u8
+#EXTINF:-1,[TR] HABER TURK HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9139.m3u8
+#EXTINF:-1,[TR] GS TV HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9213.m3u8
+#EXTINF:-1,[TR] FX HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9092.m3u8
+#EXTINF:-1,[TR] FOX TV HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9078.m3u8
+#EXTINF:-1,[TR] FOX LIFE HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9093.m3u8
+#EXTINF:-1,[TR] FOX CRIME HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9094.m3u8
+#EXTINF:-1,[TR] FLASH HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9087.m3u8
+#EXTINF:-1,[TR] Fil TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9089.m3u8
+#EXTINF:-1,[TR] FIGHT BOX
+http://bigiptv.ovh:8000/live/75806293/75806293/9209.m3u8
+#EXTINF:-1,[TR] FB TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9214.m3u8
+#EXTINF:-1,[TR] EUROSPORT2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9208.m3u8
+#EXTINF:-1,[TR] EUROSPORT1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9207.m3u8
+#EXTINF:-1,[TR] DUCK TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9167.m3u8
+#EXTINF:-1,[TR] DREAM TV [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9187.m3u8
+#EXTINF:-1,[TR] DREAM TURK HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9188.m3u8
+#EXTINF:-1,[TR] DISNEY XD
+http://bigiptv.ovh:8000/live/75806293/75806293/9163.m3u8
+#EXTINF:-1,[TR] DISNEY JR HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9165.m3u8
+#EXTINF:-1,[TR] DISNEY HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9164.m3u8
+#EXTINF:-1,[TR] DISCOVERY SCIENCE HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9150.m3u8
+#EXTINF:-1,[TR] DISCOVERY CHANNEL HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9151.m3u8
+#EXTINF:-1,[TR] CNN TURK HD [ L]
+http://bigiptv.ovh:8000/live/75806293/75806293/9136.m3u8
+#EXTINF:-1,[TR] CEM TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9127.m3u8
+#EXTINF:-1,[TR] CARTOON NETWORK
+http://bigiptv.ovh:8000/live/75806293/75806293/9170.m3u8
+#EXTINF:-1,[TR] BURSA SPORTV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9215.m3u8
+#EXTINF:-1,[TR] BLOOMBERGHT HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9142.m3u8
+#EXTINF:-1,[TR] BJKTV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9212.m3u8
+#EXTINF:-1,[TR] BEYKENT TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9130.m3u8
+#EXTINF:-1,[TR] BEYAZ TV HD [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9082.m3u8
+#EXTINF:-1,[TR] BENGU TURK
+http://bigiptv.ovh:8000/live/75806293/75806293/9131.m3u8
+#EXTINF:-1,[TR] BEIN SPORT 3
+http://bigiptv.ovh:8000/live/75806293/75806293/9194.m3u8
+#EXTINF:-1,[TR] BEiN iZ HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9155.m3u8
+#EXTINF:-1,[TR] BEiN BOXOFFICE TURK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9105.m3u8
+#EXTINF:-1,[TR] BEiN BOX OFFiCE 3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9104.m3u8
+#EXTINF:-1,[TR] BEiN BOX OFFiCE 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9103.m3u8
+#EXTINF:-1,[TR] BEiN BOX OFFiCE 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9102.m3u8
+#EXTINF:-1,[TR] BBC EARTH HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9149.m3u8
+#EXTINF:-1,[TR] BABY FIRST HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9166.m3u8
+#EXTINF:-1,[TR] ATV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9071.m3u8
+#EXTINF:-1,[TR] AKIT TV
+http://bigiptv.ovh:8000/live/75806293/75806293/9147.m3u8
+#EXTINF:-1,[TR] A2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9073.m3u8
+#EXTINF:-1,[TR] A HABER HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9134.m3u8
+#EXTINF:-1,[TR] 360 TV [ L ]
+http://bigiptv.ovh:8000/live/75806293/75806293/9157.m3u8
+#EXTINF:-1,¤¤¤¤¤ USA ¤¤¤¤¤
+http://bigiptv.ovh:8000/live/75806293/75806293/8087.m3u8
