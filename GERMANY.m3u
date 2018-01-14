@@ -1,7 +1,172 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",========|||-DEUTSCHLAND-|||========
 http://andrtviptv.jan-beryan.giize.com/398.ts
-
+#EXTINF:-1,[DE][L] ARD
+http://bigiptv.ovh:8000/live/75806293/75806293/826.m3u8
+#EXTINF:-1,[DE][L] Axn HD
+http://bigiptv.ovh:8000/live/75806293/75806293/791.m3u8
+#EXTINF:-1,[DE][L] Boomerang
+http://bigiptv.ovh:8000/live/75806293/75806293/827.m3u8
+#EXTINF:-1,[DE][L] Cartoon Network
+http://bigiptv.ovh:8000/live/75806293/75806293/828.m3u8
+#EXTINF:-1,[DE][L] DE: Pro 7
+http://bigiptv.ovh:8000/live/75806293/75806293/792.m3u8
+#EXTINF:-1,[DE][L] Discovery Channel HD
+http://bigiptv.ovh:8000/live/75806293/75806293/829.m3u8
+#EXTINF:-1,[DE][L] Disney Channel
+http://bigiptv.ovh:8000/live/75806293/75806293/830.m3u8
+#EXTINF:-1,[DE][L] Disney Cinemagic
+http://bigiptv.ovh:8000/live/75806293/75806293/831.m3u8
+#EXTINF:-1,[DE][L] Disney Junior
+http://bigiptv.ovh:8000/live/75806293/75806293/832.m3u8
+#EXTINF:-1,[DE][L] Disney Xd
+http://bigiptv.ovh:8000/live/75806293/75806293/833.m3u8
+#EXTINF:-1,[DE][L] Dmax
+http://bigiptv.ovh:8000/live/75806293/75806293/834.m3u8
+#EXTINF:-1,[DE][L] Eurosport 1
+http://bigiptv.ovh:8000/live/75806293/75806293/835.m3u8
+#EXTINF:-1,[DE][L] Eurosport 2
+http://bigiptv.ovh:8000/live/75806293/75806293/836.m3u8
+#EXTINF:-1,[DE][L] FOX HD
+http://bigiptv.ovh:8000/live/75806293/75806293/837.m3u8
+#EXTINF:-1,[DE][L] Junior
+http://bigiptv.ovh:8000/live/75806293/75806293/838.m3u8
+#EXTINF:-1,[DE][L] Kabel 1
+http://bigiptv.ovh:8000/live/75806293/75806293/839.m3u8
+#EXTINF:-1,[DE][L] Kika
+http://bigiptv.ovh:8000/live/75806293/75806293/840.m3u8
+#EXTINF:-1,[DE][L] Kino Welt
+http://bigiptv.ovh:8000/live/75806293/75806293/841.m3u8
+#EXTINF:-1,[DE][L] National Geographic HD
+http://bigiptv.ovh:8000/live/75806293/75806293/842.m3u8
+#EXTINF:-1,[DE][L] Pro 7 Maxx
+http://bigiptv.ovh:8000/live/75806293/75806293/843.m3u8
+#EXTINF:-1,[DE][L] Romance TV HD
+http://bigiptv.ovh:8000/live/75806293/75806293/844.m3u8
+#EXTINF:-1,[DE][L] RTL 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/845.m3u8
+#EXTINF:-1,[DE][L] RTL Crime
+http://bigiptv.ovh:8000/live/75806293/75806293/846.m3u8
+#EXTINF:-1,[DE][L] RTL HD
+http://bigiptv.ovh:8000/live/75806293/75806293/793.m3u8
+#EXTINF:-1,[DE][L] Rtl Living
+http://bigiptv.ovh:8000/live/75806293/75806293/847.m3u8
+#EXTINF:-1,[DE][L] RTL Nitro
+http://bigiptv.ovh:8000/live/75806293/75806293/848.m3u8
+#EXTINF:-1,[DE][L] Rtl passion
+http://bigiptv.ovh:8000/live/75806293/75806293/794.m3u8
+#EXTINF:-1,[DE][L] RTL Plus
+http://bigiptv.ovh:8000/live/75806293/75806293/849.m3u8
+#EXTINF:-1,[DE][L] Sat 1
+http://bigiptv.ovh:8000/live/75806293/75806293/795.m3u8
+#EXTINF:-1,[DE][L] Sixx HD
+http://bigiptv.ovh:8000/live/75806293/75806293/850.m3u8
+#EXTINF:-1,[DE][L] Sky  Hits HD
+http://bigiptv.ovh:8000/live/75806293/75806293/796.m3u8
+#EXTINF:-1,[DE][L] Sky Atlantic
+http://bigiptv.ovh:8000/live/75806293/75806293/851.m3u8
+#EXTINF:-1,[DE][L] Sky Germany 13 TH HD
+http://bigiptv.ovh:8000/live/75806293/75806293/797.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Action HD
+http://bigiptv.ovh:8000/live/75806293/75806293/798.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/799.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/800.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/801.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/802.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/803.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/804.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/805.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Cinema   24 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/806.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Cinema  Emotion
+http://bigiptv.ovh:8000/live/75806293/75806293/807.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Cinema Family
+http://bigiptv.ovh:8000/live/75806293/75806293/852.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Cinema HD
+http://bigiptv.ovh:8000/live/75806293/75806293/808.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Comedy
+http://bigiptv.ovh:8000/live/75806293/75806293/809.m3u8
+#EXTINF:-1,[DE][L] Sky Germany History Channel HD
+http://bigiptv.ovh:8000/live/75806293/75806293/810.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Krimi
+http://bigiptv.ovh:8000/live/75806293/75806293/811.m3u8
+#EXTINF:-1,[DE][L] Sky Germany NatGeo Wild HD
+http://bigiptv.ovh:8000/live/75806293/75806293/812.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Sport 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/813.m3u8
+#EXTINF:-1,[DE][L] Sky Germany Sport 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/814.m3u8
+#EXTINF:-1,[DE][L] Sky Germany TNT Serie HD
+http://bigiptv.ovh:8000/live/75806293/75806293/853.m3u8
+#EXTINF:-1,[DE][L] Sky Select 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/815.m3u8
+#EXTINF:-1,[DE][L] Sky Select 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/816.m3u8
+#EXTINF:-1,[DE][L] Sky Select 3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/817.m3u8
+#EXTINF:-1,[DE][L] Sky Select 4 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/818.m3u8
+#EXTINF:-1,[DE][L] Sky Select 5 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/819.m3u8
+#EXTINF:-1,[DE][L] Sky Select 6 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/820.m3u8
+#EXTINF:-1,[DE][L] Sky Select 7 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/821.m3u8
+#EXTINF:-1,[DE][L] Sky Select 8 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/822.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 10 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/854.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 11 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/855.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 3 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/856.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 4 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/857.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 5 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/858.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 6 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/859.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 7 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/860.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 8 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/861.m3u8
+#EXTINF:-1,[DE][L] Sky Sport 9 HD (ONLY ON MATCHDAY)
+http://bigiptv.ovh:8000/live/75806293/75806293/862.m3u8
+#EXTINF:-1,[DE][L] Sky Sport News
+http://bigiptv.ovh:8000/live/75806293/75806293/863.m3u8
+#EXTINF:-1,[DE][L] Sky Syfy
+http://bigiptv.ovh:8000/live/75806293/75806293/823.m3u8
+#EXTINF:-1,[DE][L] SKY TNT FILM
+http://bigiptv.ovh:8000/live/75806293/75806293/864.m3u8
+#EXTINF:-1,[DE][L] Sony HD
+http://bigiptv.ovh:8000/live/75806293/75806293/865.m3u8
+#EXTINF:-1,[DE][L] Spiegel TV Geschichte
+http://bigiptv.ovh:8000/live/75806293/75806293/866.m3u8
+#EXTINF:-1,[DE][L] Sport 1 US
+http://bigiptv.ovh:8000/live/75806293/75806293/867.m3u8
+#EXTINF:-1,[DE][L] Sport1
+http://bigiptv.ovh:8000/live/75806293/75806293/868.m3u8
+#EXTINF:-1,[DE][L] Super Rtl
+http://bigiptv.ovh:8000/live/75806293/75806293/824.m3u8
+#EXTINF:-1,[DE][L] TLC
+http://bigiptv.ovh:8000/live/75806293/75806293/869.m3u8
+#EXTINF:-1,[DE][L] TNT Comedy
+http://bigiptv.ovh:8000/live/75806293/75806293/825.m3u8
+#EXTINF:-1,[DE][L] Universal Channel
+http://bigiptv.ovh:8000/live/75806293/75806293/870.m3u8
+#EXTINF:-1,[DE][L] VOX HD
+http://bigiptv.ovh:8000/live/75806293/75806293/871.m3u8
+#EXTINF:-1,[DE][L] ZDF HD
+http://bigiptv.ovh:8000/live/75806293/75806293/872.m3u8
+#EXTINF:-1,[DE][L] Zee One
+http://bigiptv.ovh:8000/live/75806293/75806293/873.m3u8
 
 #EXTM3U
 #EXTINF:-1,13th Street
