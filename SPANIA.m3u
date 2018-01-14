@@ -3,57 +3,115 @@
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV coming soon ~
 http://www.lengua.com/anthems/Spain.mp3
-#EXTINF:-1,ES: AMC HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3004.ts
-#EXTINF:-1,ES: Barca TV
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3034.ts
-#EXTINF:-1,ES: Canal  Accion HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2988.ts
-#EXTINF:-1,ES: Canal  Comedia HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2987.ts
-#EXTINF:-1,ES: Canal  Dcine HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2986.ts
-#EXTINF:-1,ES: Canal  Deportes HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3028.ts
-#EXTINF:-1,ES: Canal  Estrenos HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2985.ts
-#EXTINF:-1,ES: Canal  Futbol HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3027.ts
-#EXTINF:-1,ES: Canal  Series
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2984.ts
-#EXTINF:-1,ES: Canal Panda
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2989.ts
-#EXTINF:-1,ES: Comedy Central
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3000.ts
-#EXTINF:-1,ES: Cosmo
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3022.ts
-#EXTINF:-1,ES: Energy
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3018.ts
-#EXTINF:-1,ES: Eurosport 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3017.ts
-#EXTINF:-1,ES: Fox Life HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2997.ts
-#EXTINF:-1,ES: Hollywood HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2996.ts
-#EXTINF:-1,ES: LA 1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2966.ts
-#EXTINF:-1,ES: LA 2 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2967.ts
-#EXTINF:-1,ES: LTC
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3015.ts
-#EXTINF:-1,ES: Movistar F1 HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3014.ts
-#EXTINF:-1,ES: MTV
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3012.ts
-#EXTINF:-1,ES: Nat Geo Wild HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3010.ts
-#EXTINF:-1,ES: Non Stop People
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/3008.ts
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2995.ts
-#EXTINF:-1,ES: TCM HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2993.ts
-#EXTINF:-1,ES: TeleCinco HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2971.ts
-#EXTINF:-1,ES: TNT HD
-http://qiptv.eu:88/live/chintotech/SxkkCZPXJ2/2992.ts
+#EXTINF:-1,[ES] Xtra
+http://bigiptv.ovh:8000/live/75806293/75806293/8302.m3u8
+#EXTINF:-1,[ES] Viajar
+http://bigiptv.ovh:8000/live/75806293/75806293/8301.m3u8
+#EXTINF:-1,[ES] TNT
+http://bigiptv.ovh:8000/live/75806293/75806293/8300.m3u8
+#EXTINF:-1,[ES] Teledeporte
+http://bigiptv.ovh:8000/live/75806293/75806293/8299.m3u8
+#EXTINF:-1,[ES] Telecinco
+http://bigiptv.ovh:8000/live/75806293/75806293/8298.m3u8
+#EXTINF:-1,[ES] TCM
+http://bigiptv.ovh:8000/live/75806293/75806293/8297.m3u8
+#EXTINF:-1,[ES] TAQUILLA-10-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8304.m3u8
+#EXTINF:-1,[ES] TAQUILLA-1-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8303.m3u8
+#EXTINF:-1,[ES] SyFy
+http://bigiptv.ovh:8000/live/75806293/75806293/8296.m3u8
+#EXTINF:-1,[ES] Seri[ES] Xtra
+http://bigiptv.ovh:8000/live/75806293/75806293/8295.m3u8
+#EXTINF:-1,[ES] Nova
+http://bigiptv.ovh:8000/live/75806293/75806293/8294.m3u8
+#EXTINF:-1,[ES] Nonstopeople
+http://bigiptv.ovh:8000/live/75806293/75806293/8293.m3u8
+#EXTINF:-1,[ES] Nat-Geo-Wild
+http://bigiptv.ovh:8000/live/75806293/75806293/8292.m3u8
+#EXTINF:-1,[ES] NAT-GEO
+http://bigiptv.ovh:8000/live/75806293/75806293/8291.m3u8
+#EXTINF:-1,[ES] MTV-Espana
+http://bigiptv.ovh:8000/live/75806293/75806293/8290.m3u8
+#EXTINF:-1,[ES] Moviestar-F1
+http://bigiptv.ovh:8000/live/75806293/75806293/8289.m3u8
+#EXTINF:-1,[ES] Moto-GP
+http://bigiptv.ovh:8000/live/75806293/75806293/8288.m3u8
+#EXTINF:-1,[ES] LTC
+http://bigiptv.ovh:8000/live/75806293/75806293/8287.m3u8
+#EXTINF:-1,[ES] Los40
+http://bigiptv.ovh:8000/live/75806293/75806293/8286.m3u8
+#EXTINF:-1,[ES] La2
+http://bigiptv.ovh:8000/live/75806293/75806293/8285.m3u8
+#EXTINF:-1,[ES] La-Sexta
+http://bigiptv.ovh:8000/live/75806293/75806293/8284.m3u8
+#EXTINF:-1,[ES] Iberalia-TV
+http://bigiptv.ovh:8000/live/75806293/75806293/8283.m3u8
+#EXTINF:-1,[ES] Hollywood
+http://bigiptv.ovh:8000/live/75806293/75806293/8282.m3u8
+#EXTINF:-1,[ES] Golf
+http://bigiptv.ovh:8000/live/75806293/75806293/8281.m3u8
+#EXTINF:-1,[ES] Fox-News
+http://bigiptv.ovh:8000/live/75806293/75806293/8280.m3u8
+#EXTINF:-1,[ES] FOX-Life
+http://bigiptv.ovh:8000/live/75806293/75806293/8279.m3u8
+#EXTINF:-1,[ES] Fox-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8278.m3u8
+#EXTINF:-1,[ES] FOX
+http://bigiptv.ovh:8000/live/75806293/75806293/8277.m3u8
+#EXTINF:-1,[ES] FDF
+http://bigiptv.ovh:8000/live/75806293/75806293/8276.m3u8
+#EXTINF:-1,[ES] F.TBOL-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8275.m3u8
+#EXTINF:-1,[ES] Eurosport-1
+http://bigiptv.ovh:8000/live/75806293/75806293/8274.m3u8
+#EXTINF:-1,[ES] Estrenos
+http://bigiptv.ovh:8000/live/75806293/75806293/8273.m3u8
+#EXTINF:-1,[ES] Energy-TV
+http://bigiptv.ovh:8000/live/75806293/75806293/8272.m3u8
+#EXTINF:-1,[ES] Divinity
+http://bigiptv.ovh:8000/live/75806293/75806293/8271.m3u8
+#EXTINF:-1,[ES] Disney-XD
+http://bigiptv.ovh:8000/live/75806293/75806293/8270.m3u8
+#EXTINF:-1,[ES] Disney-Junior
+http://bigiptv.ovh:8000/live/75806293/75806293/8269.m3u8
+#EXTINF:-1,[ES] Discovery
+http://bigiptv.ovh:8000/live/75806293/75806293/8268.m3u8
+#EXTINF:-1,[ES] Deportes
+http://bigiptv.ovh:8000/live/75806293/75806293/8267.m3u8
+#EXTINF:-1,[ES] Dcine-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8266.m3u8
+#EXTINF:-1,[ES] Dcine-Espanol
+http://bigiptv.ovh:8000/live/75806293/75806293/8265.m3u8
+#EXTINF:-1,[ES] Crimen-Inves
+http://bigiptv.ovh:8000/live/75806293/75806293/8264.m3u8
+#EXTINF:-1,[ES] Canal-Odisea
+http://bigiptv.ovh:8000/live/75806293/75806293/8263.m3u8
+#EXTINF:-1,[ES] Canal-Decasa
+http://bigiptv.ovh:8000/live/75806293/75806293/8262.m3u8
+#EXTINF:-1,[ES] Canal-DCine
+http://bigiptv.ovh:8000/live/75806293/75806293/8261.m3u8
+#EXTINF:-1,[ES] Canal-Cocina
+http://bigiptv.ovh:8000/live/75806293/75806293/8260.m3u8
+#EXTINF:-1,[ES] CANAL-ACCION-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8259.m3u8
+#EXTINF:-1,[ES] Canal--DEPORTES
+http://bigiptv.ovh:8000/live/75806293/75806293/8258.m3u8
+#EXTINF:-1,[ES] Calle-13
+http://bigiptv.ovh:8000/live/75806293/75806293/8257.m3u8
+#EXTINF:-1,[ES] Boing
+http://bigiptv.ovh:8000/live/75806293/75806293/8256.m3u8
+#EXTINF:-1,[ES] Barca-TV
+http://bigiptv.ovh:8000/live/75806293/75806293/8255.m3u8
+#EXTINF:-1,[ES] Baby-TV
+http://bigiptv.ovh:8000/live/75806293/75806293/8254.m3u8
+#EXTINF:-1,[ES] AXN-White
+http://bigiptv.ovh:8000/live/75806293/75806293/8253.m3u8
+#EXTINF:-1,[ES] AMC
+http://bigiptv.ovh:8000/live/75806293/75806293/8252.m3u8
+#EXTINF:-1,[ES] Accion-HD
+http://bigiptv.ovh:8000/live/75806293/75806293/8251.m3u8
+#EXTINF:-1,[ES] A&E
+http://bigiptv.ovh:8000/live/75806293/75806293/8250.m3u8
+#EXTINF:-1,[ES] 24-Horas
+http://bigiptv.ovh:8000/live/75806293/75806293/8249.m3u8
