@@ -5,6 +5,168 @@
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
+#EXTINF:-1,[USA] A&E
+http://bigiptv.ovh:8000/live/75806293/75806293/10050.m3u8
+#EXTINF:-1,[USA] ABC
+http://bigiptv.ovh:8000/live/75806293/75806293/10060.m3u8
+#EXTINF:-1,[USA] ABC News
+http://bigiptv.ovh:8000/live/75806293/75806293/10049.m3u8
+#EXTINF:-1,[USA] Action Max HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10009.m3u8
+#EXTINF:-1,[USA] AMC HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10008.m3u8
+#EXTINF:-1,[USA] Animal Planet
+http://bigiptv.ovh:8000/live/75806293/75806293/10059.m3u8
+#EXTINF:-1,[USA] Bein Sports
+http://bigiptv.ovh:8000/live/75806293/75806293/10007.m3u8
+#EXTINF:-1,[USA] Bloomberg
+http://bigiptv.ovh:8000/live/75806293/75806293/10058.m3u8
+#EXTINF:-1,[USA] CAN: TSN 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10015.m3u8
+#EXTINF:-1,[USA] CAN: TSN 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10014.m3u8
+#EXTINF:-1,[USA] CAN: TSN 3 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10013.m3u8
+#EXTINF:-1,[USA] CAN: TSN 4 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10012.m3u8
+#EXTINF:-1,[USA] CAN: TSN 5 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10011.m3u8
+#EXTINF:-1,[USA] Cartoon Network
+http://bigiptv.ovh:8000/live/75806293/75806293/10057.m3u8
+#EXTINF:-1,[USA] CBS HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10021.m3u8
+#EXTINF:-1,[USA] CBS Sports Network HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10030.m3u8
+#EXTINF:-1,[USA] Cinemax HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10064.m3u8
+#EXTINF:-1,[USA] CNBC
+http://bigiptv.ovh:8000/live/75806293/75806293/10063.m3u8
+#EXTINF:-1,[USA] CNN HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10020.m3u8
+#EXTINF:-1,[USA] Comedy Central
+http://bigiptv.ovh:8000/live/75806293/75806293/10019.m3u8
+#EXTINF:-1,[USA] CW HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10056.m3u8
+#EXTINF:-1,[USA] Discovery HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10062.m3u8
+#EXTINF:-1,[USA] Discovery Science HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10055.m3u8
+#EXTINF:-1,[USA] E!
+http://bigiptv.ovh:8000/live/75806293/75806293/10054.m3u8
+#EXTINF:-1,[USA] ESPN 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10038.m3u8
+#EXTINF:-1,[USA] ESPN Deportes
+http://bigiptv.ovh:8000/live/75806293/75806293/10048.m3u8
+#EXTINF:-1,[USA] ESPN News HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10037.m3u8
+#EXTINF:-1,[USA] ESPN U HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10036.m3u8
+#EXTINF:-1,[USA] ESPN USA HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10035.m3u8
+#EXTINF:-1,[USA] Fight Network
+http://bigiptv.ovh:8000/live/75806293/75806293/10029.m3u8
+#EXTINF:-1,[USA] Fox HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10018.m3u8
+#EXTINF:-1,[USA] FOX NEWS HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10006.m3u8
+#EXTINF:-1,[USA] Fox Sports 1 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10034.m3u8
+#EXTINF:-1,[USA] Fox Sports 2 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10033.m3u8
+#EXTINF:-1,[USA] FreeRom HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10053.m3u8
+#EXTINF:-1,[USA] FX
+http://bigiptv.ovh:8000/live/75806293/75806293/10005.m3u8
+#EXTINF:-1,[USA] FXX
+http://bigiptv.ovh:8000/live/75806293/75806293/10004.m3u8
+#EXTINF:-1,[USA] Golf HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10028.m3u8
+#EXTINF:-1,[USA] HBO
+http://bigiptv.ovh:8000/live/75806293/75806293/10003.m3u8
+#EXTINF:-1,[USA] HBO Comedy
+http://bigiptv.ovh:8000/live/75806293/75806293/10002.m3u8
+#EXTINF:-1,[USA] HBO Signature
+http://bigiptv.ovh:8000/live/75806293/75806293/10001.m3u8
+#EXTINF:-1,[USA] HBO Zone
+http://bigiptv.ovh:8000/live/75806293/75806293/10000.m3u8
+#EXTINF:-1,[USA] HGTV
+http://bigiptv.ovh:8000/live/75806293/75806293/10061.m3u8
+#EXTINF:-1,[USA] HISTORY
+http://bigiptv.ovh:8000/live/75806293/75806293/9999.m3u8
+#EXTINF:-1,[USA] Investigation Discovery HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9998.m3u8
+#EXTINF:-1,[USA] MLB Network HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9991.m3u8
+#EXTINF:-1,[USA] MoreMax HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9997.m3u8
+#EXTINF:-1,[USA] National Geographic
+http://bigiptv.ovh:8000/live/75806293/75806293/10039.m3u8
+#EXTINF:-1,[USA] NBA HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10032.m3u8
+#EXTINF:-1,[USA] NBC
+http://bigiptv.ovh:8000/live/75806293/75806293/10017.m3u8
+#EXTINF:-1,[USA] NBC Sports Network HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10042.m3u8
+#EXTINF:-1,[USA] NFL Channel HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10031.m3u8
+#EXTINF:-1,[USA] NHL Network HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10027.m3u8
+#EXTINF:-1,[USA] Nickelodeon HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10052.m3u8
+#EXTINF:-1,[USA] Oprah Winfrey Network
+http://bigiptv.ovh:8000/live/75806293/75806293/9981.m3u8
+#EXTINF:-1,[USA] PAC-12 Arizona HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9989.m3u8
+#EXTINF:-1,[USA] PAC-12 Bay Area HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9988.m3u8
+#EXTINF:-1,[USA] PAC-12 Los Angeles HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9987.m3u8
+#EXTINF:-1,[USA] PAC-12 Mountain HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9986.m3u8
+#EXTINF:-1,[USA] PAC-12 Oregon HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9985.m3u8
+#EXTINF:-1,[USA] PAC-12 Washington HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9984.m3u8
+#EXTINF:-1,[USA] SPIKE HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9996.m3u8
+#EXTINF:-1,[USA] Sports Net 360 HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10024.m3u8
+#EXTINF:-1,[USA] Sports Net One HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10016.m3u8
+#EXTINF:-1,[USA] Sports Net Ontario HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10023.m3u8
+#EXTINF:-1,[USA] Sports Net Pacific HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9983.m3u8
+#EXTINF:-1,[USA] Sports Net West HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9982.m3u8
+#EXTINF:-1,[USA] Sports Net World HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10022.m3u8
+#EXTINF:-1,[USA] Starz Cinema HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9995.m3u8
+#EXTINF:-1,[USA] Starz HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9993.m3u8
+#EXTINF:-1,[USA] SYFY HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10051.m3u8
+#EXTINF:-1,[USA] TBS HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10040.m3u8
+#EXTINF:-1,[USA] Tennis Channel HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10026.m3u8
+#EXTINF:-1,[USA] TLC HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10047.m3u8
+#EXTINF:-1,[USA] TNT HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10041.m3u8
+#EXTINF:-1,[USA] Univision Deportes
+http://bigiptv.ovh:8000/live/75806293/75806293/10046.m3u8
+#EXTINF:-1,[USA] USA NETWORK HD
+http://bigiptv.ovh:8000/live/75806293/75806293/9992.m3u8
+#EXTINF:-1,[USA] Viceland
+http://bigiptv.ovh:8000/live/75806293/75806293/10044.m3u8
+#EXTINF:-1,[USA] Willow Cricket HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10045.m3u8
+#EXTINF:-1,[USA] WWE Network HD
+http://bigiptv.ovh:8000/live/75806293/75806293/10025.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
