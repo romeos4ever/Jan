@@ -19,24 +19,3 @@ http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/21.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 6SD
 http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/22.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports 2G=========
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/23.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 1-2G
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/24.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 2-2G
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/25.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 3-2G
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/26.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 4-2G
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/27.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 5-2G
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/28.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 6-2G
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/29.ts
