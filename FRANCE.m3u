@@ -4,536 +4,243 @@
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
-
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 1HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1454.ts
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1454.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 2HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1455.ts
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1455.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 3HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1456.ts
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1456.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 04HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1457.ts
+#EXTINF:-1,BeINMAX 04HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1457.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 05HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1458.ts
+#EXTINF:-1,BeINMAX 05HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1458.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 06HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1459.ts
+#EXTINF:-1,BeINMAX 06HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1459.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 07HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1460.ts
+#EXTINF:-1,BeINMAX 07HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1460.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 08HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1461.ts
+#EXTINF:-1,BeINMAX 08HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1461.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 09HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1462.ts
+#EXTINF:-1,BeINMAX 09HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1462.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 10HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1463.ts
-
+#EXTINF:-1,BeINMAX 10HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1463.ts
 #EXTM3U
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="TF1" tvg-logo="" group-title="15-TNT [FR]",TF1http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1428.ts
+#EXTINF:-1,TF1
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1428.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="FRANCE 2" tvg-logo="" group-title="15-TNT [FR]",FRANCE 2http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1430.ts
+#EXTINF:-1,FRANCE 2
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1430.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="FRANCE 3" tvg-logo="" group-title="15-TNT [FR]",FRANCE 3http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1431.ts
+#EXTINF:-1,FRANCE 3
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1431.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="FRANCE 4" tvg-logo="" group-title="15-TNT [FR]",FRANCE 4http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1432.ts
+#EXTINF:-1,FRANCE 4
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1432.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="FRANCE 5" tvg-logo="" group-title="15-TNT [FR]",FRANCE 5http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1433.ts
+#EXTINF:-1,FRANCE 5
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1433.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="FRANCE O" tvg-logo="" group-title="15-TNT [FR]",FRANCE Ohttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1434.ts
+#EXTINF:-1,FRANCE O
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1434.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="M6" tvg-logo="" group-title="15-TNT [FR]",M6http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1429.ts
+#EXTINF:-1,M6
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1429.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ACTION" tvg-logo="" group-title="16-CSAT CENIMA [FR]",ACTIONhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1453.ts
+#EXTINF:-1,ACTION
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1453.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANALhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1435.ts
+#EXTINF:-1,CANAL
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1435.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL CINEMA" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL CINEMAhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1436.ts
+#EXTINF:-1,CANAL CINEMA
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1436.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL FAMILY" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL FAMILYhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1438.ts
+#EXTINF:-1,CANAL FAMILY
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1438.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL DECALE" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL DECALEhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1437.ts
+#EXTINF:-1,CANAL DECALE
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1437.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL SERIES" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL SERIEShttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1439.ts
+#EXTINF:-1,CANAL SERIES
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1439.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE PREMIER" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE PREMIERhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1440.ts
+#EXTINF:-1,CINE PREMIER
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1440.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE POLAR" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE POLARhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1446.ts
+#EXTINF:-1,CINE POLAR
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1446.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE FX" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE FXhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1447.ts
+#EXTINF:-1,CINE FX
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1447.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE FRISSON" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE FRISSONhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1441.ts
+#EXTINF:-1,CINE FRISSON
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1441.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE FAMIZ" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE FAMIZhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1445.ts
+#EXTINF:-1,CINE FAMIZ
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1445.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE EMOTION" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE EMOTIONhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1442.ts
+#EXTINF:-1,CINE EMOTION
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1442.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE CLUB" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE CLUBhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1444.ts
+#EXTINF:-1,CINE CLUB
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1444.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CINE CLASSIC" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE CLASSIChttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1443.ts
+#EXTINF:-1,CINE CLASSIC
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1443.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="OCS MAX" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS MAXhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1451.ts
+#EXTINF:-1,OCS MAX
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1451.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="OCS GEANT" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS GEANThttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1449.ts
+#EXTINF:-1,OCS GEANT
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1449.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="OCS CITY" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS CITYhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1450.ts
+#EXTINF:-1,OCS CITY
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1450.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="OCS CHOC" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS CHOChttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1448.ts
+#EXTINF:-1,OCS CHOC
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1448.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="COMEDIE" tvg-logo="" group-title="16-CSAT CENIMA [FR]",COMEDIEhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1452.ts
+#EXTINF:-1,COMEDIE
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1452.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL PLAY 1" tvg-logo="" group-title="",CANAL PLAY 1http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1390.ts
+#EXTINF:-1,CANAL PLAY 1
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1390.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL PLAY 2" tvg-logo="" group-title="",CANAL PLAY 2http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1391.ts
+#EXTINF:-1,CANAL PLAY 2
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1391.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL PLAY 3" tvg-logo="" group-title="",CANAL PLAY 3http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1392.ts
+#EXTINF:-1,CANAL PLAY 3
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1392.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL PLAY 4" tvg-logo="" group-title="",CANAL PLAY 4http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1393.ts
+#EXTINF:-1,CANAL PLAY 4
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1393.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL PLAY 5" tvg-logo="" group-title="",CANAL PLAY 5http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1394.ts
+#EXTINF:-1,CANAL PLAY 5
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1394.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ALACARTE 1" tvg-logo="" group-title="",ALACARTE 1http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1395.ts
+#EXTINF:-1,ALACARTE 1
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1395.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ALACARTE 2" tvg-logo="" group-title="",ALACARTE 2http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1396.ts
+#EXTINF:-1,ALACARTE 2
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1396.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ALACARTE 3" tvg-logo="" group-title="",ALACARTE 3http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1397.ts
+#EXTINF:-1,ALACARTE 3
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1397.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ALACARTE 4" tvg-logo="" group-title="",ALACARTE 4http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1398.ts
+#EXTINF:-1,ALACARTE 4
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1398.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ALACARTE 5" tvg-logo="" group-title="",ALACARTE 5http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1399.ts
+#EXTINF:-1,ALACARTE 5
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1399.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ANIMAUX" tvg-logo="" group-title="18-CSAT CULTURE [FR]",ANIMAUXhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1424.ts
+#EXTINF:-1,ANIMAUX
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1424.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="DISCOVRY-SCI" tvg-logo="" group-title="18-CSAT CULTURE [FR]",DISCOVRY-SCIhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1423.ts
+#EXTINF:-1,DISCOVRY-SCI
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1423.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="DISCOVRY" tvg-logo="" group-title="18-CSAT CULTURE [FR]",DISCOVRYhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1422.ts
+#EXTINF:-1,DISCOVRY
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1422.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="USHUAIA TV" tvg-logo="" group-title="18-CSAT CULTURE [FR]",USHUAIA TVhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1425.ts
+#EXTINF:-1,USHUAIA TV
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1425.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SEASON" tvg-logo="" group-title="18-CSAT CULTURE [FR]",SEASONhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1427.ts
+#EXTINF:-1,SEASON
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1427.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="NATIONAL-GEO" tvg-logo="" group-title="18-CSAT CULTURE [FR]",NATIONAL-GEOhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1420.ts
+#EXTINF:-1,NATIONAL-GEO
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1420.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="NAT-GEO-WILD" tvg-logo="" group-title="18-CSAT CULTURE [FR]",NAT-GEO-WILDhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1421.ts
+#EXTINF:-1,NAT-GEO-WILD
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1421.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CHASSE PECHE" tvg-logo="" group-title="18-CSAT CULTURE [FR]",CHASSE PECHEhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1426.ts
+#EXTINF:-1,CHASSE PECHE
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1426.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="France 24" tvg-logo="" group-title="",France 24http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1329.ts
+#EXTINF:-1,France 24
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1329.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="" group-title="",Euronewshttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1330.ts
+#EXTINF:-1,Euronews
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1330.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="LCI" tvg-logo="" group-title="20-CSAT INFO [FR]",LCIhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1401.ts
+#EXTINF:-1,LCI
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1401.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="ITELE" tvg-logo="" group-title="20-CSAT INFO [FR]",ITELEhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1400.ts
+#EXTINF:-1,ITELE
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1400.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SFR Sport 1HD Fr" tvg-logo="" group-title="17-CSAT SPORTS [FR]",SFR Sport 1HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1464.ts
+#EXTINF:-1,SFR Sport 1HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1464.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SFR Sport 2HD Fr" tvg-logo="" group-title="17-CSAT SPORTS [FR]",SFR Sport 2HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1465.ts
+#EXTINF:-1,SFR Sport 2HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1465.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="SFR Sport 3HD Fr" tvg-logo="" group-title="17-CSAT SPORTS [FR]",SFR Sport 3HD Frhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1466.ts
+#EXTINF:-1,SFR Sport 3HD Fr
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1466.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL SPORT" tvg-logo="" group-title="17-CSAT SPORTS [FR]",CANAL SPORThttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1417.ts
+#EXTINF:-1,CANAL SPORT
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1417.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="INFOSPORT" tvg-logo="" group-title="17-CSAT SPORTS [FR]",INFOSPORThttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1419.ts
+#EXTINF:-1,INFOSPORT
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1419.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="FOOT 24" tvg-logo="" group-title="17-CSAT SPORTS [FR]",FOOT 24http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1418.ts
+#EXTINF:-1,FOOT 24
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1418.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="PIWI" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",PIWIhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1402.ts
+#EXTINF:-1,PIWI
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1402.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CARTON NET" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",CARTON NEThttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1405.ts
+#EXTINF:-1,CARTON NET
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1405.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",BOOMERANGhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1404.ts
+#EXTINF:-1,BOOMERANG
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1404.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="TIJI" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",TIJIhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1403.ts
+#EXTINF:-1,TIJI
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1403.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="GULLI" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",GULLIhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1406.ts
+#EXTINF:-1,GULLI
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1406.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="TELETOON" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",TELETOONhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1410.ts
+#EXTINF:-1,TELETOON
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1410.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="CANAL J" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",CANAL Jhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1408.ts
+#EXTINF:-1,CANAL J
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1408.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",NICKELODEON JUNIORhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1412.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1412.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",NICKELODEONhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1411.ts
+#EXTINF:-1,NICKELODEON
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1411.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="MANGAS" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",MANGAShttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1407.ts
+#EXTINF:-1,MANGAS
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1407.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY XDhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1416.ts
+#EXTINF:-1,DISNEY XD
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1416.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY JUNIORhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1413.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1413.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="DISNEY CINEMA" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY CINEMAhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1415.ts
+#EXTINF:-1,DISNEY CINEMA
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1415.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY CHANNELhttp://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1414.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://rmd.primatv.club:8899/live/Troy.TV/Zv6Ji3SssaTS4/1414.ts
 
-#EXTINF:-1,[FR] M6 Full HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8044.m3u8
-#EXTINF:-1,¤¤¤¤¤ TNT SAT ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8665.m3u8
-#EXTINF:-1,[FR][L] TF1
-http://bigiptv.ovh:8000/live/75806293/75806293/1269.m3u8
-#EXTINF:-1,[FR] France 2
-http://bigiptv.ovh:8000/live/75806293/75806293/1270.m3u8
-#EXTINF:-1,[FR][L] FRANCE 3
-http://bigiptv.ovh:8000/live/75806293/75806293/1271.m3u8
-#EXTINF:-1,[FR][L] FRANCE 4
-http://bigiptv.ovh:8000/live/75806293/75806293/1272.m3u8
-#EXTINF:-1,[FR][L] FRANCE 5
-http://bigiptv.ovh:8000/live/75806293/75806293/1273.m3u8
-#EXTINF:-1,[FR][L] FRANCE O
-http://bigiptv.ovh:8000/live/75806293/75806293/1274.m3u8
-#EXTINF:-1,[FR][L] FRANCE 24
-http://bigiptv.ovh:8000/live/75806293/75806293/8676.m3u8
-#EXTINF:-1,[FR][L] ARTE
-http://bigiptv.ovh:8000/live/75806293/75806293/1276.m3u8
-#EXTINF:-1,[FR][L] C8
-http://bigiptv.ovh:8000/live/75806293/75806293/1277.m3u8
-#EXTINF:-1,[FR][L] M6 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1275.m3u8
-#EXTINF:-1,[FR][L] BFM TV
-http://bigiptv.ovh:8000/live/75806293/75806293/1351.m3u8
-#EXTINF:-1,[FR][L] BFM Business
-http://bigiptv.ovh:8000/live/75806293/75806293/8681.m3u8
-#EXTINF:-1,[FR][L] W9
-http://bigiptv.ovh:8000/live/75806293/75806293/1279.m3u8
-#EXTINF:-1,[FR][L] NT1
-http://bigiptv.ovh:8000/live/75806293/75806293/1281.m3u8
-#EXTINF:-1,[FR] NRJ HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1661.m3u8
-#EXTINF:-1,[FR] KTO
-http://bigiptv.ovh:8000/live/75806293/75806293/8680.m3u8
-#EXTINF:-1,[FR][L] NRJ 12
-http://bigiptv.ovh:8000/live/75806293/75806293/1282.m3u8
-#EXTINF:-1,[FR][L] TMC
-http://bigiptv.ovh:8000/live/75806293/75806293/1280.m3u8
-#EXTINF:-1,[FR][L] E! ENTERTAINMENT
-http://bigiptv.ovh:8000/live/75806293/75806293/8678.m3u8
-#EXTINF:-1,[FR][L] CSTAR
-http://bigiptv.ovh:8000/live/75806293/75806293/1278.m3u8
-#EXTINF:-1,[FR] GULLI
-http://bigiptv.ovh:8000/live/75806293/75806293/1304.m3u8
-#EXTINF:-1,[FR][L] HD1
-http://bigiptv.ovh:8000/live/75806293/75806293/1640.m3u8
-#EXTINF:-1,[FR] EURONEWS
-http://bigiptv.ovh:8000/live/75806293/75806293/8682.m3u8
-#EXTINF:-1,[FR][L] Cherie25 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1670.m3u8
-#EXTINF:-1,[FR][L] RMC DECOUVERTE
-http://bigiptv.ovh:8000/live/75806293/75806293/1318.m3u8
-#EXTINF:-1,[FR][L]  6TER HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1669.m3u8
-#EXTINF:-1,[FR][L] AB1
-http://bigiptv.ovh:8000/live/75806293/75806293/1641.m3u8
-#EXTINF:-1,[FR] Gong HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1652.m3u8
-#EXTINF:-1,[FR] C NEWS / ITELE
-http://bigiptv.ovh:8000/live/75806293/75806293/8679.m3u8
-#EXTINF:-1,[FR][L] LCI HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8675.m3u8
-#EXTINF:-1,[FR] NUMERO 23
-http://bigiptv.ovh:8000/live/75806293/75806293/8677.m3u8
-#EXTINF:-1,¤¤¤¤¤ Chaines Canal ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8667.m3u8
-#EXTINF:-1,[FR] CANAL HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8784.m3u8
-#EXTINF:-1,[FR] CANAL  Sport HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1325.m3u8
-#EXTINF:-1,[FR] CANAL SERIES HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1324.m3u8
-#EXTINF:-1,[FR] CANAL  Family
-http://bigiptv.ovh:8000/live/75806293/75806293/1306.m3u8
-#EXTINF:-1,[FR][L] CANAL  Decale HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1327.m3u8
-#EXTINF:-1,[FR] CANAL  Cinema HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1328.m3u8
-#EXTINF:-1,[FR] TCM CINEMA HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8683.m3u8
-#EXTINF:-1,[FR][L] CINE Premier
-http://bigiptv.ovh:8000/live/75806293/75806293/1287.m3u8
-#EXTINF:-1,[FR] CINE Polar
-http://bigiptv.ovh:8000/live/75806293/75806293/1288.m3u8
-#EXTINF:-1,[FR] CINE FX
-http://bigiptv.ovh:8000/live/75806293/75806293/1323.m3u8
-#EXTINF:-1,[FR] CINE Frisson
-http://bigiptv.ovh:8000/live/75806293/75806293/1289.m3u8
-#EXTINF:-1,[FR] CINE Famiz
-http://bigiptv.ovh:8000/live/75806293/75806293/1290.m3u8
-#EXTINF:-1,[FR] CINE Emotion
-http://bigiptv.ovh:8000/live/75806293/75806293/1291.m3u8
-#EXTINF:-1,[FR] CINE Classic
-http://bigiptv.ovh:8000/live/75806293/75806293/1292.m3u8
-#EXTINF:-1,[FR] OCS Max
-http://bigiptv.ovh:8000/live/75806293/75806293/1294.m3u8
-#EXTINF:-1,[FR] OCS Geants HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1295.m3u8
-#EXTINF:-1,[FR] OCS CITY
-http://bigiptv.ovh:8000/live/75806293/75806293/1296.m3u8
-#EXTINF:-1,[FR] OCS CHOC HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1297.m3u8
-#EXTINF:-1,¤¤¤¤¤ Decouverte ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8666.m3u8
-#EXTINF:-1,[FR][L] TOUTE L'HISTOIRE
-http://bigiptv.ovh:8000/live/75806293/75806293/1320.m3u8
-#EXTINF:-1,[FR] VOYAGE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1316.m3u8
-#EXTINF:-1,[FR] USHUAIA TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1315.m3u8
-#EXTINF:-1,[FR][L] SCIENCE ET VIE
-http://bigiptv.ovh:8000/live/75806293/75806293/1672.m3u8
-#EXTINF:-1,[FR] Planete+ HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1312.m3u8
-#EXTINF:-1,[FR] PLANETE CI HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1313.m3u8
-#EXTINF:-1,[FR][L] PARIS PREMIERE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8686.m3u8
-#EXTINF:-1,[FR] Planete A&E HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1314.m3u8
-#EXTINF:-1,[FR] Season HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8685.m3u8
-#EXTINF:-1,[FR][L] NATIONAL GEOGRAPHIC
-http://bigiptv.ovh:8000/live/75806293/75806293/1319.m3u8
-#EXTINF:-1,[FR][L] TREK
-http://bigiptv.ovh:8000/live/75806293/75806293/8684.m3u8
-#EXTINF:-1,[FR] NAT GEO WILD
-http://bigiptv.ovh:8000/live/75806293/75806293/1317.m3u8
-#EXTINF:-1,[FR] DISCOVERY HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1321.m3u8
-#EXTINF:-1,[FR] Discovery Science HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1648.m3u8
-#EXTINF:-1,[FR] ANIMAUX HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1646.m3u8
-#EXTINF:-1,[FR] IL tV
-http://bigiptv.ovh:8000/live/75806293/75806293/1653.m3u8
-#EXTINF:-1,[FR][L] CHASSE & PECHE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1647.m3u8
-#EXTINF:-1,[FR] HISTOIRE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1644.m3u8
-#EXTINF:-1,¤¤¤¤¤ Series et divertissement ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8668.m3u8
-#EXTINF:-1,[FR][L] SYFY HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1284.m3u8
-#EXTINF:-1,[FR] Serie club
-http://bigiptv.ovh:8000/live/75806293/75806293/1639.m3u8
-#EXTINF:-1,[FR] 13 EME RUE
-http://bigiptv.ovh:8000/live/75806293/75806293/1283.m3u8
-#EXTINF:-1,[FR][L] ACTION
-http://bigiptv.ovh:8000/live/75806293/75806293/1286.m3u8
-#EXTINF:-1,[FR] BET
-http://bigiptv.ovh:8000/live/75806293/75806293/8689.m3u8
-#EXTINF:-1,[FR] TV BREIZH HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8688.m3u8
-#EXTINF:-1,[FR] RTL9 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1310.m3u8
-#EXTINF:-1,[FR] COMEDIE
-http://bigiptv.ovh:8000/live/75806293/75806293/1293.m3u8
-#EXTINF:-1,[FR][L] TEVA HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1311.m3u8
-#EXTINF:-1,[FR] PARAMOUNT CHANNEL HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1285.m3u8
-#EXTINF:-1,[FR][L] NICKELODEON
-http://bigiptv.ovh:8000/live/75806293/75806293/8687.m3u8
-#EXTINF:-1,¤¤¤¤¤ Sport ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8669.m3u8
-#EXTINF:-1,[FR] L'EQUIPE 21 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1331.m3u8
-#EXTINF:-1,[FR] SFR SPORT 1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1344.m3u8
-#EXTINF:-1,[FR] SFR SPORT 2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1345.m3u8
-#EXTINF:-1,[FR] SFR SPORT 3 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1346.m3u8
-#EXTINF:-1,[FR] SFR SPORT 5 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1348.m3u8
-#EXTINF:-1,[FR][L] FOOT + 24/24 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1650.m3u8
-#EXTINF:-1,[FR][L] INFOSPORT
-http://bigiptv.ovh:8000/live/75806293/75806293/8691.m3u8
-#EXTINF:-1,[FR] GOLF Plus HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8690.m3u8
-#EXTINF:-1,[FR][L] INFO SPORT
-http://bigiptv.ovh:8000/live/75806293/75806293/1343.m3u8
-#EXTINF:-1,[FR] BFM SPORT
-http://bigiptv.ovh:8000/live/75806293/75806293/8699.m3u8
-#EXTINF:-1,[FR][L] EUROSPORT 1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1349.m3u8
-#EXTINF:-1,[FR] EUROSPORT 2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1350.m3u8
-#EXTINF:-1,[FR] Equidia Live
-http://bigiptv.ovh:8000/live/75806293/75806293/1649.m3u8
-#EXTINF:-1,[FR] EQUIDIA LIFE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/8693.m3u8
-#EXTINF:-1,[FR] MOTORS TV
-http://bigiptv.ovh:8000/live/75806293/75806293/1332.m3u8
-#EXTINF:-1,¤¤¤¤¤ BEIN Sport ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8672.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS 1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1333.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS 2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1334.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS 3 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1335.m3u8
-#EXTINF:-1,[FR][L] BEIN SPORTS MAX 4
-http://bigiptv.ovh:8000/live/75806293/75806293/1336.m3u8
-#EXTINF:-1,[FR][L] BEIN SPORTS MAX 5
-http://bigiptv.ovh:8000/live/75806293/75806293/1337.m3u8
-#EXTINF:-1,[FR][L] BEIN SPORTS MAX 6
-http://bigiptv.ovh:8000/live/75806293/75806293/1338.m3u8
-#EXTINF:-1,[FR][L]  BEIN SPORTS MAX 7
-http://bigiptv.ovh:8000/live/75806293/75806293/1339.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 8
-http://bigiptv.ovh:8000/live/75806293/75806293/1340.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 9
-http://bigiptv.ovh:8000/live/75806293/75806293/1341.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 10
-http://bigiptv.ovh:8000/live/75806293/75806293/1342.m3u8
-#EXTINF:-1,¤¤¤¤¤ Enfants ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8671.m3u8
-#EXTINF:-1,[FR] DISNEY CINEMA
-http://bigiptv.ovh:8000/live/75806293/75806293/1309.m3u8
-#EXTINF:-1,[FR][L] CANAL J
-http://bigiptv.ovh:8000/live/75806293/75806293/1307.m3u8
-#EXTINF:-1,[FR][L] ZOUZOU TV
-http://bigiptv.ovh:8000/live/75806293/75806293/8694.m3u8
-#EXTINF:-1,[FR] Boomerang
-http://bigiptv.ovh:8000/live/75806293/75806293/8695.m3u8
-#EXTINF:-1,[FR][L] TiJi
-http://bigiptv.ovh:8000/live/75806293/75806293/1298.m3u8
-#EXTINF:-1,[FR] Baby TV
-http://bigiptv.ovh:8000/live/75806293/75806293/1662.m3u8
-#EXTINF:-1,[FR][L] MANGAS
-http://bigiptv.ovh:8000/live/75806293/75806293/1299.m3u8
-#EXTINF:-1,[FR] Piwi HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1671.m3u8
-#EXTINF:-1,[FR][L] GAME ONE
-http://bigiptv.ovh:8000/live/75806293/75806293/1300.m3u8
-#EXTINF:-1,[FR] Boing HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1645.m3u8
-#EXTINF:-1,[FR] DISNEY CHANNEL
-http://bigiptv.ovh:8000/live/75806293/75806293/1308.m3u8
-#EXTINF:-1,[FR] DISNEY JUNIOR HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1643.m3u8
-#EXTINF:-1,[FR] DISNEY CHANNEL +1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1642.m3u8
-#EXTINF:-1,[FR] CARTOON NETWORK
-http://bigiptv.ovh:8000/live/75806293/75806293/1305.m3u8
-#EXTINF:-1,[FR] Teletoon + HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1663.m3u8
-#EXTINF:-1,¤¤¤¤¤ Musique ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8670.m3u8
-#EXTINF:-1,[FR][L] M6 MUSIC HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1656.m3u8
-#EXTINF:-1,[FR] MTV LIVE
-http://bigiptv.ovh:8000/live/75806293/75806293/1658.m3u8
-#EXTINF:-1,[FR] NRJ HITS
-http://bigiptv.ovh:8000/live/75806293/75806293/8701.m3u8
-#EXTINF:-1,[FR] MTV HITS
-http://bigiptv.ovh:8000/live/75806293/75806293/8697.m3u8
-#EXTINF:-1,[FR] MTV DANCE
-http://bigiptv.ovh:8000/live/75806293/75806293/8698.m3u8
-#EXTINF:-1,[FR][L] Virgin TV
-http://bigiptv.ovh:8000/live/75806293/75806293/1667.m3u8
-#EXTINF:-1,¤¤¤¤¤ AUTRE ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8674.m3u8
-#EXTINF:-1,[FR] RTS Un
-http://bigiptv.ovh:8000/live/75806293/75806293/1329.m3u8
-#EXTINF:-1,[FR] RTS Deux
-http://bigiptv.ovh:8000/live/75806293/75806293/1330.m3u8
-#EXTINF:-1,[FR][L] Weo
-http://bigiptv.ovh:8000/live/75806293/75806293/1668.m3u8
-#EXTINF:-1,[FR] VH 1
-http://bigiptv.ovh:8000/live/75806293/75806293/1666.m3u8
-#EXTINF:-1,[FR] TV 5 MOND HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1665.m3u8
-#EXTINF:-1,[FR] PLUG RTL
-http://bigiptv.ovh:8000/live/75806293/75806293/1673.m3u8
-#EXTINF:-1,[FR] Mirabelle TV
-http://bigiptv.ovh:8000/live/75806293/75806293/1657.m3u8
-#EXTINF:-1,[FR][L] LA TELE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1655.m3u8
-#EXTINF:-1,[FR] LA CHAINE NORMANDIE
-http://bigiptv.ovh:8000/live/75806293/75806293/1654.m3u8
-#EXTINF:-1,[FR] Golf
-http://bigiptv.ovh:8000/live/75806293/75806293/1651.m3u8
-#EXTINF:-1,[FR] ATV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/1674.m3u8
-#EXTINF:-1,[FR] MCM
-http://bigiptv.ovh:8000/live/75806293/75806293/9980.m3u8
-#EXTINF:-1,¤¤¤¤¤ CANAL PLAY FR & A LA CARTE ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/9225.m3u8
-#EXTINF:-1,[FR] Orange_Cine 1
-http://bigiptv.ovh:8000/live/75806293/75806293/9234.m3u8
-#EXTINF:-1,[FR] Orange_Cine 2
-http://bigiptv.ovh:8000/live/75806293/75806293/9235.m3u8
-#EXTINF:-1,[FR] Orange_Cine 3
-http://bigiptv.ovh:8000/live/75806293/75806293/9236.m3u8
-#EXTINF:-1,[FR] Orange Cine 4
-http://bigiptv.ovh:8000/live/75806293/75806293/9237.m3u8
-#EXTINF:-1,[FR] Orange_Cine 5
-http://bigiptv.ovh:8000/live/75806293/75806293/9238.m3u8
-#EXTINF:-1,[FR] Orange_Cine 6
-http://bigiptv.ovh:8000/live/75806293/75806293/9240.m3u8
-#EXTINF:-1,[FR] Orange_Cine 7
-http://bigiptv.ovh:8000/live/75806293/75806293/9241.m3u8
-#EXTINF:-1,[FR] Orange_Cine 8
-http://bigiptv.ovh:8000/live/75806293/75806293/9239.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 1
-http://bigiptv.ovh:8000/live/75806293/75806293/9242.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 2
-http://bigiptv.ovh:8000/live/75806293/75806293/9243.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 3
-http://bigiptv.ovh:8000/live/75806293/75806293/9244.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 4
-http://bigiptv.ovh:8000/live/75806293/75806293/9245.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 5
-http://bigiptv.ovh:8000/live/75806293/75806293/9246.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 6
-http://bigiptv.ovh:8000/live/75806293/75806293/9247.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 7
-http://bigiptv.ovh:8000/live/75806293/75806293/9248.m3u8
-#EXTINF:-1,[FR] OCS_GO_CINE 8
-http://bigiptv.ovh:8000/live/75806293/75806293/9249.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_01
-http://bigiptv.ovh:8000/live/75806293/75806293/9250.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_02
-http://bigiptv.ovh:8000/live/75806293/75806293/9251.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_03
-http://bigiptv.ovh:8000/live/75806293/75806293/9252.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_04
-http://bigiptv.ovh:8000/live/75806293/75806293/9253.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_05
-http://bigiptv.ovh:8000/live/75806293/75806293/9254.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_06
-http://bigiptv.ovh:8000/live/75806293/75806293/9255.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_07
-http://bigiptv.ovh:8000/live/75806293/75806293/9256.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_08
-http://bigiptv.ovh:8000/live/75806293/75806293/9257.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_09
-http://bigiptv.ovh:8000/live/75806293/75806293/9258.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_10
-http://bigiptv.ovh:8000/live/75806293/75806293/9259.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_11
-http://bigiptv.ovh:8000/live/75806293/75806293/9260.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_12
-http://bigiptv.ovh:8000/live/75806293/75806293/9261.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_13
-http://bigiptv.ovh:8000/live/75806293/75806293/9262.m3u8
-#EXTINF:-1,[FR] CANAL_PLAY_14
-http://bigiptv.ovh:8000/live/75806293/75806293/9263.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_01
-http://bigiptv.ovh:8000/live/75806293/75806293/9226.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_02
-http://bigiptv.ovh:8000/live/75806293/75806293/9227.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_03
-http://bigiptv.ovh:8000/live/75806293/75806293/9228.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_04
-http://bigiptv.ovh:8000/live/75806293/75806293/9229.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_05
-http://bigiptv.ovh:8000/live/75806293/75806293/9230.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_06
-http://bigiptv.ovh:8000/live/75806293/75806293/9231.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_07
-http://bigiptv.ovh:8000/live/75806293/75806293/9232.m3u8
-#EXTINF:-1,[FR] A_LA_CARTE_08
-http://bigiptv.ovh:8000/live/75806293/75806293/9233.m3u8
+
 
 
 
