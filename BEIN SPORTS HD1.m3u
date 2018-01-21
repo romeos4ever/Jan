@@ -1,31 +1,16 @@
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 1HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/4.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 2HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/5.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 3HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/6.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 4HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/7.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 5HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/8.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 6HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/9.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 7HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/10.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 8HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/11.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 9HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/12.ts
-#EXTVLCOPT:http-user-agent=janberyan.com185
-#EXTINF:-1,BEIN SPORTS 10HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/13.ts
-
+#EXTINF:-1,BEIN  1HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/1.ts
+#EXTINF:-1,BEIN  2HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/2.ts
+#EXTINF:-1,BEIN  3HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/3.ts
+#EXTINF:-1,BEIN  4HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/4.ts
+#EXTINF:-1,BEIN 5HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/5.ts
+#EXTINF:-1,BEIN  6HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/6.ts
+#EXTINF:-1,BEIN  7HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/7.ts
+#EXTINF:-1,BEIN 8HD
+http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/8.ts
