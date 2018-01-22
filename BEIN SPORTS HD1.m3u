@@ -1,16 +1,24 @@
-#EXTINF:-1,BEIN  1HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/1.ts
-#EXTINF:-1,BEIN  2HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/2.ts
-#EXTINF:-1,BEIN  3HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/3.ts
-#EXTINF:-1,BEIN  4HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/4.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 1HD
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/9.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 2HD
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/10.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 3HD
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/11.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 4HD
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/12.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 5HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/5.ts
-#EXTINF:-1,BEIN  6HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/6.ts
-#EXTINF:-1,BEIN  7HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/7.ts
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/13.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 6HD
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/14.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 7HD
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/15.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 8HD
-http://192.161.187.216:8080/live/www.janberyan.com/AndrTVIPTV/8.ts
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/16.ts
