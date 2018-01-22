@@ -1,7 +1,6 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=janberyan.com185
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,اهم الاحداث المباشرة
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02/99.ts
+http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/63.ts
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1472.ts
 #EXTVLCOPT:http-user-agent=janberyan.com185
