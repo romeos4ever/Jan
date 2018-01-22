@@ -1,242 +1,241 @@
 
-
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINSPORTS 1HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1454.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1454.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINSPORTS 2HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1455.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1455.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINSPORTS 3HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1456.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1456.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 04HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1457.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1457.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 05HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1458.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1458.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 06HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1459.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1459.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 07HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1460.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1460.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 08HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1461.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1461.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 09HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1462.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1462.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BeINMAX 10HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1463.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1463.ts
 #EXTM3U
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,TF1
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1428.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1428.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,FRANCE 2
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1430.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1430.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,FRANCE 3
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1431.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1431.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,FRANCE 4
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1432.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1432.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,FRANCE 5
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1433.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1433.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,FRANCE O
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1434.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1434.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,M6
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1429.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1429.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ACTION
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1453.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1453.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1435.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1435.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL CINEMA
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1436.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1436.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL FAMILY
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1438.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1438.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL DECALE
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1437.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1437.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL SERIES
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1439.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1439.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE PREMIER
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1440.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1440.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE POLAR
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1446.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1446.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE FX
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1447.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1447.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE FRISSON
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1441.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1441.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE FAMIZ
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1445.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1445.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE EMOTION
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1442.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1442.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE CLUB
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1444.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1444.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CINE CLASSIC
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1443.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1443.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,OCS MAX
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1451.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1451.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,OCS GEANT
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1449.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1449.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,OCS CITY
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1450.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1450.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,OCS CHOC
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1448.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1448.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,COMEDIE
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1452.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1452.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL PLAY 1
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1390.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1390.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL PLAY 2
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1391.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1391.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL PLAY 3
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1392.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1392.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL PLAY 4
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1393.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1393.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL PLAY 5
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1394.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1394.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ALACARTE 1
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1395.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1395.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ALACARTE 2
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1396.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1396.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ALACARTE 3
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1397.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1397.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ALACARTE 4
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1398.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1398.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ALACARTE 5
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1399.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1399.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ANIMAUX
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1424.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1424.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1423.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1423.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,DISCOVRY
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1422.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1422.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,USHUAIA TV
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1425.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1425.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,SEASON
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1427.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1427.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,NATIONAL-GEO
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1420.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1420.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1421.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1421.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CHASSE PECHE
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1426.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1426.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,France 24
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1329.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1329.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,Euronews
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1330.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1330.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,LCI
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1401.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1401.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,ITELE
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1400.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1400.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,SFR Sport 1HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1464.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1464.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,SFR Sport 2HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1465.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1465.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,SFR Sport 3HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1466.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1466.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL SPORT
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1417.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1417.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,INFOSPORT
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1419.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1419.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,FOOT 24
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1418.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1418.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,PIWI
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1402.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1402.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CARTON NET
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1405.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1405.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,BOOMERANG
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1404.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1404.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,TIJI
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1403.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1403.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,GULLI
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1406.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1406.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,TELETOON
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1410.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1410.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,CANAL J
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1408.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1408.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1412.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1412.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,NICKELODEON
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1411.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1411.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,MANGAS
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1407.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1407.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,DISNEY XD
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1416.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1416.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1413.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1413.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,DISNEY CINEMA
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1415.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1415.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SssaTS43/1414.ts
+http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1414.ts
 
 
 
