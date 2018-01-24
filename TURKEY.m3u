@@ -4,223 +4,191 @@
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",======TURKEY  coming soon=======
 http://www.lengua.com/anthems/Turkey.mp3
-#EXTINF:-1,[TR] DOST TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9122.m3u8
-#EXTINF:-1,[TR] YABAN TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9162.m3u8
-#EXTINF:-1,[TR] VIZYON TURK HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9160.m3u8
-#EXTINF:-1,[TR] ULUSAL KANAL [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9133.m3u8
-#EXTINF:-1,[TR] ULKE TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9145.m3u8
-#EXTINF:-1,[TR] TVNET HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9144.m3u8
-#EXTINF:-1,[TR] TV8.5
-http://bigiptv.ovh:8000/live/75806293/75806293/9076.m3u8
-#EXTINF:-1,[TR] TV 4
-http://bigiptv.ovh:8000/live/75806293/75806293/9175.m3u8
-#EXTINF:-1,[TR] TURKMAX HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9088.m3u8
-#EXTINF:-1,[TR] TRTBELGESEL HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9063.m3u8
-#EXTINF:-1,[TR] TRT WORLD  HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9141.m3u8
-#EXTINF:-1,[TR] TRT SPOR HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9059.m3u8
-#EXTINF:-1,[TR] TRT MUZIK HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9191.m3u8
-#EXTINF:-1,[TR] TRT HABER HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9062.m3u8
-#EXTINF:-1,[TR] TRT DINAYET [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9058.m3u8
-#EXTINF:-1,[TR] TRT COCUK HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9219.m3u8
-#EXTINF:-1,[TR] TRT Ã‡OCUK HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9171.m3u8
-#EXTINF:-1,[TR] TRT AVAZ [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9055.m3u8
-#EXTINF:-1,[TR] TRT 1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9054.m3u8
-#EXTINF:-1,[TR] TLC HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9090.m3u8
-#EXTINF:-1,[TR] TJK TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9217.m3u8
-#EXTINF:-1,[TR] TIVIBUSPORT 2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9199.m3u8
-#EXTINF:-1,[TR] TIVIBUSPOR-3 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9200.m3u8
-#EXTINF:-1,[TR] TIVIBU SPOR 4 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9201.m3u8
-#EXTINF:-1,[TR] TIVIBU SPOR 1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9197.m3u8
-#EXTINF:-1,[TR] TGRT HABER HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9143.m3u8
-#EXTINF:-1,[TR] TEVE HD 2 [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9080.m3u8
-#EXTINF:-1,[TR] TELE 1 TV [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9221.m3u8
-#EXTINF:-1,[TR] TEK RUMELi TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9113.m3u8
-#EXTINF:-1,[TR] TAY TV [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9216.m3u8
-#EXTINF:-1,[TR] STAR HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9065.m3u8
-#EXTINF:-1,[TR] SPORTS TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9204.m3u8
-#EXTINF:-1,[TR] SMART SPOR HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9202.m3u8
-#EXTINF:-1,[TR] SKY NEWS [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9223.m3u8
-#EXTINF:-1,[TR] SHOW TV HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9067.m3u8
-#EXTINF:-1,[TR] SEMERKAND TV HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9114.m3u8
-#EXTINF:-1,[TR] REHBER TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9120.m3u8
-#EXTINF:-1,[TR] POWER TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9189.m3u8
-#EXTINF:-1,[TR] POWER TURK HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9190.m3u8
-#EXTINF:-1,[TR] PLANET TURK
-http://bigiptv.ovh:8000/live/75806293/75806293/9091.m3u8
-#EXTINF:-1,[TR] PLANET Ã‡OCUK HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9174.m3u8
-#EXTINF:-1,[TR] NTV SPORT HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9206.m3u8
-#EXTINF:-1,[TR] NTV HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9137.m3u8
-#EXTINF:-1,[TR] NR1 TURK HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9186.m3u8
-#EXTINF:-1,[TR] NR1 HD [  L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9185.m3u8
-#EXTINF:-1,[TR] NICKELODEON HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9169.m3u8
-#EXTINF:-1,[TR] NICK JR
-http://bigiptv.ovh:8000/live/75806293/75806293/9168.m3u8
-#EXTINF:-1,[TR] NATIONAL GEOGRAPHIC HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9153.m3u8
-#EXTINF:-1,[TR] NAT GEO WILD HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9152.m3u8
-#EXTINF:-1,[TR] MyZen TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9178.m3u8
-#EXTINF:-1,[TR] MOVIEMAX TURK HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9095.m3u8
-#EXTINF:-1,[TR] MINIKA GO HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9172.m3u8
-#EXTINF:-1,[TR] MINIKA Ã‡OCUK
-http://bigiptv.ovh:8000/live/75806293/75806293/9173.m3u8
-#EXTINF:-1,[TR] MESAJ TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9119.m3u8
-#EXTINF:-1,[TR] MAKiNE TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9180.m3u8
-#EXTINF:-1,[TR] LALEGUL TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9115.m3u8
-#EXTINF:-1,[TR] KRAL WORLD TV [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9183.m3u8
-#EXTINF:-1,[TR] KRAL TV [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9181.m3u8
-#EXTINF:-1,[TR] KRAL TV POP [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9182.m3u8
-#EXTINF:-1,[TR] KON TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9117.m3u8
-#EXTINF:-1,[TR] KANAL D HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9070.m3u8
-#EXTINF:-1,[TR] KANAL A HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9085.m3u8
-#EXTINF:-1,[TR] KANAL 7 HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9084.m3u8
-#EXTINF:-1,[TR] KANAL 24 [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9146.m3u8
-#EXTINF:-1,[TR] IDX HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9218.m3u8
-#EXTINF:-1,[TR] HISTORY HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9154.m3u8
-#EXTINF:-1,[TR] HALK TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9132.m3u8
-#EXTINF:-1,[TR] HABER TURK HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9139.m3u8
-#EXTINF:-1,[TR] GS TV HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9213.m3u8
-#EXTINF:-1,[TR] FX HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9092.m3u8
-#EXTINF:-1,[TR] FOX TV HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9078.m3u8
-#EXTINF:-1,[TR] FOX LIFE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9093.m3u8
-#EXTINF:-1,[TR] FOX CRIME HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9094.m3u8
-#EXTINF:-1,[TR] FLASH HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9087.m3u8
-#EXTINF:-1,[TR] Fil TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9089.m3u8
-#EXTINF:-1,[TR] FIGHT BOX
-http://bigiptv.ovh:8000/live/75806293/75806293/9209.m3u8
-#EXTINF:-1,[TR] FB TV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9214.m3u8
-#EXTINF:-1,[TR] EUROSPORT2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9208.m3u8
-#EXTINF:-1,[TR] EUROSPORT1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9207.m3u8
-#EXTINF:-1,[TR] DUCK TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9167.m3u8
-#EXTINF:-1,[TR] DREAM TV [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9187.m3u8
-#EXTINF:-1,[TR] DREAM TURK HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9188.m3u8
-#EXTINF:-1,[TR] DISNEY XD
-http://bigiptv.ovh:8000/live/75806293/75806293/9163.m3u8
-#EXTINF:-1,[TR] DISNEY JR HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9165.m3u8
-#EXTINF:-1,[TR] DISNEY HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9164.m3u8
-#EXTINF:-1,[TR] DISCOVERY SCIENCE HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9150.m3u8
-#EXTINF:-1,[TR] DISCOVERY CHANNEL HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9151.m3u8
-#EXTINF:-1,[TR] CNN TURK HD [ L]
-http://bigiptv.ovh:8000/live/75806293/75806293/9136.m3u8
-#EXTINF:-1,[TR] CEM TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9127.m3u8
-#EXTINF:-1,[TR] CARTOON NETWORK
-http://bigiptv.ovh:8000/live/75806293/75806293/9170.m3u8
-#EXTINF:-1,[TR] BURSA SPORTV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9215.m3u8
-#EXTINF:-1,[TR] BLOOMBERGHT HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9142.m3u8
-#EXTINF:-1,[TR] BJKTV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9212.m3u8
-#EXTINF:-1,[TR] BEYKENT TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9130.m3u8
-#EXTINF:-1,[TR] BEYAZ TV HD [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9082.m3u8
-#EXTINF:-1,[TR] BENGU TURK
-http://bigiptv.ovh:8000/live/75806293/75806293/9131.m3u8
-#EXTINF:-1,[TR] BEIN SPORT 3
-http://bigiptv.ovh:8000/live/75806293/75806293/9194.m3u8
-#EXTINF:-1,[TR] BEiN iZ HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9155.m3u8
-#EXTINF:-1,[TR] BEiN BOXOFFICE TURK HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9105.m3u8
-#EXTINF:-1,[TR] BEiN BOX OFFiCE 3 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9104.m3u8
-#EXTINF:-1,[TR] BEiN BOX OFFiCE 2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9103.m3u8
-#EXTINF:-1,[TR] BEiN BOX OFFiCE 1 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9102.m3u8
-#EXTINF:-1,[TR] BBC EARTH HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9149.m3u8
-#EXTINF:-1,[TR] BABY FIRST HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9166.m3u8
-#EXTINF:-1,[TR] ATV HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9071.m3u8
-#EXTINF:-1,[TR] AKIT TV
-http://bigiptv.ovh:8000/live/75806293/75806293/9147.m3u8
-#EXTINF:-1,[TR] A2 HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9073.m3u8
-#EXTINF:-1,[TR] A HABER HD
-http://bigiptv.ovh:8000/live/75806293/75806293/9134.m3u8
-#EXTINF:-1,[TR] 360 TV [ L ]
-http://bigiptv.ovh:8000/live/75806293/75806293/9157.m3u8
-#EXTINF:-1,¤¤¤¤¤ USA ¤¤¤¤¤
-http://bigiptv.ovh:8000/live/75806293/75806293/8087.m3u8
+#EXTM3U
+#EXTINF:-1,A HABER HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/201.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A SPOR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/202.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/203.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A2 TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/200.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BABY TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/204.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BBC Earth HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/199.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BENGU TÜRK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/205.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BEYAZ TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/206.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BJKTV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/207.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BLOOMBERG HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/208.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BLOOMBERG SD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/209.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CEM TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/210.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINESTAR VIZYON 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/211.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINESTAR VIZYON 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/212.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINESTAR VIZYON 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/213.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CNN TURK HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/214.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISCOVERY CHANNEL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/215.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY CHANNEL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/216.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY JR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/217.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY XD / DUCK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/218.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DOST TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/219.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DREAM TURK TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/220.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DREAM TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/221.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FANATIK TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/224.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FB TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/225.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FIL TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/226.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FLASH TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/227.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FOX HD 1080
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/228.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FOX TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/229.m3u8$http-refferer=http://localhost
+#EXTINF:-1,GSTV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/230.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HABER TURK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/231.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HALK TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/232.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HISTORY HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/233.m3u8$http-refferer=http://localhost
+#EXTINF:-1,IZTV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/234.m3u8$http-refferer=http://localhost
+#EXTINF:-1,KANAL 24
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/235.m3u8$http-refferer=http://localhost
+#EXTINF:-1,KANAL 7 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/236.m3u8$http-refferer=http://localhost
+#EXTINF:-1,KANAL D HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/237.m3u8$http-refferer=http://localhost
+#EXTINF:-1,KRAL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/238.m3u8$http-refferer=http://localhost
+#EXTINF:-1,KRAL POP TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/239.m3u8$http-refferer=http://localhost
+#EXTINF:-1,LOCA 1HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/240.m3u8$http-refferer=http://localhost
+#EXTINF:-1,LOCA 2HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/241.m3u8$http-refferer=http://localhost
+#EXTINF:-1,LOCA 3HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/242.m3u8$http-refferer=http://localhost
+#EXTINF:-1,MINIKA COCUK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/243.m3u8$http-refferer=http://localhost
+#EXTINF:-1,MINIKA GO
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/244.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviemax Festival
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/245.m3u8$http-refferer=http://localhost
+#EXTINF:-1,MovieMax Premiere
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/246.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviemax Stars
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/247.m3u8$http-refferer=http://localhost
+#EXTINF:-1,MOVIEMAX TURK HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/248.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Action
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/249.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Classic
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/250.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Family
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/251.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Fest
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/252.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Gold
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/253.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Platin
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/254.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Platin 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/255.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Premium
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/256.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Premium 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/257.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Moviesmart Turk
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/258.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NATINOAL GEO WILD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/259.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/260.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NICKELODEON HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/261.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NICKELODEON JR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/262.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NTV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/263.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NTV SPOR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/264.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NUMBER 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/265.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PLANET COCUK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/266.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PLANET TURK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/267.m3u8$http-refferer=http://localhost
+#EXTINF:-1,POWER TURK HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/268.m3u8$http-refferer=http://localhost
+#EXTINF:-1,POWER TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/269.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SALON 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/270.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SALON 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/271.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SALON 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/272.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SALON 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/273.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SEMERKAND
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/274.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SHOW HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/275.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SMART SPOR 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/277.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SMART SPOR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/278.m3u8$http-refferer=http://localhost
+#EXTINF:-1,STAR TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/280.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TGRT BELGESEL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/281.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TGRT HABER
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/282.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TIVIBU SPOR 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/283.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TIVIBUSPOR 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/284.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TIVIBUSPOR 3 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/285.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TIVIBUSPOR 4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/286.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TRT SPOR SD/HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/287.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TURKMAX GURME HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/288.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV NET
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/289.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/290.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV5
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/291.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV8 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/292.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV8.5 SPOR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/293.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ULKE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/294.m3u8$http-refferer=http://localhost
+#EXTINF:-1,YABAN TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/295.m3u8$http-refferer=http://localhost
+
