@@ -1,24 +1,26 @@
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/9.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/10.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/11.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/12.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/13.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/14.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 7HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/15.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 8HD
-http://204.93.169.151:8888/live/janberyan.com/AndrTVIPTV/16.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 1HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/4.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 2HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/5.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 3HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/6.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 4HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/7.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 5HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/8.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 6HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/9.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 7HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/10.ts
+#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,BEIN SPORTS 8HD
+http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/11.ts
