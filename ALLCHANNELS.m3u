@@ -163,26 +163,6 @@ http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/32.ts
 http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/33.ts
 
 
-
-#EXTINF:-1 tvg-logo="http://masr140.org/wp-content/uploads/2016/11/hqdefault-1-2.jpg",======ART [AR]========
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1472.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1319.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1320.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1321.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1322.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
-http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1323.ts
-
-
 #EXTINF:-1,========ROTANA=========
 http://185.186.244.80:8080/live/www.janberyan.com/janberyancom/1470.ts
 #EXTVLCOPT:http-user-agent=janberyan.com02
