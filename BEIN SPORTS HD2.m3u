@@ -2,29 +2,24 @@
 #EXTINF:-1,========BeIN Sports SD=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/13.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/57.ts
+#EXTINF:-1,BEIN SPORTS 1SD
+http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/17.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/58.ts
+#EXTINF:-1,BEIN SPORTS 2SD
+http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/18.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/59.ts
+#EXTINF:-1,BEIN SPORTS 3SD
+http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/19.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/60.ts
+#EXTINF:-1,BEIN SPORTS 4SD
+http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/20.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/61.ts
+#EXTINF:-1,BEIN SPORTS 5SD
+http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/21.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/62.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 7SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/63.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 8SD
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/64.ts
+#EXTINF:-1,BEIN SPORTS 6SD
+http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/22.ts
+
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 #EXTINF:-1 tvg-ID="" tvg-name="bein 1 SD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbmOZhM_eCgkq24-SKIH7MYycl_kyI7gqJ52qKckoOGCEaAqCV" group-title="Beinsports",bein 1 SD
 http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/121.ts
