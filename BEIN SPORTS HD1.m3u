@@ -1,26 +1,34 @@
+#EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1HD
-#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTINF:-1,========BeIN Sports HD=========
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 1HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/4.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/65.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 2HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/5.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/66.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 3HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/6.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/67.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 4HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/7.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/68.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 5HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/8.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/69.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 6HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/9.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/70.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 7HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/10.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/71.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 8HD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/11.ts
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/72.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 9HD
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/73.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 10HD
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/74.ts
