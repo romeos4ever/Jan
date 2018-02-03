@@ -1,36 +1,33 @@
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,اهم الاحداث المباشرة
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/99.ts
+
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1472.ts
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/68.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC1
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/59.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC2
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/60.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC3
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/61.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC4
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/62.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC DRAMA
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/65.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC MAX
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/64.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC ACTION
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/63.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
-#EXTINF:-1,MBC BOLLYWOOD
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/66.ts
-#EXTVLCOPT:http-user-agent=janberyan.com02
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/54.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-2
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/31.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-3
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/48.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-4
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/49.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-Max
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/51.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-Drama
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/52.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-Bollywood
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/53.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC-Action
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/50.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,CBC DRAMA
-http://173.249.8.101:8080/live/www.janberyan.com/AndrTVIPTV02552/58.ts
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/75.ts
 
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 #EXTINF:-1 tvg-ID="" tvg-name="Ar:MBC 1" tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="Arabic",Ar:MBC 1
