@@ -30,48 +30,6 @@ http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/66.ts
 http://173.249.8.101:8080/live/AndrTV-IPTV66/AndrTVIPTV02/58.ts
 
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS News" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS News
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1496.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS Global" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS Global
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1495.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1494.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1493.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1492.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1491.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1490.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1489.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1488.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1487.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1486.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1485.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1484.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/TroyTV/1FRGGD31/1483.ts
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
