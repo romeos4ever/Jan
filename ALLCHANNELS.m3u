@@ -1,4 +1,8 @@
-
+#EXTM3U
+#EXTINF:-1,Di3a Dai3ah 2
+http://185.148.147.68:25461/live/andrtv88/Q3Y70mTz7H/86.ts
+#EXTINF:-1,Di3a Dai3ah 1
+http://185.148.147.68:25461/live/andrtv88/Q3Y70mTz7H/87.ts
 #EXTINF:-1 tvg-logo="http://www.elfagr.org/upload/photo/news/197/8/600x338o/834.jpg",=======MBC [AR]=========
 http://rmd.primatv.club:8899/live/TroyTV/Zv6Ji3SDDaTS43/1472.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
