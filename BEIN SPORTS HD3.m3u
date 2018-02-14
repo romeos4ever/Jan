@@ -63,56 +63,87 @@ http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/939.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Ar:Al Jazeera Arabic News  HD" tvg-logo="https://yt3.ggpht.com/-c3pNXYa0Q7Q/AAAAAAAAAAI/AAAAAAAAAAA/_ccpfp5MaAs/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Arabic HD",Ar:Al Jazeera Arabic News  HD
 http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/17.ts
 
-
 #EXTM3U
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 1 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3422.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 10 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3423.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 11 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3424.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 12 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3425.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 13 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3426.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 14 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3427.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | Bein Sports 15 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3428.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | Bein Sports 16 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3429.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | Bein Sports 17 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3430.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3431.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3432.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3433.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 5 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3434.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 6 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3435.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 7 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3436.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 8 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3437.ts
-#EXTVLCOPT:http-user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AR | beIN Sports 9 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3438.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain0
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/22.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain2
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/25.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain3
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/27.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain4
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/29.ts
+#EXTINF:-1,Porto vs Liverpool1
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/23.ts
+#EXTINF:-1,Porto vs Liverpool2
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/26.ts
+#EXTINF:-1,Porto vs Liverpool3
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/28.ts
+#EXTINF:-1,===BeIN Sports HD===
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/9.ts
+#EXTINF:-1,BEIN 1HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/1.ts
+#EXTINF:-1,BEIN 2HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/2.ts
+#EXTINF:-1,BEIN 3HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/3.ts
+#EXTINF:-1,BEIN 4HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/4.ts
+#EXTINF:-1,BEIN 5HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/5.ts
+#EXTINF:-1,BEIN 6HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/6.ts
+#EXTINF:-1,BEIN 7HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/7.ts
+#EXTINF:-1,BEIN 8HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/8.ts
+#EXTINF:-1,===BeIN Sports SD===
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/18.ts
+#EXTINF:-1,BEIN 1SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/10.ts
+#EXTINF:-1,BEIN 2SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/11.ts
+#EXTINF:-1,BEIN 3SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/12.ts
+#EXTINF:-1,BEIN 4SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/13.ts
+#EXTINF:-1,BEIN 5SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/14.ts
+#EXTINF:-1,BEIN 6SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/15.ts
+#EXTINF:-1,BEIN 7SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/16.ts
+#EXTINF:-1,BEIN 8SD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/17.ts
+#EXTM3U
+#EXTINF:-1,========BeIN Sports HD=========
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/15.ts
+#EXTINF:-1,BEIN SPORTS 1HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/4.ts
+#EXTINF:-1,BEIN SPORTS 2HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/5.ts
+#EXTINF:-1,BEIN SPORTS 3HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/6.ts
+#EXTINF:-1,BEIN SPORTS 4HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/7.ts
+#EXTINF:-1,BEIN SPORTS 5HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/8.ts
+#EXTINF:-1,BEIN SPORTS 6HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/9.ts
+#EXTINF:-1,BEIN SPORTS 7HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/10.ts
+#EXTINF:-1,BEIN SPORTS 8HD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/11.ts
+#EXTINF:-1,========BeIN Sports SD=========
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/16.ts
+#EXTINF:-1,BEIN SPORTS 1SD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/17.ts
+#EXTINF:-1,BEIN SPORTS 2SD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/18.ts
+#EXTINF:-1,BEIN SPORTS 3SD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/19.ts
+#EXTINF:-1,BEIN SPORTS 4SD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/20.ts
+#EXTINF:-1,BEIN SPORTS 5SD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/21.ts
+#EXTINF:-1,BEIN SPORTS 6SD
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/22.ts
