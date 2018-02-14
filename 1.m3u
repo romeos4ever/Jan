@@ -1,117 +1,85 @@
-#EXTINF:-1,MATCHES TODAY1
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/19.ts
-#EXTINF:-1,MATCHES TODAY2
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/20.ts
-#EXTINF:-1,MATCHES TODAY3
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/21.ts
-#EXTINF:-1,MATCHES TODAY4
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/22.ts
+#EXTM3U
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain0
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/22.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain2
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/25.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain3
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/27.ts
+#EXTINF:-1,Real Madrid vs Paris Saint-Germain4
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/29.ts
+#EXTINF:-1,Porto vs Liverpool1
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/23.ts
+#EXTINF:-1,Porto vs Liverpool2
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/26.ts
+#EXTINF:-1,Porto vs Liverpool3
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/28.ts
 #EXTINF:-1,===BeIN Sports HD===
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/9.ts
-#EXTINF:-1,BEIN SPORTS 1HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/1.ts
-#EXTINF:-1,BEIN SPORTS 2HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/2.ts
-#EXTINF:-1,BEIN SPORTS 3HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/3.ts
-#EXTINF:-1,BEIN SPORTS 4HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/4.ts
-#EXTINF:-1,BEIN SPORTS 5HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/5.ts
-#EXTINF:-1,BEIN SPORTS 6HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/6.ts
-#EXTINF:-1,BEIN SPORTS 7HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/7.ts
-#EXTINF:-1,BEIN SPORTS 8HD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/8.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/9.ts
+#EXTINF:-1,BEIN 1HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/1.ts
+#EXTINF:-1,BEIN 2HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/2.ts
+#EXTINF:-1,BEIN 3HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/3.ts
+#EXTINF:-1,BEIN 4HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/4.ts
+#EXTINF:-1,BEIN 5HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/5.ts
+#EXTINF:-1,BEIN 6HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/6.ts
+#EXTINF:-1,BEIN 7HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/7.ts
+#EXTINF:-1,BEIN 8HD
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/8.ts
 #EXTINF:-1,===BeIN Sports SD===
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/18.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/18.ts
 #EXTINF:-1,BEIN 1SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/10.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/10.ts
 #EXTINF:-1,BEIN 2SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/11.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/11.ts
 #EXTINF:-1,BEIN 3SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/12.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/12.ts
 #EXTINF:-1,BEIN 4SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/13.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/13.ts
 #EXTINF:-1,BEIN 5SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/14.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/14.ts
 #EXTINF:-1,BEIN 6SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/15.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/15.ts
 #EXTINF:-1,BEIN 7SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/16.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/16.ts
 #EXTINF:-1,BEIN 8SD
-http://89.39.104.27:8080/live/www.janberyan.com/MLcAfPJuQj/17.ts
-#EXTINF:-1,========BeIN Sports HD=========
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/12.ts
-#EXTINF:-1,BEIN SPORTS 1HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/65.ts
-#EXTINF:-1,BEIN SPORTS 2HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/66.ts
-#EXTINF:-1,BEIN SPORTS 3HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/67.ts
-#EXTINF:-1,BEIN SPORTS 4HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/68.ts
-#EXTINF:-1,BEIN SPORTS 5HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/69.ts
-#EXTINF:-1,BEIN SPORTS 6HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/70.ts
-#EXTINF:-1,BEIN SPORTS 7HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/71.ts
-#EXTINF:-1,BEIN SPORTS 8HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/72.ts
-#EXTINF:-1,BEIN SPORTS 9HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/73.ts
-#EXTINF:-1,BEIN SPORTS 10HD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/74.ts
-#EXTINF:-1,========BeIN Sports SD=========
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/13.ts
-#EXTINF:-1,BEIN 1SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/57.ts
-#EXTINF:-1,BEIN 2SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/58.ts
-#EXTINF:-1,BEIN 3SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/59.ts
-#EXTINF:-1,BEIN 4SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/60.ts
-#EXTINF:-1,BEIN 5SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/61.ts
-#EXTINF:-1,BEIN 6SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/62.ts
-#EXTINF:-1,BEIN 7SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/63.ts
-#EXTINF:-1,BEIN 8SD
-http://185.148.147.68:25461/live/www.janberyan.com/4ypBnC6sVq/64.ts
+http://194.88.105.83:8888/live/www.janberyan.com/GaXh1oeRUy/17.ts
 #EXTM3U
 #EXTINF:-1,========BeIN Sports HD=========
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/15.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/15.ts
 #EXTINF:-1,BEIN SPORTS 1HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/4.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/4.ts
 #EXTINF:-1,BEIN SPORTS 2HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/5.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/5.ts
 #EXTINF:-1,BEIN SPORTS 3HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/6.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/6.ts
 #EXTINF:-1,BEIN SPORTS 4HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/7.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/7.ts
 #EXTINF:-1,BEIN SPORTS 5HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/8.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/8.ts
 #EXTINF:-1,BEIN SPORTS 6HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/9.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/9.ts
 #EXTINF:-1,BEIN SPORTS 7HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/10.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/10.ts
 #EXTINF:-1,BEIN SPORTS 8HD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/11.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/11.ts
 #EXTINF:-1,========BeIN Sports SD=========
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/16.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/16.ts
 #EXTINF:-1,BEIN SPORTS 1SD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/17.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/17.ts
 #EXTINF:-1,BEIN SPORTS 2SD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/18.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/18.ts
 #EXTINF:-1,BEIN SPORTS 3SD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/19.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/19.ts
 #EXTINF:-1,BEIN SPORTS 4SD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/20.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/20.ts
 #EXTINF:-1,BEIN SPORTS 5SD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/21.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/21.ts
 #EXTINF:-1,BEIN SPORTS 6SD
-http://173.249.8.101:8080/live/www.janberyan.com/8RWJx5vfLT/22.ts
+http://173.249.8.101:8080/live/www.janberyan.com/PvFH2jiMRn/22.ts
+
