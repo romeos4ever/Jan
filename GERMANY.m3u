@@ -1,6 +1,127 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",========|||-DEUTSCHLAND-|||========
 http://andrtviptv.jan-beryan.giize.com/398.ts
+
+#EXTINF:-1,de:==-germany--==
+http://77.160.26.64:9981/stream/channelid/2146869130?ticket=58E2CA85121121455EE42555BE1F0D8B5F77121C
+
+
+#EXTINF:-1,de:3Sat+
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1,de:ALEX Berlin++
+
+
+http://alex-stream.rosebud-media.de/live/smil:alexlivetv.smil/chunklist_b2200000_slGER.m3u8
+
+
+
+
+#EXTINF:-1,de:Allgau TV+
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w2042767982.m3u8
+
+
+#EXTINF:-1,de:Baden TV+
+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1,de:Campus TV Magdeburg+
+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800
+#EXTINF:-1,de:Das Erste+
+
+http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/index_2692_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,de:Deutsche Welle+
+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,de:EOTV+
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/chunklist_w1440442980.m3u8
+
+
+#EXTINF:-1,de:Franken Fernsehen+
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w160345619.m3u8
+
+#EXTINF:-1,de:Folx TV+
+
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1,de:HR Fernsehen+
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,de:Isar TV+
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+
+#EXTINF:-1,de:MagentaMusik 360+
+
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+#EXTINF:-1,de:MDF.1+
+
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+#EXTINF:-1,de:Munchen TV+
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/chunklist_w984595760.m3u8
+
+#EXTINF:-1,de:Noa 4 Norderstedt+
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+
+
+#EXTINF:-1,de:Noa 4 Hamburg+
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+
+#EXTINF:-1,de:Oberpfalz TV+
+
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w793481164.m3u8
+#EXTINF:-1,de:Offener Kanal Magdeburg+
+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?bitrate=800
+
+#EXTINF:-1,de:RFO+
+
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/chunklist_w2048560548.m3u8
+#EXTINF:-1,de:Rheinmain TV+
+
+http://62.67.13.54:1935/rmtv/rmtv_livestream/chunklist_w1197753078.m3u8
+#EXTINF:-1,de:tagesschau24+
+
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,de:Telebasel+
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w210250868.m3u8
+
+#EXTINF:-1,de:TVA Ostbayern+
+
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w1009778014.m3u8
+#EXTINF:-1,de:TV Oberfranken+
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+
+#EXTINF:-1,de:TV Touring Schweinfurt+
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+
+#EXTINF:-1,de:TV Touring Wurzburg+
+
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1821998710.m3u8
+#EXTINF:-1,de:WDR Fernsehen+
+
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w1116280705.m3u8http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8?sd=10&rebase=onDeluxe Music
+
+#EXTINF:-1,de:TV Touring Wurzburg+
+
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+
+#EXTINF:-1,de:1-2-3 TV+
+
+http://101.01-mx1.flex-cdn.net/d9feb643bac47e06acb3494d87ca58021b8732bbbed593d5372d/stream070102/playlist.m3u8
+
+#EXTINF:-1,de:KroneHit+
+
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,de:Okto TV+
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
+#EXTINF:-1,de:ORF 2+
+http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
+#EXTINF:-1,de:Tirol TV+
+http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
+#EXTINF:-1,de:W24+
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 #EXTINF:-1 tvg-ID="ZDF DE" tvg-name="DE:ZDF Neo" tvg-logo="http://chanlogos.xmltv.se/neo.zdf.de.png" group-title="Germany",DE:ZDF Neo
 http://srvt.topiptv.org:80/live/Acc_AM.testing/App65080/1489.ts
