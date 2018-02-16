@@ -26,7 +26,27 @@ http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/16.ts
 #EXTINF:-1,BEIN 8SD
 http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/17.ts
 
-
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,========BeIN Sports SD=========
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/16.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 1SD
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/17.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 2SD
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/18.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 3SD
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/19.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 4SD
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/20.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 5SD
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/21.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN SPORTS 6SD
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/22.ts
 
 
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
