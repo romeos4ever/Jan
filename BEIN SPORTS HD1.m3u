@@ -45,23 +45,3 @@ http://rmd.primatv.club:8899/live/TroyTV/67556544334/1484.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
 http://rmd.primatv.club:8899/live/TroyTV/67556544334/1483.ts
-
-#EXTINF:-1,===BeIN Sports HD===
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/9.ts
-#EXTINF:-1,BEIN 1HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/1.ts
-#EXTINF:-1,BEIN 2HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/2.ts
-#EXTINF:-1,BEIN 3HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/3.ts
-#EXTINF:-1,BEIN 4HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/4.ts
-#EXTINF:-1,BEIN 5HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/5.ts
-#EXTINF:-1,BEIN 6HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/6.ts
-#EXTINF:-1,BEIN 7HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/7.ts
-#EXTINF:-1,BEIN 8HD
-http://194.88.105.83:8888/live/www.janberyan.com/mZYkxPut6b/8.ts
-
