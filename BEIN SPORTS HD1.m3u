@@ -45,3 +45,32 @@ http://rmd.primatv.club:8899/live/TroyTV/67556544334/1484.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
 http://rmd.primatv.club:8899/live/TroyTV/67556544334/1483.ts
+
+#EXTINF:-1,========BeIN Sports HD=========
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 1HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/1.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 2HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/2.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 3HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/3.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 4HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/4.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 5HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/5.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 6HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/6.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 7HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/7.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 8HD
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/8.ts
