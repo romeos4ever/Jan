@@ -1,56 +1,71 @@
 #EXTM3U
-
-#EXTM3U
-#EXTINF:-1,16/1www.janberyan.com
-http://194.88.105.83:8888/movie/www.janberyan.com/BNPBsbXTIf/68.mp4
-#EXTINF:-1,Manchester United Vs Sevilla 1
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/202.ts
-#EXTINF:-1,Manchester United Vs Sevilla 2
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/203.ts
-#EXTINF:-1,Manchester United Vs Sevilla 3
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/204.ts
-#EXTINF:-1,Manchester United Vs Sevilla 4
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/205.ts
-#EXTINF:-1,Shakhtar Donetsk v Roma 1
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/206.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Shakhtar Donetsk v Roma 2
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/208.ts
-#EXTINF:-1,===BeIN Sports HD===
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/9.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/208.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Shakhtar Donetsk v Roma 1
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/206.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Manchester United Vs Sevilla 4
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/205.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Manchester United Vs Sevilla 3
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/204.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Manchester United Vs Sevilla 2
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/203.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Manchester United Vs Sevilla 1
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/202.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/1.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/1.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 2HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/2.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/2.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 3HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/3.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/3.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 4HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/4.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/4.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 5HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/5.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/5.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 6HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/6.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/6.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 7HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/7.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/7.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 8HD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/8.ts
-#EXTINF:-1,===BeIN Sports SD===
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/18.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/8.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/10.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/10.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 2SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/11.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/11.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 3SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/12.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/12.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 4SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/13.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/13.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 5SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/14.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/14.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 6SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/15.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/15.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 7SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/16.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/16.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 8SD
-http://194.88.105.83:8888/live/www.janberyan.com/BNPBsbXTIf/17.ts
+http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/17.ts
+
 #EXTINF:-1,============= BeIN Channels =============
 http://beinshoot.net:8000/live/zeinsport/gddgg112f1gfgbcb/489.ts
 #EXTINF:-1,AR:BEINSPORTS-1
@@ -74,38 +89,57 @@ http://beinshoot.net:8000/live/zeinsport/gddgg112f1gfgbcb/9.ts
 #EXTINF:-1,AR:BEINSPORTS-10
 http://beinshoot.net:8000/live/zeinsport/gddgg112f1gfgbcb/249.ts
 #EXTM3U
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,========BeIN Sports HD=========
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/15.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/15.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 1HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/4.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/4.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 2HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/5.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/5.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 3HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/6.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/6.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 4HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/7.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/7.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 5HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/8.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/8.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 6HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/9.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/9.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 7HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/10.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/10.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 8HD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/11.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/11.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,========BeIN Sports SD=========
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/16.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/16.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 1SD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/17.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/17.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 2SD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/18.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/18.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 3SD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/19.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/19.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 4SD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/20.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/20.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 5SD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/21.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/21.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 6SD
-http://173.249.8.101:8080/live/www.janberyan.com/i6UDATw8Ab/22.ts
+http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/22.ts
+
+
+
 #EXTINF:-1,============= FR CHANNELS =============
 http://beinshoot.net:8000/live/zeinsport/gddgg112f1gfgbcb/497.ts
 #EXTINF:-1,FR: BEIN SPORTS FR 1 HD
