@@ -1,25 +1,5 @@
 
-#EXTINF:-1,===BeIN Sports SD1*===
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/259.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1SD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/253.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2SD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/254.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3SD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/255.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4SD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/256.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5SD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/257.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6SD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/258.ts
-#EXTINF:-1,========BeIN Sports SD2=========
+#EXTINF:-1,========BeIN Sports SD1=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/13.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1SD
@@ -47,7 +27,7 @@ http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/16.ts
 http://194.88.105.83:8888/live/ANDRTV--IPTV--/TVANDRIPTV/17.ts
 
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports SD3=========
+#EXTINF:-1,========BeIN Sports SD2=========
 http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/16.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SPORTS 1SD
