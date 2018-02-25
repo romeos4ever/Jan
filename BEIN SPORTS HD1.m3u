@@ -46,29 +46,7 @@ http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1484.ts
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
 http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1483.ts
 
-#EXTINF:-1,========BeIN Sports HD1=========
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
 #EXTM3U
-#EXTINF:-1,===BeIN Sports HD*===
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/252.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1HD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/244.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2HD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/245.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3HD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/246.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4HD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/247.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5HD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/248.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6HD*
-http://janiptv.com:8888/live/ANDRTV--IPTV--/TVANDRIPTV/249.ts
 #EXTINF:-1,========BeIN Sports HD2=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
