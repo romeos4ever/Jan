@@ -26,44 +26,45 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-logo="http://kurdishdailynews.org/wp-content/uploads/2014/12/tv10-logo.jpg" group-title="KURDISTAN",TV 10
 http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
-http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="KRD:KNN" tvg-logo="https://kurdtvs.net/uploads/knn.png" group-title="Kurdish",KRD:KNN
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/757.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/757.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:Kurdmax Show TV" tvg-logo="https://i.ytimg.com/vi/UytVIvQHt4U/maxresdefault_live.jpg" group-title="Kurdish",Krd:Kurdmax Show TV
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1462.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1462.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Ar:WESAL HAQ" tvg-logo="https://yt3.ggpht.com/-pXMCig5-GcA/AAAAAAAAAAI/AAAAAAAAAAA/NAOVNt4GLdM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Kurdish",Ar:WESAL HAQ
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1062.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1062.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:KURDISTAN TV" tvg-logo="" group-title="Arabic",Krd:KURDISTAN TV
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/308.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/308.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:NRT 1 HD" tvg-logo="https://www.kurdtvs.net/uploads/nrttvhd.png" group-title="Kurdish",Krd:NRT 1 HD
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/239.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/239.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:NRT 2 HD" tvg-logo="" group-title="Kurdish",Krd:NRT 2 HD
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/240.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/240.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:Kurdmax Pepule" tvg-logo="http://www.frocus.net/images/logotv/original/Kurdmax-Pepule.jpg" group-title="Kurdish",Krd:Kurdmax Pepule
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/195.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/195.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:KURDMAX" tvg-logo="https://pbs.twimg.com/profile_images/576732364073635840/Y2MTa6As.png" group-title="Kurdish",Krd:KURDMAX
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/194.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/194.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:WAAR HD" tvg-logo="" group-title="Kurdish",Krd:WAAR HD
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1364.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1364.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:Al Turkmenia TV" tvg-logo="http://3.bp.blogspot.com/-23SSxJi1f-8/VBY2ndIhNLI/AAAAAAAABZ8/rUIiawhuxxg/s1600/Al-Turkmenia%2BTV.jpeg" group-title="Kurdish",Krd:Al Turkmenia TV
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1399.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1399.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:Ronahi ZINDÎ TV" tvg-logo="http://zindi.tv/wp-content/uploads/2014/05/ronahitv.jpg" group-title="Kurdish",Krd:Ronahi ZINDÎ TV
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1348.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1348.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:Rega TV" tvg-logo="" group-title="Kurdish",Krd:Rega TV
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1456.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1456.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Krd:NHK" tvg-logo="" group-title="",Krd:NHK
-http://srvt.topiptv.org:80/live/Acc_AM.COntrol/App65080/1416.ts
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1416.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Krd:Kurdistan 24" tvg-logo="https://www.lyngsat-logo.com/hires/kk/kurdistan_24_iq.png" group-title="Kurdish",Krd:Kurdistan 24
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1349.ts
