@@ -4,238 +4,238 @@ http://www.lengua.com/anthems/France.mp3
 #EXTM3U
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TF1" tvg-logo="" group-title="15-TNT [FR]",TF1
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1428.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1428.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 2" tvg-logo="" group-title="15-TNT [FR]",FRANCE 2
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1430.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1430.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 3" tvg-logo="" group-title="15-TNT [FR]",FRANCE 3
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1431.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1431.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 4" tvg-logo="" group-title="15-TNT [FR]",FRANCE 4
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1432.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1432.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 5" tvg-logo="" group-title="15-TNT [FR]",FRANCE 5
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1433.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1433.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE O" tvg-logo="" group-title="15-TNT [FR]",FRANCE O
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1434.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1434.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="M6" tvg-logo="" group-title="15-TNT [FR]",M6
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1429.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1429.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ACTION" tvg-logo="" group-title="16-CSAT CENIMA [FR]",ACTION
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1453.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1453.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1435.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1435.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL CINEMA" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL CINEMA
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1436.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1436.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL FAMILY" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL FAMILY
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1438.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1438.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL DECALE" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL DECALE
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1437.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1437.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL SERIES" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CANAL SERIES
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1439.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1439.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE PREMIER" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE PREMIER
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1440.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1440.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE POLAR" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE POLAR
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1446.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1446.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FX" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE FX
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1447.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1447.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FRISSON" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE FRISSON
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1441.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1441.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FAMIZ" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE FAMIZ
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1445.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1445.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE EMOTION" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE EMOTION
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1442.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1442.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE CLUB" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE CLUB
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1444.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1444.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE CLASSIC" tvg-logo="" group-title="16-CSAT CENIMA [FR]",CINE CLASSIC
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1443.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1443.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS MAX" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS MAX
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1451.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1451.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS GEANT" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS GEANT
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1449.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1449.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS CITY" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS CITY
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1450.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1450.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS CHOC" tvg-logo="" group-title="16-CSAT CENIMA [FR]",OCS CHOC
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1448.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1448.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="COMEDIE" tvg-logo="" group-title="16-CSAT CENIMA [FR]",COMEDIE
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1452.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1452.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 1" tvg-logo="" group-title="",CANAL PLAY 1
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1390.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1390.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 2" tvg-logo="" group-title="",CANAL PLAY 2
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1391.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1391.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 3" tvg-logo="" group-title="",CANAL PLAY 3
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1392.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1392.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 4" tvg-logo="" group-title="",CANAL PLAY 4
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1393.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1393.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 5" tvg-logo="" group-title="",CANAL PLAY 5
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1394.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1394.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 1" tvg-logo="" group-title="",ALACARTE 1
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1395.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1395.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 2" tvg-logo="" group-title="",ALACARTE 2
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1396.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1396.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 3" tvg-logo="" group-title="",ALACARTE 3
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1397.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1397.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 4" tvg-logo="" group-title="",ALACARTE 4
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1398.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1398.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 5" tvg-logo="" group-title="",ALACARTE 5
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1399.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1399.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ANIMAUX" tvg-logo="" group-title="18-CSAT CULTURE [FR]",ANIMAUX
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1424.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1424.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISCOVRY-SCI" tvg-logo="" group-title="18-CSAT CULTURE [FR]",DISCOVRY-SCI
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1423.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1423.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISCOVRY" tvg-logo="" group-title="18-CSAT CULTURE [FR]",DISCOVRY
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1422.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1422.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="USHUAIA TV" tvg-logo="" group-title="18-CSAT CULTURE [FR]",USHUAIA TV
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1425.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1425.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SEASON" tvg-logo="" group-title="18-CSAT CULTURE [FR]",SEASON
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1427.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1427.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NATIONAL-GEO" tvg-logo="" group-title="18-CSAT CULTURE [FR]",NATIONAL-GEO
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1420.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1420.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NAT-GEO-WILD" tvg-logo="" group-title="18-CSAT CULTURE [FR]",NAT-GEO-WILD
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1421.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1421.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CHASSE PECHE" tvg-logo="" group-title="18-CSAT CULTURE [FR]",CHASSE PECHE
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1426.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1426.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="France 24" tvg-logo="" group-title="",France 24
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1329.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1329.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="" group-title="",Euronews
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1330.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1330.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="LCI" tvg-logo="" group-title="20-CSAT INFO [FR]",LCI
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1401.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1401.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ITELE" tvg-logo="" group-title="20-CSAT INFO [FR]",ITELE
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1400.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1400.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 1HD Fr" tvg-logo="" group-title="17-CSAT SPORTS [FR]",SFR Sport 1HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1464.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1464.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 2HD Fr" tvg-logo="" group-title="17-CSAT SPORTS [FR]",SFR Sport 2HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1465.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1465.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 3HD Fr" tvg-logo="" group-title="17-CSAT SPORTS [FR]",SFR Sport 3HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1466.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1466.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL SPORT" tvg-logo="" group-title="17-CSAT SPORTS [FR]",CANAL SPORT
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1417.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1417.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="INFOSPORT" tvg-logo="" group-title="17-CSAT SPORTS [FR]",INFOSPORT
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1419.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1419.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FOOT 24" tvg-logo="" group-title="17-CSAT SPORTS [FR]",FOOT 24
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1418.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1418.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="PIWI" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",PIWI
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1402.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1402.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CARTON NET" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",CARTON NET
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1405.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1405.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",BOOMERANG
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1404.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1404.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TIJI" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",TIJI
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1403.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1403.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="GULLI" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",GULLI
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1406.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1406.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TELETOON" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",TELETOON
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1410.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1410.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL J" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",CANAL J
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1408.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1408.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",NICKELODEON JUNIOR
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1412.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1412.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",NICKELODEON
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1411.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1411.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MANGAS" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",MANGAS
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1407.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1407.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY XD
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1416.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1416.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY JUNIOR
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1413.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1413.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY CINEMA" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY CINEMA
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1415.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1415.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="19-CSAT ENFANTS [FR]",DISNEY CHANNEL
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1414.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1414.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 1HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1454.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1454.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 2HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1455.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1455.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINSPORTS 3HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1456.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1456.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 04HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1457.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1457.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 05HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1458.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1458.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 06HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1459.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1459.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 07HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1460.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1460.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 08HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1461.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1461.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 09HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1462.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1462.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="02-BeINSPORTS [FR]",BeINMAX 10HD Fr
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1463.ts
+http://0.primatv.club:1994/live/troytroy150/ZTAtm00UuQ/1463.ts
 
 
 
