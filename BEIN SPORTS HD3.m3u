@@ -1,90 +1,82 @@
 
-
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports HD=========
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/15.ts
+#EXTINF:-1,www.janberyan.com
+http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 1HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/4.ts
+#EXTINF:-1,===BeIN Sports FULLHD===
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/2.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 2HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/5.ts
+#EXTINF:-1,BEIN 1 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/3.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 3HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/6.ts
+#EXTINF:-1,BEIN 2 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/4.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 4HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/7.ts
+#EXTINF:-1,BEIN 3 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/5.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 5HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/8.ts
+#EXTINF:-1,BEIN 4 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/6.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 6HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/9.ts
+#EXTINF:-1,BEIN 5 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/7.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 7HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/10.ts
+#EXTINF:-1,BEIN 6 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/8.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN SPORTS 8HD
-http://173.249.8.101:8080/live/AndrTV-IPTV665/AndrTVIPTV025/11.ts
-#EXTINF:-1,======BeIN Sports HD3=======
-http://185.186.244.80:8080/live/www.janberyan.com-/www.free2iptv2m3u.com/1084.ts
+#EXTINF:-1,BEIN 7 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/9.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 8 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/10.ts
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 1 HD" tvg-logo="https://topx1.com/logos/bein_sport_1.jpg" group-title="Beinsports",AR:BEINSPORT 1 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/940.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 2" tvg-name="BeinSport 2 HD" tvg-logo="https://topx1.com/logos/bein_sport_2.jpg" group-title="Beinsports",BeinSport 2 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/31.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 2" tvg-name="AR:BEINSPORT 2 HD" tvg-logo="https://topx1.com/logos/bein_sport_2.jpg" group-title="Beinsports",AR:BEINSPORT 2 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/938.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 3" tvg-name="BeinSport 3 HD" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",BeinSport 3 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/32.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 3" tvg-name="AR:BEINSPORT 3 HD" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",AR:BEINSPORT 3 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/937.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 4" tvg-name="BeinSport 4 HD" tvg-logo="https://2.bp.blogspot.com/-syTGB3_hXak/VkjPia1ICHI/AAAAAAAAAl4/YiuQ5DzTkcM0e9Qrkm-YNscCJZ3vLdcaQ/s1600/bein4.png" group-title="Beinsports",BeinSport 4 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/33.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 4" tvg-name="AR:BEINSPORT 4 HD" tvg-logo="https://topx1.com/logos/bein_sport_4.jpg" group-title="Beinsports",AR:BEINSPORT 4 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/936.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 5" tvg-name="BeinSport 5 HD" tvg-logo="https://topx1.com/logos/bein_sport_5.jpg" group-title="Beinsports",BeinSport 5 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/34.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 5" tvg-name="AR:BEINSPORT 5 HD" tvg-logo="https://topx1.com/logos/bein_sport_5.jpg" group-title="Beinsports",AR:BEINSPORT 5 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/935.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 6" tvg-name="BeinSport 6 HD" tvg-logo="http://2.bp.blogspot.com/--hSukADnegU/VkjYClRzBpI/AAAAAAAAAmc/PaorSqWbU5o/s1600/bn%2Bsport%2B6.png" group-title="Beinsports",BeinSport 6 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/35.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 6 HD" tvg-logo="https://topx1.com/logos/bein_sport_6.jpg" group-title="Beinsports",AR:BEINSPORT 6 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/934.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 7" tvg-name="BeinSport 7 HD" tvg-logo="http://www.livekoraa.com/wp-content/uploads/2017/02/Bein-Sports-7-HD.png" group-title="Beinsports",BeinSport 7 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/36.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 7 HD" tvg-logo="https://topx1.com/logos/bein_sport_7.jpg" group-title="Beinsports",AR:BEINSPORT 7 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/933.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 8" tvg-name="BeinSport 8 HD" tvg-logo="https://topx1.com/logos/bein_sport_8.jpg" group-title="Beinsports",BeinSport 8 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/37.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 8 HD" tvg-logo="https://topx1.com/logos/bein_sport_8.jpg" group-title="Beinsports",AR:BEINSPORT 8 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/932.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 9" tvg-name="BeinSport 9 HD" tvg-logo="http://4.bp.blogspot.com/-hlTGuhqbPco/VkjkXy1PrWI/AAAAAAAAAnE/BCJ1uWDzjaY/s1600/bn%2Bsport9.jpg" group-title="Beinsports",BeinSport 9 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/38.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 9" tvg-name="AR:BEINSPORT 9 HD" tvg-logo="https://topx1.com/logos/bein_sport_9.jpg" group-title="Beinsports",AR:BEINSPORT 9 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/931.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 10" tvg-name="BeinSport 10 HD" tvg-logo="http://m.livetv-free.com/channels/images/beinsports10.png" group-title="Beinsports",BeinSport 10 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/39.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="Bein Sports 10" tvg-name="AR:BEINSPORT 10 HD" tvg-logo="https://topx1.com/logos/bein_sport_10.jpg" group-title="Beinsports",AR:BEINSPORT 10 HD
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/939.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,www.janberyan.com
+http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,========BeIN Sports HD1=========
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/99.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 1HD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/95.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 2HD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/96.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 3HD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/97.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 4HD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/98.ts
+#EXTM3U
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,www.janberyan.com
+http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,===BeIN Sports SD===
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/11.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 1SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/12.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 2SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/13.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 3SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/14.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 4SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/15.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 5SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/16.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 6SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/17.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 7SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/18.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 8SD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/19.ts
