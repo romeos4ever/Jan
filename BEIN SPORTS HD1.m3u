@@ -1,58 +1,82 @@
+
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,www.janberyan.com
-http://194.88.105.83:8888/movie/andrsports/AndrTVIPTV557/68.mp4
+http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===BeIN Sports HD===
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/2.ts
+#EXTINF:-1,===BeIN Sports FULLHD===
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/2.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 1 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/3.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 2 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/4.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 3 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/5.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 4 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/6.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 5 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/7.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 6 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/8.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 7 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/9.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,BEIN 8 FULLHD
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/10.ts
+#EXTM3U
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,www.janberyan.com
+http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,========BeIN Sports HD1=========
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/99.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/3.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/95.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 2HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/4.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/96.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 3HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/5.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/97.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 4HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/6.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/98.ts
+#EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/7.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/8.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 7HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/9.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 8HD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/10.ts
+#EXTINF:-1,www.janberyan.com
+http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,===BeIN Sports SD===
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/11.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/11.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/12.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/12.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 2SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/13.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/13.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 3SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/14.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/14.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 4SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/15.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/15.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 5SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/16.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/16.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 6SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/17.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/17.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 7SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/18.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/18.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 8SD
-http://194.88.105.83:8888/live/andrsports/AndrTVIPTV557/19.ts
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/19.ts
