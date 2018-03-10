@@ -46,97 +46,85 @@ http://1.primatv.club:1000/live/Meintv2018/6ktnvkm2018/1484.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
 http://1.primatv.club:1000/live/Meintv2018/6ktnvkm2018/1483.ts
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 1 HD" tvg-logo="https://topx1.com/logos/bein_sport_1.jpg" group-title="Beinsports",AR:BEINSPORT 1 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/940.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 2" tvg-name="BeinSport 2 HD" tvg-logo="https://topx1.com/logos/bein_sport_2.jpg" group-title="Beinsports",BeinSport 2 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/31.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 2" tvg-name="AR:BEINSPORT 2 HD" tvg-logo="https://topx1.com/logos/bein_sport_2.jpg" group-title="Beinsports",AR:BEINSPORT 2 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/938.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 3" tvg-name="BeinSport 3 HD" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",BeinSport 3 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/32.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 3" tvg-name="AR:BEINSPORT 3 HD" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",AR:BEINSPORT 3 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/937.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 4" tvg-name="BeinSport 4 HD" tvg-logo="https://2.bp.blogspot.com/-syTGB3_hXak/VkjPia1ICHI/AAAAAAAAAl4/YiuQ5DzTkcM0e9Qrkm-YNscCJZ3vLdcaQ/s1600/bein4.png" group-title="Beinsports",BeinSport 4 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/33.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 4" tvg-name="AR:BEINSPORT 4 HD" tvg-logo="https://topx1.com/logos/bein_sport_4.jpg" group-title="Beinsports",AR:BEINSPORT 4 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/936.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 5" tvg-name="BeinSport 5 HD" tvg-logo="https://topx1.com/logos/bein_sport_5.jpg" group-title="Beinsports",BeinSport 5 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/34.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 5" tvg-name="AR:BEINSPORT 5 HD" tvg-logo="https://topx1.com/logos/bein_sport_5.jpg" group-title="Beinsports",AR:BEINSPORT 5 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/935.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 6" tvg-name="BeinSport 6 HD" tvg-logo="http://2.bp.blogspot.com/--hSukADnegU/VkjYClRzBpI/AAAAAAAAAmc/PaorSqWbU5o/s1600/bn%2Bsport%2B6.png" group-title="Beinsports",BeinSport 6 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/35.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 6 HD" tvg-logo="https://topx1.com/logos/bein_sport_6.jpg" group-title="Beinsports",AR:BEINSPORT 6 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/934.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 7" tvg-name="BeinSport 7 HD" tvg-logo="http://www.livekoraa.com/wp-content/uploads/2017/02/Bein-Sports-7-HD.png" group-title="Beinsports",BeinSport 7 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/36.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 7 HD" tvg-logo="https://topx1.com/logos/bein_sport_7.jpg" group-title="Beinsports",AR:BEINSPORT 7 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/933.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 8" tvg-name="BeinSport 8 HD" tvg-logo="https://topx1.com/logos/bein_sport_8.jpg" group-title="Beinsports",BeinSport 8 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/37.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="AR:BEINSPORT 8 HD" tvg-logo="https://topx1.com/logos/bein_sport_8.jpg" group-title="Beinsports",AR:BEINSPORT 8 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/932.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 9" tvg-name="BeinSport 9 HD" tvg-logo="http://4.bp.blogspot.com/-hlTGuhqbPco/VkjkXy1PrWI/AAAAAAAAAnE/BCJ1uWDzjaY/s1600/bn%2Bsport9.jpg" group-title="Beinsports",BeinSport 9 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/38.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 9" tvg-name="AR:BEINSPORT 9 HD" tvg-logo="https://topx1.com/logos/bein_sport_9.jpg" group-title="Beinsports",AR:BEINSPORT 9 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/931.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 10" tvg-name="BeinSport 10 HD" tvg-logo="http://m.livetv-free.com/channels/images/beinsports10.png" group-title="Beinsports",BeinSport 10 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/39.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="Bein Sports 10" tvg-name="AR:BEINSPORT 10 HD" tvg-logo="https://topx1.com/logos/bein_sport_10.jpg" group-title="Beinsports",AR:BEINSPORT 10 HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/939.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="bein 1 SD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbmOZhM_eCgkq24-SKIH7MYycl_kyI7gqJ52qKckoOGCEaAqCV" group-title="Beinsports",bein 1 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/121.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="bein 10 sd" tvg-logo="https://topx1.com/logos/bein_sport_10.jpg" group-title="Beinsports",bein 10 sd
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/113.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="bein 9 sd" tvg-logo="https://topx1.com/logos/bein_sport_9.jpg" group-title="Beinsports",bein 9 sd
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/137.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 2 SD" tvg-logo="data:image/jpeg;base64,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" group-title="Beinsports",Bein 2 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/123.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 3 SD" tvg-logo="http://4.bp.blogspot.com/-HbSfFircP3Y/Uu_QaGjSz8I/AAAAAAAAAhA/37sKd8qQapE/s1600/bein+sport+3.png" group-title="Beinsports",Bein 3 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/125.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 4 SD" tvg-logo="http://kooora4you.com/images/min/bein%20sport%204hd.png" group-title="Beinsports",Bein 4 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/127.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 5 SD" tvg-logo="http://allfootballvideo.com/images/channel-logo/Bein-Sports-5.jpg" group-title="Beinsports",Bein 5 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/129.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 6 SD" tvg-logo="http://3.bp.blogspot.com/-dlD9N3nCL64/Vksj5QUz8zI/AAAAAAAAAHA/jtqr_sDKPq4/s1600/6.jpg" group-title="Beinsports",Bein 6 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/131.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 7 SD" tvg-logo="https://topx1.com/logos/bein_sport_7.jpg" group-title="Beinsports",Bein 7 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/133.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="bein 8 sd" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="Beinsports",bein 8 sd
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/135.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Bein 11 SD" tvg-logo="https://topx1.com/logos/bein_sport_11.jpg" group-title="Beinsports",Bein 11 SD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/115.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1 tvg-ID="" tvg-name="Ar:Al Jazeera Arabic News  HD" tvg-logo="https://yt3.ggpht.com/-c3pNXYa0Q7Q/AAAAAAAAAAI/AAAAAAAAAAA/_ccpfp5MaAs/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Arabic HD",Ar:Al Jazeera Arabic News  HD
-http://srvt.topiptv.org:80/live/New_Acc_XXX_..@.._@...xxxx@fuck.._XXX__ccccX.._....XXX.._cccfreee.....@...XX..Free-IPTV-com/InOgmz4YAD/17.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN Sports HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/TR2/beinsportshd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 1 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein1hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 2 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein2hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 3 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein3hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein4hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 5 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein5hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 6 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein6hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 7 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein7hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 8 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein8hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 9 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein9hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 10 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein10hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 11 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein11hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 12 HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein12hd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 1 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein1sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 2 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein2sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 3 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein3sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein4sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 5 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein5sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 6 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein6sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 7 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein7sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 8 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein8sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 9 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein9sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 10 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein10sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 11 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein11sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 12 SD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/bein12sd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS",beIN Sport NBA HD|
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+http://185.102.219.210:2200/EX/beinsportnbahd-ar/index.m3u8?token=dcadef068842f7aba4572b75319427c7
+
