@@ -54,7 +54,7 @@ http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/98.ts
 #EXTINF:-1,www.janberyan.com
 http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===BeIN Sports SD===
+#EXTINF:-1,===BeIN Sports SD1===
 http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/11.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 1SD
@@ -80,3 +80,62 @@ http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/18.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN 8SD
 http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/19.ts
+
+#EXTINF:-1,===BeIN Sports SD2===
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/11.ts
+#EXTINF:-1,BeinSports1.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1952
+#EXTINF:-1,BeinSports2.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1953
+#EXTINF:-1,BeinSports3.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1954
+#EXTINF:-1,BeinSports4.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1955
+#EXTINF:-1,BeinSports5.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1956
+#EXTINF:-1,BeinSports6.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1957
+#EXTINF:-1,BeinSports7.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1958
+#EXTINF:-1,BeinSports8.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1959
+#EXTINF:-1,BeinSports9.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1960
+#EXTINF:-1,BeinSportsNews.SD
+http://185.35.64.23/pwiptv-apk.m3u8?id=1961
+#EXTINF:-1,===BeIN Sports HD2===
+http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/11.ts
+#EXTINF:-1,BeinSports1
+http://185.35.64.23/pwiptv-apk.m3u8?id=971
+#EXTINF:-1,BeinSports2
+http://185.35.64.23/pwiptv-apk.m3u8?id=972
+#EXTINF:-1,BeinSports3
+http://185.35.64.23/pwiptv-apk.m3u8?id=973
+#EXTINF:-1,BeinSports4
+http://185.35.64.23/pwiptv-apk.m3u8?id=974
+#EXTINF:-1,BeinSports5
+http://185.35.64.23/pwiptv-apk.m3u8?id=975
+#EXTINF:-1,BeinSports6
+http://185.35.64.23/pwiptv-apk.m3u8?id=976
+#EXTINF:-1,BeinSports7
+http://185.35.64.23/pwiptv-apk.m3u8?id=977
+#EXTINF:-1,BeinSports8
+http://185.35.64.23/pwiptv-apk.m3u8?id=978
+#EXTINF:-1,BeinSports9
+http://185.35.64.23/pwiptv-apk.m3u8?id=979
+#EXTINF:-1,BeinSports10
+http://185.35.64.23/pwiptv-apk.m3u8?id=980
+#EXTINF:-1,beinsports11
+http://185.35.64.23/pwiptv-apk.m3u8?id=981
+#EXTINF:-1,beinsports12
+http://185.35.64.23/pwiptv-apk.m3u8?id=982
+#EXTINF:-1,beinsports13
+http://185.35.64.23/pwiptv-apk.m3u8?id=984
+#EXTINF:-1,beinsports14
+http://185.35.64.23/pwiptv-apk.m3u8?id=985
+#EXTINF:-1,beinsports15
+http://185.35.64.23/pwiptv-apk.m3u8?id=986
+#EXTINF:-1,BeinSports.16
+http://185.35.64.23/pwiptv-apk.m3u8?id=1937
+#EXTINF:-1,beINSPORTNews
+http://185.35.64.23/pwiptv-apk.m3u8?id=2878
