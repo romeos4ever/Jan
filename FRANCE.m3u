@@ -3,24 +3,33 @@
 http://www.lengua.com/anthems/France.mp3
 
 
-
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,FR: BEIN SPORT MAX 4
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5661
 #EXTINF:-1,FR: BEIN SPORT MAX 5
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5662
 #EXTINF:-1,FR: BEIN SPORT MAX 6
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5663
 #EXTINF:-1,FR: BEIN SPORT MAX 7
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5664
 #EXTINF:-1,|FR| BEIN MAX 8
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5665
 #EXTINF:-1,|FR| BEIN MAX 9
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5666
 #EXTINF:-1,|FR| BEIN MAX 10
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=5667
 #EXTINF:-1,FR-Foot
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=1020
 #EXTINF:-1,FR-Canal+Sport
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 http://185.35.64.23/pwiptv-apk.m3u8?id=1036
 #EXTINF:-1,FR-BEINSPORT1HD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1145
