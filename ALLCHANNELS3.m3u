@@ -1,241 +1,277 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,www.janberyan.com
-http://janiptv.com:8888/movie/AndrTV-IPTV3/AndrTVIPTV02/68.mp4
+http://janiptv.com:8888/movie/AndrTV-IPTV88/AndrTVIPTV022/68.mp4
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,FIFA World Cup 2018
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/144.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Alfajertv HD1
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/75.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Alfajertv HD2
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/73.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,AlfajertvHD3
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/76.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,bait la7em
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/89.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/89.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Falcon Eye
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/86.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/86.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Al Salam
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/87.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/87.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===BeIN MOVES===========
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/20.ts
+#EXTINF:-1,===BeIN MOVES===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/20.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN MOVES1
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/21.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/21.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN MOVES2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/22.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/22.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN MOVES3
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/23.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/23.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN MOVES4
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/100.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/100.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN SERIES 1HD
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/90.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/90.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BEIN Drama
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/91.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/91.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Star-Movies
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/104.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/104.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,StarWorld
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/151.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,FXHD
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/150.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,FOX-Movies
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/101.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/101.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,FOX-Family-Movies
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/103.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/103.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,FOX-ACTION-Movies
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/102.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/102.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===OSN=============
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/34.ts
+#EXTINF:-1,===OSN===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/34.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Cinema1
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/109.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/109.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Cinema2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/108.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/108.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,OSN Yahala Cinema
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/134.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/134.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Musalsalat
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/105.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/105.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,ART-Cinema
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/106.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/106.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,ART-Aflam1
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/107.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/107.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,OSN Yahala +2
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/153.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,OSN Yahala
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/152.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,OSN SYFY
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/158.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,SeeVII-ALAOULA_HD
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/154.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Seevii Shoof
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/156.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Seevii Shamiya
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/155.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Seevii Drama
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/157.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Movies
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/118.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/118.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Movies_Family
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/112.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/112.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Movies_Comedy
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/111.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/111.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Movies_Action
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/116.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/116.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MoviesKids
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/110.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/110.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MoviesHD2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/117.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/117.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MoviesFirst2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/114.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/114.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Movies-Festival
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/113.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/113.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,OSN MoviesDrama
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/133.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/133.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,OSN BoxOffice1
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/135.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/135.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,OSN BoxOffice2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/136.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/136.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,OSN BoxOffice3
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/137.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/137.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,OSn WWE
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/138.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/138.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===MBC================
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/24.ts
+#EXTINF:-1,===MBC===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/24.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC 1
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/25.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/25.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC 2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/26.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/26.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC 3
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/27.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/27.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC 4
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/28.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/28.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC DRAMA
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/29.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/29.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC Drama Plus
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/32.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/32.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC ACTION
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/30.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/30.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,MBC MAX*
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/149.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC MAX
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/31.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/31.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,MBC Variety
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/33.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/33.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===ROTANA==============
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/132.ts
+#EXTINF:-1,===ROTANA===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/132.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Rotana-Drama
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/130.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/130.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Rotana-Classic
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/131.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/131.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Rotana-Cinema
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/128.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/128.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Rotana-Aflam
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/129.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/129.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===NEWS===============
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/47.ts
+#EXTINF:-1,===NEWS===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/47.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Aljazeera
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/48.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/48.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Alarabiya
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/49.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/49.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Alhadath
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/50.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/50.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,BBC
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/54.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/54.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Deutsche Welle AR
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/53.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/53.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,France 24ar
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/52.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/52.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,RT ARABIC
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/55.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/55.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Sky News AR
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/51.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/51.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===KIDS===============
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/56.ts
+#EXTINF:-1,===KIDS===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/56.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Ajyal baby
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/61.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/61.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Toyor Baby
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/57.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/57.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Toyor Aljanah
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/58.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/58.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Talking Tom Shorts
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/59.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/59.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Talking Tom and Friends
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/60.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/60.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===DOCUMENTARY==============
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/127.ts
+#EXTINF:-1,===DOCUMENTARY===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/127.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,National-Geographic
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/119.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/142.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Al Jazeera Documentary
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/67.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/67.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Nat-GeoHD
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/122.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/122.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Nat-Geo-Wild
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/120.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/120.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Nat-Geo-People
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/121.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/121.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Animal-Planet
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/123.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester City vs Basel 2
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/83.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester City vs Basel 1
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/82.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/123.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,DiscoveryHD
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/124.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/124.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Discovery-Science
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/125.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/125.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===MORE===============
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/62.ts
+#EXTINF:-1,===MORE===
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/62.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Quraan TV
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/66.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/66.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Ajyal
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/63.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/63.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,CBC
-http://janiptv.com:8888/live/AndrTV-IPTV3/AndrTVIPTV02/65.ts
+http://janiptv.com:8888/live/AndrTV-IPTV88/AndrTVIPTV022/65.ts
