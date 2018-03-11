@@ -3,229 +3,396 @@
 http://www.lengua.com/anthems/France.mp3
 
 
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-#EXTINF:-1,FR: BEIN SPORT MAX 4
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5661
-#EXTINF:-1,FR: BEIN SPORT MAX 5
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5662
-#EXTINF:-1,FR: BEIN SPORT MAX 6
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5663
-#EXTINF:-1,FR: BEIN SPORT MAX 7
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5664
-#EXTINF:-1,|FR| BEIN MAX 8
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5665
-#EXTINF:-1,|FR| BEIN MAX 9
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5666
-#EXTINF:-1,|FR| BEIN MAX 10
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=5667
-#EXTINF:-1,FR-Foot
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=1020
-#EXTINF:-1,FR-Canal+Sport
-#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
-http://185.35.64.23/pwiptv-apk.m3u8?id=1036
-#EXTINF:-1,FR-BEINSPORT1HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1145
-#EXTINF:-1,FR-BEINSPORT2hd
-http://185.35.64.23/pwiptv-apk.m3u8?id=1146
-#EXTINF:-1,FR-BEINSPORT3HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1147
-#EXTINF:-1,FR-SFRSPORT1HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=3421
-#EXTINF:-1,FR-SFRSPORT2HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=3422
-#EXTINF:-1,FR-SFRSPORT3HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=3423
-#EXTINF:-1,FR-Eurosport1
-http://185.35.64.23/pwiptv-apk.m3u8?id=1022
-#EXTINF:-1,FR-Eurosport2
-http://185.35.64.23/pwiptv-apk.m3u8?id=1021
-#EXTINF:-1,FR-InfoSport
-http://185.35.64.23/pwiptv-apk.m3u8?id=1012
-#EXTINF:-1,FR-MaChaineSport
-http://185.35.64.23/pwiptv-apk.m3u8?id=1007
-#EXTINF:-1,FR-RTSUN
-http://185.35.64.23/pwiptv-apk.m3u8?id=5601
-#EXTINF:-1,FR-RTSDeux
-http://185.35.64.23/pwiptv-apk.m3u8?id=5600
-#EXTINF:-1,FR-GameOne
-http://185.35.64.23/pwiptv-apk.m3u8?id=5610
-#EXTINF:-1,FR-ABMoteurs
-http://185.35.64.23/pwiptv-apk.m3u8?id=5622
-#EXTINF:-1,FR-TF1
-http://185.35.64.23/pwiptv-apk.m3u8?id=988
-#EXTINF:-1,FR-M6
-http://185.35.64.23/pwiptv-apk.m3u8?id=1009
-#EXTINF:-1,FR-France2
-http://185.35.64.23/pwiptv-apk.m3u8?id=1018
-#EXTINF:-1,FR-France3
-http://185.35.64.23/pwiptv-apk.m3u8?id=1016
-#EXTINF:-1,FR-France4
-http://185.35.64.23/pwiptv-apk.m3u8?id=1015
-#EXTINF:-1,FR-France5
-http://185.35.64.23/pwiptv-apk.m3u8?id=1014
-#EXTINF:-1,FR-FranceO
-http://185.35.64.23/pwiptv-apk.m3u8?id=1019
-#EXTINF:-1,FR-France24
-http://185.35.64.23/pwiptv-apk.m3u8?id=1017
-#EXTINF:-1,FR-Histoire
-http://185.35.64.23/pwiptv-apk.m3u8?id=5602
-#EXTINF:-1,FR-HD1
-http://185.35.64.23/pwiptv-apk.m3u8?id=5594
-#EXTINF:-1,FR-Nickelodeon-Junior
-http://185.35.64.23/pwiptv-apk.m3u8?id=5609
-#EXTINF:-1,FR-Nickelodeon
-http://185.35.64.23/pwiptv-apk.m3u8?id=5599
-#EXTINF:-1,FR-Season
-http://185.35.64.23/pwiptv-apk.m3u8?id=5617
-#EXTINF:-1,FR-Paramount
-http://185.35.64.23/pwiptv-apk.m3u8?id=5596
-#EXTINF:-1,FR-Entertainment
-http://185.35.64.23/pwiptv-apk.m3u8?id=5618
-#EXTINF:-1,FR-M6MusicHits
-http://185.35.64.23/pwiptv-apk.m3u8?id=1008
-#EXTINF:-1,FR-NRJ.12
-http://185.35.64.23/pwiptv-apk.m3u8?id=3004
-#EXTINF:-1,FR-W9
-http://185.35.64.23/pwiptv-apk.m3u8?id=987
-#EXTINF:-1,FR-Nat-Geo-GraphicHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1003
-#EXTINF:-1,FR-NatGeoWildHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1004
-#EXTINF:-1,FR-PlaneteCI
-http://185.35.64.23/pwiptv-apk.m3u8?id=1043
-#EXTINF:-1,FR-DiscoveryScience
-http://185.35.64.23/pwiptv-apk.m3u8?id=1128
-#EXTINF:-1,FR-PlaneteA&EHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=996
-#EXTINF:-1,FR-ToutelHistoire
-http://185.35.64.23/pwiptv-apk.m3u8?id=1135
-#EXTINF:-1,FR-Ushuaia
-http://185.35.64.23/pwiptv-apk.m3u8?id=991
-#EXTINF:-1,FR-Canal+HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1040
-#EXTINF:-1,FR-ANIMAUX
-http://185.35.64.23/pwiptv-apk.m3u8?id=990
-#EXTINF:-1,FR-ACTION
-http://185.35.64.23/pwiptv-apk.m3u8?id=1133
-#EXTINF:-1,FR-OCS_MaxHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=998
-#EXTINF:-1,FR-OCS_GeantsHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=999
-#EXTINF:-1,FR-OCS_CityHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1000
-#EXTINF:-1,FR-CineFrisson
-http://185.35.64.23/pwiptv-apk.m3u8?id=1031
-#EXTINF:-1,FR-CineFamiz
-http://185.35.64.23/pwiptv-apk.m3u8?id=1033
-#EXTINF:-1,FR-CineEmotion
-http://185.35.64.23/pwiptv-apk.m3u8?id=1032
-#EXTINF:-1,FR-CineClassic
-http://185.35.64.23/pwiptv-apk.m3u8?id=1034
-#EXTINF:-1,FR-Canal+Decale
-http://185.35.64.23/pwiptv-apk.m3u8?id=1038
-#EXTINF:-1,FR-Canal+Cinema
-http://185.35.64.23/pwiptv-apk.m3u8?id=1039
-#EXTINF:-1,FR-Canal+Family
-http://185.35.64.23/pwiptv-apk.m3u8?id=1037
-#EXTINF:-1,FR-CanalJ
-http://185.35.64.23/pwiptv-apk.m3u8?id=1134
-#EXTINF:-1,FR-CinePremier
-http://185.35.64.23/pwiptv-apk.m3u8?id=1030
-#EXTINF:-1,FR-cinePolar
-http://185.35.64.23/pwiptv-apk.m3u8?id=1130
-#EXTINF:-1,FR-TCMCinema
-http://185.35.64.23/pwiptv-apk.m3u8?id=1143
-#EXTINF:-1,FR-TMC
-http://185.35.64.23/pwiptv-apk.m3u8?id=1002
-#EXTINF:-1,FR-TevaHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=989
-#EXTINF:-1,FR-TELETOONplus
-http://185.35.64.23/pwiptv-apk.m3u8?id=1142
-#EXTINF:-1,FR-Syfy
-http://185.35.64.23/pwiptv-apk.m3u8?id=992
-#EXTINF:-1,FR-SERIECLUB
-http://185.35.64.23/pwiptv-apk.m3u8?id=993
-#EXTINF:-1,FR-RTL9HD
-http://185.35.64.23/pwiptv-apk.m3u8?id=994
-#EXTINF:-1,FR-PIWIplus
-http://185.35.64.23/pwiptv-apk.m3u8?id=997
-#EXTINF:-1,FR-ParisPremiere
-http://185.35.64.23/pwiptv-apk.m3u8?id=1126
-#EXTINF:-1,FR-NT1
-http://185.35.64.23/pwiptv-apk.m3u8?id=1001
-#EXTINF:-1,FR-Mangas
-http://185.35.64.23/pwiptv-apk.m3u8?id=1006
-#EXTINF:-1,FR-Gulli
-http://185.35.64.23/pwiptv-apk.m3u8?id=1013
-#EXTINF:-1,FR-DisneyXD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1023
-#EXTINF:-1,FR-DisneyJunior
-http://185.35.64.23/pwiptv-apk.m3u8?id=1024
-#EXTINF:-1,FR-DisneyCinema
-http://185.35.64.23/pwiptv-apk.m3u8?id=1025
-#EXTINF:-1,FR-C8
-http://185.35.64.23/pwiptv-apk.m3u8?id=1026
-#EXTINF:-1,FR-ComediePlus
-http://185.35.64.23/pwiptv-apk.m3u8?id=1029
-#EXTINF:-1,FR-Cherie25
-http://185.35.64.23/pwiptv-apk.m3u8?id=1141
-#EXTINF:-1,FR-Chasse-E-Peche
-http://185.35.64.23/pwiptv-apk.m3u8?id=1131
-#EXTINF:-1,FR-TIJI
-http://185.35.64.23/pwiptv-apk.m3u8?id=1880
-#EXTINF:-1,FR-Sciences.VieTV
-http://185.35.64.23/pwiptv-apk.m3u8?id=1870
-#EXTINF:-1,FR-rmcdecouverte
-http://185.35.64.23/pwiptv-apk.m3u8?id=1879
-#EXTINF:-1,FR-OCSCHOC
-http://185.35.64.23/pwiptv-apk.m3u8?id=1874
-#EXTINF:-1,FR-EURONEWS
-http://185.35.64.23/pwiptv-apk.m3u8?id=1882
-#EXTINF:-1,FR-Equipe
-http://185.35.64.23/pwiptv-apk.m3u8?id=1881
-#EXTINF:-1,FR-DISNEYCHANNEL
-http://185.35.64.23/pwiptv-apk.m3u8?id=1875
-#EXTINF:-1,FR-DISCOVERY
-http://185.35.64.23/pwiptv-apk.m3u8?id=1871
-#EXTINF:-1,FR-CINEFX
-http://185.35.64.23/pwiptv-apk.m3u8?id=1873
-#EXTINF:-1,FR-Canal+Series
-http://185.35.64.23/pwiptv-apk.m3u8?id=1872
-#EXTINF:-1,FR-AB1
-http://185.35.64.23/pwiptv-apk.m3u8?id=1132
-#EXTINF:-1,FR-Voyage
-http://185.35.64.23/pwiptv-apk.m3u8?id=1869
-#EXTINF:-1,FR-TVBREIZH
-http://185.35.64.23/pwiptv-apk.m3u8?id=1878
-#EXTINF:-1,FR-CartoonNetworkHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=1035
-#EXTINF:-1,FR-Boomerang
-http://185.35.64.23/pwiptv-apk.m3u8?id=1044
-#EXTINF:-1,FR-Boing
-http://185.35.64.23/pwiptv-apk.m3u8?id=1045
-#EXTINF:-1,FR-PLANETEPlus
-http://185.35.64.23/pwiptv-apk.m3u8?id=995
-#EXTINF:-1,FR-Arte
-http://185.35.64.23/pwiptv-apk.m3u8?id=1047
-#EXTINF:-1,FR-13Rue
-http://185.35.64.23/pwiptv-apk.m3u8?id=1048
-#EXTINF:-1,BE-LAUNEHD
-http://185.35.64.23/pwiptv-apk.m3u8?id=2200
-#EXTINF:-1,BE-LADEUX
-http://185.35.64.23/pwiptv-apk.m3u8?id=2202
-#EXTINF:-1,BE- LA TROIS
-http://185.35.64.23/pwiptv-apk.m3u8?id=2201
-#EXTINF:-1,BE-PLUGRTL
-http://185.35.64.23/pwiptv-apk.m3u8?id=2198
-#EXTINF:-1,BE-RTLTVI
-http://185.35.64.23/pwiptv-apk.m3u8?id=2197
-#EXTINF:-1,BE-CLUB RTL
-http://185.35.64.23/pwiptv-apk.m3u8?id=2203
+
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France O HD|
+http://185.102.219.210:2200/EX/FRANCE_O-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France 2 HD|
+http://185.102.219.210:2200/EX/FRANCE_2-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France 3 HD|
+http://185.102.219.210:2200/EX/FRANCE_3-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France 4 HD|
+http://185.102.219.210:2200/EX/FRANCE_4-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France 5 HD|
+http://185.102.219.210:2200/EX/FRANCE_5-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",M6 HD|
+http://185.102.219.210:2200/EX/M6-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",NT1 HD|
+http://185.102.219.210:2200/EX/NT1-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",ARTE HD|
+http://185.102.219.210:2200/EX/ARTE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",C8 HD|
+http://185.102.219.210:2200/EX/CANAL8-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",W9 HD|
+http://185.102.219.210:2200/EX/W9-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",HD1 HD|
+http://185.102.219.210:2200/EX/HD1-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TF1 HD|
+http://185.102.219.210:2200/EX/TF1-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",NRJ TV|
+http://185.102.219.210:2200/EX/NRJ_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",NRJ 12 HD|
+http://185.102.219.210:2200/EX/NRJ12-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",CANAL+ HD|
+http://185.102.219.210:2200/EX/CANAL_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",6ter HD|
+http://185.102.219.210:2200/EX/6TER-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TCM Cinema|
+http://185.102.219.210:2200/EX/TCM_CINEMA-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TCM HD|
+http://185.102.219.210:2200/EX/TCM_CINEMA-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",BFM Business|
+http://185.102.219.210:2200/EX/BFM_BUSINESS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",BFM TV|
+http://185.102.219.210:2200/EX/BFM_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",RTL9 HD|
+http://185.102.219.210:2200/EX/RTL9-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TVM 3|
+http://185.102.219.210:2200/EX/TVM3-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Euronews|
+http://185.102.219.210:2200/EX/EURONEWS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",C News HD|
+http://185.102.219.210:2200/EX/CANAL_NEWS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",C Star HD|
+http://185.102.219.210:2200/EX/CSTAR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Numero 23 HD|
+http://185.102.219.210:2200/EX/NUMERO_23-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France 24|
+http://185.102.219.210:2200/TR1/France24-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cherie 25 HD|
+http://185.102.219.210:2200/EX/CHERIE_25-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Lequipe HD|
+http://185.102.219.210:2200/EX/lequipe21-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",RMC Decouverte HD|
+http://185.102.219.210:2200/EX/RMC_DECOUVERTE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Action HD|
+http://185.102.219.210:2200/EX/ACTION-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Paramount Channel|
+http://185.102.219.210:2200/EX/PARAMOUNT_CHANNE_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TV5 Monde Europa|
+http://185.102.219.210:2200/TR1/tv5mondeeurope-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TV5 Monde Maghreb Orient HD|
+http://185.102.219.210:2200/TR1/tv5mondemaghreborienthd-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TV 8 Mont Blanc|
+http://185.102.219.210:2200/EX/TV8_MONT-BLANC-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",CCTV French|
+http://185.102.219.210:2200/TR1/cctvfrench-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Trek HD|
+http://185.102.219.210:2200/EX/TREK-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Animaux HD|
+http://185.102.219.210:2200/EX/ANIMAUX-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",AB1 HD|
+http://185.102.219.210:2200/EX/AB1-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",AB3|
+http://185.102.219.210:2200/EX/AB3-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Golf Channel|
+http://185.102.219.210:2200/EX/GOLF_CHANNEL-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Gulli HD|
+http://185.102.219.210:2200/EX/GULLI-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Mangas|
+http://185.102.219.210:2200/EX/MANGA-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Science et Vie HD|
+http://185.102.219.210:2200/EX/SCIENCES_VIE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",BeIN Sport 1 HD|
+http://185.102.219.210:2200/EX/BEINSPORT_1_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",BeIN Sport 2 HD|
+http://185.102.219.210:2200/EX/BEINSPORT_2_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",BeIN Sport 3 HD|
+http://185.102.219.210:2200/EX/BEINSPORT_3_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Canal+ Sport|
+http://185.102.219.210:2200/EX/CANAL_PLUS_SPORT-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Canal+ Cinema|
+http://185.102.219.210:2200/EX/CANAL_PLUS_CINEMA-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Canal+ Series|
+http://185.102.219.210:2200/EX/CANAL_PLUS_SERIES-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Canal+ Decale|
+http://185.102.219.210:2200/EX/CANAL_PLUS_DECALE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Canal+ Family|
+http://185.102.219.210:2200/EX/CANAL_PLUS_FAMILY-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Emotion|
+http://185.102.219.210:2200/EX/CINE_PLUS_EMOTION-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Classic|
+http://185.102.219.210:2200/EX/CINE_PLUS_CLASSIC-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Premiere|
+http://185.102.219.210:2200/EX/CINE_PLUS_PREMIER-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Frisson|
+http://185.102.219.210:2200/EX/CINE_PLUS_FRISSON-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine Polar|
+http://185.102.219.210:2200/EX/CINE_POLAR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Polar|
+http://185.102.219.210:2200/EX/POLAR_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Famiz|
+http://185.102.219.210:2200/EX/CINE_PLUS_FAMIZ-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine+ Club|
+http://185.102.219.210:2200/EX/CINE_PLUS_CLUB-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cine Fx|
+http://185.102.219.210:2200/EX/CINE_FX-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Syfy|
+http://185.102.219.210:2200/EX/SYFY_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Rouge TV|
+http://185.102.219.210:2200/EX/ROUGE_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Crime District|
+http://185.102.219.210:2200/EX/CRIME_DISTRICT-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",LFM TV|
+http://185.102.219.210:2200/EX/LFM_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",BET|
+http://185.102.219.210:2200/EX/BET-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Comedie+|
+http://185.102.219.210:2200/EX/COMEDIE_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",13eme RUE|
+http://185.102.219.210:2200/EX/13EME_RUE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Planete+|
+http://185.102.219.210:2200/EX/PLANETE_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Elle Girl|
+http://185.102.219.210:2200/EX/ELLE_GIRL-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Voyage|
+http://185.102.219.210:2200/EX/VOYAGE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",OCS City|
+http://185.102.219.210:2200/EX/OCS_CITY-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",OCS Geants|
+http://185.102.219.210:2200/EX/OCS_GEANTS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",OCS Choc|
+http://185.102.219.210:2200/EX/OCS_CHOC-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",OCS Max|
+http://185.102.219.210:2200/EX/OCS_MAX-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Planete A&E|
+http://185.102.219.210:2200/EX/PLANETE_AE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Planete CI|
+http://185.102.219.210:2200/EX/PLANETE_CI-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",RTS UN|
+http://185.102.219.210:2200/EX/RTS_UN-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",RTS Deux|
+http://185.102.219.210:2200/EX/RTS_DEUX-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",TV Breizh|
+http://185.102.219.210:2200/EX/TV_BREIZH-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Boomerang|
+http://185.102.219.210:2200/EX/BOOMERANG_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Nickelodeon|
+http://185.102.219.210:2200/EX/NICKELODEON_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Cartoon Network|
+http://185.102.219.210:2200/EX/CARTOON__NETWORK-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Disney Channel|
+http://185.102.219.210:2200/EX/DISNEY_CHANNEL_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Disney XD|
+http://185.102.219.210:2200/EX/DISNEY_XD_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Disney Cinema|
+http://185.102.219.210:2200/EX/DISNEY_CINEMA-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Disney Junior|
+http://185.102.219.210:2200/EX/DISNEY_JUNIOR_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Canal J|
+http://185.102.219.210:2200/EX/CANAL_J-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Teletoon+|
+http://185.102.219.210:2200/EX/TELETOON_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Boing HD|
+http://185.102.219.210:2200/EX/BOING_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",National Geographic|
+http://185.102.219.210:2200/EX/NATIONAL_GEOGRAPHIC_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",National Geographic Wild|
+http://185.102.219.210:2200/EX/NATIONAL_GEO_WILD_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Discovery|
+http://185.102.219.210:2200/EX/DISCOVERY_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Discovery Science|
+http://185.102.219.210:2200/EX/DISCOVERY_SCIENCE_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Ushuaia TV|
+http://185.102.219.210:2200/EX/USHUAIA_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Historie|
+http://185.102.219.210:2200/EX/HISTOIRE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Eurosport 1 HD|
+http://185.102.219.210:2200/EX/EUROSPORT_1_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Eurosport 2 HD|
+http://185.102.219.210:2200/EX/EUROSPORT_2_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",SFR Sport 1|
+http://185.102.219.210:2200/EX/SFR_SPORT_1-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",SFR Sport 3|
+http://185.102.219.210:2200/EX/SFR_SPORT_3-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",SFR Sport 2|
+http://185.102.219.210:2200/EX/SFR_SPORT_2-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",SFR Sport 5|
+http://185.102.219.210:2200/EX/SFR_SPORT_5-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Golf+|
+http://185.102.219.210:2200/EX/GOLF_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Motors Sport|
+http://185.102.219.210:2200/EX/MOTORSPORT-TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Extreme Sports|
+http://185.102.219.210:2200/EX/EXTREME_SPORTS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Info Sport|
+http://185.102.219.210:2200/EX/INFOSPORT-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Lequipe 21|
+http://185.102.219.210:2200/EX/LEQUIPE_21-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Equidia Live|
+http://185.102.219.210:2200/EX/EQUIDIA_LIVE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Equidia Life|
+http://185.102.219.210:2200/EX/EQUIDIA_LIFE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",E! Entertainment|
+http://185.102.219.210:2200/EX/E!_ENTERTAINMENT_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Season|
+http://185.102.219.210:2200/EX/SEASON-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",RFM TV|
+http://185.102.219.210:2200/EX/RFM_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Trace Urban|
+http://185.102.219.210:2200/EX/TRACE_URBAN-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Trace Tropical|
+http://185.102.219.210:2200/EX/TRACE_TROPICAL-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",MTV Dance|
+http://185.102.219.210:2200/EX/MTV_DANCE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",One TV|
+http://185.102.219.210:2200/EX/ONE_TV-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",MTV France|
+http://185.102.219.210:2200/EX/MTV_FRANCE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",MTV Hits|
+http://185.102.219.210:2200/EX/MTV_HITS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",VH1 Classic|
+http://185.102.219.210:2200/EX/VH1_CLASSIC-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Mezzo|
+http://185.102.219.210:2200/EX/MEZZO_FR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Mezzo Live|
+http://185.102.219.210:2200/EX/MEZZO_LIVE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",MCM|
+http://185.102.219.210:2200/EX/MCM-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",MCM Top|
+http://185.102.219.210:2200/EX/MCM_TOP-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Game One|
+http://185.102.219.210:2200/EX/GAME_ONE-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Piwi+|
+http://185.102.219.210:2200/EX/PIWI_PLUS-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Tiji|
+http://185.102.219.210:2200/EX/TIJI-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",Nickelodeon Junior|
+http://185.102.219.210:2200/EX/NICKELODEON_JUNIOR-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",France Info|
+http://185.102.219.210:2200/EX/FRANCE_INFO_HD-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="French",KTO|
+http://185.102.219.210:2200/TN/kto-fr/index.m3u8?token=27fab011287e514b8e006d9f9a42ffaa
+
+
+
+
+
