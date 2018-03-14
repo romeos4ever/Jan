@@ -1,118 +1,43 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,www.janberyan.com
-http://janiptv.com:8888/movie/andrsports05/AndrTVIPTV58/68.mp4
+http://janiptv.com:8888/movie/andrsports05223/AndrTVIPTV775288/68.mp4
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester United Vs Sevilla 1
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/159.ts
+#EXTINF:-1,Barcelona vs Chelsea 1
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/159.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester United Vs Sevilla 2
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/160.ts
+#EXTINF:-1,Barcelona vs Chelsea 2
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/160.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester United Vs Sevilla 3
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/161.ts
+#EXTINF:-1,Barcelona vs Chelsea 3
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/161.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester United Vs Sevilla 4
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/162.ts
+#EXTINF:-1,Barcelona vs Chelsea 4
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/162.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Manchester United Vs Sevilla 5
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/163.ts
+#EXTINF:-1,Barcelona vs Chelsea 5
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/163.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Roma vs Shak Donetsk 1
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/164.ts
+#EXTINF:-1,Besiktas JK vs Bayern Munich 1
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/164.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Roma vs Shak Donetsk 2
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/165.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Roma vs Shak Donetsk 3
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/166.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,Roma vs Shak Donetsk 4
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/167.ts
+#EXTINF:-1,Besiktas JK vs Bayern Munich 2
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/165.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,bait la7em
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/89.ts
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/89.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,AlfajertvHD3
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/76.ts
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/76.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Alfajertv HD2
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/73.ts
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/73.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Alfajertv HD1
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/75.ts
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/75.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Al Salam
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/87.ts
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/87.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,Ajyal
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/63.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===BeIN Sports FULLHD===
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/2.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/3.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/4.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/5.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/6.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/7.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/8.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 7 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/9.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 8 FULLHD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/10.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports HD1=========
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/99.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1HD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/95.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2HD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/96.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3HD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/97.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4HD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/98.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===BeIN Sports SD===
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/11.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 1SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/12.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 2SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/13.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 3SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/14.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 4SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/15.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 5SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/16.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 6SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/17.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 7SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/18.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,BEIN 8SD
-http://janiptv.com:8888/live/andrsports05/AndrTVIPTV58/19.ts
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/63.ts
