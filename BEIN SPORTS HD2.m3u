@@ -129,4 +129,3 @@ http://185.102.219.210:2200/EX/bein12sd-ar/index.m3u8?token=3b54b22ed54f461aa94a
 #EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
 #EXTINF:-1 group-title="BEIN SPORTS",beIN Sport NBA HD|
 http://185.102.219.210:2200/EX/beinsportnbahd-ar/index.m3u8?token=3b54b22ed54f461aa94ad2e4666f7934
-
