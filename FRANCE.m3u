@@ -1,7 +1,180 @@
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
-
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1456.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 04HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1457.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 05HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1458.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 06HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1459.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 07HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1460.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 08HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1461.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 09HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1462.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeINMAX 10HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1463.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 1HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1464.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 2HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1465.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,SFR Sport 3HD Fr
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1466.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,TF1
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1428.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 2
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1430.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 3
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1431.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 4
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1432.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE 5
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1433.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FRANCE O
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1434.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,M6
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1429.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ACTION
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1453.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL FAMILY
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1438.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL DECALE
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1437.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE PREMIER
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1440.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE POLAR
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1446.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE FX
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1447.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE FRISSON
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1441.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE FAMIZ
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1445.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE EMOTION
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1442.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE CLUB
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1444.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CINE CLASSIC
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1443.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,OCS MAX
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1451.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,OCS GEANT
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1449.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,OCS CITY
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1450.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,OCS CHOC
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1448.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,COMEDIE
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1452.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 1
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1390.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 2
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1391.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 3
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1392.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 4
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1393.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CANAL PLAY 5
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1394.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 1
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1395.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 2
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1396.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 3
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1397.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 4
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1398.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ALACARTE 5
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1399.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ANIMAUX
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1424.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,DISCOVRY-SCI
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1423.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,DISCOVRY
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1422.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,USHUAIA TV
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1425.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,SEASON
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1427.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,NATIONAL-GEO
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1420.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,NAT-GEO-WILD
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1421.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,CHASSE PECHE
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1426.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,France 24
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1329.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Euronews
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1330.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,LCI
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1401.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,ITELE
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1400.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,INFOSPORT
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1419.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FOOT 24
+http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1418.ts
 
 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
