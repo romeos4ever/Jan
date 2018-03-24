@@ -1,41 +1,16 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,www.janberyan.com
-http://janiptv.com:8888/movie/www.janberyan.com/rkrOx8850025/68.mp4
-#EXTINF:-1,Germany vs Spain 1
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/719.ts
-#EXTINF:-1,Germany vs Spain 2
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/720.ts
-#EXTINF:-1,Germany vs Spain 3
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/721.ts
-#EXTINF:-1,Germany vs Spain 4
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/722.ts
-#EXTINF:-1,Italy and Argentina 1
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/715.ts
-#EXTINF:-1,Italy and Argentina 2
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/716.ts
-#EXTINF:-1,Italy and Argentina 3
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/717.ts
-#EXTINF:-1,Italy and Argentina 4
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/718.ts
-#EXTINF:-1,Netherlands vs England 1
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/723.ts
-#EXTINF:-1,Netherlands vs England 2
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/724.ts
-#EXTINF:-1,Netherlands vs England 3
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/725.ts
-#EXTINF:-1,Netherlands vs England 4
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/726.ts
-#EXTINF:-1,Russia vs Brazil1
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/708.ts
-#EXTINF:-1,Russia vs Brazil2
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/709.ts
-#EXTINF:-1,Portugal vs Egypt 1
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/713.ts
-#EXTINF:-1,Portugal vs Egypt 2
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/714.ts
-#EXTINF:-1,Serbia vs Morocco
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/712.ts
-#EXTINF:-1,Tunisia vs Iran
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/710.ts
-#EXTINF:-1,Ukraine vs Saudi
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/711.ts
+http://janiptv.com:8888/movie/andrsports05223/AndrTVIPTV8757/68.mp4
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Sweden vs Chile 1
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/730.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Sweden vs Chile 2
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/731.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Syria vs Qatar 1
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/708.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Syria vs Qatar 2
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/709.ts
