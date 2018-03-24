@@ -1,0 +1,18 @@
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,===Alfajer TV===
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/735.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Alfajertv HD1
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/75.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,Alfajertv HD2
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/73.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,AlfajertvHD3
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/76.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,AlfajertvHD4
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/733.ts
+#EXTVLCOPT:http-user-agent=janberyan.com
+#EXTINF:-1,AlfajertvHD5
+http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV8757/734.ts
