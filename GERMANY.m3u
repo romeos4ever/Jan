@@ -2,6 +2,157 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
+#EXTINF:-1,SkySportNews
+http://185.115.33.214:8080/hls/SkySportNews.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkySport1HD
+http://185.115.33.80:8080/hls/SkySport1HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkySport2HD
+http://185.115.33.80:8080/hls/SkySport2HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyCinemaPlus24
+http://185.115.33.214:8080/hls/SkyCinemaPlus24n.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyComedyHD
+http://185.115.33.46:8080/hls/SkyComedyHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyAction
+http://185.115.33.222:8080/hls/SkyAction.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga1HD
+http://185.115.33.214:8080/hls/SkyBundesLiga1HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga2HD
+http://95.211.88.161:8080/hls/SkyBundesLiga2HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga3HD
+http://95.211.88.161:8080/hls/SkyBundesLiga3HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga4HD
+http://95.211.88.161:8080/hls/SkyBundesLiga4HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga5HD
+http://95.211.88.161:8080/hls/SkyBundesLiga5HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga6HD
+http://95.211.88.161:8080/hls/SkyBundesLiga6HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga7HD
+http://95.211.88.161:8080/hls/SkyBundesLiga7HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga8HD
+http://95.211.88.161:8080/hls/SkyBundesLiga8HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga9HD
+http://95.211.88.161:8080/hls/SkyBundesLiga9HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyBundesLiga10HD
+http://95.211.88.161:8080/hls/SkyBundesLiga10HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyFoxHD
+http://185.115.33.80:8080/hls/SkyFoxHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SKY3D
+http://185.115.33.80:8080/hls/SKY3D.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyHits
+http://185.115.33.80:8080/hls/SkyHits.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyHistoryChannel
+http://185.115.33.80:8080/hls/SkyHistoryChannel.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyNationalGeographicHD
+http://185.115.33.80:8080/hls/SkyNationalGeographicHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyDiscoveryChannelHD
+http://185.115.33.80:8080/hls/SkyDiscoveryChannelHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkySelectHD1
+http://185.115.33.37:8080/hls/SkySelectHD1.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkySelectHD2
+http://185.115.33.37:8080/hls/SkySelectHD2.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkySelectHD3
+http://185.115.33.37:8080/hls/SkySelectHD3.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkySelectHD4
+http://185.115.33.37:8080/hls/SkySelectHD4.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkySelectHD5
+http://185.115.33.37:8080/hls/SkySelectHD5.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkySelectHD6
+http://185.115.33.37:8080/hls/SkySelectHD6.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1,SkyMGMHD
+http://185.115.33.80:8080/hls/SkyMGMHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,SkyTNTFilmHD
+http://185.115.33.80:8080/hls/SkyTNTFilmHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Eurosport1HD_DE
+http://185.115.33.37:8080/hls/Eurosport1HD_DE.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Eurosport_2HD_DE
+http://185.115.33.37:8080/hls/Eurosport_2HD_DE.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,ZDFInfoHD
+http://185.115.33.80:8080/hls/ZDFInfoHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,sport1
+http://185.115.33.80:8080/hls/sport1.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Disney_XD
+http://185.115.33.80:8080/hls/de_Disney_XD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,DisneyJunior_DE
+http://81.171.17.167:8080/hls/DisneyJunior_DE.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,RTLI
+http://185.115.33.37:8080/hls/RTLI.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,RTLII
+http://185.115.33.37:8080/hls/RTLII.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,ORF1HD
+http://185.115.33.37:8080/hls/ORF1HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,ORF2HD
+http://185.115.33.37:8080/hls/ORF2n.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,ORFEins
+http://185.115.33.37:8080/hls/ORFEins.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Pro7n
+http://185.115.33.37:8080/hls/Pro7n.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,ProSieben
+http://185.115.33.37:8080/hls/ProSieben.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Sat1
+http://185.115.33.37:8080/hls/Sat1n.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,ARDHD
+http://185.115.33.37:8080/hls/ARDHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,N24HD
+http://185.115.33.37:8080/hls/N24HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,EinsPlusHD
+http://185.115.33.37:8080/hls/EinsPlusHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Kika
+http://185.115.33.37:8080/hls/Kika.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,Kabel
+http://185.115.33.37:8080/hls/Kabel1n.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,MDRHD
+http://185.115.33.37:8080/hls/MDRHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,VOX
+http://185.115.33.37:8080/hls/VOX.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+#EXTINF:-1,TNT_Comedy
+http://185.115.33.37:8080/hls/TNT_Comedy_DE.m3u8?key=859d5abb2987ff85da175f919a22b754
+
+
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 
@@ -308,311 +459,4 @@ http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
 #EXTINF:-1,de:W24+
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-
-
-
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Das Erste|
-http://212.224.72.198:2200/TR1/daserste-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",ZDF|
-http://212.224.72.198:2200/TR1/zdf-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",RTL|
-http://212.224.72.198:2200/TR1/rtl-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",RTL 2|
-http://212.224.72.198:2200/TR1/rtl2-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sat 1|
-http://212.224.72.198:2200/TR1/sat1-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SIXX|
-http://212.224.72.198:2200/TR1/sixx-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Prosieben|
-http://212.224.72.198:2200/TR1/prosieben-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Kabel Eins|
-http://212.224.72.198:2200/TR1/kabeleins-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",VOX|
-http://212.224.72.198:2200/TR1/vox-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",RTL Nitro|
-http://212.224.72.198:2200/TR1/rtlnitro-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",DMAX|
-http://212.224.72.198:2200/TR1/dmax-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",3 Sat|
-http://212.224.72.198:2200/TR1/3sat-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",arte|
-http://212.224.72.198:2200/TR1/arte-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",TLC|
-http://212.224.72.198:2200/TR1/tlc-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",N 24|
-http://212.224.72.198:2200/TR1/n24-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Zee One|
-http://212.224.72.198:2200/TR1/zeeone-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",TELE 5|
-http://212.224.72.198:2200/TR1/tele5-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sat 1 Gold|
-http://212.224.72.198:2200/TR1/sat1gold-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Prosieben Maxx|
-http://212.224.72.198:2200/TR1/prosiebenmaxx-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Super RTL|
-http://212.224.72.198:2200/TR1/superrtl-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Kika|
-http://212.224.72.198:2200/TR1/kika-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Nickelodeon|
-http://212.224.72.198:2200/TR1/nickelodeon-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Disney Channel|
-http://212.224.72.198:2200/TR1/disneychannel-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Cartoon Network|
-http://212.224.72.198:2200/TR1/cartoonnetwork-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Boomerang|
-http://212.224.72.198:2200/TR1/boomerang-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",BR Fernsehen Nord|
-http://212.224.72.198:2200/TR1/brfernsehennord-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",hr-Fernsehen|
-http://212.224.72.198:2200/TR1/hrfernsehen-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",NTV|
-http://212.224.72.198:2200/TR1/ntv-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",EuroSport 1HD|
-http://212.224.72.198:2200/TR1/eurosporthd1-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Eurosport 2 HD|
-http://212.224.72.198:2200/TR1/eurosport2hd-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sky Sport News|
-http://212.224.72.198:2200/TR1/skynews-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Sport 1|
-http://212.224.72.198:2200/TR1/skysport1-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sport 1|
-http://212.224.72.198:2200/TR1/sport1-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Sport 2|
-http://212.224.72.198:2200/TR1/skysport2-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Bundesliga 1|
-http://212.224.72.198:2200/TR1/skybundesliga1-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Bundesliga 3|
-http://212.224.72.198:2200/TR1/skybundesliga3-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Bundesliga 2|
-http://212.224.72.198:2200/TR1/skybundesliga2-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Bundesliga 4|
-http://212.224.72.198:2200/TR1/skybundesliga4-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Bundesliga 5|
-http://212.224.72.198:2200/TR1/skybundesliga5-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Cinema Family|
-http://212.224.72.198:2200/TR1/skycinemafamily-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Cinema|
-http://212.224.72.198:2200/TR1/skycinema-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Cinema +1|
-http://212.224.72.198:2200/TR1/skycinemaplus1-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Comedy|
-http://212.224.72.198:2200/TR1/skycomedy-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Cinema +24|
-http://212.224.72.198:2200/TR1/skycinemaplus24-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sky Emotion|
-http://212.224.72.198:2200/TR1/skyemotion-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",SKY Action|
-http://212.224.72.198:2200/TR1/skyaction-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",TNT Film|
-http://212.224.72.198:2200/TR1/tntfilm-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sky Nostalgie|
-http://212.224.72.198:2200/TR1/skynostalgie-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",13th Street|
-http://212.224.72.198:2200/TR1/13thstreet-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sky Krimi|
-http://212.224.72.198:2200/TR1/skykrimi-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",RTL Crime|
-http://212.224.72.198:2200/TR1/rtlcrime-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",TNT Serie|
-http://212.224.72.198:2200/TR1/tntserie-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Sky Atlantic|
-http://212.224.72.198:2200/TR1/skyatlantic-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Syfy|
-http://212.224.72.198:2200/TR1/syfy-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Heitmatkanal|
-http://212.224.72.198:2200/TR1/heitmatkanal-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Discovery Channel|
-http://212.224.72.198:2200/TR1/discoverychannel-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",Spiegel Geschichte|
-http://212.224.72.198:2200/TR1/spiegelgeschichte-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",National Geographic|
-http://212.224.72.198:2200/TR1/natgeo-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="German",National Geographic Wild|
-http://212.224.72.198:2200/TR1/natgeowil-de/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",NPO1|
-http://185.102.219.210:2200/NLH/Npo_1_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",NPO2|
-http://185.102.219.210:2200/NLH/Npo_2_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",NPO3|
-http://185.102.219.210:2200/NLH/Npo_3_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",RTL 4|
-http://185.102.219.210:2200/NLH/Rtl_4_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",RTL 5|
-http://185.102.219.210:2200/NLH/Rtl_5_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",SBS6|
-http://185.102.219.210:2200/NLH/Sbs_6_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",RTL 7|
-http://185.102.219.210:2200/NLH/Rtl_7_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",SBS9|
-http://185.102.219.210:2200/NLH/Sbs_9_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",NET5|
-http://185.102.219.210:2200/NLH/Net_5_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",RTLZ|
-http://185.102.219.210:2200/NLH/Rtl_Z_HD_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Dutch",Nickelodeon|
-http://185.102.219.210:2200/NLH/Nickelodeon_NL-nl/index.m3u8?token=f256cea4601e2b68d8e6be88292822a6
-
-
-
-#EXTM3U
-#EXTINF:-1,13th Street
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/311.m3u8$http-refferer=http://localhost
-#EXTINF:-1,3sat
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/310.m3u8$http-refferer=http://localhost
-#EXTINF:-1,3SAT HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/309.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ARD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/312.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Arte
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/308.m3u8$http-refferer=http://localhost
-#EXTINF:-1,AXN HD Germany
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/313.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Boomerang
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/314.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Bundesliga 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/315.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Cartoon Network Germany
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/316.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Classica
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/317.m3u8$http-refferer=http://localhost
-#EXTINF:-1,DAS ERSTE HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/307.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Deluxe Music HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/318.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Discovery HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/319.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Channel HD Germany
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/320.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Cinemagic HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/321.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney Junior
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/322.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Disney XD Deutschland
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/323.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Kabel 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/324.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Kabel Eins
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/306.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Kika
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/325.m3u8$http-refferer=http://localhost
-#EXTINF:-1,MGM HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/326.m3u8$http-refferer=http://localhost
-#EXTINF:-1,N24
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/327.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NatGeo Wild HD Germany
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/328.m3u8$http-refferer=http://localhost
-#EXTINF:-1,National Geographic HD Germany
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/329.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Nickelodeon
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/330.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Orf 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/331.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Orf 2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/332.m3u8$http-refferer=http://localhost
-#EXTINF:-1,PHOENIX
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/305.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Pro7
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/333.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Pro7 Fun HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/298.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Pro7 Maxx HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/297.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/334.m3u8$http-refferer=http://localhost
-#EXTINF:-1,RTL NITRO
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/335.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sat 1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/336.m3u8$http-refferer=http://localhost
-#EXTINF:-1,sat 1 emotions
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/337.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Sat 1 Gold
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/304.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SERVUS TV HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/303.m3u8$http-refferer=http://localhost
-#EXTINF:-1,SUPER RTL HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/380.m3u8$http-refferer=http://localhost
-#EXTINF:-1,TNT Serie
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/381.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIVA
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/302.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VOX
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/382.m3u8$http-refferer=http://localhost
-#EXTINF:-1,WDR HD DE
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/301.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ZDF
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/383.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ZDF NEO HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/300.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ZEE ONE
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=http://localhost
 
