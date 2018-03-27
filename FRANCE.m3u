@@ -178,44 +178,49 @@ http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1418.ts
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 #EXTINF:-1,CanalSportHD
-http://185.115.33.86:8086/hls/CanalSportHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.86:8086/hls/CanalSportHD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,CanalHD
-http://185.115.33.86:8086/hls/CanalHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.86:8086/hls/CanalHD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,CanalJ
-http://185.115.33.88:8080/hls/CanalJ.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/CanalJ.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,CanalSeriesHD
-http://185.115.33.88:8080/hls/CanalSeriesHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/CanalSeriesHD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,CanalDecaleHD
-http://185.115.33.88:8080/hls/CanalDecaleHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/CanalDecaleHD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,CanalCinemaHD
-http://185.115.33.88:8080/hls/CanalCinemaHD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/CanalCinemaHD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,Canalplusfamily
-http://185.115.33.86:8086/hls/Canalplusfamily.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.86:8086/hls/Canalplusfamily.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,BeinSport1HD
-http://185.115.33.86:8086/hls/BeinSport1HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.86:8086/hls/BeinSport1HD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,BeinSport2HD
-http://185.115.33.86:8086/hls/BeinSport2HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.86:8086/hls/BeinSport2HD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 #EXTINF:-1,BeinSport3HD
-http://185.115.33.86:8086/hls/BeinSport3HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.86:8086/hls/BeinSport3HD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 #EXTINF:-1,SFRSport1
-http://185.115.33.88:8080/hls/SFRSport1.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/SFRSport1.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,SFRSport2
-http://185.115.33.88:8080/hls/SFRSport2.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/SFRSport2.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,Srf_Sports_3
-http://185.115.33.88:8080/hls/FR_Srf_Sports_3_HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/FR_Srf_Sports_3_HD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
 
 #EXTINF:-1,Srf_Sports_5
-http://185.115.33.88:8080/hls/FR_Srf_Sports_5_HD.m3u8?key=859d5abb2987ff85da175f919a22b754
+http://185.115.33.88:8080/hls/FR_Srf_Sports_5_HD.m3u8?key=44c27414ceaccb498fb63059fa1b8773
+
+#EXTINF:-1,TF1
+http://185.115.33.210:8086/hls/TF1n.m3u8?key=44c27414ceaccb498fb63059fa1b8773
+
+
 
 #EXTINF:-1,TF1
 http://185.115.33.210:8086/hls/TF1n.m3u8?key=859d5abb2987ff85da175f919a22b754
