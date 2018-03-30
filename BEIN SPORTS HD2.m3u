@@ -48,61 +48,87 @@ http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1484.ts
 http://2.primatv.club:8450/live/Fu3ltvi2218/A30ip18full/1483.ts
 #EXTINF:-1,========BeIN Sports SD=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports1.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1952
 #EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports2.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1953
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports3.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1954
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports4.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1955
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports5.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1956
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports6.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1957
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports7.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1958
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports8.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1959
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports9.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1960
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSportsNews.SD
 http://185.35.64.23/pwiptv-apk.m3u8?id=1961
 #EXTINF:-1,========BeIN Sports HD2=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports1
 http://185.35.64.23/pwiptv-apk.m3u8?id=971
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports2
 http://185.35.64.23/pwiptv-apk.m3u8?id=972
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports3
 http://185.35.64.23/pwiptv-apk.m3u8?id=973
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports4
 http://185.35.64.23/pwiptv-apk.m3u8?id=974
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports5
 http://185.35.64.23/pwiptv-apk.m3u8?id=975
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports6
 http://185.35.64.23/pwiptv-apk.m3u8?id=976
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports7
 http://185.35.64.23/pwiptv-apk.m3u8?id=977
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports8
 http://185.35.64.23/pwiptv-apk.m3u8?id=978
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports9
 http://185.35.64.23/pwiptv-apk.m3u8?id=979
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports10
 http://185.35.64.23/pwiptv-apk.m3u8?id=980
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,beinsports11
 http://185.35.64.23/pwiptv-apk.m3u8?id=981
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,beinsports12
 http://185.35.64.23/pwiptv-apk.m3u8?id=982
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,beinsports13
 http://185.35.64.23/pwiptv-apk.m3u8?id=984
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,beinsports14
 http://185.35.64.23/pwiptv-apk.m3u8?id=985
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,beinsports15
 http://185.35.64.23/pwiptv-apk.m3u8?id=986
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,BeinSports.16
 http://185.35.64.23/pwiptv-apk.m3u8?id=1937
+#EXTVLCOPT:http-user-agent=VLC/2.2.8 LibVLC/2.2.8
 #EXTINF:-1,beINSPORTNews
 http://185.35.64.23/pwiptv-apk.m3u8?id=2878
 #EXTM3U
