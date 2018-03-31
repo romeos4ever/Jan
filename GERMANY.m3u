@@ -2,153 +2,153 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 #EXTINF:-1,SkySportNews
-http://185.115.33.214:8080/hls/SkySportNews.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.214:8080/hls/SkySportNews.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkySport1HD
-http://185.115.33.80:8080/hls/SkySport1HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkySport1HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkySport2HD
-http://185.115.33.80:8080/hls/SkySport2HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkySport2HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyCinemaPlus24
-http://185.115.33.214:8080/hls/SkyCinemaPlus24n.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.214:8080/hls/SkyCinemaPlus24n.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyComedyHD
-http://185.115.33.46:8080/hls/SkyComedyHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.46:8080/hls/SkyComedyHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyAction
-http://185.115.33.222:8080/hls/SkyAction.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.222:8080/hls/SkyAction.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga1HD
-http://185.115.33.214:8080/hls/SkyBundesLiga1HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.214:8080/hls/SkyBundesLiga1HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga2HD
-http://95.211.88.161:8080/hls/SkyBundesLiga2HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga2HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga3HD
-http://95.211.88.161:8080/hls/SkyBundesLiga3HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga3HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga4HD
-http://95.211.88.161:8080/hls/SkyBundesLiga4HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga4HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga5HD
-http://95.211.88.161:8080/hls/SkyBundesLiga5HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga5HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga6HD
-http://95.211.88.161:8080/hls/SkyBundesLiga6HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga6HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga7HD
-http://95.211.88.161:8080/hls/SkyBundesLiga7HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga7HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga8HD
-http://95.211.88.161:8080/hls/SkyBundesLiga8HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga8HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga9HD
-http://95.211.88.161:8080/hls/SkyBundesLiga9HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga9HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyBundesLiga10HD
-http://95.211.88.161:8080/hls/SkyBundesLiga10HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://95.211.88.161:8080/hls/SkyBundesLiga10HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyFoxHD
-http://185.115.33.80:8080/hls/SkyFoxHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyFoxHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SKY3D
-http://185.115.33.80:8080/hls/SKY3D.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SKY3D.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyHits
-http://185.115.33.80:8080/hls/SkyHits.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyHits.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyHistoryChannel
-http://185.115.33.80:8080/hls/SkyHistoryChannel.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyHistoryChannel.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyNationalGeographicHD
-http://185.115.33.80:8080/hls/SkyNationalGeographicHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyNationalGeographicHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyDiscoveryChannelHD
-http://185.115.33.80:8080/hls/SkyDiscoveryChannelHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyDiscoveryChannelHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkySelectHD1
-http://185.115.33.37:8080/hls/SkySelectHD1.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/SkySelectHD1.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkySelectHD2
-http://185.115.33.37:8080/hls/SkySelectHD2.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/SkySelectHD2.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkySelectHD3
-http://185.115.33.37:8080/hls/SkySelectHD3.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/SkySelectHD3.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkySelectHD4
-http://185.115.33.37:8080/hls/SkySelectHD4.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/SkySelectHD4.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkySelectHD5
-http://185.115.33.37:8080/hls/SkySelectHD5.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/SkySelectHD5.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkySelectHD6
-http://185.115.33.37:8080/hls/SkySelectHD6.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/SkySelectHD6.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 #EXTINF:-1,SkyMGMHD
-http://185.115.33.80:8080/hls/SkyMGMHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyMGMHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,SkyTNTFilmHD
-http://185.115.33.80:8080/hls/SkyTNTFilmHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/SkyTNTFilmHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Eurosport1HD_DE
-http://185.115.33.37:8080/hls/Eurosport1HD_DE.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/Eurosport1HD_DE.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Eurosport_2HD_DE
-http://185.115.33.37:8080/hls/Eurosport_2HD_DE.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/Eurosport_2HD_DE.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,ZDFInfoHD
-http://185.115.33.80:8080/hls/ZDFInfoHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/ZDFInfoHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,sport1
-http://185.115.33.80:8080/hls/sport1.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/sport1.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Disney_XD
-http://185.115.33.80:8080/hls/de_Disney_XD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.80:8080/hls/de_Disney_XD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,DisneyJunior_DE
-http://81.171.17.167:8080/hls/DisneyJunior_DE.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://81.171.17.167:8080/hls/DisneyJunior_DE.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,RTLI
-http://185.115.33.37:8080/hls/RTLI.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/RTLI.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,RTLII
-http://185.115.33.37:8080/hls/RTLII.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/RTLII.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,ORF1HD
-http://185.115.33.37:8080/hls/ORF1HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/ORF1HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,ORF2HD
-http://185.115.33.37:8080/hls/ORF2n.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/ORF2n.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,ORFEins
-http://185.115.33.37:8080/hls/ORFEins.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/ORFEins.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Pro7n
-http://185.115.33.37:8080/hls/Pro7n.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/Pro7n.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,ProSieben
-http://185.115.33.37:8080/hls/ProSieben.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/ProSieben.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Sat1
-http://185.115.33.37:8080/hls/Sat1n.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/Sat1n.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,ARDHD
-http://185.115.33.37:8080/hls/ARDHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/ARDHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,N24HD
-http://185.115.33.37:8080/hls/N24HD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/N24HD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,EinsPlusHD
-http://185.115.33.37:8080/hls/EinsPlusHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/EinsPlusHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Kika
-http://185.115.33.37:8080/hls/Kika.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/Kika.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,Kabel
-http://185.115.33.37:8080/hls/Kabel1n.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/Kabel1n.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,MDRHD
-http://185.115.33.37:8080/hls/MDRHD.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/MDRHD.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,VOX
-http://185.115.33.37:8080/hls/VOX.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/VOX.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 #EXTINF:-1,TNT_Comedy
-http://185.115.33.37:8080/hls/TNT_Comedy_DE.m3u8?key=f8450637bac93eb7a0ff58231a217da9
+http://185.115.33.37:8080/hls/TNT_Comedy_DE.m3u8?key=91f17b0b1625cee9907d50876f3eb685
 
 
 
