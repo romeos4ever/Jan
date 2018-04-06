@@ -1,0 +1,8 @@
+#EXTINF:-1,MBC Sports 1
+httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_1pqro/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports1
+#EXTINF:-1,MBC Sports 2
+httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc2_001a/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports2
+#EXTINF:-1,MBC Sports 3
+httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbcspor3/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports3
+#EXTINF:-1,MBC Sports 4
+httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbcspor3/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports4
