@@ -1,111 +1,36 @@
 
+
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,========BeIN Sports HD1=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
-
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS News" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS News
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1496.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS Global" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS Global
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1495.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 1HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1494.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 2HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1493.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 3HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1492.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 4HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1491.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 5HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1490.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 6HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1489.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 7HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1488.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 8HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1487.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 9HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1486.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 10HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1485.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",BeINSPORTS 11HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1484.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="01-BeINSPORTS [AR]",beINSPORTS 12HD
-http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1483.ts
-
-#EXTM3U
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports HD3=========
+#EXTINF:-1,Bein Sports 1
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinospori1si/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:-1,Bein Sports 2
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi3io/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3
+#EXTINF:-1,Bein Sports 4
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi4/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4
+#EXTINF:-1,Bein Sports 5
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi5oi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5
+#EXTINF:-1,Bein Sports 6
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinoso6/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports6
+#EXTINF:-1,Bein Sports 7
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/brionois7/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports7
+#EXTINF:-1,Bein Sports 8
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinois8wo/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports8
+#EXTINF:-1,Bein Sports 9
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosio9/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports9
+#EXTINF:-1,Bein Sports 10
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi10/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports10
+#EXTINF:-1,Bein Sports 11
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinospori1si/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports11
+#EXTINF:-1,Bein Sports 12
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinion2iso/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports12
+#EXTINF:-1,===BeIN Sports MobiKora 460p===
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
-#EXTINF:-1,BEIN NEWS
-http://134.119.179.239:8087/hls/BeinMax4_H264.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 1HD
-http://185.115.33.83:8086/hls/beinHD1.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 2HD
-http://185.115.33.83:8086/hls/beinHD2.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 3HD
-http://185.115.33.83:8086/hls/beinHD3.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 4HD
-http://185.115.33.83:8086/hls/beinHD4.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 5HD
-http://185.115.33.83:8086/hls/beinHD5.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 6HD
-http://185.115.33.83:8086/hls/beinHD6.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 7HD
-http://185.115.33.83:8086/hls/beinHD7.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 8HD
-http://185.115.33.83:8086/hls/beinHD8.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 9HD
-http://185.115.33.83:8086/hls/beinHD9.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 10HD
-http://185.115.33.83:8086/hls/beinHD10.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,===BeIN Sports SD===
-http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/11.ts
-#EXTINF:-1,BEIN 1SD
-http://95.211.212.104:8085/hls/Bein1SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 2SD
-http://95.211.212.104:8085/hls/Bein2SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 3SD
-http://95.211.212.104:8085/hls/Bein3SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 4SD
-http://95.211.212.104:8085/hls/Bein4SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 5SD
-http://95.211.212.104:8085/hls/Bein5SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 6SD
-http://95.211.212.104:8085/hls/Bein6SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 7SD
-http://95.211.212.104:8085/hls/Bein7SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BEIN 8SD
-http://95.211.212.104:8085/hls/Bein8SD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
+#EXTINF:-1,Bein Sports 1
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/kljhdtbset/2/1166/587$http-refferer=http://cast.coolkora.com/bein-sports-hd-channels/bein-hd1
+#EXTINF:-1,Bein Sports 2
+httphost://$http-raw=http://www.247bay.tv/hembedplayer/ujuyjjuy6/2/1166/587$http-refferer=http://cast.coolkora.com/bein-sports-hd-channels/bein-hd2
+#EXTINF:-1,Bein Sports 3
+httphost://$http-raw=http://www.p3g.tv/hembedplayer/jhtjjhr6hr5/1/1166/587$http-refferer=http://cast.coolkora.com/bein-sports-hd-channels/bein-hd3-new
