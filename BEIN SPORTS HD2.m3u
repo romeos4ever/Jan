@@ -4,6 +4,40 @@
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,========BeIN Sports HD1=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
+
+#EXTINF:-1,BEIN 1HD
+http://31.223.180.226:1935/live/be1/hossam.m3u8
+
+#EXTINF:-1,BEIN 2HD
+http://31.223.180.226:1935/live/be2/hossam.m3u8
+
+#EXTINF:-1,BEIN 3HD
+http://31.223.180.226:1935/live/be3/hossam.m3u8
+
+#EXTINF:-1,BEIN 4HD
+http://31.223.180.226:1935/live/be4/hossam.m3u8
+
+#EXTINF:-1,BEIN 5HD
+http://31.223.180.226:1935/live/be5/hossam.m3u8
+
+#EXTINF:-1,BEIN 6HD
+http://31.223.180.226:1935/live/be6/hossam.m3u8
+
+#EXTINF:-1,BEIN 7HD
+http://31.223.180.226:1935/live/be7/hossam.m3u8
+
+#EXTINF:-1,BEIN 8HD
+http://31.223.180.226:1935/live/be8/hossam.m3u8
+
+#EXTINF:-1,BEIN 9HD
+http://31.223.180.226:1935/live/be9/hossam.m3u8
+
+#EXTINF:-1,BEIN 10HD
+http://31.223.180.226:1935/live/be10/hossam.m3u8
+
+
+#EXTINF:-1,========BeIN Sports HD2=========
+http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
 #EXTINF:-1,Bein Sports 1
 httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinospori1si/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1
 #EXTINF:-1,Bein Sports 2
