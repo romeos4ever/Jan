@@ -1,0 +1,42 @@
+#EXTINF:0 tvg-id="ext" group-title="Africa",ESTV
+rtmp://199.167.151.237:1935/live/sp15_5.stream
+#EXTINF:0 tvg-id="ext" group-title="Africa",RTD Djbouti1
+http://www.axadledirect.com:1936/19/stream/playlist.m3u8?wowzasessionid=532958709
+#EXTINF:0 tvg-id="ext" group-title="Africa",RTD Djbouti3
+rtmp://137.74.41.42:1935/oflaDemo/chaineafar
+#EXTINF:0 tvg-id="ext" group-title="Africa",Horn Cable Tv
+http://cdn01.iqbroadcast.tv:8081/hctv/hctvweb/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Kalsan TV
+http://kalsan.zecast.net/kalsan-live/kalsanzecast/chunklist_w1153748894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",SNTV
+http://cdn02.iqbroadcast.tv/1345/iqb/bbcd5b23023905c21249ce2272c42463.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Somali Land
+rtmp://199.167.151.237:1935/live/sp15_21.stream
+#EXTINF:0 tvg-id="ext" group-title="Africa",Somali cable Tv
+http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/playlist.m3u8?wmsAuthSign=%3C?php%20echo%20$base64urlsignature;?%3E2qw2qw222222
+#EXTINF:0 tvg-id="ext" group-title="Africa",Universal TV *1
+https://5928f90056f31.streamlock.net/universal-live/universal-live/chunklist_w1293330144.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Universal TV 2+
+https://5928f90056f31.streamlock.net/universal-live/universal-live/chunklist_w1225467636.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",S.B.C Somali
+http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/chunks.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Africa",Quran Hidayah Somali
+https://youtu.be/NgcJHNNvE2s
+#EXTINF:0 tvg-id="ext" group-title="Africa",BBC Somali
+http://bbcwshdlive01-lh.akamaihd.net/i/WSTVNetB_1@121472/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Somali News
+http://cdn01.iqbroadcast.tv:8081/g1/snews15/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Star Tv Somali
+http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",ilays Somali	Tv
+http://uk3.zecast.com:1935/ilays-live/Ilays/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Saab Tv Somali
+http://saabtv.zecast.net/saab-tv/saabtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Eryal Tv
+http://eryal.zecast.net/eryal-live/eryaltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",Jubbaland
+http://wowzaprodhd48-lh.akamaihd.net/i/12ba64e7_1@60802/index_600000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Africa",Puntland Tv Somali
+http://cdn01.iqbroadcast.tv:8081/g1/punt56ds/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Africa",USA.Committee Hearing Channel
+https://foreign-f.akamaihd.net/i/foreign031418_1@76451/index_356_av-p.m3u8?sd=10&rebase=on
