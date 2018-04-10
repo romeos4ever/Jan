@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1,ESTV
+rtmp://199.167.151.237:1935/live/sp15_5.stream
+#EXTINF:-1,Horn Cable Tv (HC) Somali	
+http://cdn01.iqbroadcast.tv:8081/hctv/hctvweb/chunks.m3u8
+#EXTINF:-1,Kalsan Tv
+http://kalsan.zecast.net/kalsan-live/kalsanzecast/chunklist_w1153748894.m3u8
+#EXTINF:-1,RTD Djbouti1
+http://www.axadledirect.com:1936/19/stream/playlist.m3u8?wowzasessionid=532958709
+#EXTINF:-1,RTD Djbouti3
+rtmp://137.74.41.42:1935/oflaDemo/chaineafar
+#EXTINF:-1,Somali National Television	1		
+http://ewmoy858y2a7-hls-live.5centscdn.com/iq/bbcd5b23023905c21249ce2272c42463.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Somali National Television 2
+http://cdn02.iqbroadcast.tv/1345/iqb/bbcd5b23023905c21249ce2272c42463.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Somaliland National TV
+rtmp://199.167.151.237:1935/live/sp15_21.stream
+#EXTINF:-1,Universal Tv 1
+http://universal.zecast.net/universal-live/universal-live/playlist_w1110466155.m3u8
+#EXTINF:-1,Universal Tv 2
+https://5928f90056f31.streamlock.net/universal-live/universal-live/chunklist_w1293330144.m3u8
+#EXTINF:-1,Universal Tv 3
+https://5928f90056f31.streamlock.net/universal-live/universal-live/chunklist_w1225467636.m3u8
+#EXTINF:-1,Somali Cable			
+http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/playlist.m3u8?wmsAuthSign=%3C?php%20echo%20$base64urlsignature;?%3E
+#EXTINF:-1,S.B.C Somali			
+http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/chunks.m3u8
+#EXTINF:-1,BBC Somali			
+http://bbcwshdlive01-lh.akamaihd.net/i/WSTVNetB_1@121472/master.m3u8
+#EXTINF:-1,Somali News			
+http://cdn01.iqbroadcast.tv:8081/g1/snews15/playlist.m3u8
+#EXTINF:-1,Star Tv Somali	[OFF]		
+http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/chunks.m3u8
+#EXTINF:-1,ilays Somali	Tv 	[OFF]	
+http://uk3.zecast.com:1935/ilays-live/Ilays/playlist.m3u8
+#EXTINF:-1,Saab Tv Somali	1		
+http://saabtv.zecast.net/saab-tv/saabtv/playlist.m3u8
+#EXTINF:-1,Saab Tv Somali	2
+http://saabtv.zecast.net/saab-tv/saabtv/playlist.m3u8
+http://dcunilive23-lh.akamaihd.net/i/dclive_1@369291/master.m3u8?hdnea=st=1518482120~exp=1518482240~acl=/i/dclive_1@369291*~hmac=1c0e88f9a589a529d1cc03e99b2c90500c73218a73e485f18cb1b9ec48d6710b
+#EXTINF:-1,Eryal Tv
+http://eryal.zecast.net/eryal-live/eryaltv/playlist.m3u8
+#EXTINF:-1,Jubbaland
+http://wowzaprodhd48-lh.akamaihd.net/i/12ba64e7_1@60802/index_600000_av-p.m3u8?sd=10&rebase=on  
+#EXTINF:-1,Puntland Tv Somali	1
+http://cdn01.iqbroadcast.tv:8081/g1/punt56ds/playlist.m3u8
+#EXTINF:-1,Puntland Tv Somali	2
+http://cdn01.iqbroadcast.tv:8081/g1/punt56ds/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE4IDEyOjMxOjAzIEFNJmhhc2hfdmFsdWU9SVNIWUppbSs3ZWpIbk14N2FLSlVJUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,Africa Tv 4 Somali [OFF]	
+http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8
+#EXTINF:-1,Royal Tv Somali [OFF]
+http://cdn01.iqbroadcast.tv:8081/royaltv/livestream/chunks.m3u8
